@@ -1,7 +1,7 @@
 Front-End Logos
 ====================
 
-A collection of popular technologies in SVG / Vector
+A collection of popular logos in SVG / Vector
 
 ## Angular
 ![angular](angular-logo.svg)
