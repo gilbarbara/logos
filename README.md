@@ -2,6 +2,7 @@ Front-End Logos
 ====================
 
 A collection of popular logos in SVG / Vector
+![View All](http://gilbarbara.github.io/logos/)
 
 ## Angular
 ![angular](http://gilbarbara.github.io/logos/angular-logo.svg)
@@ -40,8 +41,8 @@ A collection of popular logos in SVG / Vector
 
 ## codepen
 ![codepen-logo](http://gilbarbara.github.io/logos/codepen-logo.svg)
-![codepen](http://gilbarbara.github.io/logos/codepen.svg)
 
+![codepen](http://gilbarbara.github.io/logos/codepen.svg)
 
 ## CSS3
 ![css-3](http://gilbarbara.github.io/logos/css-3.svg)
