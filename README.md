@@ -4,170 +4,170 @@ Front-End Logos
 A collection of popular logos in SVG / Vector
 
 ## Angular
-![angular](angular-logo.svg)
+![angular](http://gilbarbara.github.io/logos/angular-logo.svg)
 
-![angular](angular.svg)
+![angular](http://gilbarbara.github.io/logos/angular.svg)
 
 ## Autoprefixer
-![autoprefixer](autoprefixer.svg)
+![autoprefixer](http://gilbarbara.github.io/logos/autoprefixer.svg)
 
 ## AWS
-![aws-logo](aws-logo.svg)
+![aws-logo](http://gilbarbara.github.io/logos/aws-logo.svg)
 
-![aws](aws.svg)
+![aws](http://gilbarbara.github.io/logos/aws.svg)
 
 ## Backbone
-![backbone-logo](backbone-logo.svg)
+![backbone-logo](http://gilbarbara.github.io/logos/backbone-logo.svg)
 
-![backbone](backbone.svg)
+![backbone](http://gilbarbara.github.io/logos/backbone.svg)
 
 ## Bash, Zsh, Terminal
-![bash](bash.svg)
+![bash](http://gilbarbara.github.io/logos/bash.svg)
 
 ## Bootstrap
-![bootstrap](bootstrap.svg)
+![bootstrap](http://gilbarbara.github.io/logos/bootstrap.svg)
 
 ## Bower
-![bower](bower.svg)
+![bower](http://gilbarbara.github.io/logos/bower.svg)
 
 ## Browserify
-![browserify-logo](browserify-logo.svg)
+![browserify-logo](http://gilbarbara.github.io/logos/browserify-logo.svg)
 
-![browserify](browserify.svg)
+![browserify](http://gilbarbara.github.io/logos/browserify.svg)
 
 ## chai
-![chai](chai.svg)
+![chai](http://gilbarbara.github.io/logos/chai.svg)
 
 ## codepen
-![codepen-logo](codepen-logo.svg)
-![codepen](codepen.svg)
+![codepen-logo](http://gilbarbara.github.io/logos/codepen-logo.svg)
+![codepen](http://gilbarbara.github.io/logos/codepen.svg)
 
 
 ## CSS3
-![css-3](css-3.svg)
+![css-3](http://gilbarbara.github.io/logos/css-3.svg)
 
 ## D3
-![d3](d3.svg)
+![d3](http://gilbarbara.github.io/logos/d3.svg)
 
 ## Ember
-![ember](ember.svg)
+![ember](http://gilbarbara.github.io/logos/ember.svg)
 
 ## Emmet
-![emmet](emmet.svg)
+![emmet](http://gilbarbara.github.io/logos/emmet.svg)
 
 ## eslint
-![eslint](eslint.svg)
+![eslint](http://gilbarbara.github.io/logos/eslint.svg)
 
 ## git
-![git-logo](git-logo.svg)
+![git-logo](http://gilbarbara.github.io/logos/git-logo.svg)
 
-![git](git.svg)
+![git](http://gilbarbara.github.io/logos/git.svg)
 
 ## github
-![github-icon](github-icon.svg)
+![github-icon](http://gilbarbara.github.io/logos/github-icon.svg)
 
-![github](github.svg)
+![github](http://gilbarbara.github.io/logos/github.svg)
 
-![github-octocat](github-octocat.svg)
+![github-octocat](http://gilbarbara.github.io/logos/github-octocat.svg)
 
 
 ## grunt
-![grunt](grunt.svg)
+![grunt](http://gilbarbara.github.io/logos/grunt.svg)
 
 ## gulp
-![gulp](gulp.svg)
+![gulp](http://gilbarbara.github.io/logos/gulp.svg)
 
 ## handlebars
-![handlebars](handlebars.svg)
+![handlebars](http://gilbarbara.github.io/logos/handlebars.svg)
 
 ## hapi
-![hapi](hapi.svg)
+![hapi](http://gilbarbara.github.io/logos/hapi.svg)
 
 ## HTML5
-![html-5](html-5.svg)
+![html-5](http://gilbarbara.github.io/logos/html-5.svg)
 
 ## ionic
-![ionic](ionic.svg)
+![ionic](http://gilbarbara.github.io/logos/ionic.svg)
 
 ## jasmine
-![jasmine](jasmine.svg)
+![jasmine](http://gilbarbara.github.io/logos/jasmine.svg)
 
 ## jquery
-![jquery](jquery.svg)
+![jquery](http://gilbarbara.github.io/logos/jquery.svg)
 
 ## javascript
-![javascript](javascript.svg)
+![javascript](http://gilbarbara.github.io/logos/javascript.svg)
 
 ## laravel
-![laravel](laravel.svg)
+![laravel](http://gilbarbara.github.io/logos/laravel.svg)
 
 ## less
-![less](less.svg)
+![less](http://gilbarbara.github.io/logos/less.svg)
 
 ## marionette
-![marionette](marionette.svg)
+![marionette](http://gilbarbara.github.io/logos/marionette.svg)
 
 ## markdown
-![markdown](markdown.svg)
+![markdown](http://gilbarbara.github.io/logos/markdown.svg)
 
 ## meteor
-![meteor](meteor.svg)
+![meteor](http://gilbarbara.github.io/logos/meteor.svg)
 
 ## mocha
-![mocha](mocha.svg)
+![mocha](http://gilbarbara.github.io/logos/mocha.svg)
 
 ## modernizr
-![modernizr](modernizr.svg)
+![modernizr](http://gilbarbara.github.io/logos/modernizr.svg)
 
 ## mongodb
-![mongodb](mongodb.svg)
+![mongodb](http://gilbarbara.github.io/logos/mongodb.svg)
 
 ## mysql
-![mysql](mysql.svg)
+![mysql](http://gilbarbara.github.io/logos/mysql.svg)
 
 ## nodejs
-![nodejs](nodejs.svg)
+![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
 
 ## npm
-![npm](npm.svg)
+![npm](http://gilbarbara.github.io/logos/npm.svg)
 
 ## php
-![php](php.svg)
+![php](http://gilbarbara.github.io/logos/php.svg)
 
 ## polymer
-![polymer](polymer.svg)
+![polymer](http://gilbarbara.github.io/logos/polymer.svg)
 
 ## python
-![python](python.svg)
+![python](http://gilbarbara.github.io/logos/python.svg)
 
 ## react
-![react](react.svg)
+![react](http://gilbarbara.github.io/logos/react.svg)
 
 ## rest
-![rest](rest.svg)
+![rest](http://gilbarbara.github.io/logos/rest.svg)
 
 ## ruby
-![ruby](ruby.svg)
+![ruby](http://gilbarbara.github.io/logos/ruby.svg)
 
 ## sass
-![sass](sass.svg)
+![sass](http://gilbarbara.github.io/logos/sass.svg)
 
 ## socket.io
-![socket.io](socket.io.svg)
+![socket.io](http://gilbarbara.github.io/logos/socket.io.svg)
 
 ## svg
-![svg](svg.svg)
+![svg](http://gilbarbara.github.io/logos/svg.svg)
 
 ## swift
-![swift](swift.svg)
+![swift](http://gilbarbara.github.io/logos/swift.svg)
 
 ## webplatform
-![webplatform](webplatform.svg)
+![webplatform](http://gilbarbara.github.io/logos/webplatform.svg)
 
 ## wordpress
-![wordpress-logo](wordpress-logo.svg)
+![wordpress-logo](http://gilbarbara.github.io/logos/wordpress-logo.svg)
 
-![wordpress](wordpress.svg)
+![wordpress](http://gilbarbara.github.io/logos/wordpress.svg)
 
 ## yeoman
-![yeoman](yeoman.svg)
+![yeoman](http://gilbarbara.github.io/logos/yeoman.svg)
