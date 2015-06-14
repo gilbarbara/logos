@@ -41,13 +41,17 @@ A collection of popular logos in SVG / Vector
 
 ![browserify](http://gilbarbara.github.io/logos/browserify.svg)
 
+
+## couchDB
+![couchDB](http://gilbarbara.github.io/logos/couchdb.svg)
+
 ## chai
 ![chai](http://gilbarbara.github.io/logos/chai.svg)
 
 ## chrome
 ![chrome](http://gilbarbara.github.io/logos/chrome.svg)
 
-## codepen
+## Codepen
 ![codepen-logo](http://gilbarbara.github.io/logos/codepen-logo.svg)
 
 ![codepen](http://gilbarbara.github.io/logos/codepen.svg)
@@ -75,7 +79,7 @@ A collection of popular logos in SVG / Vector
 ## firebase
 ![firebase](http://gilbarbara.github.io/logos/firebase.svg)
 
-## firefox
+## Firefox
 ![firefox](http://gilbarbara.github.io/logos/firefox.svg)
 
 ## git
@@ -90,6 +94,8 @@ A collection of popular logos in SVG / Vector
 
 ![github-octocat](http://gilbarbara.github.io/logos/github-octocat.svg)
 
+## google developers
+![google-developers](http://gilbarbara.github.io/logos/google-developers.svg)
 
 ## grunt
 ![grunt](http://gilbarbara.github.io/logos/grunt.svg)
@@ -154,6 +160,9 @@ A collection of popular logos in SVG / Vector
 ## nativescript
 ![nativescript](http://gilbarbara.github.io/logos/nativescript.svg)
 
+## ngnix
+![nginx](http://gilbarbara.github.io/logos/nginx.svg)
+
 ## nodejs
 ![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
 
@@ -165,38 +174,43 @@ A collection of popular logos in SVG / Vector
 
 ![phonegap-bot](http://gilbarbara.github.io/logos/phonegap-bot.svg)
 
-
 ## php
 ![php](http://gilbarbara.github.io/logos/php.svg)
 
 ## polymer
 ![polymer](http://gilbarbara.github.io/logos/polymer.svg)
 
-## python
+## Python
 ![python](http://gilbarbara.github.io/logos/python.svg)
 
-## react
+## Raphaël
+![raphael](http://gilbarbara.github.io/logos/raphael.svg)
+
+## React
 ![react](http://gilbarbara.github.io/logos/react.svg)
+
+## redis
+![redis](http://gilbarbara.github.io/logos/redis.svg)
 
 ## rest
 ![rest](http://gilbarbara.github.io/logos/rest.svg)
 
-## ruby
+## Ruby
 ![ruby](http://gilbarbara.github.io/logos/ruby.svg)
 
-## sass
+## SASS
 ![sass](http://gilbarbara.github.io/logos/sass.svg)
 
-## socket.io
+## Socket.io
 ![socket.io](http://gilbarbara.github.io/logos/socket.io.svg)
 
-## svg
+## SVG
 ![svg](http://gilbarbara.github.io/logos/svg.svg)
 
 ## swift
 ![swift](http://gilbarbara.github.io/logos/swift.svg)
 
-## webplatform
+## web platform
 ![webplatform](http://gilbarbara.github.io/logos/webplatform.svg)
 
 ## wordpress
