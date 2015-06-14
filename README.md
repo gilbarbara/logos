@@ -1,13 +1,15 @@
 Front-End Logos
 ====================
-
-A collection of popular logos in SVG / Vector
-![View All](http://gilbarbara.github.io/logos/)
+A collection of popular logos in SVG / Vector  
+[View All](http://gilbarbara.github.io/logos/)
 
 ## Angular
 ![angular](http://gilbarbara.github.io/logos/angular-logo.svg)
 
 ![angular](http://gilbarbara.github.io/logos/angular.svg)
+
+## Atom
+![atom](http://gilbarbara.github.io/logos/atom.svg)
 
 ## Autoprefixer
 ![autoprefixer](http://gilbarbara.github.io/logos/autoprefixer.svg)
@@ -16,6 +18,9 @@ A collection of popular logos in SVG / Vector
 ![aws-logo](http://gilbarbara.github.io/logos/aws-logo.svg)
 
 ![aws](http://gilbarbara.github.io/logos/aws.svg)
+
+## Babel
+![babel](http://gilbarbara.github.io/logos/babel.svg)
 
 ## Backbone
 ![backbone-logo](http://gilbarbara.github.io/logos/backbone-logo.svg)
@@ -39,10 +44,16 @@ A collection of popular logos in SVG / Vector
 ## chai
 ![chai](http://gilbarbara.github.io/logos/chai.svg)
 
+## chrome
+![chrome](http://gilbarbara.github.io/logos/chrome.svg)
+
 ## codepen
 ![codepen-logo](http://gilbarbara.github.io/logos/codepen-logo.svg)
 
 ![codepen](http://gilbarbara.github.io/logos/codepen.svg)
+
+## coffeescript
+![coffeescript](http://gilbarbara.github.io/logos/coffeescript.svg)
 
 ## CSS3
 ![css-3](http://gilbarbara.github.io/logos/css-3.svg)
@@ -58,6 +69,12 @@ A collection of popular logos in SVG / Vector
 
 ## eslint
 ![eslint](http://gilbarbara.github.io/logos/eslint.svg)
+
+## firebase
+![firebase](http://gilbarbara.github.io/logos/firebase.svg)
+
+## firefox
+![firefox](http://gilbarbara.github.io/logos/firefox.svg)
 
 ## git
 ![git-logo](http://gilbarbara.github.io/logos/git-logo.svg)
@@ -93,6 +110,9 @@ A collection of popular logos in SVG / Vector
 ## jasmine
 ![jasmine](http://gilbarbara.github.io/logos/jasmine.svg)
 
+## jetbrains
+![jetbrains](http://gilbarbara.github.io/logos/jetbrains.svg)
+
 ## jquery
 ![jquery](http://gilbarbara.github.io/logos/jquery.svg)
 
@@ -125,6 +145,9 @@ A collection of popular logos in SVG / Vector
 
 ## mysql
 ![mysql](http://gilbarbara.github.io/logos/mysql.svg)
+
+## nativescript
+![nativescript](http://gilbarbara.github.io/logos/nativescript.svg)
 
 ## nodejs
 ![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
