@@ -64,6 +64,8 @@ A collection of popular logos in SVG / Vector
 ## Ember
 ![ember](http://gilbarbara.github.io/logos/ember.svg)
 
+![ember-tomster](http://gilbarbara.github.io/logos/ember-tomster.svg)
+
 ## Emmet
 ![emmet](http://gilbarbara.github.io/logos/emmet.svg)
 
@@ -103,6 +105,9 @@ A collection of popular logos in SVG / Vector
 
 ## HTML5
 ![html-5](http://gilbarbara.github.io/logos/html-5.svg)
+
+## io
+![io](http://gilbarbara.github.io/logos/io.svg)
 
 ## ionic
 ![ionic](http://gilbarbara.github.io/logos/ionic.svg)
@@ -154,6 +159,12 @@ A collection of popular logos in SVG / Vector
 
 ## npm
 ![npm](http://gilbarbara.github.io/logos/npm.svg)
+
+## phonegap
+![phonegap](http://gilbarbara.github.io/logos/phonegap.svg)
+
+![phonegap-bot](http://gilbarbara.github.io/logos/phonegap-bot.svg)
+
 
 ## php
 ![php](http://gilbarbara.github.io/logos/php.svg)
