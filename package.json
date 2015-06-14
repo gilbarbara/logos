@@ -1,0 +1,17 @@
+{
+  "name": "logos",
+  "version": "0.1.0",
+  "author": "Gil Barbara <gilbarbara@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gilbarbara/logos"
+  },
+  "homepage": "http://gilbarbara.github.io/logos/",
+  "devDependencies": {
+    "gulp": "^3.9",
+    "gulp-gh-pages": "^0.5.2"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
