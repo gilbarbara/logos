@@ -121,14 +121,17 @@ A collection of popular logos in SVG / Vector
 ## jasmine
 ![jasmine](http://gilbarbara.github.io/logos/jasmine.svg)
 
+## javascript
+![javascript](http://gilbarbara.github.io/logos/javascript.svg)
+
 ## jetbrains
 ![jetbrains](http://gilbarbara.github.io/logos/jetbrains.svg)
 
 ## jquery
 ![jquery](http://gilbarbara.github.io/logos/jquery.svg)
 
-## javascript
-![javascript](http://gilbarbara.github.io/logos/javascript.svg)
+## json
+![json](http://gilbarbara.github.io/logos/json.svg)
 
 ## laravel
 ![laravel](http://gilbarbara.github.io/logos/laravel.svg)
@@ -168,6 +171,9 @@ A collection of popular logos in SVG / Vector
 
 ## npm
 ![npm](http://gilbarbara.github.io/logos/npm.svg)
+
+## open graph
+![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
 
 ## phonegap
 ![phonegap](http://gilbarbara.github.io/logos/phonegap.svg)
@@ -209,6 +215,9 @@ A collection of popular logos in SVG / Vector
 
 ## swift
 ![swift](http://gilbarbara.github.io/logos/swift.svg)
+
+## W3C
+![w3c](http://gilbarbara.github.io/logos/w3c.svg)
 
 ## web platform
 ![webplatform](http://gilbarbara.github.io/logos/webplatform.svg)
