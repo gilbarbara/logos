@@ -82,6 +82,9 @@ A collection of popular logos in SVG / Vector
 ## Firefox
 ![firefox](http://gilbarbara.github.io/logos/firefox.svg)
 
+## forever
+![forever](http://gilbarbara.github.io/logos/forever.svg)
+
 ## git
 ![git-logo](http://gilbarbara.github.io/logos/git-logo.svg)
 
@@ -133,6 +136,12 @@ A collection of popular logos in SVG / Vector
 ## json
 ![json](http://gilbarbara.github.io/logos/json.svg)
 
+## karma
+![karma](http://gilbarbara.github.io/logos/karma.svg)
+
+## kraken
+![kraken](http://gilbarbara.github.io/logos/kraken.svg)
+
 ## laravel
 ![laravel](http://gilbarbara.github.io/logos/laravel.svg)
 
@@ -144,6 +153,9 @@ A collection of popular logos in SVG / Vector
 
 ## markdown
 ![markdown](http://gilbarbara.github.io/logos/markdown.svg)
+
+## MDN
+![mdn](http://gilbarbara.github.io/logos/mdn.svg)
 
 ## meteor
 ![meteor](http://gilbarbara.github.io/logos/meteor.svg)
@@ -169,8 +181,13 @@ A collection of popular logos in SVG / Vector
 ## nodejs
 ![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
 
+## nodejitsu
+![nodejitsu](http://gilbarbara.github.io/logos/nodejitsu.svg)
+
 ## npm
 ![npm](http://gilbarbara.github.io/logos/npm.svg)
+
+![npm-2](http://gilbarbara.github.io/logos/npm-2.svg)
 
 ## open graph
 ![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
@@ -180,7 +197,7 @@ A collection of popular logos in SVG / Vector
 
 ![phonegap-bot](http://gilbarbara.github.io/logos/phonegap-bot.svg)
 
-## php
+## PHP
 ![php](http://gilbarbara.github.io/logos/php.svg)
 
 ## polymer
@@ -188,6 +205,9 @@ A collection of popular logos in SVG / Vector
 
 ## Python
 ![python](http://gilbarbara.github.io/logos/python.svg)
+
+## q
+![q](http://gilbarbara.github.io/logos/q.svg)
 
 ## Raphaël
 ![raphael](http://gilbarbara.github.io/logos/raphael.svg)
