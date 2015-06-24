@@ -8,6 +8,9 @@ A collection of popular logos in SVG / Vector
 
 ![angular](http://gilbarbara.github.io/logos/angular.svg)
 
+## Apache
+![apache](http://gilbarbara.github.io/logos/apache.svg)
+
 ## Atom
 ![atom](http://gilbarbara.github.io/logos/atom.svg)
 
@@ -30,16 +33,25 @@ A collection of popular logos in SVG / Vector
 ## Bash, Zsh, Terminal
 ![bash](http://gilbarbara.github.io/logos/bash.svg)
 
+## BEM
+![bem](http://gilbarbara.github.io/logos/bem.svg)
+
 ## Bootstrap
 ![bootstrap](http://gilbarbara.github.io/logos/bootstrap.svg)
 
 ## Bower
 ![bower](http://gilbarbara.github.io/logos/bower.svg)
 
+## Brackets
+![brackets](http://gilbarbara.github.io/logos/brackets.svg)
+
 ## Browserify
 ![browserify-logo](http://gilbarbara.github.io/logos/browserify-logo.svg)
 
 ![browserify](http://gilbarbara.github.io/logos/browserify.svg)
+
+## Chalk
+![chalk](http://gilbarbara.github.io/logos/chalk.svg)
 
 
 ## couchDB
@@ -59,11 +71,17 @@ A collection of popular logos in SVG / Vector
 ## coffeescript
 ![coffeescript](http://gilbarbara.github.io/logos/coffeescript.svg)
 
+## Compass
+![compass](http://gilbarbara.github.io/logos/compass.svg)
+
 ## CSS3
 ![css-3](http://gilbarbara.github.io/logos/css-3.svg)
 
 ## D3
 ![d3](http://gilbarbara.github.io/logos/d3.svg)
+
+## Docker
+![docker](http://gilbarbara.github.io/logos/docker.svg)
 
 ## Ember
 ![ember](http://gilbarbara.github.io/logos/ember.svg)
@@ -105,6 +123,9 @@ A collection of popular logos in SVG / Vector
 
 ## gulp
 ![gulp](http://gilbarbara.github.io/logos/gulp.svg)
+
+## haml
+![haml](http://gilbarbara.github.io/logos/haml.svg)
 
 ## handlebars
 ![handlebars](http://gilbarbara.github.io/logos/handlebars.svg)
@@ -148,6 +169,9 @@ A collection of popular logos in SVG / Vector
 ## less
 ![less](http://gilbarbara.github.io/logos/less.svg)
 
+## lodash
+![lodash](http://gilbarbara.github.io/logos/lodash.svg)
+
 ## marionette
 ![marionette](http://gilbarbara.github.io/logos/marionette.svg)
 
@@ -178,11 +202,14 @@ A collection of popular logos in SVG / Vector
 ## ngnix
 ![nginx](http://gilbarbara.github.io/logos/nginx.svg)
 
+## nodejitsu
+![nodejitsu](http://gilbarbara.github.io/logos/nodejitsu.svg)
+
 ## nodejs
 ![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
 
-## nodejitsu
-![nodejitsu](http://gilbarbara.github.io/logos/nodejitsu.svg)
+## nodemon
+![nodemon](http://gilbarbara.github.io/logos/nodemon.svg)
 
 ## npm
 ![npm](http://gilbarbara.github.io/logos/npm.svg)
@@ -191,6 +218,9 @@ A collection of popular logos in SVG / Vector
 
 ## open graph
 ![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
+
+## passport
+![passport](http://gilbarbara.github.io/logos/passport.svg)
 
 ## phonegap
 ![phonegap](http://gilbarbara.github.io/logos/phonegap.svg)
@@ -218,6 +248,9 @@ A collection of popular logos in SVG / Vector
 ## redis
 ![redis](http://gilbarbara.github.io/logos/redis.svg)
 
+## require
+![require](http://gilbarbara.github.io/logos/require.svg)
+
 ## rest
 ![rest](http://gilbarbara.github.io/logos/rest.svg)
 
@@ -227,8 +260,14 @@ A collection of popular logos in SVG / Vector
 ## SASS
 ![sass](http://gilbarbara.github.io/logos/sass.svg)
 
+## snap.svg
+![snap.svg](http://gilbarbara.github.io/logos/snap-svg.svg)
+
 ## Socket.io
 ![socket.io](http://gilbarbara.github.io/logos/socket.io.svg)
+
+## stylus
+![stylus](http://gilbarbara.github.io/logos/stylus.svg)
 
 ## SVG
 ![svg](http://gilbarbara.github.io/logos/svg.svg)
@@ -241,6 +280,9 @@ A collection of popular logos in SVG / Vector
 
 ## web platform
 ![webplatform](http://gilbarbara.github.io/logos/webplatform.svg)
+
+## webpack
+![webpack](http://gilbarbara.github.io/logos/webpack.svg)
 
 ## wordpress
 ![wordpress-logo](http://gilbarbara.github.io/logos/wordpress-logo.svg)
