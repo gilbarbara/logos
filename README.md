@@ -1,6 +1,6 @@
 Front-End Logos
 ====================
-A collection of popular logos in SVG / Vector  
+A collection of popular logos in SVG / Vector
 [View All](http://gilbarbara.github.io/logos/)
 
 ## Angular
@@ -50,9 +50,17 @@ A collection of popular logos in SVG / Vector
 
 ![browserify](http://gilbarbara.github.io/logos/browserify.svg)
 
+## Capistrano
+![capistrano](http://gilbarbara.github.io/logos/capistrano.svg)
+
 ## Chalk
 ![chalk](http://gilbarbara.github.io/logos/chalk.svg)
 
+## Chef
+![chef](http://gilbarbara.github.io/logos/chef.svg)
+
+## Codeship
+![codeship](http://gilbarbara.github.io/logos/codeship.svg)
 
 ## couchDB
 ![couchDB](http://gilbarbara.github.io/logos/couchdb.svg)
@@ -79,6 +87,9 @@ A collection of popular logos in SVG / Vector
 
 ## D3
 ![d3](http://gilbarbara.github.io/logos/d3.svg)
+
+## Django
+![django](http://gilbarbara.github.io/logos/django.svg)
 
 ## Docker
 ![docker](http://gilbarbara.github.io/logos/docker.svg)
@@ -115,6 +126,9 @@ A collection of popular logos in SVG / Vector
 
 ![github-octocat](http://gilbarbara.github.io/logos/github-octocat.svg)
 
+## gitlab
+![gitlab](http://gilbarbara.github.io/logos/gitlab.svg)
+
 ## google developers
 ![google-developers](http://gilbarbara.github.io/logos/google-developers.svg)
 
@@ -132,6 +146,12 @@ A collection of popular logos in SVG / Vector
 
 ## hapi
 ![hapi](http://gilbarbara.github.io/logos/hapi.svg)
+
+## harrow
+![harrow](http://gilbarbara.github.io/logos/harrow.svg)
+
+## heroku
+![heroku](http://gilbarbara.github.io/logos/heroku.svg)
 
 ## HTML5
 ![html-5](http://gilbarbara.github.io/logos/html-5.svg)
@@ -172,6 +192,9 @@ A collection of popular logos in SVG / Vector
 ## lodash
 ![lodash](http://gilbarbara.github.io/logos/lodash.svg)
 
+## mariadb
+![mariadb](http://gilbarbara.github.io/logos/mariadb.svg)
+
 ## marionette
 ![marionette](http://gilbarbara.github.io/logos/marionette.svg)
 
@@ -180,6 +203,9 @@ A collection of popular logos in SVG / Vector
 
 ## MDN
 ![mdn](http://gilbarbara.github.io/logos/mdn.svg)
+
+## memcached
+![memcached](http://gilbarbara.github.io/logos/memcached.svg)
 
 ## meteor
 ![meteor](http://gilbarbara.github.io/logos/meteor.svg)
@@ -233,11 +259,20 @@ A collection of popular logos in SVG / Vector
 ## polymer
 ![polymer](http://gilbarbara.github.io/logos/polymer.svg)
 
+## postgresql
+![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
+
+## puppet
+![puppet](http://gilbarbara.github.io/logos/puppet.svg)
+
 ## Python
 ![python](http://gilbarbara.github.io/logos/python.svg)
 
 ## q
 ![q](http://gilbarbara.github.io/logos/q.svg)
+
+## rails
+![rails](http://gilbarbara.github.io/logos/rails.svg)
 
 ## Raphaël
 ![raphael](http://gilbarbara.github.io/logos/raphael.svg)
@@ -274,6 +309,11 @@ A collection of popular logos in SVG / Vector
 
 ## swift
 ![swift](http://gilbarbara.github.io/logos/swift.svg)
+
+## travis
+![travis](http://gilbarbara.github.io/logos/travis-ci.svg)
+
+![travis](http://gilbarbara.github.io/logos/travis-ci-icon.svg)
 
 ## W3C
 ![w3c](http://gilbarbara.github.io/logos/w3c.svg)
