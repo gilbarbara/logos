@@ -1,18 +1,25 @@
+@import 'base/variables';
+@import 'base/utils';
+
 html {
   font-size: 62.5%;
   height: 100%;
 }
 
 body {
-  background-color: #FFF9F2;
+  background-color: $bg-color;
   font-family: Montserrat, sans-serif;
   margin: 0;
   min-height: 100%;
   padding: 0;
 }
 
+* {
+  box-sizing: border-box;
+}
+
 a {
-  color: #62CAB8;
+  color: $link-color;
 }
 
 .container {
@@ -29,11 +36,29 @@ h5 {
 h1 {
   font-size: 3rem;
   margin: 3rem 0 1.5rem;
+
+  @include md {
+    font-size: 4rem;
+  }
+
+  @include lg {
+    font-size: 8rem;
+  }
 }
 
 h3 {
   font-size: 1.8rem;
   margin: 0 auto 0.5rem;
+
+  @include md {
+    font-size: 2.5rem;
+    max-width: 80%;
+  }
+
+  @include lg {
+    font-size: 3rem;
+    max-width: 60%;
+  }
 }
 
 h5 {
@@ -42,48 +67,28 @@ h5 {
 }
 
 .logos {
-  display: flex;
   align-items: center;
+  display: flex;
   flex-wrap: wrap;
-  justify-content: space-around;
-}
+  justify-content: space-between;
 
-.logos > div {
-  margin: 10% 4%;
-  text-align: center;
-  width: 92%;
-}
+  > div {
+    padding: 5vh 1vh;
+    text-align: center;
+    width: 100%;
 
-.logos > div img {
-  display: block;
-  margin: 0 auto;
-  max-width: 100%;
-}
+    @include md {
+      width: 50%;
+    }
 
-@media (min-width: 768px) {
-  .logos > div {
-    margin: 6% 3%;
-    width: 44%;
-  }
-  h1 {
-    font-size: 4rem;
-  }
-  h3 {
-    font-size: 2.5rem;
-    max-width: 80%;
-  }
-}
+    @include lg {
+      width: percentage(1/3);
+    }
 
-@media (min-width: 1024px) {
-  .logos div {
-    margin: 4% 2%;
-    width: 28%;
-  }
-  h1 {
-    font-size: 5rem;
-  }
-  h3 {
-    font-size: 3rem;
-    max-width: 70%;
+    img {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+    }
   }
 }

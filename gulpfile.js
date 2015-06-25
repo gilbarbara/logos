@@ -1,6 +1,7 @@
-var gulp        = require('gulp'),
-    $           = require('gulp-load-plugins')(),
-    browserSync = require('browser-sync');
+var gulp = require('gulp'),
+    $ = require('gulp-load-plugins')(),
+    browserSync = require('browser-sync'),
+    del = require('del');
 
 gulp.task('styles', function () {
     return gulp.src('assets/styles/main.scss')
@@ -41,7 +42,7 @@ gulp.task('serve', ['clean', 'styles'], function () {
         }
     });
 
-    gulp.watch('styles/**/*.scss', function (e) {
+    gulp.watch('assets/styles/**/*.scss', function (e) {
         if (e.type === 'changed') {
             gulp.start('styles');
         }
@@ -49,7 +50,7 @@ gulp.task('serve', ['clean', 'styles'], function () {
 });
 
 gulp.task('deploy', ['styles', 'bundle'], function () {
-    return gulp.src(['logos/*.svg', '.tmp/*.html', '.tmp/main.css', '*.md'])
+    return gulp.src(['logos/*.svg', '.tmp/*.html', '.tmp/main.css', 'assets/*.png', '*.md'])
         .pipe($.ghPages({
             force: true
         }));

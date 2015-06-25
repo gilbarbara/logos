@@ -4,7 +4,7 @@ A collection of popular logos in SVG / Vector
 [View All](http://gilbarbara.github.io/logos/)
 
 ## Angular
-![angular](http://gilbarbara.github.io/logos/angular-logo.svg)
+![angular](http://gilbarbara.github.io/logos/angular-icon.svg)
 
 ![angular](http://gilbarbara.github.io/logos/angular.svg)
 
@@ -18,15 +18,13 @@ A collection of popular logos in SVG / Vector
 ![autoprefixer](http://gilbarbara.github.io/logos/autoprefixer.svg)
 
 ## AWS
-![aws-logo](http://gilbarbara.github.io/logos/aws-logo.svg)
-
 ![aws](http://gilbarbara.github.io/logos/aws.svg)
 
 ## Babel
 ![babel](http://gilbarbara.github.io/logos/babel.svg)
 
 ## Backbone
-![backbone-logo](http://gilbarbara.github.io/logos/backbone-logo.svg)
+![backbone-icon](http://gilbarbara.github.io/logos/backbone-icon.svg)
 
 ![backbone](http://gilbarbara.github.io/logos/backbone.svg)
 
@@ -46,7 +44,7 @@ A collection of popular logos in SVG / Vector
 ![brackets](http://gilbarbara.github.io/logos/brackets.svg)
 
 ## Browserify
-![browserify-logo](http://gilbarbara.github.io/logos/browserify-logo.svg)
+![browserify-icons](http://gilbarbara.github.io/logos/browserify-icon.svg)
 
 ![browserify](http://gilbarbara.github.io/logos/browserify.svg)
 
@@ -72,7 +70,7 @@ A collection of popular logos in SVG / Vector
 ![chrome](http://gilbarbara.github.io/logos/chrome.svg)
 
 ## Codepen
-![codepen-logo](http://gilbarbara.github.io/logos/codepen-logo.svg)
+![codepen-icon](http://gilbarbara.github.io/logos/codepen-icon.svg)
 
 ![codepen](http://gilbarbara.github.io/logos/codepen.svg)
 
@@ -124,7 +122,7 @@ A collection of popular logos in SVG / Vector
 ![forever](http://gilbarbara.github.io/logos/forever.svg)
 
 ## git
-![git-logo](http://gilbarbara.github.io/logos/git-logo.svg)
+![git-icon](http://gilbarbara.github.io/logos/git-icon.svg)
 
 ![git](http://gilbarbara.github.io/logos/git.svg)
 
@@ -346,7 +344,7 @@ A collection of popular logos in SVG / Vector
 ![wercker](http://gilbarbara.github.io/logos/wercker.svg)
 
 ## wordpress
-![wordpress-logo](http://gilbarbara.github.io/logos/wordpress-logo.svg)
+![wordpress-icon](http://gilbarbara.github.io/logos/wordpress-icon.svg)
 
 ![wordpress](http://gilbarbara.github.io/logos/wordpress.svg)
 
