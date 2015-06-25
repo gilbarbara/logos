@@ -88,6 +88,9 @@ A collection of popular logos in SVG / Vector
 ## D3
 ![d3](http://gilbarbara.github.io/logos/d3.svg)
 
+## Digital Ocean
+![digital-ocean](http://gilbarbara.github.io/logos/digital-ocean.svg)
+
 ## Django
 ![django](http://gilbarbara.github.io/logos/django.svg)
 
@@ -101,6 +104,12 @@ A collection of popular logos in SVG / Vector
 
 ## Emmet
 ![emmet](http://gilbarbara.github.io/logos/emmet.svg)
+
+## Engine Yard
+![engine-yard](http://gilbarbara.github.io/logos/engine-yard.svg)
+
+## ES6
+![es6](http://gilbarbara.github.io/logos/es6.svg)
 
 ## eslint
 ![eslint](http://gilbarbara.github.io/logos/eslint.svg)
@@ -128,6 +137,9 @@ A collection of popular logos in SVG / Vector
 
 ## gitlab
 ![gitlab](http://gilbarbara.github.io/logos/gitlab.svg)
+
+## google cloud
+![google-cloud](http://gilbarbara.github.io/logos/google-cloud.svg)
 
 ## google developers
 ![google-developers](http://gilbarbara.github.io/logos/google-developers.svg)
@@ -176,6 +188,9 @@ A collection of popular logos in SVG / Vector
 
 ## json
 ![json](http://gilbarbara.github.io/logos/json.svg)
+
+## jspm
+![jspm](http://gilbarbara.github.io/logos/jspm.svg)
 
 ## karma
 ![karma](http://gilbarbara.github.io/logos/karma.svg)
@@ -301,6 +316,9 @@ A collection of popular logos in SVG / Vector
 ## Socket.io
 ![socket.io](http://gilbarbara.github.io/logos/socket.io.svg)
 
+## Stack Overflow
+![stackoverflow](http://gilbarbara.github.io/logos/stackoverflow.svg)
+
 ## stylus
 ![stylus](http://gilbarbara.github.io/logos/stylus.svg)
 
@@ -323,6 +341,9 @@ A collection of popular logos in SVG / Vector
 
 ## webpack
 ![webpack](http://gilbarbara.github.io/logos/webpack.svg)
+
+## wercker
+![wercker](http://gilbarbara.github.io/logos/wercker.svg)
 
 ## wordpress
 ![wordpress-logo](http://gilbarbara.github.io/logos/wordpress-logo.svg)
