@@ -3,39 +3,59 @@
 
 <head>
 	<meta charset="UTF-8">
-	<title>Front-End Logos</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0">
-    <link href='//fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
+	<title>SVG Logos</title>
+	<meta name="description" content="A curated collection of SVG logos for web technologies, libraries, frameworks, servers and services." />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0" />
+	<meta property="og:title" content="SVG Logos" />
+	<meta property="og:site_name" content="Github — Gil Barbara" />
+	<meta property="og:url" content="http://gilbarbara.github.io/logos/" />
+	<meta property="og:description" content="A curated collection of SVG logos for web technologies, libraries, frameworks, servers and services." />
+	<meta property="og:image" content="http://gilbarbara.github.io/logos/og-image.png" />
+	<meta property="og:type" content="website" />
+	<link href='//fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
 	<style>
+		html {
+			font-size: 62.5%;
+			height: 100%;
+		}
+
 		body {
 			background-color: #FFF9F2;
 			font-family: Montserrat, sans-serif;
 			margin: 0;
+			min-height: 100%;
 			padding: 0;
 		}
 
-        a {
-            color: #62CAB8;
-        }
+		a {
+			color: #62CAB8;
+		}
+
+		.container {
+			padding-left: 1.5rem;
+			padding-right: 1.5rem;
+		}
 
 		h1,
 		h3,
-        h5 {
+		h5 {
 			text-align: center;
 		}
 
 		h1 {
-			font-size: 5rem;
-			margin: 30px 0 15px;
+			font-size: 3rem;
+			margin: 3rem 0 1.5rem;
 		}
 
-        h3 {
-            margin: 0 0 5px;
-        }
+		h3 {
+			font-size: 1.8rem;
+			margin: 0 auto 0.5rem;
+		}
 
-        h5 {
-            margin: 0;
-        }
+		h5 {
+			font-size: 1.5rem;
+			margin: 0;
+		}
 
 		.logos {
 			display: flex;
@@ -50,152 +70,396 @@
 			width: 92%;
 		}
 
-		@media (min-width: 480px) {
+		.logos > div img {
+			display: block;
+			margin: 0 auto;
+			max-width: 100%;
+		}
+
+		@media (min-width: 768px) {
 			.logos > div {
 				margin: 6% 3%;
 				width: 44%;
 			}
+			h1 {
+				font-size: 4rem;
+			}
+			h3 {
+				font-size: 2.5rem;
+				max-width: 80%;
+			}
 		}
 
-		@media (min-width: 800px) {
+		@media (min-width: 1024px) {
 			.logos div {
 				margin: 4% 2%;
 				width: 28%;
 			}
-		}
-
-		.logos > div img {
-			display: block;
-			margin: 0 auto;
-            max-width: 100%;
+			h1 {
+				font-size: 5rem;
+			}
+			h3 {
+				font-size: 3rem;
+				max-width: 70%;
+			}
 		}
 	</style>
 </head>
 
 <body>
+	<div class="container">
+		<h1>SVG Logos</h1>
+		<h3>A curated collection of logos for web technologies, libraries, frameworks, servers and services.</h3>
+		<h5><a href="https://github.com/gilbarbara/logos" target="_blank">Github</a></h5>
 
-	<h1>Front- Logos</h1>
-	<h3>A collection of popular logos in SVG / Vector</h3>
-    <h5><a href="https://github.com/gilbarbara/logos">Github</a></h5>
-
-	<div class="logos">
-		<div><img src="angular-logo.svg" title="angular" /></div>
-		<div><img src="angular.svg" title="angular" /></div>
-		<div><img src="apache.svg" title="apache" /></div>
-		<div><img src="atom.svg" title="atom" /></div>
-		<div><img src="autoprefixer.svg" title="autoprefixer" /></div>
-		<div><img src="aws-logo.svg" title="aws" /></div>
-		<div><img src="aws.svg" title="aws" /></div>
-		<div><img src="babel.svg" title="babel" /></div>
-		<div><img src="backbone-logo.svg" title="backbone" /></div>
-		<div><img src="backbone.svg" title="backbone" /></div>
-		<div><img src="bash.svg" title="bash" /></div>
-		<div><img src="bem.svg" title="BEM" /></div>
-		<div><img src="bootstrap.svg" title="bootstrap" /></div>
-		<div><img src="bower.svg" title="bower" /></div>
-		<div><img src="brackets.svg" title="brackets" /></div>
-		<div><img src="browserify-logo.svg" title="browserify" /></div>
-		<div><img src="browserify.svg" title="browserify" /></div>
-		<div><img src="capistrano.svg" title="capistrano" /></div>
-		<div><img src="chai.svg" title="chai" /></div>
-		<div><img src="chalk.svg" title="chalk" /></div>
-		<div><img src="chef.svg" title="chef" /></div>
-		<div><img src="chrome.svg" title="chrome" /></div>
-		<div><img src="codepen-logo.svg" title="codepen" /></div>
-		<div><img src="codepen.svg" title="codepen" /></div>
-		<div><img src="codeship.svg" title="codeship" /></div>
-		<div><img src="coffeescript.svg" title="coffeescript" /></div>
-		<div><img src="compass.svg" title="compass" /></div>
-		<div><img src="couchdb.svg" title="couchdb" /></div>
-		<div><img src="css-3.svg" title="css-3" /></div>
-		<div><img src="d3.svg" title="d3" /></div>
-		<div><img src="django.svg" title="django" /></div>
-		<div><img src="docker.svg" title="docker" /></div>
-		<div><img src="ember.svg" title="ember" /></div>
-		<div><img src="ember-tomster.svg" title="ember-tomster" /></div>
-		<div><img src="emmet.svg" title="emmet" /></div>
-		<div><img src="eslint.svg" title="eslint" /></div>
-		<div><img src="firebase.svg" title="firebase" /></div>
-		<div><img src="firefox.svg" title="firefox" /></div>
-		<div><img src="forever.svg" title="forever" /></div>
-		<div><img src="git-logo.svg" title="git" /></div>
-		<div><img src="git.svg" title="git" /></div>
-		<div><img src="github-icon.svg" title="github" /></div>
-		<div><img src="github-octocat.svg" title="github-octocat" /></div>
-		<div><img src="github.svg" title="github" /></div>
-		<div><img src="gitlab.svg" title="gitlab" /></div>
-		<div><img src="google-developers.svg" title="google-developers" /></div>
-		<div><img src="grunt.svg" title="grunt" /></div>
-		<div><img src="gulp.svg" title="gulp" /></div>
-		<div><img src="haml.svg" title="haml" /></div>
-		<div><img src="handlebars.svg" title="handlebars" /></div>
-		<div><img src="hapi.svg" title="hapi" /></div>
-		<div><img src="harrow.svg" title="harrow" /></div>
-		<div><img src="heroku.svg" title="heroku" /></div>
-		<div><img src="html-5.svg" title="html-5" /></div>
-		<div><img src="io.svg" title="io" /></div>
-		<div><img src="ionic.svg" title="ionic" /></div>
-		<div><img src="jade.svg" title="jade" /></div>
-		<div><img src="jasmine.svg" title="jasmine" /></div>
-		<div><img src="javascript.svg" title="javascript" /></div>
-		<div><img src="jetbrains.svg" title="jetbrains" /></div>
-		<div><img src="jquery.svg" title="jquery" /></div>
-		<div><img src="json.svg" title="json" /></div>
-		<div><img src="karma.svg" title="karma" /></div>
-		<div><img src="kraken.svg" title="kraken" /></div>
-		<div><img src="laravel.svg" title="laravel" /></div>
-		<div><img src="less.svg" title="less" /></div>
-		<div><img src="lodash.svg" title="lodash" /></div>
-		<div><img src="mariadb.svg" title="maria db" /></div>
-		<div><img src="marionette.svg" title="marionette" /></div>
-		<div><img src="markdown.svg" title="markdown" /></div>
-		<div><img src="mdn.svg" title="mdn" /></div>
-		<div><img src="memcached.svg" title="memcached" /></div>
-		<div><img src="meteor.svg" title="meteor" /></div>
-		<div><img src="mocha.svg" title="mocha" /></div>
-		<div><img src="modernizr.svg" title="modernizr" /></div>
-		<div><img src="mongodb.svg" title="mongo db" /></div>
-		<div><img src="mysql.svg" title="mysql" /></div>
-		<div><img src="nativescript.svg" title="nativescript" /></div>
-		<div><img src="nginx.svg" title="nginx" /></div>
-		<div><img src="nodejitsu.svg" title="nodejitsu" /></div>
-		<div><img src="nodejs.svg" title="nodejs" /></div>
-		<div><img src="nodemon.svg" title="nodemon" /></div>
-		<div><img src="npm.svg" title="npm" /></div>
-		<div><img src="npm-2.svg" title="npm" /></div>
-		<div><img src="open-graph.svg" title="open-graph" /></div>
-		<div><img src="passport.svg" title="passport" /></div>
-		<div><img src="phonegap.svg" title="phonegap" /></div>
-		<div><img src="phonegap-bot.svg" title="phonegap-bot" /></div>
-		<div><img src="php.svg" title="php" /></div>
-		<div><img src="polymer.svg" title="polymer" /></div>
-		<div><img src="postgresql.svg" title="postgresql" /></div>
-		<div><img src="puppet.svg" title="puppet" /></div>
-		<div><img src="python.svg" title="python" /></div>
-		<div><img src="q.svg" title="q" /></div>
-		<div><img src="rails.svg" title="rails" /></div>
-		<div><img src="raphael.svg" title="raphael" /></div>
-		<div><img src="react.svg" title="react" /></div>
-		<div><img src="require.svg" title="redis" /></div>
-		<div><img src="redis.svg" title="redis" /></div>
-		<div><img src="rest.svg" title="rest" /></div>
-		<div><img src="ruby.svg" title="ruby" /></div>
-		<div><img src="sass.svg" title="sass" /></div>
-		<div><img src="snap-svg.svg" title="snap-svg" /></div>
-		<div><img src="socket.io.svg" title="socket.io" /></div>
-		<div><img src="stylus.svg" title="stylus" /></div>
-		<div><img src="svg.svg" title="svg" /></div>
-		<div><img src="swift.svg" title="swift" /></div>
-		<div><img src="travis-ci.svg" title="travis-ci" /></div>
-		<div><img src="travis-ci-icon.svg" title="travis-ci" /></div>
-		<div><img src="w3c.svg" title="w3c" /></div>
-		<div><img src="webpack.svg" title="webpack" /></div>
-		<div><img src="webplatform.svg" title="webplatform" /></div>
-		<div><img src="wordpress-logo.svg" title="wordpress" /></div>
-		<div><img src="wordpress.svg" title="wordpress" /></div>
-		<div><img src="yeoman.svg" title="yeoman" /></div>
+		<div class="logos">
+			<div>
+				<img src="angular-logo.svg" title="angular" />
+			</div>
+			<div>
+				<img src="angular.svg" title="angular" />
+			</div>
+			<div>
+				<img src="apache.svg" title="apache" />
+			</div>
+			<div>
+				<img src="atom.svg" title="atom" />
+			</div>
+			<div>
+				<img src="autoprefixer.svg" title="autoprefixer" />
+			</div>
+			<div>
+				<img src="aws-logo.svg" title="aws" />
+			</div>
+			<div>
+				<img src="aws.svg" title="aws" />
+			</div>
+			<div>
+				<img src="babel.svg" title="babel" />
+			</div>
+			<div>
+				<img src="backbone-logo.svg" title="backbone" />
+			</div>
+			<div>
+				<img src="backbone.svg" title="backbone" />
+			</div>
+			<div>
+				<img src="bash.svg" title="bash" />
+			</div>
+			<div>
+				<img src="bem.svg" title="BEM" />
+			</div>
+			<div>
+				<img src="bootstrap.svg" title="bootstrap" />
+			</div>
+			<div>
+				<img src="bower.svg" title="bower" />
+			</div>
+			<div>
+				<img src="brackets.svg" title="brackets" />
+			</div>
+			<div>
+				<img src="browserify-logo.svg" title="browserify" />
+			</div>
+			<div>
+				<img src="browserify.svg" title="browserify" />
+			</div>
+			<div>
+				<img src="capistrano.svg" title="capistrano" />
+			</div>
+			<div>
+				<img src="chai.svg" title="chai" />
+			</div>
+			<div>
+				<img src="chalk.svg" title="chalk" />
+			</div>
+			<div>
+				<img src="chef.svg" title="chef" />
+			</div>
+			<div>
+				<img src="chrome.svg" title="chrome" />
+			</div>
+			<div>
+				<img src="codepen-logo.svg" title="codepen" />
+			</div>
+			<div>
+				<img src="codepen.svg" title="codepen" />
+			</div>
+			<div>
+				<img src="codeship.svg" title="codeship" />
+			</div>
+			<div>
+				<img src="coffeescript.svg" title="coffeescript" />
+			</div>
+			<div>
+				<img src="compass.svg" title="compass" />
+			</div>
+			<div>
+				<img src="couchdb.svg" title="couchdb" />
+			</div>
+			<div>
+				<img src="css-3.svg" title="css-3" />
+			</div>
+			<div>
+				<img src="d3.svg" title="d3" />
+			</div>
+			<div>
+				<img src="django.svg" title="django" />
+			</div>
+			<div>
+				<img src="docker.svg" title="docker" />
+			</div>
+			<div>
+				<img src="ember.svg" title="ember" />
+			</div>
+			<div>
+				<img src="ember-tomster.svg" title="ember-tomster" />
+			</div>
+			<div>
+				<img src="emmet.svg" title="emmet" />
+			</div>
+			<div>
+				<img src="eslint.svg" title="eslint" />
+			</div>
+			<div>
+				<img src="firebase.svg" title="firebase" />
+			</div>
+			<div>
+				<img src="firefox.svg" title="firefox" />
+			</div>
+			<div>
+				<img src="forever.svg" title="forever" />
+			</div>
+			<div>
+				<img src="git-logo.svg" title="git" />
+			</div>
+			<div>
+				<img src="git.svg" title="git" />
+			</div>
+			<div>
+				<img src="github-icon.svg" title="github" />
+			</div>
+			<div>
+				<img src="github.svg" title="github" />
+			</div>
+			<div>
+				<img src="github-octocat.svg" title="github-octocat" />
+			</div>
+			<div>
+				<img src="gitlab.svg" title="gitlab" />
+			</div>
+			<div>
+				<img src="google-developers.svg" title="google-developers" />
+			</div>
+			<div>
+				<img src="grunt.svg" title="grunt" />
+			</div>
+			<div>
+				<img src="gulp.svg" title="gulp" />
+			</div>
+			<div>
+				<img src="haml.svg" title="haml" />
+			</div>
+			<div>
+				<img src="handlebars.svg" title="handlebars" />
+			</div>
+			<div>
+				<img src="hapi.svg" title="hapi" />
+			</div>
+			<div>
+				<img src="harrow.svg" title="harrow" />
+			</div>
+			<div>
+				<img src="heroku.svg" title="heroku" />
+			</div>
+			<div>
+				<img src="html-5.svg" title="html-5" />
+			</div>
+			<div>
+				<img src="io.svg" title="io" />
+			</div>
+			<div>
+				<img src="ionic.svg" title="ionic" />
+			</div>
+			<div>
+				<img src="jade.svg" title="jade" />
+			</div>
+			<div>
+				<img src="jasmine.svg" title="jasmine" />
+			</div>
+			<div>
+				<img src="javascript.svg" title="javascript" />
+			</div>
+			<div>
+				<img src="jetbrains.svg" title="jetbrains" />
+			</div>
+			<div>
+				<img src="jquery.svg" title="jquery" />
+			</div>
+			<div>
+				<img src="json.svg" title="json" />
+			</div>
+			<div>
+				<img src="karma.svg" title="karma" />
+			</div>
+			<div>
+				<img src="kraken.svg" title="kraken" />
+			</div>
+			<div>
+				<img src="laravel.svg" title="laravel" />
+			</div>
+			<div>
+				<img src="less.svg" title="less" />
+			</div>
+			<div>
+				<img src="lodash.svg" title="lodash" />
+			</div>
+			<div>
+				<img src="mariadb.svg" title="maria db" />
+			</div>
+			<div>
+				<img src="marionette.svg" title="marionette" />
+			</div>
+			<div>
+				<img src="markdown.svg" title="markdown" />
+			</div>
+			<div>
+				<img src="mdn.svg" title="mdn" />
+			</div>
+			<div>
+				<img src="memcached.svg" title="memcached" />
+			</div>
+			<div>
+				<img src="meteor.svg" title="meteor" />
+			</div>
+			<div>
+				<img src="mocha.svg" title="mocha" />
+			</div>
+			<div>
+				<img src="modernizr.svg" title="modernizr" />
+			</div>
+			<div>
+				<img src="mongodb.svg" title="mongo db" />
+			</div>
+			<div>
+				<img src="mysql.svg" title="mysql" />
+			</div>
+			<div>
+				<img src="nativescript.svg" title="nativescript" />
+			</div>
+			<div>
+				<img src="nginx.svg" title="nginx" />
+			</div>
+			<div>
+				<img src="nodejitsu.svg" title="nodejitsu" />
+			</div>
+			<div>
+				<img src="nodejs.svg" title="nodejs" />
+			</div>
+			<div>
+				<img src="nodemon.svg" title="nodemon" />
+			</div>
+			<div>
+				<img src="npm.svg" title="npm" />
+			</div>
+			<div>
+				<img src="npm-2.svg" title="npm" />
+			</div>
+			<div>
+				<img src="open-graph.svg" title="open-graph" />
+			</div>
+			<div>
+				<img src="passport.svg" title="passport" />
+			</div>
+			<div>
+				<img src="phonegap.svg" title="phonegap" />
+			</div>
+			<div>
+				<img src="phonegap-bot.svg" title="phonegap-bot" />
+			</div>
+			<div>
+				<img src="php.svg" title="php" />
+			</div>
+			<div>
+				<img src="polymer.svg" title="polymer" />
+			</div>
+			<div>
+				<img src="postgresql.svg" title="postgresql" />
+			</div>
+			<div>
+				<img src="puppet.svg" title="puppet" />
+			</div>
+			<div>
+				<img src="python.svg" title="python" />
+			</div>
+			<div>
+				<img src="q.svg" title="q" />
+			</div>
+			<div>
+				<img src="rails.svg" title="rails" />
+			</div>
+			<div>
+				<img src="raphael.svg" title="raphael" />
+			</div>
+			<div>
+				<img src="react.svg" title="react" />
+			</div>
+			<div>
+				<img src="require.svg" title="redis" />
+			</div>
+			<div>
+				<img src="redis.svg" title="redis" />
+			</div>
+			<div>
+				<img src="rest.svg" title="rest" />
+			</div>
+			<div>
+				<img src="ruby.svg" title="ruby" />
+			</div>
+			<div>
+				<img src="sass.svg" title="sass" />
+			</div>
+			<div>
+				<img src="snap-svg.svg" title="snap-svg" />
+			</div>
+			<div>
+				<img src="socket.io.svg" title="socket.io" />
+			</div>
+			<div>
+				<img src="stylus.svg" title="stylus" />
+			</div>
+			<div>
+				<img src="svg.svg" title="svg" />
+			</div>
+			<div>
+				<img src="swift.svg" title="swift" />
+			</div>
+			<div>
+				<img src="travis-ci.svg" title="travis-ci" />
+			</div>
+			<div>
+				<img src="travis-ci-icon.svg" title="travis-ci" />
+			</div>
+			<div>
+				<img src="w3c.svg" title="w3c" />
+			</div>
+			<div>
+				<img src="webpack.svg" title="webpack" />
+			</div>
+			<div>
+				<img src="webplatform.svg" title="webplatform" />
+			</div>
+			<div>
+				<img src="wordpress-logo.svg" title="wordpress" />
+			</div>
+			<div>
+				<img src="wordpress.svg" title="wordpress" />
+			</div>
+			<div>
+				<img src="yeoman.svg" title="yeoman" />
+			</div>
+		</div>
 	</div>
-
 </body>
 
 </html>
