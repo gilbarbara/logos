@@ -118,6 +118,9 @@ A collection of popular logos in SVG / Vector
 ## Firefox
 ![firefox](http://gilbarbara.github.io/logos/firefox.svg)
 
+## flux
+![flux](http://gilbarbara.github.io/logos/flux.svg)
+
 ## forever
 ![forever](http://gilbarbara.github.io/logos/forever.svg)
 
