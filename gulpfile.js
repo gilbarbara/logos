@@ -52,6 +52,8 @@ gulp.task('serve', ['clean', 'styles'], function () {
 gulp.task('deploy', ['styles', 'bundle'], function () {
     return gulp.src(['logos/*.svg', '.tmp/*.html', '.tmp/main.css', 'assets/*.png', '*.md'])
         .pipe($.ghPages({
+        	remoteUrl: 'https://github.com/gilbarbara/logos',
+            branch: 'gh-pages',
             force: true
         }));
 });

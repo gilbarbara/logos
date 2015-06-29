@@ -334,6 +334,9 @@ A collection of popular logos in SVG / Vector
 
 ![travis](http://gilbarbara.github.io/logos/travis-ci-icon.svg)
 
+## vagrant
+![vagrant](http://gilbarbara.github.io/logos/vagrant.svg)
+
 ## W3C
 ![w3c](http://gilbarbara.github.io/logos/w3c.svg)
 
