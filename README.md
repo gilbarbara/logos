@@ -1,6 +1,6 @@
-Front-End Logos
+SVG Logos
 ====================
-A collection of popular logos in SVG / Vector
+A collection of svg vector logos for developers.   Programming languages, technologies, editors, libraries, frameworks, servers and services.  
 [View All](http://gilbarbara.github.io/logos/)
 
 ## Angular
@@ -111,6 +111,10 @@ A collection of popular logos in SVG / Vector
 
 ## eslint
 ![eslint](http://gilbarbara.github.io/logos/eslint.svg)
+
+
+## express
+![express](http://gilbarbara.github.io/logos/express.svg)
 
 ## firebase
 ![firebase](http://gilbarbara.github.io/logos/firebase.svg)
