@@ -252,9 +252,9 @@ A collection of svg vector logos for developers.   Programming languages, techno
 ![nodejitsu](http://gilbarbara.github.io/logos/nodejitsu.svg)
 
 ## nodejs
-![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
-
 ![nodejs](http://gilbarbara.github.io/logos/nodejs-icon.svg)
+
+![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
 
 ## nodemon
 ![nodemon](http://gilbarbara.github.io/logos/nodemon.svg)
