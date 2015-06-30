@@ -1,6 +1,7 @@
 SVG Logos
 ====================
-A collection of svg vector logos for developers.   Programming languages, technologies, editors, libraries, frameworks, servers and services.  
+A collection of svg vector logos for developers.  
+Programming languages, technologies, editors, libraries, frameworks, servers and services.  
 [View All](http://gilbarbara.github.io/logos/)
 
 ## Angular
@@ -48,6 +49,9 @@ A collection of svg vector logos for developers.   Programming languages, techno
 
 ![browserify](http://gilbarbara.github.io/logos/browserify.svg)
 
+## Browserstack
+![browserstack](http://gilbarbara.github.io/logos/browserstack.svg)
+
 ## Capistrano
 ![capistrano](http://gilbarbara.github.io/logos/capistrano.svg)
 
@@ -79,6 +83,9 @@ A collection of svg vector logos for developers.   Programming languages, techno
 
 ## Compass
 ![compass](http://gilbarbara.github.io/logos/compass.svg)
+
+## Cross Browser Testing
+![crossbrowsertesting](http://gilbarbara.github.io/logos/crossbrowsertesting.svg)
 
 ## CSS3
 ![css-3](http://gilbarbara.github.io/logos/css-3.svg)
@@ -123,6 +130,9 @@ A collection of svg vector logos for developers.   Programming languages, techno
 
 ## flask
 ![flask](http://gilbarbara.github.io/logos/flask.svg)
+
+## flow
+![flow](http://gilbarbara.github.io/logos/flow.svg)
 
 ## flux
 ![flux](http://gilbarbara.github.io/logos/flux.svg)
