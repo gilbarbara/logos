@@ -112,7 +112,6 @@ A collection of svg vector logos for developers.   Programming languages, techno
 ## eslint
 ![eslint](http://gilbarbara.github.io/logos/eslint.svg)
 
-
 ## express
 ![express](http://gilbarbara.github.io/logos/express.svg)
 
@@ -121,6 +120,9 @@ A collection of svg vector logos for developers.   Programming languages, techno
 
 ## Firefox
 ![firefox](http://gilbarbara.github.io/logos/firefox.svg)
+
+## flask
+![flask](http://gilbarbara.github.io/logos/flask.svg)
 
 ## flux
 ![flux](http://gilbarbara.github.io/logos/flux.svg)
@@ -228,6 +230,8 @@ A collection of svg vector logos for developers.   Programming languages, techno
 ![memcached](http://gilbarbara.github.io/logos/memcached.svg)
 
 ## meteor
+![meteor](http://gilbarbara.github.io/logos/meteor-icon.svg)
+
 ![meteor](http://gilbarbara.github.io/logos/meteor.svg)
 
 ## mocha
@@ -313,6 +317,9 @@ A collection of svg vector logos for developers.   Programming languages, techno
 
 ## Ruby
 ![ruby](http://gilbarbara.github.io/logos/ruby.svg)
+
+## rubygems
+![rubygems](http://gilbarbara.github.io/logos/rubygems.svg)
 
 ## SASS
 ![sass](http://gilbarbara.github.io/logos/sass.svg)
