@@ -25,6 +25,7 @@ gulp.task('bundle', function () {
         .pipe(assets.restore())
         .pipe($.useref())
         .pipe($.replace('../logos/', ''))
+        .pipe($.replace('media/', ''))
         .pipe(gulp.dest('.tmp'));
 });
 
@@ -50,7 +51,7 @@ gulp.task('serve', ['clean', 'styles'], function () {
 });
 
 gulp.task('deploy', ['styles', 'bundle'], function () {
-    return gulp.src(['logos/*.svg', '.tmp/*.html', '.tmp/main.css', 'assets/*.png', 'assets/CNAME', '*.md'])
+    return gulp.src(['logos/*.svg', '.tmp/*.html', '.tmp/main.css', 'assets/media/**/*', 'assets/CNAME', '*.md'])
         .pipe($.ghPages({
             force: true
         }));
