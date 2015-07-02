@@ -8,7 +8,7 @@ html {
 
 body {
   background-color: $bg-color;
-  font-family: Montserrat, sans-serif;
+  font-family: Helvetica Helvetica Neue, Helvetica, Arial, sans-serif;
   margin: 0;
   min-height: 100%;
   padding: 0;
@@ -27,7 +27,7 @@ a {
   padding-right: 1.5rem;
 }
 
-.header {
+header {
   padding-top: 3rem;
   text-align: center;
 
@@ -35,39 +35,38 @@ a {
     padding-top: 4rem;
   }
 
+  .logo {
+    width: 95%;
 
-}
+    @include md {
+      width: 70%;
+    }
 
-.logo {
-  width: 95%;
-
-  @include md {
-    width: 70%;
+    @include lg {
+      width: 50%;
+    }
   }
 
-  @include lg {
-    width: 50%;
+  h3 {
+    font-size: 1.8rem;
+    margin: 1.5rem 3rem 0.5rem;
+
+    @include sm {
+      font-size: 2rem;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    @include md {
+      font-size: 2.5rem;
+      margin-top: 2rem;
+      max-width: 80%;
+    }
+
+    @include lg {
+      max-width: 60%;
+    }
   }
-}
-
-h3 {
-  font-size: 1.8rem;
-  margin: 2rem auto 0.5rem;
-
-  @include md {
-    font-size: 2.5rem;
-    margin-top: 4rem;
-    max-width: 80%;
-  }
-
-  @include lg {
-    max-width: 60%;
-  }
-}
-
-h5 {
-  font-size: 1.5rem;
-  margin: 0;
 }
 
 .logos {
@@ -95,4 +94,12 @@ h5 {
       max-width: 100%;
     }
   }
+}
+
+footer {
+  border-top: 1px solid #ccc;
+  display: flex;
+  justify-content: space-between;
+  margin: -1.5rem;
+  padding: 1.5rem;
 }
