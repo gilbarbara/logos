@@ -1,7 +1,7 @@
 SVG Logos
 ====================
 A collection of svg vector logos for developers.  
-[View All](http://gilbarbara.github.io/logos/)
+[View All](http://svgporn.com)
 
 ## Angular
 ![angular](http://gilbarbara.github.io/logos/angular-icon.svg)
