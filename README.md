@@ -37,6 +37,12 @@ A collection of svg vector logos for developers.
 ## BEM
 ![bem](http://gilbarbara.github.io/logos/bem.svg)
 
+## Bitbucket
+![bitbucket](http://gilbarbara.github.io/logos/bitbucket.svg)
+
+## Bitcoin
+![bitcoin](http://gilbarbara.github.io/logos/bitcoin.svg)
+
 ## Bootstrap
 ![bootstrap](http://gilbarbara.github.io/logos/bootstrap.svg)
 
