@@ -1,7 +1,6 @@
 SVG Logos
 ====================
 A collection of svg vector logos for developers.  
-Programming languages, technologies, editors, libraries, frameworks, servers and services.  
 [View All](http://gilbarbara.github.io/logos/)
 
 ## Angular
@@ -14,6 +13,9 @@ Programming languages, technologies, editors, libraries, frameworks, servers and
 
 ## Atom
 ![atom](http://gilbarbara.github.io/logos/atom.svg)
+
+## auth0
+![auth0](http://gilbarbara.github.io/logos/auth0.svg)
 
 ## Autoprefixer
 ![autoprefixer](http://gilbarbara.github.io/logos/autoprefixer.svg)
@@ -233,6 +235,9 @@ Programming languages, technologies, editors, libraries, frameworks, servers and
 ## markdown
 ![markdown](http://gilbarbara.github.io/logos/markdown.svg)
 
+## material-ui
+![material-ui](http://gilbarbara.github.io/logos/material-ui.svg)
+
 ## MDN
 ![mdn](http://gilbarbara.github.io/logos/mdn.svg)
 
@@ -277,6 +282,12 @@ Programming languages, technologies, editors, libraries, frameworks, servers and
 ![npm](http://gilbarbara.github.io/logos/npm.svg)
 
 ![npm-2](http://gilbarbara.github.io/logos/npm-2.svg)
+
+## nuclide
+![nuclide](http://gilbarbara.github.io/logos/nuclide.svg)
+
+## oauth
+![oauth](http://gilbarbara.github.io/logos/oauth.svg)
 
 ## open graph
 ![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
@@ -359,6 +370,9 @@ Programming languages, technologies, editors, libraries, frameworks, servers and
 
 ## vagrant
 ![vagrant](http://gilbarbara.github.io/logos/vagrant.svg)
+
+## vue
+![vue](http://gilbarbara.github.io/logos/vue.svg)
 
 ## W3C
 ![w3c](http://gilbarbara.github.io/logos/w3c.svg)
