@@ -296,6 +296,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## open graph
 ![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
 
+## panda
+![panda](http://gilbarbara.github.io/logos/panda.svg)
+
 ## passport
 ![passport](http://gilbarbara.github.io/logos/passport.svg)
 
