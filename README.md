@@ -268,6 +268,11 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## nativescript
 ![nativescript](http://gilbarbara.github.io/logos/nativescript.svg)
 
+## Neo4j
+![neo4j](http://gilbarbara.github.io/logos/neo4j-icon.svg)
+
+![neo4j](http://gilbarbara.github.io/logos/neo4j.svg)
+
 ## ngnix
 ![nginx](http://gilbarbara.github.io/logos/nginx.svg)
 
