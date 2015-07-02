@@ -409,6 +409,3 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 
 ## yeoman
 ![yeoman](http://gilbarbara.github.io/logos/yeoman.svg)
-
-## yii
-![yii](http://gilbarbara.github.io/logos/yii.svg)
