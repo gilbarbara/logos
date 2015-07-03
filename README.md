@@ -96,6 +96,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## coveralls
 ![coveralls](http://gilbarbara.github.io/logos/coveralls.svg)
 
+## Craft CMS
+![craftcms](http://gilbarbara.github.io/logos/craftcms.svg)
+
 ## Cross Browser Testing
 ![crossbrowsertesting](http://gilbarbara.github.io/logos/crossbrowsertesting.svg)
 
