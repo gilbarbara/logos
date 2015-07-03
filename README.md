@@ -221,6 +221,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## jetbrains
 ![jetbrains](http://gilbarbara.github.io/logos/jetbrains.svg)
 
+## jhipster
+![jhipster](http://gilbarbara.github.io/logos/jhipster.svg)
+
 ## jquery
 ![jquery](http://gilbarbara.github.io/logos/jquery.svg)
 
