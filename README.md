@@ -3,9 +3,18 @@ SVG Logos
 A collection of svg vector logos for developers.  
 [View All](http://svgporn.com)
 
-All logos were optimized (removed unnecessary paths/groups/defs, standardized, etc). Some were recreated from rastered images.
+The logos are optimized (removed unnecessary paths/groups/defs, standardized, etc). Some were recreated from rastered images.
 
 *All logos appearing on the site are the property of their respective owners. Any rights not expressly granted herein are reserved.*
+
+## Contributing
+
+I won't accept pull requests with new logos.  
+The reason is that I do optimize all the SVGs before uploading and that's why they look so good.  
+Please send the links to your favorite logos in the issues and I'll add them.
+
+====================
+
 
 ## Angular
 ![angular](http://gilbarbara.github.io/logos/angular-icon.svg)
