@@ -224,6 +224,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## jquery
 ![jquery](http://gilbarbara.github.io/logos/jquery.svg)
 
+## JS Bin
+![jsbin](http://gilbarbara.github.io/logos/jsbin.svg)
+
 ## json
 ![json](http://gilbarbara.github.io/logos/json.svg)
 
