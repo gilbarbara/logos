@@ -394,8 +394,8 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## swift
 ![swift](http://gilbarbara.github.io/logos/swift.svg)
 
-## traack
-![traack](http://gilbarbara.github.io/logos/traack.svg)
+## traackr
+![traackr](http://gilbarbara.github.io/logos/traackr.svg)
 
 ## travis
 ![travis](http://gilbarbara.github.io/logos/travis-ci.svg)
