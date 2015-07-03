@@ -41,6 +41,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## BEM
 ![bem](http://gilbarbara.github.io/logos/bem.svg)
 
+## Blocs
+![blocs](http://gilbarbara.github.io/logos/blocs.svg)
+
 ## Bootstrap
 ![bootstrap](http://gilbarbara.github.io/logos/bootstrap.svg)
 
@@ -90,6 +93,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## Compass
 ![compass](http://gilbarbara.github.io/logos/compass.svg)
 
+## coveralls
+![coveralls](http://gilbarbara.github.io/logos/coveralls.svg)
+
 ## Cross Browser Testing
 ![crossbrowsertesting](http://gilbarbara.github.io/logos/crossbrowsertesting.svg)
 
@@ -107,6 +113,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 
 ## Docker
 ![docker](http://gilbarbara.github.io/logos/docker.svg)
+
+## Drupal
+![drupal](http://gilbarbara.github.io/logos/drupal.svg)
 
 ## Ember
 ![ember](http://gilbarbara.github.io/logos/ember.svg)
@@ -191,6 +200,12 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## HTML5
 ![html-5](http://gilbarbara.github.io/logos/html-5.svg)
 
+## html5-boilerplate
+![html5-boilerplate](http://gilbarbara.github.io/logos/html5-boilerplate.svg)
+
+## invision
+![invision](http://gilbarbara.github.io/logos/invision.svg)
+
 ## io
 ![io](http://gilbarbara.github.io/logos/io.svg)
 
@@ -223,6 +238,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 
 ## laravel
 ![laravel](http://gilbarbara.github.io/logos/laravel.svg)
+
+## leafjet
+![leafjet](http://gilbarbara.github.io/logos/leafjet.svg)
 
 ## less
 ![less](http://gilbarbara.github.io/logos/less.svg)
@@ -296,6 +314,12 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## open graph
 ![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
 
+## openlayers
+![openlayers](http://gilbarbara.github.io/logos/openlayers.svg)
+
+## optimizely
+![optimizely](http://gilbarbara.github.io/logos/optimizely.svg)
+
 ## passport
 ![passport](http://gilbarbara.github.io/logos/passport.svg)
 
@@ -349,6 +373,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## SASS
 ![sass](http://gilbarbara.github.io/logos/sass.svg)
 
+## Scala
+![scala](http://gilbarbara.github.io/logos/scala.svg)
+
 ## snap.svg
 ![snap.svg](http://gilbarbara.github.io/logos/snap-svg.svg)
 
@@ -366,6 +393,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 
 ## swift
 ![swift](http://gilbarbara.github.io/logos/swift.svg)
+
+## traack
+![traack](http://gilbarbara.github.io/logos/traack.svg)
 
 ## travis
 ![travis](http://gilbarbara.github.io/logos/travis-ci.svg)
@@ -394,6 +424,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ![wordpress-icon](http://gilbarbara.github.io/logos/wordpress-icon.svg)
 
 ![wordpress](http://gilbarbara.github.io/logos/wordpress.svg)
+
+## ycombinator
+![ycombinator](http://gilbarbara.github.io/logos/ycombinator.svg)
 
 ## yeoman
 ![yeoman](http://gilbarbara.github.io/logos/yeoman.svg)
