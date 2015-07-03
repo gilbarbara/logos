@@ -286,7 +286,7 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## nativescript
 ![nativescript](http://gilbarbara.github.io/logos/nativescript.svg)
 
-## ngnix
+## nginx
 ![nginx](http://gilbarbara.github.io/logos/nginx.svg)
 
 ## nodejitsu
