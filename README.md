@@ -233,6 +233,9 @@ Please send the links to your favorite logos in the issues and I'll add them.
 ## jquery
 ![jquery](http://gilbarbara.github.io/logos/jquery.svg)
 
+## JS Bin
+![jsbin](http://gilbarbara.github.io/logos/jsbin.svg)
+
 ## json
 ![json](http://gilbarbara.github.io/logos/json.svg)
 
