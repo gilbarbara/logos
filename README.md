@@ -224,6 +224,9 @@ Please send the links to your favorite logos in the issues and I'll add them.
 ## jasmine
 ![jasmine](http://gilbarbara.github.io/logos/jasmine.svg)
 
+## java
+![java](https://github.com/stevenlordiam/logos/blob/master/logos/java.svg)
+
 ## javascript
 ![javascript](http://gilbarbara.github.io/logos/javascript.svg)
 
