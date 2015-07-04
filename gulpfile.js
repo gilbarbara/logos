@@ -1,7 +1,8 @@
-var gulp = require('gulp'),
-    $ = require('gulp-load-plugins')(),
+var gulp        = require('gulp'),
+    $           = require('gulp-load-plugins')(),
     browserSync = require('browser-sync'),
-    del = require('del');
+    del         = require('del'),
+    runSequence = require('run-sequence');
 
 gulp.task('styles', function () {
     return gulp.src('assets/styles/main.scss')
@@ -16,16 +17,28 @@ gulp.task('styles', function () {
         .pipe(gulp.dest('.tmp'));
 });
 
+gulp.task('templates', function () {
+    return gulp.src('assets/templates/index.handlebars')
+        .pipe($.compileHandlebars())
+        .pipe($.rename('index.html'))
+        .pipe($.debug())
+        .pipe(gulp.dest('.tmp'));
+});
+
+gulp.task('copy', function () {
+    return gulp.src('assets/media/**/*')
+        .pipe(gulp.dest('.tmp'));
+});
+
 gulp.task('bundle', function () {
     var assets = $.useref.assets();
 
-    return gulp.src('assets/*.html')
+    return gulp.src('.tmp/*.html')
         .pipe(assets)
         .pipe($.if('*.css', $.cssmin()))
         .pipe(assets.restore())
         .pipe($.useref())
         .pipe($.replace('../logos/', ''))
-        .pipe($.replace('media/', ''))
         .pipe(gulp.dest('.tmp'));
 });
 
@@ -33,7 +46,7 @@ gulp.task('clean', function (cb) {
     del(['.tmp/*'], cb);
 });
 
-gulp.task('serve', ['clean', 'styles'], function () {
+gulp.task('serve', ['clean', 'templates', 'copy', 'styles'], function () {
     browserSync({
         notify: false,
         logPrefix: 'logos',
@@ -50,11 +63,17 @@ gulp.task('serve', ['clean', 'styles'], function () {
     });
 });
 
-gulp.task('deploy', ['styles', 'bundle'], function () {
+gulp.task('build', function (cb) {
+    runSequence('templates', 'bundle', 'styles', cb);
+});
+
+
+gulp.task('deploy', ['build'], function () {
     return gulp.src(['logos/*.svg', '.tmp/*.html', '.tmp/main.css', 'assets/media/**/*', 'assets/CNAME', '*.md'])
         .pipe($.ghPages({
             force: true
         }));
+
 });
 
 gulp.task('default', ['serve']);
