@@ -19,11 +19,11 @@ gulp.task('styles', function () {
 });
 
 gulp.task('templates', function () {
-    var json = JSON.parse(fs.readFileSync('./assets/logos.json')),
+    var json         = JSON.parse(fs.readFileSync('./assets/logos.json')),
         templateData = {
             items: []
         },
-        meta = [];
+        meta         = [];
 
     json.items.forEach(function (d) {
         meta.push(d.name);
@@ -113,10 +113,9 @@ gulp.task('deploy', ['build'], function () {
         'assets/CNAME',
         '*.md'
     ])
-        /*        .pipe($.ghPages({
-         force: true
-         }));*/
-        .pipe(gulp.dest('dist'));
+        .pipe($.ghPages({
+            force: true
+        }));
 
 });
 
