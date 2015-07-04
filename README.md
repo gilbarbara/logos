@@ -73,6 +73,9 @@ Please send the links to your favorite logos in the issues and I'll add them.
 ## Capistrano
 ![capistrano](http://gilbarbara.github.io/logos/capistrano.svg)
 
+## Cassandra
+![cassandra](http://gilbarbara.github.io/logos/cassandra.svg)
+
 ## Chalk
 ![chalk](http://gilbarbara.github.io/logos/chalk.svg)
 
@@ -179,6 +182,9 @@ Please send the links to your favorite logos in the issues and I'll add them.
 ## gitlab
 ![gitlab](http://gilbarbara.github.io/logos/gitlab.svg)
 
+## golang
+![gopher](http://gilbarbara.github.io/logos/gopher.svg)
+
 ## google cloud
 ![google-cloud](http://gilbarbara.github.io/logos/google-cloud.svg)
 
@@ -229,6 +235,12 @@ Please send the links to your favorite logos in the issues and I'll add them.
 
 ## jetbrains
 ![jetbrains](http://gilbarbara.github.io/logos/jetbrains.svg)
+
+## jenkins
+![jenkins](http://gilbarbara.github.io/logos/jenkins.svg)
+
+## jira
+![jira](http://gilbarbara.github.io/logos/jira.svg)
 
 ## jquery
 ![jquery](http://gilbarbara.github.io/logos/jquery.svg)
