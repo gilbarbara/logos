@@ -173,6 +173,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## gitlab
 ![gitlab](http://gilbarbara.github.io/logos/gitlab.svg)
 
+## Go
+![go-gopher](http://gilbarbara.github.io/logos/go-gopher.svg)
+
 ## google cloud
 ![google-cloud](http://gilbarbara.github.io/logos/google-cloud.svg)
 
