@@ -343,6 +343,9 @@ All logos were optimized (removed unnecessary paths/groups/defs, standardized, e
 ## postgresql
 ![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
 
+## precursor
+![precursor](http://gilbarbara.github.io/logos/precursor.svg)
+
 ## puppet
 ![puppet](http://gilbarbara.github.io/logos/puppet.svg)
 
