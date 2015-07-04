@@ -105,6 +105,9 @@ Please send the links to your favorite logos in the issues and I'll add them.
 ## coveralls
 ![coveralls](http://gilbarbara.github.io/logos/coveralls.svg)
 
+## Craft CMS
+![craftcms](http://gilbarbara.github.io/logos/craftcms.svg)
+
 ## Cross Browser Testing
 ![crossbrowsertesting](http://gilbarbara.github.io/logos/crossbrowsertesting.svg)
 
@@ -178,6 +181,9 @@ Please send the links to your favorite logos in the issues and I'll add them.
 
 ## gitlab
 ![gitlab](http://gilbarbara.github.io/logos/gitlab.svg)
+
+## Go
+![go-gopher](http://gilbarbara.github.io/logos/go-gopher.svg)
 
 ## google cloud
 ![google-cloud](http://gilbarbara.github.io/logos/google-cloud.svg)
@@ -345,6 +351,9 @@ Please send the links to your favorite logos in the issues and I'll add them.
 
 ## postgresql
 ![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
+
+## precursor
+![precursor](http://gilbarbara.github.io/logos/precursor.svg)
 
 ## puppet
 ![puppet](http://gilbarbara.github.io/logos/puppet.svg)
