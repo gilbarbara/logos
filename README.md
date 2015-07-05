@@ -450,7 +450,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>
 ![stackoverflow](http://gilbarbara.github.io/logos/stackoverflow.svg)
 
-## <a href="https://www.atlassian.com/software/stash" target="_blank">Stack</a>
+## <a href="https://www.atlassian.com/software/stash" target="_blank">Stash</a>
 ![stash](http://gilbarbara.github.io/logos/stash.svg)
 
 ## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
