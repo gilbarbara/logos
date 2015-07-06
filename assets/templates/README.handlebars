@@ -6,15 +6,15 @@ SVG Logos
 The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc).
 Some were recreated from rastered images.
 
-*All logos appearing on the site are the property of their respective owners.*
-
 ## Tips for working with SVGs
-• Always convert borders to paths. They use a fixed size and behave strangely when resized.
+• Always convert borders to paths. They use a fixed size and behave strangely when resized.  
 • Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
 
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
-Please add your requests in the issues preferably with links to the vector files.
+Please add your requests in the issues preferably with links to the vector files.  
+
+*All logos appearing on the site are the property of their respective owners.*
 
 ---
 
