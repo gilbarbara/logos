@@ -1350,7 +1350,7 @@
         "netbeans.svg"
       ],
       "shortname": "netbeans",
-      "url": "",
+      "url": "https://netbeans.org/",
       "tags": [
         "editor",
         "IDE"
@@ -1362,7 +1362,7 @@
         "new-relic.svg"
       ],
       "shortname": "new-relic",
-      "url": "",
+      "url": "http://newrelic.com/",
       "tags": [
         "software analytics",
         "SaaS"
@@ -1708,7 +1708,7 @@
         "segment.svg"
       ],
       "shortname": "segment",
-      "url": "",
+      "url": "https://segment.com/",
       "tags": [
         "customer data analytics",
         "service integration"
@@ -1750,7 +1750,7 @@
         "spring.svg"
       ],
       "shortname": "spring",
-      "url": "",
+      "url": "https://spring.io/",
       "tags": [
         "java",
         "framework"
@@ -1782,7 +1782,7 @@
         "struts.svg"
       ],
       "shortname": "struts",
-      "url": "",
+      "url": "https://struts.apache.org/",
       "tags": [
         "java",
         "framework"
@@ -1825,7 +1825,7 @@
         "symfony.svg"
       ],
       "shortname": "symfony",
-      "url": "",
+      "url": "https://symfony.com/",
       "tags": [
         "php",
         "framework"
@@ -1859,7 +1859,7 @@
         "vaadin.svg"
       ],
       "shortname": "vaadin",
-      "url": "",
+      "url": "https://vaadin.com/",
       "tags": [
         "java",
         "framework"
@@ -1894,7 +1894,7 @@
         "visual_website_optimizer.svg"
       ],
       "shortname": "visual_website_optimizer",
-      "url": "",
+      "url": "https://vwo.com/",
       "tags": [
         "testing",
         "a/b testing"

@@ -38,6 +38,7 @@ gulp.task('templates', function () {
         });
     });
     templateData.meta = meta.join(', ');
+    templateData.count = json.items.length;
 
     return gulp.src('assets/templates/index.handlebars')
         .pipe($.compileHandlebars(templateData, {
