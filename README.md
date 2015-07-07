@@ -550,6 +550,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
 ![stylus](http://gilbarbara.github.io/logos/stylus.svg)
 
+## <a href="https://subversion.apache.org/" target="_blank">Subversion</a>
+![subversion](http://gilbarbara.github.io/logos/subversion.svg)
+
 ## <a href="http://www.w3.org/Graphics/SVG/" target="_blank">SVG</a>
 ![svg](http://gilbarbara.github.io/logos/svg.svg)
 

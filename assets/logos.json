@@ -1946,6 +1946,17 @@
       ]
     },
     {
+      "name": "Subversion",
+      "files": [
+        "subversion.svg"
+      ],
+      "shortname": "subversion",
+      "url": "https://subversion.apache.org/",
+      "tags": [
+        "version control"
+      ]
+    },
+    {
       "name": "SVG",
       "files": [
         "svg.svg"
