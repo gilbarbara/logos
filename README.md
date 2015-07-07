@@ -87,6 +87,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>
 ![browserstack](http://gilbarbara.github.io/logos/browserstack.svg)
 
+## <a href="https://isocpp.org/" target="_blank">C++</a>
+![c++](http://gilbarbara.github.io/logos/c++.svg)
+
 ## <a href="http://capistranorb.com/" target="_blank">Capistrano</a>
 ![capistrano](http://gilbarbara.github.io/logos/capistrano.svg)
 
@@ -125,6 +128,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://compass-style.org/" target="_blank">Compass</a>
 ![compass](http://gilbarbara.github.io/logos/compass.svg)
 
+## <a href="https://github.com/componentjs/component" target="_blank">Component</a>
+![component](http://gilbarbara.github.io/logos/component.svg)
+
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
 ![couchdb](http://gilbarbara.github.io/logos/couchdb.svg)
 
@@ -142,6 +148,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://d3js.org/" target="_blank">D3</a>
 ![d3](http://gilbarbara.github.io/logos/d3.svg)
+
+## <a href="https://www.dartlang.org/" target="_blank">Dart</a>
+![dart](http://gilbarbara.github.io/logos/dart.svg)
+
+## <a href="http://deliciousdb.com/" target="_blank">DeliciousDB</a>
+![deliciousdb](http://gilbarbara.github.io/logos/delicious-burger.svg)
 
 ## <a href="https://www.digitalocean.com/" target="_blank">Digital Ocean</a>
 ![digital-ocean](http://gilbarbara.github.io/logos/digital-ocean.svg)
@@ -425,6 +437,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://nuclide.io/" target="_blank">Nuclide</a>
 ![nuclide](http://gilbarbara.github.io/logos/nuclide.svg)
 
+## <a href="http://nwjs.io/" target="_blank">NW.js a.k.a. Nodewebkit</a>
+![nwjs](http://gilbarbara.github.io/logos/nodewebkit.svg)
+
 ## <a href="http://oauth.net/" target="_blank">OAuth</a>
 ![oauth](http://gilbarbara.github.io/logos/oauth.svg)
 
@@ -456,6 +471,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a>
 ![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
+
+## <a href="" target="_blank">PouchDB</a>
+![pouchdb](http://gilbarbara.github.io/logos/pouchdb.svg)
 
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a>
 ![puppet](http://gilbarbara.github.io/logos/puppet.svg)
@@ -505,6 +523,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://segment.com/" target="_blank">Segment</a>
 ![segment](http://gilbarbara.github.io/logos/segment.svg)
 
+## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
+![sentry](http://gilbarbara.github.io/logos/sentry.svg)
+
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
 ![sinatra](http://gilbarbara.github.io/logos/sinatra.svg)
 
@@ -538,6 +559,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://symfony.com/" target="_blank">Symfony</a>
 ![symfony](http://gilbarbara.github.io/logos/symfony.svg)
 
+## <a href="https://taiga.io/" target="_blank">Taiga</a>
+![taiga](http://gilbarbara.github.io/logos/taiga.svg)
+
 ## <a href="http://traackr.com/" target="_blank">Traackr</a>
 ![traackr](http://gilbarbara.github.io/logos/traackr.svg)
 
@@ -545,6 +569,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![travis-ci](http://gilbarbara.github.io/logos/travis-ci-icon.svg)
 
 ![travis-ci](http://gilbarbara.github.io/logos/travis-ci.svg)
+
+## <a href="https://unity3d.com/" target="_blank">Unity</a>
+![unity](http://gilbarbara.github.io/logos/unity.svg)
 
 ## <a href="https://vaadin.com/" target="_blank">Vaadin</a>
 ![vaadin](http://gilbarbara.github.io/logos/vaadin.svg)
@@ -572,6 +599,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://wercker.com/" target="_blank">Wercker</a>
 ![wercker](http://gilbarbara.github.io/logos/wercker.svg)
+
+## <a href="https://wicket.apache.org/" target="_blank">Wicket</a>
+![wicket](http://gilbarbara.github.io/logos/wicket.svg)
 
 ## <a href="https://wordpress.org/" target="_blank">Wordpress</a>
 ![wordpress](http://gilbarbara.github.io/logos/wordpress-icon.svg)

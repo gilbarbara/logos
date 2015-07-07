@@ -255,6 +255,18 @@
       "shortname": "browserstack",
       "url": "https://www.browserstack.com/",
       "tags": [
+        
+      ]
+    },
+    {
+      "name": "C++",
+      "files": [
+        "c++.svg"
+      ],
+      "shortname": "c++",
+      "url": "https://isocpp.org/",
+      "tags": [
+        "language"
       ]
     },
     {
@@ -265,6 +277,7 @@
       "shortname": "capistrano",
       "url": "http://capistranorb.com/",
       "tags": [
+        
       ]
     },
     {
@@ -275,6 +288,7 @@
       "shortname": "cassandra",
       "url": "http://cassandra.apache.org/",
       "tags": [
+        
       ]
     },
     {
@@ -285,6 +299,7 @@
       "shortname": "chai",
       "url": "http://chaijs.com/",
       "tags": [
+        
       ]
     },
     {
@@ -295,6 +310,7 @@
       "shortname": "chalk",
       "url": "https://github.com/chalk/chalk",
       "tags": [
+        
       ]
     },
     {
@@ -365,6 +381,7 @@
       "shortname": "codeship",
       "url": "https://codeship.com/",
       "tags": [
+        
       ]
     },
     {
@@ -375,6 +392,7 @@
       "shortname": "coffeescript",
       "url": "http://coffeescript.org/",
       "tags": [
+        
       ]
     },
     {
@@ -391,6 +409,17 @@
       ]
     },
     {
+      "name": "Component",
+      "files": [
+        "component.svg"
+      ],
+      "shortname": "component",
+      "url": "https://github.com/componentjs/component",
+      "tags": [
+        "package manager"
+      ]
+    },
+    {
       "name": "CouchDB",
       "files": [
         "couchdb.svg"
@@ -398,6 +427,7 @@
       "shortname": "couchdb",
       "url": "http://couchdb.apache.org/",
       "tags": [
+        
       ]
     },
     {
@@ -419,6 +449,7 @@
       "shortname": "crossbrowsertesting",
       "url": "http://crossbrowsertesting.com/",
       "tags": [
+        
       ]
     },
     {
@@ -440,6 +471,7 @@
       "shortname": "cssnext",
       "url": "http://cssnext.io/",
       "tags": [
+        
       ]
     },
     {
@@ -450,6 +482,29 @@
       "shortname": "d3",
       "url": "http://d3js.org/",
       "tags": [
+        
+      ]
+    },
+    {
+      "name": "Dart",
+      "files": [
+        "dart.svg"
+      ],
+      "shortname": "dart",
+      "url": "https://www.dartlang.org/",
+      "tags": [
+        "language"
+      ]
+    },
+    {
+      "name": "DeliciousDB",
+      "files": [
+        "delicious-burger.svg"
+      ],
+      "shortname": "deliciousdb",
+      "url": "http://deliciousdb.com/",
+      "tags": [
+        "database"
       ]
     },
     {
@@ -460,6 +515,7 @@
       "shortname": "digital-ocean",
       "url": "https://www.digitalocean.com/",
       "tags": [
+        
       ]
     },
     {
@@ -470,6 +526,7 @@
       "shortname": "django",
       "url": "https://www.djangoproject.com/",
       "tags": [
+        
       ]
     },
     {
@@ -505,6 +562,7 @@
       "shortname": "drupal",
       "url": "https://www.drupal.org/",
       "tags": [
+        
       ]
     },
     {
@@ -527,6 +585,7 @@
       "shortname": "elasticsearch",
       "url": "https://www.elastic.co/products/elasticsearch",
       "tags": [
+        
       ]
     },
     {
@@ -562,6 +621,7 @@
       "shortname": "emmet",
       "url": "http://emmet.io/",
       "tags": [
+        
       ]
     },
     {
@@ -572,6 +632,7 @@
       "shortname": "engine-yard",
       "url": "https://www.engineyard.com/",
       "tags": [
+        
       ]
     },
     {
@@ -641,6 +702,7 @@
       "shortname": "firebase",
       "url": "https://www.firebase.com/",
       "tags": [
+        
       ]
     },
     {
@@ -662,6 +724,7 @@
       "shortname": "flask",
       "url": "http://flask.pocoo.org/",
       "tags": [
+        
       ]
     },
     {
@@ -672,6 +735,7 @@
       "shortname": "flexible-gs",
       "url": "http://flexible.gs/",
       "tags": [
+        
       ]
     },
     {
@@ -682,6 +746,7 @@
       "shortname": "flow",
       "url": "http://flowtype.org/",
       "tags": [
+        
       ]
     },
     {
@@ -703,6 +768,7 @@
       "shortname": "forever",
       "url": "https://github.com/foreverjs/forever",
       "tags": [
+        
       ]
     },
     {
@@ -826,6 +892,7 @@
       "shortname": "haml",
       "url": "http://haml.info/",
       "tags": [
+        
       ]
     },
     {
@@ -859,6 +926,7 @@
       "shortname": "harrow",
       "url": "https://www.harrow.io/",
       "tags": [
+        
       ]
     },
     {
@@ -903,6 +971,7 @@
       "shortname": "html5-boilerplate",
       "url": "https://html5boilerplate.com/",
       "tags": [
+        
       ]
     },
     {
@@ -913,6 +982,7 @@
       "shortname": "invision",
       "url": "http://www.invisionapp.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1097,6 +1167,7 @@
       "shortname": "keen",
       "url": "http://keen.io/",
       "tags": [
+        
       ]
     },
     {
@@ -1107,6 +1178,7 @@
       "shortname": "kraken",
       "url": "https://kraken.io/",
       "tags": [
+        
       ]
     },
     {
@@ -1117,6 +1189,7 @@
       "shortname": "krakenjs",
       "url": "http://krakenjs.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1127,6 +1200,7 @@
       "shortname": "laravel",
       "url": "http://laravel.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1137,6 +1211,7 @@
       "shortname": "leafjet",
       "url": "http://leafletjs.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1147,6 +1222,7 @@
       "shortname": "less",
       "url": "http://lesscss.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1157,6 +1233,7 @@
       "shortname": "lodash",
       "url": "https://lodash.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1192,6 +1269,7 @@
       "shortname": "mariadb",
       "url": "https://mariadb.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1202,6 +1280,7 @@
       "shortname": "marionette",
       "url": "http://marionettejs.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1212,6 +1291,7 @@
       "shortname": "markdown",
       "url": "http://daringfireball.net/projects/markdown/",
       "tags": [
+        
       ]
     },
     {
@@ -1222,6 +1302,7 @@
       "shortname": "material-ui",
       "url": "http://material-ui.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1232,6 +1313,7 @@
       "shortname": "mdn",
       "url": "https://developer.mozilla.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1242,6 +1324,7 @@
       "shortname": "memcached",
       "url": "http://memcached.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1277,6 +1360,7 @@
       "shortname": "mocha",
       "url": "http://mochajs.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1287,6 +1371,7 @@
       "shortname": "modernizr",
       "url": "http://modernizr.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1297,6 +1382,7 @@
       "shortname": "mongodb",
       "url": "https://www.mongodb.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1307,6 +1393,7 @@
       "shortname": "mysql",
       "url": "http://dev.mysql.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1317,6 +1404,7 @@
       "shortname": "nativescript",
       "url": "https://www.nativescript.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1376,6 +1464,7 @@
       "shortname": "nginx",
       "url": "https://www.nginx.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1386,6 +1475,7 @@
       "shortname": "nodejitsu",
       "url": "https://www.nodejitsu.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1409,6 +1499,7 @@
       "shortname": "nodemon",
       "url": "http://nodemon.io/",
       "tags": [
+        
       ]
     },
     {
@@ -1420,6 +1511,7 @@
       "shortname": "npm",
       "url": "https://www.npmjs.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1430,6 +1522,18 @@
       "shortname": "nuclide",
       "url": "http://nuclide.io/",
       "tags": [
+        
+      ]
+    },
+    {
+      "name": "NW.js a.k.a. Nodewebkit",
+      "files": [
+        "nodewebkit.svg"
+      ],
+      "shortname": "nwjs",
+      "url": "http://nwjs.io/",
+      "tags": [
+        "desktop apps"
       ]
     },
     {
@@ -1440,6 +1544,7 @@
       "shortname": "oauth",
       "url": "http://oauth.net/",
       "tags": [
+        
       ]
     },
     {
@@ -1450,6 +1555,7 @@
       "shortname": "open-graph",
       "url": "http://ogp.me/",
       "tags": [
+        
       ]
     },
     {
@@ -1460,6 +1566,7 @@
       "shortname": "openlayers",
       "url": "http://openlayers.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1470,6 +1577,7 @@
       "shortname": "optimizely",
       "url": "https://www.optimizely.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1480,6 +1588,7 @@
       "shortname": "passport",
       "url": "http://passportjs.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1540,6 +1649,19 @@
       ]
     },
     {
+      "name": "PouchDB",
+      "files": [
+        "pouchdb.svg"
+      ],
+      "shortname": "pouchdb",
+      "url": "",
+      "tags": [
+        "database",
+        "CouchDB",
+        "javascript"
+      ]
+    },
+    {
       "name": "Puppet",
       "files": [
         "puppet.svg"
@@ -1571,6 +1693,7 @@
       "shortname": "q",
       "url": "https://github.com/kriskowal/q",
       "tags": [
+        
       ]
     },
     {
@@ -1581,6 +1704,7 @@
       "shortname": "rails",
       "url": "http://rubyonrails.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1591,6 +1715,7 @@
       "shortname": "raphael",
       "url": "http://raphaeljs.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1614,6 +1739,7 @@
       "shortname": "redis",
       "url": "http://redis.io/",
       "tags": [
+        
       ]
     },
     {
@@ -1636,6 +1762,7 @@
       "shortname": "rest",
       "url": "https://en.wikipedia.org/wiki/Representational_state_transfer",
       "tags": [
+        
       ]
     },
     {
@@ -1669,6 +1796,7 @@
       "shortname": "rubygems",
       "url": "https://rubygems.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1679,6 +1807,7 @@
       "shortname": "saltstack",
       "url": "http://saltstack.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1689,6 +1818,7 @@
       "shortname": "sass",
       "url": "http://sass-lang.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1715,6 +1845,17 @@
       ]
     },
     {
+      "name": "Sentry",
+      "files": [
+        "sentry.svg"
+      ],
+      "shortname": "sentry",
+      "url": "https://getsentry.com/welcome/",
+      "tags": [
+        "error logging"
+      ]
+    },
+    {
       "name": "Sinatra",
       "files": [
         "sinatra.svg"
@@ -1722,6 +1863,7 @@
       "shortname": "sinatra",
       "url": "http://www.sinatrarb.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1732,6 +1874,7 @@
       "shortname": "snap-svg",
       "url": "http://snapsvg.io/",
       "tags": [
+        
       ]
     },
     {
@@ -1742,6 +1885,7 @@
       "shortname": "socket.io",
       "url": "http://socket.io/",
       "tags": [
+        
       ]
     },
     {
@@ -1764,6 +1908,7 @@
       "shortname": "stackoverflow",
       "url": "http://stackoverflow.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1774,6 +1919,7 @@
       "shortname": "stash",
       "url": "https://www.atlassian.com/software/stash",
       "tags": [
+        
       ]
     },
     {
@@ -1796,6 +1942,7 @@
       "shortname": "stylus",
       "url": "https://learnboost.github.io/stylus/",
       "tags": [
+        
       ]
     },
     {
@@ -1806,6 +1953,7 @@
       "shortname": "svg",
       "url": "http://www.w3.org/Graphics/SVG/",
       "tags": [
+        
       ]
     },
     {
@@ -1832,6 +1980,20 @@
       ]
     },
     {
+      "name": "Taiga",
+      "files": [
+        "taiga.svg"
+      ],
+      "shortname": "taiga",
+      "url": "https://taiga.io/",
+      "tags": [
+        "project management",
+        "agile",
+        "scrum",
+        "kanban"
+      ]
+    },
+    {
       "name": "Traackr",
       "files": [
         "traackr.svg"
@@ -1839,6 +2001,7 @@
       "shortname": "traackr",
       "url": "http://traackr.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1851,6 +2014,19 @@
       "url": "https://travis-ci.org/",
       "tags": [
         "continuous integration"
+      ]
+    },
+    {
+      "name": "Unity",
+      "files": [
+        "unity.svg"
+      ],
+      "shortname": "unity",
+      "url": "https://unity3d.com/",
+      "tags": [
+        "game engine",
+        "c",
+        "c++"
       ]
     },
     {
@@ -1886,6 +2062,7 @@
       "shortname": "visual-studio",
       "url": "https://www.visualstudio.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1908,6 +2085,7 @@
       "shortname": "vue",
       "url": "http://vuejs.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1918,6 +2096,7 @@
       "shortname": "w3c",
       "url": "http://www.w3.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1941,6 +2120,7 @@
       "shortname": "webplatform",
       "url": "https://www.webplatform.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1951,6 +2131,19 @@
       "shortname": "wercker",
       "url": "http://wercker.com/",
       "tags": [
+        
+      ]
+    },
+    {
+      "name": "Wicket",
+      "files": [
+        "wicket.svg"
+      ],
+      "shortname": "wicket",
+      "url": "https://wicket.apache.org/",
+      "tags": [
+        "java",
+        "framework"
       ]
     },
     {
@@ -1962,6 +2155,7 @@
       "shortname": "wordpress",
       "url": "https://wordpress.org/",
       "tags": [
+        
       ]
     },
     {
@@ -1972,6 +2166,7 @@
       "shortname": "ycombinator",
       "url": "http://www.ycombinator.com/",
       "tags": [
+        
       ]
     },
     {
@@ -1982,6 +2177,7 @@
       "shortname": "yeoman",
       "url": "http://yeoman.io/",
       "tags": [
+        
       ]
     }
   ]
