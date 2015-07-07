@@ -98,6 +98,17 @@
       ]
     },
     {
+      "name": "Awesome",
+      "files": [
+        "awesome.svg"
+      ],
+      "shortname": "awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "tags": [
+        "reference"
+      ]
+    },
+    {
       "name": "AWS",
       "files": [
         "aws.svg"
@@ -182,7 +193,8 @@
       "shortname": "blocs",
       "url": "http://blocsapp.com/",
       "tags": [
-        "prototyping"
+        "prototyping",
+        "layout"
       ]
     },
     {
@@ -350,6 +362,29 @@
       ]
     },
     {
+      "name": "Clojure",
+      "files": [
+        "clojure.svg"
+      ],
+      "shortname": "clojure",
+      "url": "http://clojure.org/",
+      "tags": [
+        "language"
+      ]
+    },
+    {
+      "name": "ClojureScript",
+      "files": [
+        "cljs.svg"
+      ],
+      "shortname": "cljs",
+      "url": "http://cljs.info/",
+      "tags": [
+        "clojure",
+        "javascript"
+      ]
+    },
+    {
       "name": "CodeIgniter",
       "files": [
         "codeigniter.svg"
@@ -382,6 +417,19 @@
       "url": "https://codeship.com/",
       "tags": [
         
+      ]
+    },
+    {
+      "name": "Codrops",
+      "files": [
+        "codrops.svg"
+      ],
+      "shortname": "codrops",
+      "url": "",
+      "tags": [
+        "tutorial",
+        "blog",
+        "reference"
       ]
     },
     {
@@ -505,6 +553,17 @@
       "url": "http://deliciousdb.com/",
       "tags": [
         "database"
+      ]
+    },
+    {
+      "name": "Designer News",
+      "files": [
+        "designernews.svg"
+      ],
+      "shortname": "designernews",
+      "url": "https://www.designernews.co/",
+      "tags": [
+        "social news"
       ]
     },
     {
@@ -772,6 +831,18 @@
       ]
     },
     {
+      "name": "Ghost",
+      "files": [
+        "ghost.svg"
+      ],
+      "shortname": "ghost",
+      "url": "https://ghost.org/",
+      "tags": [
+        "content management",
+        "blogging platform"
+      ]
+    },
+    {
       "name": "Git",
       "files": [
         "git-icon.svg",
@@ -938,6 +1009,18 @@
       "url": "https://www.haskell.org/",
       "tags": [
         "language"
+      ]
+    },
+    {
+      "name": "Haxe",
+      "files": [
+        "haxe.svg"
+      ],
+      "shortname": "haxe",
+      "url": "http://haxe.org/",
+      "tags": [
+        "language",
+        "toolkit"
       ]
     },
     {
@@ -1171,6 +1254,18 @@
       ]
     },
     {
+      "name": "Kitematic",
+      "files": [
+        "kitematic.svg"
+      ],
+      "shortname": "kitematic",
+      "url": "https://kitematic.com/",
+      "tags": [
+        "desktop app",
+        "docker"
+      ]
+    },
+    {
       "name": "Kraken",
       "files": [
         "kraken.svg"
@@ -1386,6 +1481,18 @@
       ]
     },
     {
+      "name": "Mono",
+      "files": [
+        "mono.svg"
+      ],
+      "shortname": "mono",
+      "url": "http://www.mono-project.com/",
+      "tags": [
+        ".net",
+        "framework"
+      ]
+    },
+    {
       "name": "MySQL",
       "files": [
         "mysql.svg"
@@ -1394,6 +1501,19 @@
       "url": "http://dev.mysql.com/",
       "tags": [
         
+      ]
+    },
+    {
+      "name": "Myth",
+      "files": [
+        "myth.svg"
+      ],
+      "shortname": "myth",
+      "url": "http://www.myth.io/",
+      "tags": [
+        "css",
+        "preprocessor",
+        "polyfill"
       ]
     },
     {
@@ -1581,6 +1701,17 @@
       ]
     },
     {
+      "name": "Panda",
+      "files": [
+        "panda.svg"
+      ],
+      "shortname": "panda",
+      "url": "http://usepanda.com/",
+      "tags": [
+        "newsfeed reader"
+      ]
+    },
+    {
       "name": "Passport",
       "files": [
         "passport.svg"
@@ -1638,6 +1769,19 @@
       ]
     },
     {
+      "name": "PostCSS",
+      "files": [
+        "postcss.svg"
+      ],
+      "shortname": "postcss",
+      "url": "https://github.com/postcss/postcss",
+      "tags": [
+        "css",
+        "preprocessor",
+        "transformer"
+      ]
+    },
+    {
       "name": "PostgreSQL",
       "files": [
         "postgresql.svg"
@@ -1659,6 +1803,29 @@
         "database",
         "CouchDB",
         "javascript"
+      ]
+    },
+    {
+      "name": "Precursor",
+      "files": [
+        "precursor.svg"
+      ],
+      "shortname": "precursor",
+      "url": "https://precursorapp.com/",
+      "tags": [
+        "prototyping",
+        "layout"
+      ]
+    },
+    {
+      "name": "Product Hunt",
+      "files": [
+        "producthunt.svg"
+      ],
+      "shortname": "producthunt",
+      "url": "http://www.producthunt.com/",
+      "tags": [
+        "social news"
       ]
     },
     {
@@ -1797,6 +1964,20 @@
       "url": "https://rubygems.org/",
       "tags": [
         
+      ]
+    },
+    {
+      "name": "Rum",
+      "files": [
+        "rum.svg"
+      ],
+      "shortname": "rum",
+      "url": "https://github.com/tonsky/rum",
+      "tags": [
+        "clojure",
+        "clojureScript",
+        "react",
+        "framework"
       ]
     },
     {

@@ -44,6 +44,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/postcss/autoprefixer" target="_blank">Autoprefixer</a>
 ![autoprefixer](http://gilbarbara.github.io/logos/autoprefixer.svg)
 
+## <a href="https://github.com/sindresorhus/awesome" target="_blank">Awesome</a>
+![awesome](http://gilbarbara.github.io/logos/awesome.svg)
+
 ## <a href="http://aws.amazon.com/" target="_blank">AWS</a>
 ![aws](http://gilbarbara.github.io/logos/aws.svg)
 
@@ -111,6 +114,12 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://circleci.com/" target="_blank">CircleCI</a>
 ![circleci](http://gilbarbara.github.io/logos/circleci.svg)
 
+## <a href="http://clojure.org/" target="_blank">Clojure</a>
+![clojure](http://gilbarbara.github.io/logos/clojure.svg)
+
+## <a href="http://cljs.info/" target="_blank">ClojureScript</a>
+![cljs](http://gilbarbara.github.io/logos/cljs.svg)
+
 ## <a href="http://www.codeigniter.com/" target="_blank">CodeIgniter</a>
 ![codeigniter](http://gilbarbara.github.io/logos/codeigniter.svg)
 
@@ -121,6 +130,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://codeship.com/" target="_blank">Codeship</a>
 ![codeship](http://gilbarbara.github.io/logos/codeship.svg)
+
+## <a href="" target="_blank">Codrops</a>
+![codrops](http://gilbarbara.github.io/logos/codrops.svg)
 
 ## <a href="http://coffeescript.org/" target="_blank">CoffeeScript</a>
 ![coffeescript](http://gilbarbara.github.io/logos/coffeescript.svg)
@@ -154,6 +166,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://deliciousdb.com/" target="_blank">DeliciousDB</a>
 ![deliciousdb](http://gilbarbara.github.io/logos/delicious-burger.svg)
+
+## <a href="https://www.designernews.co/" target="_blank">Designer News</a>
+![designernews](http://gilbarbara.github.io/logos/designernews.svg)
 
 ## <a href="https://www.digitalocean.com/" target="_blank">Digital Ocean</a>
 ![digital-ocean](http://gilbarbara.github.io/logos/digital-ocean.svg)
@@ -226,6 +241,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/foreverjs/forever" target="_blank">Forever</a>
 ![forever](http://gilbarbara.github.io/logos/forever.svg)
 
+## <a href="https://ghost.org/" target="_blank">Ghost</a>
+![ghost](http://gilbarbara.github.io/logos/ghost.svg)
+
 ## <a href="https://git-scm.com/" target="_blank">Git</a>
 ![git](http://gilbarbara.github.io/logos/git-icon.svg)
 
@@ -273,6 +291,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.haskell.org/" target="_blank">Haskell</a>
 ![haskell](http://gilbarbara.github.io/logos/haskell.svg)
+
+## <a href="http://haxe.org/" target="_blank">Haxe</a>
+![haxe](http://gilbarbara.github.io/logos/haxe.svg)
 
 ## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
 ![heroku](http://gilbarbara.github.io/logos/heroku.svg)
@@ -333,6 +354,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://keen.io/" target="_blank">Keen IO</a>
 ![keen](http://gilbarbara.github.io/logos/keen.svg)
+
+## <a href="https://kitematic.com/" target="_blank">Kitematic</a>
+![kitematic](http://gilbarbara.github.io/logos/kitematic.svg)
 
 ## <a href="https://kraken.io/" target="_blank">Kraken</a>
 ![kraken](http://gilbarbara.github.io/logos/kraken.svg)
@@ -397,8 +421,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.mongodb.org/" target="_blank">MongoDB</a>
 ![mongodb](http://gilbarbara.github.io/logos/mongodb.svg)
 
+## <a href="http://www.mono-project.com/" target="_blank">Mono</a>
+![mono](http://gilbarbara.github.io/logos/mono.svg)
+
 ## <a href="http://dev.mysql.com/" target="_blank">MySQL</a>
 ![mysql](http://gilbarbara.github.io/logos/mysql.svg)
+
+## <a href="http://www.myth.io/" target="_blank">Myth</a>
+![myth](http://gilbarbara.github.io/logos/myth.svg)
 
 ## <a href="https://www.nativescript.org/" target="_blank">NativeScript</a>
 ![nativescript](http://gilbarbara.github.io/logos/nativescript.svg)
@@ -452,6 +482,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
 ![optimizely](http://gilbarbara.github.io/logos/optimizely.svg)
 
+## <a href="http://usepanda.com/" target="_blank">Panda</a>
+![panda](http://gilbarbara.github.io/logos/panda.svg)
+
 ## <a href="http://passportjs.org/" target="_blank">Passport</a>
 ![passport](http://gilbarbara.github.io/logos/passport.svg)
 
@@ -469,11 +502,20 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.polymer-project.org/1.0/" target="_blank">Polymer</a>
 ![polymer](http://gilbarbara.github.io/logos/polymer.svg)
 
+## <a href="https://github.com/postcss/postcss" target="_blank">PostCSS</a>
+![postcss](http://gilbarbara.github.io/logos/postcss.svg)
+
 ## <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a>
 ![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
 
 ## <a href="" target="_blank">PouchDB</a>
 ![pouchdb](http://gilbarbara.github.io/logos/pouchdb.svg)
+
+## <a href="https://precursorapp.com/" target="_blank">Precursor</a>
+![precursor](http://gilbarbara.github.io/logos/precursor.svg)
+
+## <a href="http://www.producthunt.com/" target="_blank">Product Hunt</a>
+![producthunt](http://gilbarbara.github.io/logos/producthunt.svg)
 
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a>
 ![puppet](http://gilbarbara.github.io/logos/puppet.svg)
@@ -510,6 +552,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://rubygems.org/" target="_blank">RubyGems</a>
 ![rubygems](http://gilbarbara.github.io/logos/rubygems.svg)
+
+## <a href="https://github.com/tonsky/rum" target="_blank">Rum</a>
+![rum](http://gilbarbara.github.io/logos/rum.svg)
 
 ## <a href="http://saltstack.com/" target="_blank">SaltStack</a>
 ![saltstack](http://gilbarbara.github.io/logos/saltstack.svg)
