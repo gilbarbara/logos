@@ -13,14 +13,19 @@
     "del": "^1.2",
     "gulp": "^3.9",
     "gulp-autoprefixer": "^2.3",
+    "gulp-compile-handlebars": "^0.5.0",
     "gulp-cssmin": "^0.1",
+    "gulp-debug": "^2.0.1",
     "gulp-gh-pages": "^0.5",
     "gulp-if": "^1.2",
     "gulp-load-plugins": "^0.10",
     "gulp-plumber": "^1.0",
+    "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.5",
     "gulp-sass": "^2.0",
-    "gulp-useref": "^1.2"
+    "gulp-uglify": "^1.2.0",
+    "gulp-useref": "^1.2",
+    "run-sequence": "^1.1.1"
   },
   "engines": {
     "node": ">=0.10.0"
