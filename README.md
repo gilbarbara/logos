@@ -131,7 +131,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://codeship.com/" target="_blank">Codeship</a>
 ![codeship](http://gilbarbara.github.io/logos/codeship.svg)
 
-## <a href="" target="_blank">Codrops</a>
+## <a href="http://tympanus.net/codrops/" target="_blank">Codrops</a>
 ![codrops](http://gilbarbara.github.io/logos/codrops.svg)
 
 ## <a href="http://coffeescript.org/" target="_blank">CoffeeScript</a>
@@ -508,7 +508,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a>
 ![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
 
-## <a href="" target="_blank">PouchDB</a>
+## <a href="http://pouchdb.com/" target="_blank">PouchDB</a>
 ![pouchdb](http://gilbarbara.github.io/logos/pouchdb.svg)
 
 ## <a href="https://precursorapp.com/" target="_blank">Precursor</a>
