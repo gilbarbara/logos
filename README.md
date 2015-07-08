@@ -331,6 +331,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>
 ![jetbrains](http://gilbarbara.github.io/logos/jetbrains.svg)
 
+## <a href="http://jhipster.github.io/" target="_blank">jhipster</a>
+![jhipster](http://gilbarbara.github.io/logos/jhipster.svg)
+
 ## <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA</a>
 ![jira](http://gilbarbara.github.io/logos/jira.svg)
 
@@ -661,4 +664,3 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://yeoman.io/" target="_blank">Yeoman</a>
 ![yeoman](http://gilbarbara.github.io/logos/yeoman.svg)
-
