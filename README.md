@@ -194,7 +194,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://electron.atom.io/" target="_blank">Electron</a>
 ![electron](http://gilbarbara.github.io/logos/electron.svg)
 
-## <a href="https://www.gnu.org/software/emacs/" target="_blank"></a>
+## <a href="https://www.gnu.org/software/emacs/" target="_blank">emacs</a>
 ![emacs](http://gilbarbara.github.io/logos/emacs.svg)
 
 ## <a href="http://emberjs.com/" target="_blank">Ember</a>
@@ -629,6 +629,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a>
 ![vagrant](http://gilbarbara.github.io/logos/vagrant.svg)
+
+## <a href="http://www.vim.org/" target="_blank">vim</a>
+![vim](http://gilbarbara.github.io/logos/vim.svg)
 
 ## <a href="https://www.visualstudio.com/" target="_blank">Visual Studio</a>
 ![visual-studio](http://gilbarbara.github.io/logos/visual-studio.svg)
