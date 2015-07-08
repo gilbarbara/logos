@@ -194,6 +194,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://electron.atom.io/" target="_blank">Electron</a>
 ![electron](http://gilbarbara.github.io/logos/electron.svg)
 
+## <a href="https://www.gnu.org/software/emacs/" target="_blank"></a>
+![emacs](http://gilbarbara.github.io/logos/emacs.svg)
+
 ## <a href="http://emberjs.com/" target="_blank">Ember</a>
 ![ember](http://gilbarbara.github.io/logos/ember-tomster.svg)
 
