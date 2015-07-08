@@ -69,7 +69,7 @@
       "shortname": "atom",
       "url": "https://atom.io/",
       "tags": [
-        "editor",
+        "code editor",
         "node.js"
       ]
     },
@@ -241,7 +241,7 @@
       "shortname": "brackets",
       "url": "http://brackets.io/",
       "tags": [
-        "editor"
+        "code editor"
       ]
     },
     {
@@ -405,7 +405,9 @@
       "shortname": "codepen",
       "url": "http://codepen.io/",
       "tags": [
-        "code playground"
+        "code playground",
+        "code editor",
+        "service"
       ]
     },
     {
@@ -632,7 +634,7 @@
       "shortname": "eclipse",
       "url": "https://eclipse.org/",
       "tags": [
-        "editor",
+        "code editor",
         "IDE"
       ]
     },
@@ -1058,6 +1060,17 @@
       ]
     },
     {
+      "name": "Imagemin",
+      "files": [
+        "imagemin.svg"
+      ],
+      "shortname": "imagemin",
+      "url": "https://github.com/imagemin/imagemin",
+      "tags": [
+        "image optimization"
+      ]
+    },
+    {
       "name": "Invision",
       "files": [
         "invision.svg"
@@ -1157,8 +1170,23 @@
       "shortname": "jetbrains",
       "url": "https://www.jetbrains.com/",
       "tags": [
-        "editor",
+        "code editor",
         "IDE"
+      ]
+    },
+    {
+      "name": "Jhipster",
+      "files": [
+        "jhipster.svg"
+      ],
+      "shortname": "jhipster",
+      "url": "https://jhipster.github.io/",
+      "tags": [
+        "yeoman",
+        "generator",
+        "java",
+        "spring",
+        "angular"
       ]
     },
     {
@@ -1206,6 +1234,31 @@
       "url": "https://jsbin.com/",
       "tags": [
         "code playground"
+      ]
+    },
+    {
+      "name": "JSCS",
+      "files": [
+        "jscs.svg"
+      ],
+      "shortname": "jscs",
+      "url": "http://jscs.info/",
+      "tags": [
+        "linter",
+        "javascript"
+      ]
+    },
+    {
+      "name": "JSFiddle",
+      "files": [
+        "jsfiddle.svg"
+      ],
+      "shortname": "jsfiddle",
+      "url": "",
+      "tags": [
+        "playground",
+        "code editor",
+        "service"
       ]
     },
     {
@@ -1553,6 +1606,18 @@
       ]
     },
     {
+      "name": "Neovim",
+      "files": [
+        "neovim.svg"
+      ],
+      "shortname": "neovim",
+      "url": "http://neovim.io/",
+      "tags": [
+        "vim",
+        "code editor"
+      ]
+    },
+    {
       "name": "Netbeans",
       "files": [
         "netbeans.svg"
@@ -1560,7 +1625,7 @@
       "shortname": "netbeans",
       "url": "https://netbeans.org/",
       "tags": [
-        "editor",
+        "code editor",
         "IDE"
       ]
     },
@@ -1765,7 +1830,8 @@
       "shortname": "polymer",
       "url": "https://www.polymer-project.org/1.0/",
       "tags": [
-        "components"
+        "components",
+        "polyfill"
       ]
     },
     {
@@ -1883,6 +1949,17 @@
       "url": "http://raphaeljs.com/",
       "tags": [
         
+      ]
+    },
+    {
+      "name": "Raspberry Pi",
+      "files": [
+        "raspberry-pi.svg"
+      ],
+      "shortname": "raspberry-pi",
+      "url": "https://www.raspberrypi.org/",
+      "tags": [
+        "hardware"
       ]
     },
     {
@@ -2186,6 +2263,18 @@
       ]
     },
     {
+      "name": "TodoMVC",
+      "files": [
+        "todomvc.svg"
+      ],
+      "shortname": "todomvc",
+      "url": "http://todomvc.com/",
+      "tags": [
+        "javascript",
+        "tutorials"
+      ]
+    },
+    {
       "name": "Traackr",
       "files": [
         "traackr.svg"
@@ -2289,6 +2378,18 @@
       "url": "http://www.w3.org/",
       "tags": [
         
+      ]
+    },
+    {
+      "name": "WebComponents",
+      "files": [
+        "webcomponents.svg"
+      ],
+      "shortname": "webcomponents",
+      "url": "http://webcomponents.org/",
+      "tags": [
+        "components",
+        "shadow dom"
       ]
     },
     {

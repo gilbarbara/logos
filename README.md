@@ -304,6 +304,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://html5boilerplate.com/" target="_blank">HTML5 Boilerplate</a>
 ![html5-boilerplate](http://gilbarbara.github.io/logos/html5-boilerplate.svg)
 
+## <a href="https://github.com/imagemin/imagemin" target="_blank">Imagemin</a>
+![imagemin](http://gilbarbara.github.io/logos/imagemin.svg)
+
 ## <a href="http://www.invisionapp.com/" target="_blank">Invision</a>
 ![invision](http://gilbarbara.github.io/logos/invision.svg)
 
@@ -331,6 +334,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>
 ![jetbrains](http://gilbarbara.github.io/logos/jetbrains.svg)
 
+## <a href="https://jhipster.github.io/" target="_blank">Jhipster</a>
+![jhipster](http://gilbarbara.github.io/logos/jhipster.svg)
+
 ## <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA</a>
 ![jira](http://gilbarbara.github.io/logos/jira.svg)
 
@@ -342,6 +348,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://jsbin.com/" target="_blank">jsbin</a>
 ![jsbin](http://gilbarbara.github.io/logos/jsbin.svg)
+
+## <a href="http://jscs.info/" target="_blank">JSCS</a>
+![jscs](http://gilbarbara.github.io/logos/jscs.svg)
+
+## <a href="" target="_blank">JSFiddle</a>
+![jsfiddle](http://gilbarbara.github.io/logos/jsfiddle.svg)
 
 ## <a href="http://json.org/" target="_blank">JSON</a>
 ![json](http://gilbarbara.github.io/logos/json.svg)
@@ -439,6 +451,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://neo4j.com/" target="_blank">Neo4j</a>
 ![neo4j](http://gilbarbara.github.io/logos/neo4j.svg)
 
+## <a href="http://neovim.io/" target="_blank">Neovim</a>
+![neovim](http://gilbarbara.github.io/logos/neovim.svg)
+
 ## <a href="https://netbeans.org/" target="_blank">Netbeans</a>
 ![netbeans](http://gilbarbara.github.io/logos/netbeans.svg)
 
@@ -532,6 +547,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://raphaeljs.com/" target="_blank">Raphaël</a>
 ![raphael](http://gilbarbara.github.io/logos/raphael.svg)
 
+## <a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a>
+![raspberry-pi](http://gilbarbara.github.io/logos/raspberry-pi.svg)
+
 ## <a href="https://facebook.github.io/react/" target="_blank">React</a>
 ![react](http://gilbarbara.github.io/logos/react.svg)
 
@@ -610,6 +628,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://taiga.io/" target="_blank">Taiga</a>
 ![taiga](http://gilbarbara.github.io/logos/taiga.svg)
 
+## <a href="http://todomvc.com/" target="_blank">TodoMVC</a>
+![todomvc](http://gilbarbara.github.io/logos/todomvc.svg)
+
 ## <a href="http://traackr.com/" target="_blank">Traackr</a>
 ![traackr](http://gilbarbara.github.io/logos/traackr.svg)
 
@@ -638,6 +659,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.w3.org/" target="_blank">W3C</a>
 ![w3c](http://gilbarbara.github.io/logos/w3c.svg)
+
+## <a href="http://webcomponents.org/" target="_blank">WebComponents</a>
+![webcomponents](http://gilbarbara.github.io/logos/webcomponents.svg)
 
 ## <a href="http://webpack.github.io/" target="_blank">webpack</a>
 ![webpack](http://gilbarbara.github.io/logos/webpack.svg)
