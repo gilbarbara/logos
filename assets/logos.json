@@ -1364,7 +1364,7 @@
         "jsfiddle.svg"
       ],
       "shortname": "jsfiddle",
-      "url": "",
+      "url": "https://jsfiddle.net/",
       "tags": [
         "playground",
         "code editor",
@@ -2319,7 +2319,7 @@
         "semaphore.svg"
       ],
       "shortname": "semaphore",
-      "url": "",
+      "url": "https://semaphoreci.com/",
       "tags": [
         "code deployment",
         "continuous integration"

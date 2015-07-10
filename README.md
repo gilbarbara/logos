@@ -367,7 +367,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://jscs.info/" target="_blank">JSCS</a>
 ![jscs](http://gilbarbara.github.io/logos/jscs.svg)
 
-## <a href="" target="_blank">JSFiddle</a>
+## <a href="https://jsfiddle.net/" target="_blank">JSFiddle</a>
 ![jsfiddle](http://gilbarbara.github.io/logos/jsfiddle.svg)
 
 ## <a href="http://json.org/" target="_blank">JSON</a>
@@ -616,7 +616,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://segment.com/" target="_blank">Segment</a>
 ![segment](http://gilbarbara.github.io/logos/segment.svg)
 
-## <a href="" target="_blank">Semaphore</a>
+## <a href="https://semaphoreci.com/" target="_blank">Semaphore</a>
 ![semaphore](http://gilbarbara.github.io/logos/semaphore.svg)
 
 ## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
