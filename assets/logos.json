@@ -180,10 +180,9 @@
       "shortname": "bitbucket",
       "url": "https://bitbucket.org/",
       "tags": [
-        "code management",
         "git",
         "mercurial",
-        "version control"
+        "code management"
       ]
     },
     {
@@ -196,6 +195,18 @@
       "tags": [
         "prototyping",
         "layout"
+      ]
+    },
+    {
+      "name": "Blossom",
+      "files": [
+        "blossom.svg"
+      ],
+      "shortname": "blossom",
+      "url": "https://www.blossom.co/",
+      "tags": [
+        "project management",
+        "agile"
       ]
     },
     {
@@ -307,7 +318,6 @@
       "tags": [
         "database",
         "nosql",
-        "dynamo",
         "storage"
       ]
     },
@@ -398,6 +408,21 @@
       ]
     },
     {
+      "name": "Codebase",
+      "files": [
+        "codebase.svg"
+      ],
+      "shortname": "codebase",
+      "url": "https://www.codebasehq.com/",
+      "tags": [
+        "git",
+        "mercurial",
+        "subversion",
+        "code management",
+        "issue tracker"
+      ]
+    },
+    {
       "name": "CodeIgniter",
       "files": [
         "codeigniter.svg"
@@ -431,6 +456,7 @@
       "shortname": "codeship",
       "url": "https://codeship.com/",
       "tags": [
+        "code deployment",
         "continuous integration"
       ]
     },
@@ -582,6 +608,17 @@
       ]
     },
     {
+      "name": "Deploy",
+      "files": [
+        "deploy.svg"
+      ],
+      "shortname": "deploy",
+      "url": "https://www.deployhq.com/",
+      "tags": [
+        "code deployment"
+      ]
+    },
+    {
       "name": "Designer News",
       "files": [
         "designernews.svg"
@@ -602,6 +639,18 @@
       "tags": [
         "cloud computing",
         "IaaS"
+      ]
+    },
+    {
+      "name": "Divshot",
+      "files": [
+        "divshot.svg"
+      ],
+      "shortname": "divshot",
+      "url": "https://divshot.com/",
+      "tags": [
+        "code hosting",
+        "prototyping"
       ]
     },
     {
@@ -628,6 +677,17 @@
         "code deployment",
         "container",
         "IaaS"
+      ]
+    },
+    {
+      "name": "Drone",
+      "files": [
+        "drone.svg"
+      ],
+      "shortname": "drone",
+      "url": "https://drone.io/",
+      "tags": [
+        "continuous integration"
       ]
     },
     {
@@ -911,7 +971,6 @@
       "tags": [
         "git",
         "code management",
-        "version control",
         "issue tracker"
       ]
     },
@@ -925,8 +984,7 @@
       "tags": [
         "git",
         "code management",
-        "continuous integration",
-        "version control"
+        "continuous integration"
       ]
     },
     {
@@ -1046,7 +1104,7 @@
       "shortname": "harrow",
       "url": "https://www.harrow.io/",
       "tags": [
-        "code integration",
+        "continuous integration",
         "capistrano"
       ]
     },
@@ -1447,6 +1505,29 @@
       ]
     },
     {
+      "name": "Lucene",
+      "files": [
+        "lucene.svg"
+      ],
+      "shortname": "lucene",
+      "url": "http://lucene.apache.org/",
+      "tags": [
+        "search engine"
+      ]
+    },
+    {
+      "name": "Lucene.net",
+      "files": [
+        "lucene.net.svg"
+      ],
+      "shortname": "lucene.net",
+      "url": "https://lucenenet.apache.org/",
+      "tags": [
+        "lucene",
+        "search engine"
+      ]
+    },
+    {
       "name": "Mailchimp",
       "files": [
         "mailchimp.svg",
@@ -1823,6 +1904,18 @@
       ]
     },
     {
+      "name": "Open Source Hardware Association",
+      "files": [
+        "oshw.svg"
+      ],
+      "shortname": "oshw",
+      "url": "http://www.oshwa.org/",
+      "tags": [
+        "hardware",
+        "association"
+      ]
+    },
+    {
       "name": "OpenLayers",
       "files": [
         "openlayers.svg"
@@ -1892,6 +1985,30 @@
       "url": "http://php.net/",
       "tags": [
         "language"
+      ]
+    },
+    {
+      "name": "Pingdom",
+      "files": [
+        "pingdom.svg"
+      ],
+      "shortname": "pingdom",
+      "url": "https://www.pingdom.com/",
+      "tags": [
+        "server monitoring"
+      ]
+    },
+    {
+      "name": "Pixelapse",
+      "files": [
+        "pixelapse.svg"
+      ],
+      "shortname": "pixelapse",
+      "url": "https://www.pixelapse.com/",
+      "tags": [
+        "version control",
+        "layout",
+        "ui"
       ]
     },
     {
@@ -2109,7 +2226,6 @@
       "tags": [
         "database",
         "nosql",
-        "dynamo",
         "storage"
       ]
     },
@@ -2198,6 +2314,18 @@
       ]
     },
     {
+      "name": "Semaphore",
+      "files": [
+        "semaphore.svg"
+      ],
+      "shortname": "semaphore",
+      "url": "",
+      "tags": [
+        "code deployment",
+        "continuous integration"
+      ]
+    },
+    {
       "name": "Sentry",
       "files": [
         "sentry.svg"
@@ -2277,8 +2405,7 @@
       "url": "https://www.atlassian.com/software/stash",
       "tags": [
         "git",
-        "code management",
-        "version control"
+        "code management"
       ]
     },
     {
@@ -2435,6 +2562,17 @@
       "tags": [
         "configuration management",
         "ruby"
+      ]
+    },
+    {
+      "name": "Vim",
+      "files": [
+        "vim.svg"
+      ],
+      "shortname": "vim",
+      "url": "http://www.vim.org/",
+      "tags": [
+        "code editor"
       ]
     },
     {

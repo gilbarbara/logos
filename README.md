@@ -70,6 +70,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://blocsapp.com/" target="_blank">Blocs</a>
 ![blocs](http://gilbarbara.github.io/logos/blocs.svg)
 
+## <a href="https://www.blossom.co/" target="_blank">Blossom</a>
+![blossom](http://gilbarbara.github.io/logos/blossom.svg)
+
 ## <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
 ![bootstrap](http://gilbarbara.github.io/logos/bootstrap.svg)
 
@@ -120,6 +123,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://cljs.info/" target="_blank">ClojureScript</a>
 ![cljs](http://gilbarbara.github.io/logos/cljs.svg)
 
+## <a href="https://www.codebasehq.com/" target="_blank">Codebase</a>
+![codebase](http://gilbarbara.github.io/logos/codebase.svg)
+
 ## <a href="http://www.codeigniter.com/" target="_blank">CodeIgniter</a>
 ![codeigniter](http://gilbarbara.github.io/logos/codeigniter.svg)
 
@@ -167,17 +173,26 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://deliciousdb.com/" target="_blank">DeliciousDB</a>
 ![deliciousdb](http://gilbarbara.github.io/logos/delicious-burger.svg)
 
+## <a href="https://www.deployhq.com/" target="_blank">Deploy</a>
+![deploy](http://gilbarbara.github.io/logos/deploy.svg)
+
 ## <a href="https://www.designernews.co/" target="_blank">Designer News</a>
 ![designernews](http://gilbarbara.github.io/logos/designernews.svg)
 
-## <a href="https://www.digitalocean.com/" target="_blank">Digital Ocean</a>
-![digital-ocean](http://gilbarbara.github.io/logos/digital-ocean.svg)
+## <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
+![digitalocean](http://gilbarbara.github.io/logos/digitalocean.svg)
+
+## <a href="https://divshot.com/" target="_blank">Divshot</a>
+![divshot](http://gilbarbara.github.io/logos/divshot.svg)
 
 ## <a href="https://www.djangoproject.com/" target="_blank">Django</a>
 ![django](http://gilbarbara.github.io/logos/django.svg)
 
 ## <a href="https://www.docker.com/" target="_blank">docker</a>
 ![docker](http://gilbarbara.github.io/logos/docker.svg)
+
+## <a href="https://drone.io/" target="_blank">Drone</a>
+![drone](http://gilbarbara.github.io/logos/drone.svg)
 
 ## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
 ![.net](http://gilbarbara.github.io/logos/dotnet.svg)
@@ -304,7 +319,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://html5boilerplate.com/" target="_blank">HTML5 Boilerplate</a>
 ![html5-boilerplate](http://gilbarbara.github.io/logos/html5-boilerplate.svg)
 
-## <a href="https://github.com/imagemin/imagemin" target="_blank">Imagemin</a>
+## <a href="https://github.com/imagemin/imagemin" target="_blank">imagemin</a>
 ![imagemin](http://gilbarbara.github.io/logos/imagemin.svg)
 
 ## <a href="http://www.invisionapp.com/" target="_blank">Invision</a>
@@ -358,7 +373,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://json.org/" target="_blank">JSON</a>
 ![json](http://gilbarbara.github.io/logos/json.svg)
 
-## <a href="http://jspm.io/" target="_blank">jspm</a>
+## <a href="http://jspm.io/" target="_blank">JSPM</a>
 ![jspm](http://gilbarbara.github.io/logos/jspm.svg)
 
 ## <a href="http://karma-runner.github.io/" target="_blank">Karma</a>
@@ -387,6 +402,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://lodash.com/" target="_blank">Lodash</a>
 ![lodash](http://gilbarbara.github.io/logos/lodash.svg)
+
+## <a href="http://lucene.apache.org/" target="_blank">Lucene</a>
+![lucene](http://gilbarbara.github.io/logos/lucene.svg)
+
+## <a href="https://lucenenet.apache.org/" target="_blank">Lucene.net</a>
+![lucene.net](http://gilbarbara.github.io/logos/lucene.net.svg)
 
 ## <a href="http://mailchimp.com/" target="_blank">Mailchimp</a>
 ![mailchimp](http://gilbarbara.github.io/logos/mailchimp.svg)
@@ -491,6 +512,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://ogp.me/" target="_blank">Open Graph</a>
 ![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
 
+## <a href="http://www.oshwa.org/" target="_blank">Open Source Hardware Association</a>
+![oshw](http://gilbarbara.github.io/logos/oshw.svg)
+
 ## <a href="http://openlayers.org/" target="_blank">OpenLayers</a>
 ![openlayers](http://gilbarbara.github.io/logos/openlayers.svg)
 
@@ -510,6 +534,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://php.net/" target="_blank">PHP</a>
 ![php](http://gilbarbara.github.io/logos/php.svg)
+
+## <a href="https://www.pingdom.com/" target="_blank">Pingdom</a>
+![pingdom](http://gilbarbara.github.io/logos/pingdom.svg)
+
+## <a href="https://www.pixelapse.com/" target="_blank">Pixelapse</a>
+![pixelapse](http://gilbarbara.github.io/logos/pixelapse.svg)
 
 ## <a href="https://www.playframework.com/" target="_blank">Play</a>
 ![play](http://gilbarbara.github.io/logos/play.svg)
@@ -586,6 +616,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://segment.com/" target="_blank">Segment</a>
 ![segment](http://gilbarbara.github.io/logos/segment.svg)
 
+## <a href="" target="_blank">Semaphore</a>
+![semaphore](http://gilbarbara.github.io/logos/semaphore.svg)
+
 ## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
 ![sentry](http://gilbarbara.github.io/logos/sentry.svg)
 
@@ -647,6 +680,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a>
 ![vagrant](http://gilbarbara.github.io/logos/vagrant.svg)
+
+## <a href="http://www.vim.org/" target="_blank">Vim</a>
+![vim](http://gilbarbara.github.io/logos/vim.svg)
 
 ## <a href="https://www.visualstudio.com/" target="_blank">Visual Studio</a>
 ![visual-studio](http://gilbarbara.github.io/logos/visual-studio.svg)
