@@ -195,7 +195,8 @@
       "tags": [
         "prototyping",
         "layout"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Blossom",
@@ -220,7 +221,8 @@
         "css",
         "framework",
         "ui"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "bourbon",
@@ -334,7 +336,8 @@
         "testing",
         "assertion",
         "mocha"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Chalk",
@@ -458,7 +461,8 @@
       "tags": [
         "code deployment",
         "continuous integration"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Codrops",
@@ -471,7 +475,8 @@
         "tutorial",
         "blog",
         "reference"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "CoffeeScript",
@@ -496,7 +501,8 @@
         "css",
         "sass",
         "framework"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Component",
@@ -508,6 +514,19 @@
       "tags": [
         "javascript",
         "package manager"
+      ],
+      "converted": true
+    },
+    {
+      "name": "Cordova",
+      "files": [
+        "cordova.svg"
+      ],
+      "shortname": "cordova",
+      "url": "https://cordova.apache.org/",
+      "tags": [
+        "javascript",
+        "mobile app framework"
       ]
     },
     {
@@ -680,6 +699,18 @@
       ]
     },
     {
+      "name": "Dojo Toolkit",
+      "files": [
+        "dojo.svg"
+      ],
+      "shortname": "dojo",
+      "url": "https://dojotoolkit.org/",
+      "tags": [
+        "javascript",
+        "library"
+      ]
+    },
+    {
       "name": "Drone",
       "files": [
         "drone.svg"
@@ -688,6 +719,19 @@
       "url": "https://drone.io/",
       "tags": [
         "continuous integration"
+      ],
+      "converted": true
+    },
+    {
+      "name": "Dropzone",
+      "files": [
+        "dropzone.svg"
+      ],
+      "shortname": "dropzone",
+      "url": "http://www.dropzonejs.com/",
+      "tags": [
+        "javascript",
+        "library"
       ]
     },
     {
@@ -858,7 +902,8 @@
         "database",
         "cloud computing",
         "BaaS"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Firefox",
@@ -908,7 +953,8 @@
         "static type checker",
         "javascript",
         "cli"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Flux",
@@ -1060,6 +1106,19 @@
       ]
     },
     {
+      "name": "GWT",
+      "files": [
+        "gwt.svg"
+      ],
+      "shortname": "gwt",
+      "url": "http://www.gwtproject.org/",
+      "tags": [
+        "java",
+        "framework",
+        "javascript"
+      ]
+    },
+    {
       "name": "Haml",
       "files": [
         "haml.svg"
@@ -1178,6 +1237,20 @@
       ]
     },
     {
+      "name": "Infer",
+      "files": [
+        "infer.svg"
+      ],
+      "shortname": "infer",
+      "url": "http://fbinfer.com/",
+      "tags": [
+        "static analysis",
+        "java",
+        "objective c",
+        "c"
+      ]
+    },
+    {
       "name": "Invision",
       "files": [
         "invision.svg"
@@ -1200,7 +1273,8 @@
         "javascript",
         "node.js",
         "back-end"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Ionic",
@@ -1210,6 +1284,7 @@
       "shortname": "ionic",
       "url": "http://ionicframework.com/",
       "tags": [
+        "javascript",
         "mobile app framework"
       ]
     },
@@ -1392,7 +1467,8 @@
       "tags": [
         "javascript",
         "package manager"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Karma",
@@ -1429,7 +1505,8 @@
       "tags": [
         "desktop app",
         "docker"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Kraken",
@@ -1502,7 +1579,8 @@
       "tags": [
         "javascript",
         "library"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Lucene",
@@ -1525,6 +1603,18 @@
       "tags": [
         "lucene",
         "search engine"
+      ]
+    },
+    {
+      "name": "Magento",
+      "files": [
+        "magento.svg"
+      ],
+      "shortname": "magento",
+      "url": "http://magento.com/",
+      "tags": [
+        "php",
+        "e-commerce"
       ]
     },
     {
@@ -1659,7 +1749,8 @@
         "bdd",
         "tdd",
         "testing"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Modernizr",
@@ -1672,6 +1763,30 @@
         "javascript",
         "library",
         "feature detection"
+      ]
+    },
+    {
+      "name": "Moment.js",
+      "files": [
+        "momentjs.svg"
+      ],
+      "shortname": "momentjs",
+      "url": "http://momentjs.com/",
+      "tags": [
+        "javascript",
+        "library"
+      ]
+    },
+    {
+      "name": "MooTools",
+      "files": [
+        "mootools.svg"
+      ],
+      "shortname": "mootools",
+      "url": "http://mootools.net/",
+      "tags": [
+        "javascript",
+        "library"
       ]
     },
     {
@@ -1867,7 +1982,8 @@
       "tags": [
         "code editor",
         "IDE"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "NW.js a.k.a. Nodewebkit",
@@ -1916,6 +2032,18 @@
       ]
     },
     {
+      "name": "Open Source Initiative",
+      "files": [
+        "opensource.svg"
+      ],
+      "shortname": "opensource",
+      "url": "http://opensource.org/",
+      "tags": [
+        "open source",
+        "association"
+      ]
+    },
+    {
       "name": "OpenLayers",
       "files": [
         "openlayers.svg"
@@ -1926,6 +2054,18 @@
         "javascript",
         "library",
         "maps"
+      ]
+    },
+    {
+      "name": "openstack",
+      "files": [
+        "openstack.svg"
+      ],
+      "shortname": "openstack",
+      "url": "https://www.openstack.org/",
+      "tags": [
+        "cloud computing",
+        "IaaS"
       ]
     },
     {
@@ -1973,6 +2113,7 @@
       "shortname": "phonegap",
       "url": "http://phonegap.com/",
       "tags": [
+        "javascript",
         "mobile app framework"
       ]
     },
@@ -2374,6 +2515,18 @@
       ]
     },
     {
+      "name": "Solr",
+      "files": [
+        "solr.svg"
+      ],
+      "shortname": "solr",
+      "url": "http://lucene.apache.org/solr/",
+      "tags": [
+        "search server",
+        "lucene"
+      ]
+    },
+    {
       "name": "Spring",
       "files": [
         "spring.svg"
@@ -2383,7 +2536,8 @@
       "tags": [
         "java",
         "framework"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Stack Overflow",
@@ -2493,6 +2647,18 @@
       ]
     },
     {
+      "name": "TasteJS",
+      "files": [
+        "tastejs.svg"
+      ],
+      "shortname": "tastejs",
+      "url": "http://tastejs.com/",
+      "tags": [
+        "todomvc",
+        "reference"
+      ]
+    },
+    {
       "name": "TodoMVC",
       "files": [
         "todomvc.svg"
@@ -2501,6 +2667,7 @@
       "url": "http://todomvc.com/",
       "tags": [
         "javascript",
+        "reference",
         "tutorials"
       ]
     },
@@ -2562,7 +2729,8 @@
       "tags": [
         "configuration management",
         "ruby"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Vim",
@@ -2610,7 +2778,8 @@
         "javascript",
         "library",
         "front-end"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "W3C",
@@ -2646,7 +2815,8 @@
         "javascript",
         "node.js",
         "task runner"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "WebPlatform",
@@ -2657,7 +2827,8 @@
       "url": "https://www.webplatform.org/",
       "tags": [
         "reference"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Wercker",

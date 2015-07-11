@@ -149,6 +149,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/componentjs/component" target="_blank">Component</a>
 ![component](http://gilbarbara.github.io/logos/component.svg)
 
+## <a href="https://cordova.apache.org/" target="_blank">Cordova</a>
+![cordova](http://gilbarbara.github.io/logos/cordova.svg)
+
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
 ![couchdb](http://gilbarbara.github.io/logos/couchdb.svg)
 
@@ -191,8 +194,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.docker.com/" target="_blank">docker</a>
 ![docker](http://gilbarbara.github.io/logos/docker.svg)
 
+## <a href="https://dojotoolkit.org/" target="_blank">Dojo Toolkit</a>
+![dojo](http://gilbarbara.github.io/logos/dojo.svg)
+
 ## <a href="https://drone.io/" target="_blank">Drone</a>
 ![drone](http://gilbarbara.github.io/logos/drone.svg)
+
+## <a href="http://www.dropzonejs.com/" target="_blank">Dropzone</a>
+![dropzone](http://gilbarbara.github.io/logos/dropzone.svg)
 
 ## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
 ![.net](http://gilbarbara.github.io/logos/dotnet.svg)
@@ -292,6 +301,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://gulpjs.com/" target="_blank">Gulp</a>
 ![gulp](http://gilbarbara.github.io/logos/gulp.svg)
 
+## <a href="http://www.gwtproject.org/" target="_blank">GWT</a>
+![gwt](http://gilbarbara.github.io/logos/gwt.svg)
+
 ## <a href="http://haml.info/" target="_blank">Haml</a>
 ![haml](http://gilbarbara.github.io/logos/haml.svg)
 
@@ -321,6 +333,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://github.com/imagemin/imagemin" target="_blank">imagemin</a>
 ![imagemin](http://gilbarbara.github.io/logos/imagemin.svg)
+
+## <a href="http://fbinfer.com/" target="_blank">Infer</a>
+![infer](http://gilbarbara.github.io/logos/infer.svg)
 
 ## <a href="http://www.invisionapp.com/" target="_blank">Invision</a>
 ![invision](http://gilbarbara.github.io/logos/invision.svg)
@@ -409,6 +424,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://lucenenet.apache.org/" target="_blank">Lucene.net</a>
 ![lucene.net](http://gilbarbara.github.io/logos/lucene.net.svg)
 
+## <a href="http://magento.com/" target="_blank">Magento</a>
+![magento](http://gilbarbara.github.io/logos/magento.svg)
+
 ## <a href="http://mailchimp.com/" target="_blank">Mailchimp</a>
 ![mailchimp](http://gilbarbara.github.io/logos/mailchimp.svg)
 
@@ -450,6 +468,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://modernizr.com/" target="_blank">Modernizr</a>
 ![modernizr](http://gilbarbara.github.io/logos/modernizr.svg)
+
+## <a href="http://momentjs.com/" target="_blank">Moment.js</a>
+![momentjs](http://gilbarbara.github.io/logos/momentjs.svg)
+
+## <a href="http://mootools.net/" target="_blank">MooTools</a>
+![mootools](http://gilbarbara.github.io/logos/mootools.svg)
 
 ## <a href="https://www.mongodb.org/" target="_blank">MongoDB</a>
 ![mongodb](http://gilbarbara.github.io/logos/mongodb.svg)
@@ -515,8 +539,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.oshwa.org/" target="_blank">Open Source Hardware Association</a>
 ![oshw](http://gilbarbara.github.io/logos/oshw.svg)
 
+## <a href="http://opensource.org/" target="_blank">Open Source Initiative</a>
+![opensource](http://gilbarbara.github.io/logos/opensource.svg)
+
 ## <a href="http://openlayers.org/" target="_blank">OpenLayers</a>
 ![openlayers](http://gilbarbara.github.io/logos/openlayers.svg)
+
+## <a href="https://www.openstack.org/" target="_blank">openstack</a>
+![openstack](http://gilbarbara.github.io/logos/openstack.svg)
 
 ## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
 ![optimizely](http://gilbarbara.github.io/logos/optimizely.svg)
@@ -631,6 +661,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://socket.io/" target="_blank">Socket.io</a>
 ![socket.io](http://gilbarbara.github.io/logos/socket.io.svg)
 
+## <a href="http://lucene.apache.org/solr/" target="_blank">Solr</a>
+![solr](http://gilbarbara.github.io/logos/solr.svg)
+
 ## <a href="https://spring.io/" target="_blank">Spring</a>
 ![spring](http://gilbarbara.github.io/logos/spring.svg)
 
@@ -660,6 +693,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://taiga.io/" target="_blank">Taiga</a>
 ![taiga](http://gilbarbara.github.io/logos/taiga.svg)
+
+## <a href="http://tastejs.com/" target="_blank">TasteJS</a>
+![tastejs](http://gilbarbara.github.io/logos/tastejs.svg)
 
 ## <a href="http://todomvc.com/" target="_blank">TodoMVC</a>
 ![todomvc](http://gilbarbara.github.io/logos/todomvc.svg)

@@ -1,6 +1,8 @@
 @import 'base/variables';
 @import 'base/utils';
 
+@import url(http://fonts.googleapis.com/css?family=Lato:400,400italic|Varela+Round);
+
 html {
   font-size: 62.5%;
   height: 100%;
@@ -8,7 +10,7 @@ html {
 
 body {
   background-color: $bg-color;
-  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-family: Lato, sans-serif;
   margin: 0;
   min-height: 100%;
   padding: 0;
@@ -20,6 +22,15 @@ body {
 
 a {
   color: $link-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Varela Round', sans-serif;
 }
 
 .container {
