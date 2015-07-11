@@ -527,7 +527,8 @@
       "tags": [
         "javascript",
         "mobile app framework"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "CouchDB",
@@ -708,7 +709,8 @@
       "tags": [
         "javascript",
         "library"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Drone",
@@ -1248,7 +1250,8 @@
         "java",
         "objective c",
         "c"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Invision",
@@ -2066,7 +2069,8 @@
       "tags": [
         "cloud computing",
         "IaaS"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "Optimizely",
@@ -2656,7 +2660,8 @@
       "tags": [
         "todomvc",
         "reference"
-      ]
+      ],
+      "converted": true
     },
     {
       "name": "TodoMVC",

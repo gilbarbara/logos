@@ -19,9 +19,13 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 
 {{#each this}}
-## <a href="{{url}}" target="_blank">{{name}}</a>
+## <a href="{{url}}" target="_blank">{{name}}</a>{{#if converted}} *{{/if}}
 {{#each files}}
 ![{{../shortname}}](http://gilbarbara.github.io/logos/{{this}})
 
 {{/each}}
 {{/each}}
+
+---
+
+* Converted from raster image, svg font or adapted from complex AI files.
