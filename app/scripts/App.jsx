@@ -32,7 +32,6 @@ var App = React.createClass({
                 <div className="container">
                     <Header logos={state.logos}/>
                     <main>
-
                         <ul className="logos">
                             {logos}
                         </ul>
@@ -42,7 +41,6 @@ var App = React.createClass({
             </div>
         );
     }
-
 });
 
 module.exports = App;
