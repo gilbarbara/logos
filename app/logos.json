@@ -131,7 +131,7 @@
       "tags": [
         "javascript",
         "compiler",
-        "postprocessing"
+        "postprocessor"
       ]
     },
     {
@@ -497,7 +497,7 @@
       "shortname": "codrops",
       "url": "http://tympanus.net/codrops/",
       "tags": [
-        "tutorial",
+        "tutorials",
         "blog",
         "reference"
       ],
