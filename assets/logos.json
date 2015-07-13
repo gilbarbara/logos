@@ -300,6 +300,19 @@
       ]
     },
     {
+      "name": "CanJS",
+      "files": [
+        "canjs.svg"
+      ],
+      "shortname": "canjs",
+      "url": "http://canjs.com/",
+      "tags": [
+        "javascript",
+        "framework",
+        "front-end"
+      ]
+    },
+    {
       "name": "Capistrano",
       "files": [
         "capistrano.svg"
@@ -321,6 +334,18 @@
         "database",
         "nosql",
         "storage"
+      ]
+    },
+    {
+      "name": "Celluloid",
+      "files": [
+        "celluloid.svg"
+      ],
+      "shortname": "celluloid",
+      "url": "https://celluloid.io/",
+      "tags": [
+        "ruby",
+        "framework"
       ]
     },
     {
@@ -835,6 +860,20 @@
       ]
     },
     {
+      "name": "Enyo",
+      "files": [
+        "enyo.svg"
+      ],
+      "shortname": "enyo",
+      "url": "http://enyojs.com/",
+      "tags": [
+        "javascript",
+        "framework",
+        "front-end"
+      ],
+      "converted": true
+    },
+    {
       "name": "Erlang",
       "files": [
         "erlang.svg"
@@ -943,6 +982,20 @@
         "framework",
         "ui"
       ]
+    },
+    {
+      "name": "Flight",
+      "files": [
+        "flight.svg"
+      ],
+      "shortname": "flight",
+      "url": "https://flightjs.github.io/",
+      "tags": [
+        "javascript",
+        "framework",
+        "front-end"
+      ],
+      "converted": true
     },
     {
       "name": "Flow",
@@ -1121,6 +1174,19 @@
       ]
     },
     {
+      "name": "hack",
+      "files": [
+        "hack.svg"
+      ],
+      "shortname": "hack",
+      "url": "http://hacklang.org/",
+      "tags": [
+        "language",
+        "php"
+      ],
+      "converted": true
+    },
+    {
       "name": "Haml",
       "files": [
         "haml.svg"
@@ -1225,6 +1291,17 @@
       "tags": [
         "html",
         "boilerplate"
+      ]
+    },
+    {
+      "name": "Hubspot",
+      "files": [
+        "hubspot.svg"
+      ],
+      "shortname": "hubspot",
+      "url": "http://www.hubspot.com/",
+      "tags": [
+        "inbound marketing"
       ]
     },
     {
@@ -1586,6 +1663,18 @@
       "converted": true
     },
     {
+      "name": "Lotus",
+      "files": [
+        "lotus.svg"
+      ],
+      "shortname": "lotus",
+      "url": "http://lotusrb.org/",
+      "tags": [
+        "ruby",
+        "web framework"
+      ]
+    },
+    {
       "name": "Lucene",
       "files": [
         "lucene.svg"
@@ -1623,8 +1712,8 @@
     {
       "name": "Mailchimp",
       "files": [
-        "mailchimp.svg",
-        "mailchimp-freddie.svg"
+        "mailchimp-freddie.svg",
+        "mailchimp.svg"
       ],
       "shortname": "mailchimp",
       "url": "http://mailchimp.com/",
@@ -1635,8 +1724,8 @@
     {
       "name": "Mandrill",
       "files": [
-        "mandrill.svg",
-        "mandrill-shield.svg"
+        "mandrill-shield.svg",
+        "mandrill.svg"
       ],
       "shortname": "mandrill",
       "url": "http://mandrill.com/",
@@ -1740,6 +1829,20 @@
         "framework",
         "front-end"
       ]
+    },
+    {
+      "name": "Mithril",
+      "files": [
+        "mithril.svg"
+      ],
+      "shortname": "mithril",
+      "url": "https://lhorie.github.io/mithril/",
+      "tags": [
+        "javascript",
+        "framework",
+        "front-end"
+      ],
+      "converted": true
     },
     {
       "name": "Mocha",
@@ -2290,6 +2393,18 @@
       ]
     },
     {
+      "name": "randomColor",
+      "files": [
+        "randomcolor.svg"
+      ],
+      "shortname": "randomcolor",
+      "url": "http://llllll.li/randomColor/",
+      "tags": [
+        "javascript",
+        "library"
+      ]
+    },
+    {
       "name": "Raphaël",
       "files": [
         "raphael.svg"
@@ -2409,6 +2524,17 @@
         "clojureScript",
         "react",
         "framework"
+      ]
+    },
+    {
+      "name": "Rust",
+      "files": [
+        "rust.svg"
+      ],
+      "shortname": "rust",
+      "url": "http://www.rust-lang.org/",
+      "tags": [
+        "language"
       ]
     },
     {
