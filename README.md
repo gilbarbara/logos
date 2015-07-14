@@ -29,8 +29,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.apache.org/" target="_blank">Apache</a>
 ![apache](http://gilbarbara.github.io/logos/apache.svg)
 
+## <a href="https://cloudstack.apache.org/" target="_blank">Apache CloudStack</a>
+![apache_cloudstack](http://gilbarbara.github.io/logos/apache_cloudstack.svg)
+
 ## <a href="https://apiary.io/" target="_blank">Apiary</a>
 ![apiary](http://gilbarbara.github.io/logos/apiary.svg)
+
+## <a href="https://www.arangodb.com/" target="_blank">ArangoDB</a>
+![arangodb](http://gilbarbara.github.io/logos/arangodb.svg)
 
 ## <a href="https://www.arduino.cc/" target="_blank">Arduino</a>
 ![arduino](http://gilbarbara.github.io/logos/arduino.svg)
@@ -129,6 +135,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://cljs.info/" target="_blank">ClojureScript</a>
 ![cljs](http://gilbarbara.github.io/logos/cljs.svg)
 
+## <a href="https://cocoapods.org/" target="_blank">CocoaPods</a>
+![cocoapods](http://gilbarbara.github.io/logos/cocoapods.svg)
+
 ## <a href="https://www.codebasehq.com/" target="_blank">Codebase</a>
 ![codebase](http://gilbarbara.github.io/logos/codebase.svg)
 
@@ -163,6 +172,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://coveralls.io/" target="_blank">Coveralls</a>
 ![coveralls](http://gilbarbara.github.io/logos/coveralls.svg)
+
+## <a href="http://www.createjs.com/" target="_blank">CreateJS</a>
+![createjs](http://gilbarbara.github.io/logos/createjs.svg)
 
 ## <a href="http://crossbrowsertesting.com/" target="_blank">Cross Browser Testing</a>
 ![crossbrowsertesting](http://gilbarbara.github.io/logos/crossbrowsertesting.svg)
@@ -318,6 +330,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://hacklang.org/" target="_blank">hack</a> *
 ![hack](http://gilbarbara.github.io/logos/hack.svg)
+
+## <a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>
+![hadoop](http://gilbarbara.github.io/logos/hadoop.svg)
 
 ## <a href="http://haml.info/" target="_blank">Haml</a>
 ![haml](http://gilbarbara.github.io/logos/haml.svg)
@@ -543,6 +558,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://nodemon.io/" target="_blank">nodemon</a>
 ![nodemon](http://gilbarbara.github.io/logos/nodemon.svg)
 
+## <a href="https://github.com/sass/node-sass" target="_blank">Node-Sass</a>
+![node-sass](http://gilbarbara.github.io/logos/node-sass.svg)
+
 ## <a href="https://www.npmjs.com/" target="_blank">NPM</a>
 ![npm](http://gilbarbara.github.io/logos/npm.svg)
 
@@ -580,6 +598,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://passportjs.org/" target="_blank">Passport</a>
 ![passport](http://gilbarbara.github.io/logos/passport.svg)
+
+## <a href="https://www.perl.org/" target="_blank">Perl</a>
+![perl](http://gilbarbara.github.io/logos/perl.svg)
 
 ## <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
 ![phonegap](http://gilbarbara.github.io/logos/phonegap.svg)
@@ -625,6 +646,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/kriskowal/q" target="_blank">Q</a>
 ![q](http://gilbarbara.github.io/logos/q.svg)
 
+## <a href="http://www.rackspace.com/" target="_blank">Rackspace</a>
+![rackspace](http://gilbarbara.github.io/logos/rackspace.svg)
+
 ## <a href="http://rubyonrails.org/" target="_blank">Rails</a>
 ![rails](http://gilbarbara.github.io/logos/rails.svg)
 
@@ -651,6 +675,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://basho.com/products/#riak" target="_blank">Riak</a>
 ![riak](http://gilbarbara.github.io/logos/riak.svg)
+
+## <a href="http://www.emc.com/domains/rsa/index.htm" target="_blank">RSA</a>
+![rsa](http://gilbarbara.github.io/logos/rsa.svg)
 
 ## <a href="https://www.ruby-lang.org/" target="_blank">Ruby</a>
 ![ruby](http://gilbarbara.github.io/logos/ruby.svg)
@@ -681,6 +708,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
 ![sentry](http://gilbarbara.github.io/logos/sentry.svg)
+
+## <a href="http://shields.io/" target="_blank">Shields.io</a> *
+![shields](http://gilbarbara.github.io/logos/shields.svg)
 
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
 ![sinatra](http://gilbarbara.github.io/logos/sinatra.svg)

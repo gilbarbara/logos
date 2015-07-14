@@ -38,6 +38,18 @@
       ]
     },
     {
+      "name": "Apache CloudStack",
+      "files": [
+        "apache_cloudstack.svg"
+      ],
+      "shortname": "apache_cloudstack",
+      "url": "https://cloudstack.apache.org/",
+      "tags": [
+        "cloud computing",
+        "IaaS"
+      ]
+    },
+    {
       "name": "Apiary",
       "files": [
         "apiary.svg"
@@ -47,6 +59,19 @@
       "tags": [
         "documentation",
         "api"
+      ]
+    },
+    {
+      "name": "ArangoDB",
+      "files": [
+        "arangodb.svg"
+      ],
+      "shortname": "arangodb",
+      "url": "https://www.arangodb.com/",
+      "tags": [
+        "database",
+        "nosql",
+        "graph database"
       ]
     },
     {
@@ -436,6 +461,19 @@
       ]
     },
     {
+      "name": "CocoaPods",
+      "files": [
+        "cocoapods.svg"
+      ],
+      "shortname": "cocoapods",
+      "url": "https://cocoapods.org/",
+      "tags": [
+        "package manager",
+        "swift",
+        "objective c"
+      ]
+    },
+    {
       "name": "Codebase",
       "files": [
         "codebase.svg"
@@ -576,6 +614,18 @@
       "url": "https://coveralls.io/",
       "tags": [
         "code coverage"
+      ]
+    },
+    {
+      "name": "CreateJS",
+      "files": [
+        "createjs.svg"
+      ],
+      "shortname": "createjs",
+      "url": "http://www.createjs.com/",
+      "tags": [
+        "javascript",
+        "library"
       ]
     },
     {
@@ -1185,6 +1235,19 @@
         "php"
       ],
       "converted": true
+    },
+    {
+      "name": "Hadoop",
+      "files": [
+        "hadoop.svg"
+      ],
+      "shortname": "hadoop",
+      "url": "http://hadoop.apache.org/",
+      "tags": [
+        "java",
+        "framework",
+        "storage"
+      ]
     },
     {
       "name": "Haml",
@@ -2065,6 +2128,19 @@
       ]
     },
     {
+      "name": "Node-Sass",
+      "files": [
+        "node-sass.svg"
+      ],
+      "shortname": "node-sass",
+      "url": "https://github.com/sass/node-sass",
+      "tags": [
+        "sass",
+        "c",
+        "library"
+      ]
+    },
+    {
       "name": "NPM",
       "files": [
         "npm.svg",
@@ -2209,6 +2285,17 @@
         "node.js",
         "authentication",
         "security"
+      ]
+    },
+    {
+      "name": "Perl",
+      "files": [
+        "perl.svg"
+      ],
+      "shortname": "perl",
+      "url": "https://www.perl.org/",
+      "tags": [
+        "language"
       ]
     },
     {
@@ -2381,6 +2468,18 @@
       ]
     },
     {
+      "name": "Rackspace",
+      "files": [
+        "rackspace.svg"
+      ],
+      "shortname": "rackspace",
+      "url": "http://www.rackspace.com/",
+      "tags": [
+        "cloud computing",
+        "IaaS"
+      ]
+    },
+    {
       "name": "Rails",
       "files": [
         "rails.svg"
@@ -2487,6 +2586,18 @@
         "database",
         "nosql",
         "storage"
+      ]
+    },
+    {
+      "name": "RSA",
+      "files": [
+        "rsa.svg"
+      ],
+      "shortname": "rsa",
+      "url": "http://www.emc.com/domains/rsa/index.htm",
+      "tags": [
+        "authentication",
+        "security"
       ]
     },
     {
@@ -2606,6 +2717,18 @@
       "tags": [
         "error logging"
       ]
+    },
+    {
+      "name": "Shields.io",
+      "files": [
+        "shields.svg"
+      ],
+      "shortname": "shields",
+      "url": "http://shields.io/",
+      "tags": [
+        "badges"
+      ],
+      "converted": true
     },
     {
       "name": "Sinatra",
