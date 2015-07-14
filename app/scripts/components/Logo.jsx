@@ -14,7 +14,6 @@ var Logo = React.createClass({
 
     render () {
         var info = this.props.info;
-
         return (
             <li>
                 <a href={info.url} target="_blank" className="logo-item">

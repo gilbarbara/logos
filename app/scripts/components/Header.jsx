@@ -1,5 +1,6 @@
 var React    = require('react/addons'),
-    ScaleLog = require('../utils/scaleLog');
+    ScaleLog = require('../utils/scaleLog'),
+    config   = require('../config');
 
 var Header = React.createClass({
     mixins: [React.addons.PureRenderMixin],
@@ -15,30 +16,32 @@ var Header = React.createClass({
                 max: 0
             };
 
-        this.props.logos.forEach(function (d) {
-            d.tags.forEach(function (t) {
-                if (!tags.hasOwnProperty(t)) {
-                    tags[t] = 0;
-                }
-                tags[t]++;
+        if (config.features.tags) {
+            this.props.logos.forEach(function (d) {
+                d.tags.forEach(function (t) {
+                    if (!tags.hasOwnProperty(t)) {
+                        tags[t] = 0;
+                    }
+                    tags[t]++;
+                });
             });
-        });
 
-        tags = this.sortObject(tags);
+            tags = this.sortObject(tags);
 
-        tags.forEach((t) => {
-            if (t.value < sizer.min) {
-                sizer.min = t.value;
-            }
-            if (t.value > sizer.max) {
-                sizer.max = t.value;
-            }
-        });
+            tags.forEach((t) => {
+                if (t.value < sizer.min) {
+                    sizer.min = t.value;
+                }
+                if (t.value > sizer.max) {
+                    sizer.max = t.value;
+                }
+            });
 
-        this.setState({
-            tags: tags,
-            scale: new ScaleLog(sizer)
-        });
+            this.setState({
+                tags: tags,
+                scale: new ScaleLog(sizer)
+            });
+        }
     },
 
     sortObject (obj) {
@@ -62,21 +65,27 @@ var Header = React.createClass({
     },
 
     render () {
-        var state = this.state;
+        var state = this.state,
+            tags;
+
+        if (config.features.tags) {
+            tags = (
+                <div className="tag-cloud">
+                    {state.tags.map((d, i) => {
+                        return (<a key={i} href="#"
+                                   style={{ fontSize: state.scale.value(d.value)}}>{d.key + ' (' + d.value + ')'}</a>
+                        );
+                    })}
+                </div>
+            );
+        }
 
         return (
             <header>
                 <img src="media/svg-porn.svg" className="logo"/>
 
                 <h3>A collection of svg logos for developers.</h3>
-
-                <div className="tag-cloud">
-                    {state.tags.map((d, i) => {
-                        return (<a key={i} href="#"
-                                  style={{ fontSize: state.scale.value(d.value)}}>{d.key + ' (' + d.value + ')'}</a>
-                        );
-                    })}
-                </div>
+                {tags}
             </header>
         );
     }
