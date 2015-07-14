@@ -9,7 +9,6 @@
   "license": "CC0-1.0",
   "homepage": "http://gilbarbara.github.io/logos/",
   "dependencies": {
-    "d3": "^3.5",
     "react": "^0.13"
   },
   "devDependencies": {

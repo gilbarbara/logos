@@ -136,7 +136,6 @@ gulp.task('bundle', function () {
 
     html = gulp.src('app/*.html')
         .pipe(assets)
-        .pipe($.if('*.js', $.uglify()))
         .pipe($.if('*.css', $.cssmin()))
         .pipe(assets.restore())
         .pipe($.useref())
@@ -154,7 +153,8 @@ gulp.task('bundle', function () {
         }));
 
     extras = gulp.src([
-        'CNAME'
+        'app/CNAME',
+        'app/favicon.ico'
     ])
         .pipe(gulp.dest('dist'))
         .pipe($.size({
@@ -162,16 +162,16 @@ gulp.task('bundle', function () {
         }));
 
     media = gulp.src([
-        '**/*.svg'
-    ], { base: 'app/media' })
+        'app/media/*.svg'
+    ])
         .pipe(gulp.dest('dist/media'))
         .pipe($.size({
             title: 'Media'
         }));
 
     logos = gulp.src([
-        '**/*.svg'
-    ], { base: 'logos' })
+        'logos/*.svg'
+    ])
         .pipe(gulp.dest('dist/logos'))
         .pipe($.size({
             title: 'Logos'
