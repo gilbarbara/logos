@@ -174,6 +174,17 @@
       ]
     },
     {
+      "name": "Basecamp",
+      "files": [
+        "basecamp.svg"
+      ],
+      "shortname": "basecamp",
+      "url": "https://basecamp.com/",
+      "tags": [
+        "project manager"
+      ]
+    },
+    {
       "name": "Bash",
       "files": [
         "bash.svg"
@@ -371,6 +382,28 @@
       "tags": [
         "ruby",
         "framework"
+      ]
+    },
+    {
+      "name": "Code Climate",
+      "files": [
+        "codeclimate.svg"
+      ],
+      "shortname": "codeclimate",
+      "url": "https://codeclimate.com/",
+      "tags": [
+        "static analysis"
+      ]
+    },
+    {
+      "name": "Codecov",
+      "files": [
+        "codecov.svg"
+      ],
+      "shortname": "codecov",
+      "url": "http://codecov.io/",
+      "tags": [
+        "code coverage"
       ]
     },
     {
@@ -737,6 +770,18 @@
       ]
     },
     {
+      "name": "distelli",
+      "files": [
+        "distelli.svg"
+      ],
+      "shortname": "distelli",
+      "url": "http://distelli.com/",
+      "tags": [
+        "code deployment"
+      ],
+      "converted": true
+    },
+    {
       "name": "Divshot",
       "files": [
         "divshot.svg"
@@ -956,6 +1001,19 @@
         "javascript",
         "linter"
       ]
+    },
+    {
+      "name": "EventSentry",
+      "files": [
+        "eventsentry.svg"
+      ],
+      "shortname": "eventsentry",
+      "url": "http://www.eventsentry.com/",
+      "tags": [
+        "log manager",
+        "server monitoring"
+      ],
+      "converted": true
     },
     {
       "name": "Express",
@@ -1639,6 +1697,17 @@
       ]
     },
     {
+      "name": "kissmetrics",
+      "files": [
+        "kissmetrics.svg"
+      ],
+      "shortname": "kissmetrics",
+      "url": "https://kissmetrics.com/",
+      "tags": [
+        "customer data analytics"
+      ]
+    },
+    {
       "name": "Kitematic",
       "files": [
         "kitematic.svg"
@@ -1724,6 +1793,17 @@
         "library"
       ],
       "converted": true
+    },
+    {
+      "name": "logentries",
+      "files": [
+        "logentries.svg"
+      ],
+      "shortname": "logentries",
+      "url": "https://logentries.com/",
+      "tags": [
+        "log manager"
+      ]
     },
     {
       "name": "Lotus",
@@ -2743,6 +2823,17 @@
       ]
     },
     {
+      "name": "slack",
+      "files": [
+        "slack.svg"
+      ],
+      "shortname": "slack",
+      "url": "https://slack.com/",
+      "tags": [
+        "team collaboration"
+      ]
+    },
+    {
       "name": "Snap.svg",
       "files": [
         "snap-svg.svg"
@@ -3047,6 +3138,17 @@
       ]
     },
     {
+      "name": "Waffle",
+      "files": [
+        "waffle.svg"
+      ],
+      "shortname": "waffle",
+      "url": "https://waffle.io/",
+      "tags": [
+        "project manager"
+      ]
+    },
+    {
       "name": "WebComponents",
       "files": [
         "webcomponents.svg"
@@ -3141,6 +3243,20 @@
       "url": "http://yeoman.io/",
       "tags": [
         "development stack"
+      ]
+    },
+    
+    {
+      "name": "Zenhub",
+      "files": [
+        "zenhub.svg"
+      ],
+      "shortname": "zenhub",
+      "url": "https://www.zenhub.io/",
+      "tags": [
+        "project management",
+        "agile",
+        "kanban"
       ]
     }
   ]

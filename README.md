@@ -64,6 +64,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![backbone](http://svgporn.com/logos/backbone.svg)
 
+## <a href="https://basecamp.com/" target="_blank">Basecamp</a>
+![basecamp](http://svgporn.com/logos/basecamp.svg)
+
 ## <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
 ![bash](http://svgporn.com/logos/bash.svg)
 
@@ -113,6 +116,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://celluloid.io/" target="_blank">Celluloid</a>
 ![celluloid](http://svgporn.com/logos/celluloid.svg)
+
+## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
+![codeclimate](http://svgporn.com/logos/codeclimate.svg)
+
+## <a href="http://codecov.io/" target="_blank">Codecov</a>
+![codecov](http://svgporn.com/logos/codecov.svg)
 
 ## <a href="http://chaijs.com/" target="_blank">Chai</a> *
 ![chai](http://svgporn.com/logos/chai.svg)
@@ -203,6 +212,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
 ![digitalocean](http://svgporn.com/logos/digitalocean.svg)
 
+## <a href="http://distelli.com/" target="_blank">distelli</a> *
+![distelli](http://svgporn.com/logos/distelli.svg)
+
 ## <a href="https://divshot.com/" target="_blank">Divshot</a>
 ![divshot](http://svgporn.com/logos/divshot.svg)
 
@@ -258,6 +270,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://eslint.org/" target="_blank">Eslint</a>
 ![eslint](http://svgporn.com/logos/eslint.svg)
+
+## <a href="http://www.eventsentry.com/" target="_blank">EventSentry</a> *
+![eventsentry](http://svgporn.com/logos/eventsentry.svg)
 
 ## <a href="http://expressjs.com/" target="_blank">Express</a>
 ![express](http://svgporn.com/logos/express.svg)
@@ -430,6 +445,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://keen.io/" target="_blank">Keen IO</a>
 ![keen](http://svgporn.com/logos/keen.svg)
 
+## <a href="https://kissmetrics.com/" target="_blank">kissmetrics</a>
+![kissmetrics](http://svgporn.com/logos/kissmetrics.svg)
+
 ## <a href="https://kitematic.com/" target="_blank">Kitematic</a> *
 ![kitematic](http://svgporn.com/logos/kitematic.svg)
 
@@ -450,6 +468,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://lodash.com/" target="_blank">Lodash</a> *
 ![lodash](http://svgporn.com/logos/lodash.svg)
+
+## <a href="https://logentries.com/" target="_blank">logentries</a>
+![logentries](http://svgporn.com/logos/logentries.svg)
 
 ## <a href="http://lotusrb.org/" target="_blank">Lotus</a>
 ![lotus](http://svgporn.com/logos/lotus.svg)
@@ -715,6 +736,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
 ![sinatra](http://svgporn.com/logos/sinatra.svg)
 
+## <a href="https://slack.com/" target="_blank">slack</a>
+![slack](http://svgporn.com/logos/slack.svg)
+
 ## <a href="http://snapsvg.io/" target="_blank">Snap.svg</a>
 ![snap-svg](http://svgporn.com/logos/snap-svg.svg)
 
@@ -792,6 +816,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.w3.org/" target="_blank">W3C</a>
 ![w3c](http://svgporn.com/logos/w3c.svg)
 
+## <a href="https://waffle.io/" target="_blank">Waffle</a>
+![waffle](http://svgporn.com/logos/waffle.svg)
+
 ## <a href="http://webcomponents.org/" target="_blank">WebComponents</a>
 ![webcomponents](http://svgporn.com/logos/webcomponents.svg)
 
@@ -817,6 +844,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://yeoman.io/" target="_blank">Yeoman</a>
 ![yeoman](http://svgporn.com/logos/yeoman.svg)
+
+## <a href="https://www.zenhub.io/" target="_blank">Zenhub</a>
+![zenhub](http://svgporn.com/logos/zenhub.svg)
 
 
 ---
