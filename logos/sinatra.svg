@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="174px" viewBox="0 0 256 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet">
+<svg width="256px" height="174px" viewBox="0 0 256 174" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
 <style type="text/css">
 	.st0{fill:url(#shadow_1_);}
 	.st1{fill:url(#brim_1_);}
@@ -16,7 +16,7 @@
 		</radialGradient>
 		<path id="shadow_4_" class="st0" d="M5,123c0-27.8,56.2-50.3,125.5-50.3C199.8,72.7,256,95.2,256,123c0,27.8-56.2,50.3-125.5,50.3
 			C61.2,173.4,5,150.8,5,123z"/>
-	
+
 		<radialGradient id="brim_1_" cx="178.6103" cy="90.8516" r="177.3905" gradientTransform="matrix(-0.9856 0.1689 -9.165681e-02 -0.535 362.9829 109.296)" gradientUnits="userSpaceOnUse">
 			<stop  offset="0.476" style="stop-color:#F3EFE9"/>
 			<stop  offset="0.5676" style="stop-color:#EEEAE3"/>
@@ -44,7 +44,7 @@
 		<path id="crown_4_" class="st3" d="M57.3,95.9c-5.9-4.3-14.2-25.4-11-30c3.2-4.6,8-14.2,10.7-23.6C59.7,33,63.5,13.2,71,6.2
 			c7.5-7,18.7-7,33.5-5.4c14.7,1.6,57.8,9.4,68.3,13.1c10.4,3.7,24,10.7,23.2,27c-0.8,16.3,0.7,24.4-1.2,33.5
 			c-1.9,9.1-21.7,26.8-46.6,28.1C123.2,104,63.2,100.2,57.3,95.9z"/>
-	
+
 		<radialGradient id="side-dent_1_" cx="110.123" cy="23.7713" r="53.7674" gradientTransform="matrix(8.815892e-02 0.9961 -2.6842 0.2376 164.222 -91.5701)" gradientUnits="userSpaceOnUse">
 			<stop  offset="6.710740e-02" style="stop-color:#B2A797"/>
 			<stop  offset="0.2897" style="stop-color:#C7BDAE"/>

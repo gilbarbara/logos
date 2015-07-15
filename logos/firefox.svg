@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<svg width="256px" height="271px" viewBox="0 0 256 271" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMinYMin meet">
+<svg width="256px" height="271px" viewBox="0 0 256 271" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
     <g>
         <radialGradient id="SVGID_1_" cx="127.8496" cy="994.7764" r="124.1592" gradientTransform="matrix(1 0 0 0.3873 0 -163.6486)" gradientUnits="userSpaceOnUse">
             <stop offset="0.4664" style="stop-color:#000000;stop-opacity:0.8" />
