@@ -19,804 +19,804 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 
 ## <a href="https://angularjs.org/" target="_blank">Angular</a>
-![angular](http://gilbarbara.github.io/logos/angular-icon.svg)
+![angular](http://svgporn.com/logos/angular-icon.svg)
 
-![angular](http://gilbarbara.github.io/logos/angular.svg)
+![angular](http://svgporn.com/logos/angular.svg)
 
 ## <a href="http://www.ansible.com/" target="_blank">Ansible</a>
-![ansible](http://gilbarbara.github.io/logos/ansible.svg)
+![ansible](http://svgporn.com/logos/ansible.svg)
 
 ## <a href="http://www.apache.org/" target="_blank">Apache</a>
-![apache](http://gilbarbara.github.io/logos/apache.svg)
+![apache](http://svgporn.com/logos/apache.svg)
 
 ## <a href="https://cloudstack.apache.org/" target="_blank">Apache CloudStack</a>
-![apache_cloudstack](http://gilbarbara.github.io/logos/apache_cloudstack.svg)
+![apache_cloudstack](http://svgporn.com/logos/apache_cloudstack.svg)
 
 ## <a href="https://apiary.io/" target="_blank">Apiary</a>
-![apiary](http://gilbarbara.github.io/logos/apiary.svg)
+![apiary](http://svgporn.com/logos/apiary.svg)
 
 ## <a href="https://www.arangodb.com/" target="_blank">ArangoDB</a>
-![arangodb](http://gilbarbara.github.io/logos/arangodb.svg)
+![arangodb](http://svgporn.com/logos/arangodb.svg)
 
 ## <a href="https://www.arduino.cc/" target="_blank">Arduino</a>
-![arduino](http://gilbarbara.github.io/logos/arduino.svg)
+![arduino](http://svgporn.com/logos/arduino.svg)
 
 ## <a href="https://atom.io/" target="_blank">Atom</a>
-![atom](http://gilbarbara.github.io/logos/atom.svg)
+![atom](http://svgporn.com/logos/atom.svg)
 
 ## <a href="https://auth0.com/" target="_blank">Auth0</a>
-![auth0](http://gilbarbara.github.io/logos/auth0.svg)
+![auth0](http://svgporn.com/logos/auth0.svg)
 
 ## <a href="https://github.com/postcss/autoprefixer" target="_blank">Autoprefixer</a>
-![autoprefixer](http://gilbarbara.github.io/logos/autoprefixer.svg)
+![autoprefixer](http://svgporn.com/logos/autoprefixer.svg)
 
 ## <a href="https://github.com/sindresorhus/awesome" target="_blank">Awesome</a>
-![awesome](http://gilbarbara.github.io/logos/awesome.svg)
+![awesome](http://svgporn.com/logos/awesome.svg)
 
 ## <a href="http://aws.amazon.com/" target="_blank">AWS</a>
-![aws](http://gilbarbara.github.io/logos/aws.svg)
+![aws](http://svgporn.com/logos/aws.svg)
 
 ## <a href="https://babeljs.io/" target="_blank">Babel</a>
-![babel](http://gilbarbara.github.io/logos/babel.svg)
+![babel](http://svgporn.com/logos/babel.svg)
 
 ## <a href="http://backbonejs.org/" target="_blank">Backbone</a>
-![backbone](http://gilbarbara.github.io/logos/backbone-icon.svg)
+![backbone](http://svgporn.com/logos/backbone-icon.svg)
 
-![backbone](http://gilbarbara.github.io/logos/backbone.svg)
+![backbone](http://svgporn.com/logos/backbone.svg)
 
 ## <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
-![bash](http://gilbarbara.github.io/logos/bash.svg)
+![bash](http://svgporn.com/logos/bash.svg)
 
 ## <a href="https://en.bem.info/" target="_blank">Bem</a>
-![bem](http://gilbarbara.github.io/logos/bem.svg)
+![bem](http://svgporn.com/logos/bem.svg)
 
 ## <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>
-![bitbucket](http://gilbarbara.github.io/logos/bitbucket.svg)
+![bitbucket](http://svgporn.com/logos/bitbucket.svg)
 
 ## <a href="http://blocsapp.com/" target="_blank">Blocs</a> *
-![blocs](http://gilbarbara.github.io/logos/blocs.svg)
+![blocs](http://svgporn.com/logos/blocs.svg)
 
 ## <a href="https://www.blossom.co/" target="_blank">Blossom</a>
-![blossom](http://gilbarbara.github.io/logos/blossom.svg)
+![blossom](http://svgporn.com/logos/blossom.svg)
 
 ## <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> *
-![bootstrap](http://gilbarbara.github.io/logos/bootstrap.svg)
+![bootstrap](http://svgporn.com/logos/bootstrap.svg)
 
 ## <a href="http://bourbon.io/" target="_blank">bourbon</a>
-![bourbon](http://gilbarbara.github.io/logos/bourbon.svg)
+![bourbon](http://svgporn.com/logos/bourbon.svg)
 
 ## <a href="http://bower.io/" target="_blank">Bower</a>
-![bower](http://gilbarbara.github.io/logos/bower.svg)
+![bower](http://svgporn.com/logos/bower.svg)
 
 ## <a href="http://brackets.io/" target="_blank">Brackets</a>
-![brackets](http://gilbarbara.github.io/logos/brackets.svg)
+![brackets](http://svgporn.com/logos/brackets.svg)
 
 ## <a href="http://browserify.org/" target="_blank">Browserify</a>
-![browserify](http://gilbarbara.github.io/logos/browserify-icon.svg)
+![browserify](http://svgporn.com/logos/browserify-icon.svg)
 
-![browserify](http://gilbarbara.github.io/logos/browserify.svg)
+![browserify](http://svgporn.com/logos/browserify.svg)
 
 ## <a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>
-![browserstack](http://gilbarbara.github.io/logos/browserstack.svg)
+![browserstack](http://svgporn.com/logos/browserstack.svg)
 
 ## <a href="https://isocpp.org/" target="_blank">C++</a>
-![c++](http://gilbarbara.github.io/logos/c++.svg)
+![c++](http://svgporn.com/logos/c++.svg)
 
 ## <a href="http://canjs.com/" target="_blank">CanJS</a>
-![canjs](http://gilbarbara.github.io/logos/canjs.svg)
+![canjs](http://svgporn.com/logos/canjs.svg)
 
 ## <a href="http://capistranorb.com/" target="_blank">Capistrano</a>
-![capistrano](http://gilbarbara.github.io/logos/capistrano.svg)
+![capistrano](http://svgporn.com/logos/capistrano.svg)
 
 ## <a href="http://cassandra.apache.org/" target="_blank">Cassandra</a>
-![cassandra](http://gilbarbara.github.io/logos/cassandra.svg)
+![cassandra](http://svgporn.com/logos/cassandra.svg)
 
 ## <a href="https://celluloid.io/" target="_blank">Celluloid</a>
-![celluloid](http://gilbarbara.github.io/logos/celluloid.svg)
+![celluloid](http://svgporn.com/logos/celluloid.svg)
 
 ## <a href="http://chaijs.com/" target="_blank">Chai</a> *
-![chai](http://gilbarbara.github.io/logos/chai.svg)
+![chai](http://svgporn.com/logos/chai.svg)
 
 ## <a href="https://github.com/chalk/chalk" target="_blank">Chalk</a>
-![chalk](http://gilbarbara.github.io/logos/chalk.svg)
+![chalk](http://svgporn.com/logos/chalk.svg)
 
 ## <a href="https://www.chef.io/" target="_blank">Chef</a>
-![chef](http://gilbarbara.github.io/logos/chef.svg)
+![chef](http://svgporn.com/logos/chef.svg)
 
 ## <a href="http://www.google.com/chrome/" target="_blank">Chrome</a>
-![chrome](http://gilbarbara.github.io/logos/chrome.svg)
+![chrome](http://svgporn.com/logos/chrome.svg)
 
 ## <a href="https://circleci.com/" target="_blank">CircleCI</a>
-![circleci](http://gilbarbara.github.io/logos/circleci.svg)
+![circleci](http://svgporn.com/logos/circleci.svg)
 
 ## <a href="http://clojure.org/" target="_blank">Clojure</a>
-![clojure](http://gilbarbara.github.io/logos/clojure.svg)
+![clojure](http://svgporn.com/logos/clojure.svg)
 
 ## <a href="http://cljs.info/" target="_blank">ClojureScript</a>
-![cljs](http://gilbarbara.github.io/logos/cljs.svg)
+![cljs](http://svgporn.com/logos/cljs.svg)
 
 ## <a href="https://cocoapods.org/" target="_blank">CocoaPods</a>
-![cocoapods](http://gilbarbara.github.io/logos/cocoapods.svg)
+![cocoapods](http://svgporn.com/logos/cocoapods.svg)
 
 ## <a href="https://www.codebasehq.com/" target="_blank">Codebase</a>
-![codebase](http://gilbarbara.github.io/logos/codebase.svg)
+![codebase](http://svgporn.com/logos/codebase.svg)
 
 ## <a href="http://www.codeigniter.com/" target="_blank">CodeIgniter</a>
-![codeigniter](http://gilbarbara.github.io/logos/codeigniter.svg)
+![codeigniter](http://svgporn.com/logos/codeigniter.svg)
 
 ## <a href="http://codepen.io/" target="_blank">Codepen</a>
-![codepen](http://gilbarbara.github.io/logos/codepen-icon.svg)
+![codepen](http://svgporn.com/logos/codepen-icon.svg)
 
-![codepen](http://gilbarbara.github.io/logos/codepen.svg)
+![codepen](http://svgporn.com/logos/codepen.svg)
 
 ## <a href="https://codeship.com/" target="_blank">Codeship</a> *
-![codeship](http://gilbarbara.github.io/logos/codeship.svg)
+![codeship](http://svgporn.com/logos/codeship.svg)
 
 ## <a href="http://tympanus.net/codrops/" target="_blank">Codrops</a> *
-![codrops](http://gilbarbara.github.io/logos/codrops.svg)
+![codrops](http://svgporn.com/logos/codrops.svg)
 
 ## <a href="http://coffeescript.org/" target="_blank">CoffeeScript</a>
-![coffeescript](http://gilbarbara.github.io/logos/coffeescript.svg)
+![coffeescript](http://svgporn.com/logos/coffeescript.svg)
 
 ## <a href="http://compass-style.org/" target="_blank">Compass</a> *
-![compass](http://gilbarbara.github.io/logos/compass.svg)
+![compass](http://svgporn.com/logos/compass.svg)
 
 ## <a href="https://github.com/componentjs/component" target="_blank">Component</a> *
-![component](http://gilbarbara.github.io/logos/component.svg)
+![component](http://svgporn.com/logos/component.svg)
 
 ## <a href="https://cordova.apache.org/" target="_blank">Cordova</a> *
-![cordova](http://gilbarbara.github.io/logos/cordova.svg)
+![cordova](http://svgporn.com/logos/cordova.svg)
 
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
-![couchdb](http://gilbarbara.github.io/logos/couchdb.svg)
+![couchdb](http://svgporn.com/logos/couchdb.svg)
 
 ## <a href="https://coveralls.io/" target="_blank">Coveralls</a>
-![coveralls](http://gilbarbara.github.io/logos/coveralls.svg)
+![coveralls](http://svgporn.com/logos/coveralls.svg)
 
 ## <a href="http://www.createjs.com/" target="_blank">CreateJS</a>
-![createjs](http://gilbarbara.github.io/logos/createjs.svg)
+![createjs](http://svgporn.com/logos/createjs.svg)
 
 ## <a href="http://crossbrowsertesting.com/" target="_blank">Cross Browser Testing</a>
-![crossbrowsertesting](http://gilbarbara.github.io/logos/crossbrowsertesting.svg)
+![crossbrowsertesting](http://svgporn.com/logos/crossbrowsertesting.svg)
 
 ## <a href="http://www.w3.org/TR/CSS/" target="_blank">CSS3</a>
-![css-3](http://gilbarbara.github.io/logos/css-3.svg)
+![css-3](http://svgporn.com/logos/css-3.svg)
 
 ## <a href="http://cssnext.io/" target="_blank">cssnext</a>
-![cssnext](http://gilbarbara.github.io/logos/cssnext.svg)
+![cssnext](http://svgporn.com/logos/cssnext.svg)
 
 ## <a href="http://d3js.org/" target="_blank">D3</a>
-![d3](http://gilbarbara.github.io/logos/d3.svg)
+![d3](http://svgporn.com/logos/d3.svg)
 
 ## <a href="https://www.dartlang.org/" target="_blank">Dart</a>
-![dart](http://gilbarbara.github.io/logos/dart.svg)
+![dart](http://svgporn.com/logos/dart.svg)
 
 ## <a href="http://deliciousdb.com/" target="_blank">DeliciousDB</a>
-![deliciousdb](http://gilbarbara.github.io/logos/delicious-burger.svg)
+![deliciousdb](http://svgporn.com/logos/delicious-burger.svg)
 
 ## <a href="https://www.deployhq.com/" target="_blank">Deploy</a>
-![deploy](http://gilbarbara.github.io/logos/deploy.svg)
+![deploy](http://svgporn.com/logos/deploy.svg)
 
 ## <a href="https://www.designernews.co/" target="_blank">Designer News</a>
-![designernews](http://gilbarbara.github.io/logos/designernews.svg)
+![designernews](http://svgporn.com/logos/designernews.svg)
 
 ## <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
-![digitalocean](http://gilbarbara.github.io/logos/digitalocean.svg)
+![digitalocean](http://svgporn.com/logos/digitalocean.svg)
 
 ## <a href="https://divshot.com/" target="_blank">Divshot</a>
-![divshot](http://gilbarbara.github.io/logos/divshot.svg)
+![divshot](http://svgporn.com/logos/divshot.svg)
 
 ## <a href="https://www.djangoproject.com/" target="_blank">Django</a>
-![django](http://gilbarbara.github.io/logos/django.svg)
+![django](http://svgporn.com/logos/django.svg)
 
 ## <a href="https://www.docker.com/" target="_blank">docker</a>
-![docker](http://gilbarbara.github.io/logos/docker.svg)
+![docker](http://svgporn.com/logos/docker.svg)
 
 ## <a href="https://dojotoolkit.org/" target="_blank">Dojo Toolkit</a> *
-![dojo](http://gilbarbara.github.io/logos/dojo.svg)
+![dojo](http://svgporn.com/logos/dojo.svg)
 
 ## <a href="https://drone.io/" target="_blank">Drone</a> *
-![drone](http://gilbarbara.github.io/logos/drone.svg)
+![drone](http://svgporn.com/logos/drone.svg)
 
 ## <a href="http://www.dropzonejs.com/" target="_blank">Dropzone</a>
-![dropzone](http://gilbarbara.github.io/logos/dropzone.svg)
+![dropzone](http://svgporn.com/logos/dropzone.svg)
 
 ## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
-![.net](http://gilbarbara.github.io/logos/dotnet.svg)
+![.net](http://svgporn.com/logos/dotnet.svg)
 
 ## <a href="https://www.drupal.org/" target="_blank">Drupal</a>
-![drupal](http://gilbarbara.github.io/logos/drupal.svg)
+![drupal](http://svgporn.com/logos/drupal.svg)
 
 ## <a href="https://eclipse.org/" target="_blank">Eclipse</a>
-![eclipse](http://gilbarbara.github.io/logos/eclipse.svg)
+![eclipse](http://svgporn.com/logos/eclipse.svg)
 
 ## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
-![elasticsearch](http://gilbarbara.github.io/logos/elasticsearch.svg)
+![elasticsearch](http://svgporn.com/logos/elasticsearch.svg)
 
 ## <a href="http://electron.atom.io/" target="_blank">Electron</a>
-![electron](http://gilbarbara.github.io/logos/electron.svg)
+![electron](http://svgporn.com/logos/electron.svg)
 
 ## <a href="http://emberjs.com/" target="_blank">Ember</a>
-![ember](http://gilbarbara.github.io/logos/ember-tomster.svg)
+![ember](http://svgporn.com/logos/ember-tomster.svg)
 
-![ember](http://gilbarbara.github.io/logos/ember.svg)
+![ember](http://svgporn.com/logos/ember.svg)
 
 ## <a href="http://emmet.io/" target="_blank">Emmet</a>
-![emmet](http://gilbarbara.github.io/logos/emmet.svg)
+![emmet](http://svgporn.com/logos/emmet.svg)
 
 ## <a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>
-![engine-yard](http://gilbarbara.github.io/logos/engine-yard.svg)
+![engine-yard](http://svgporn.com/logos/engine-yard.svg)
 
 ## <a href="http://enyojs.com/" target="_blank">Enyo</a> *
-![enyo](http://gilbarbara.github.io/logos/enyo.svg)
+![enyo](http://svgporn.com/logos/enyo.svg)
 
 ## <a href="http://www.erlang.org/" target="_blank">Erlang</a>
-![erlang](http://gilbarbara.github.io/logos/erlang.svg)
+![erlang](http://svgporn.com/logos/erlang.svg)
 
 ## <a href="http://www.ecmascript.org/" target="_blank">ES6</a>
-![es6](http://gilbarbara.github.io/logos/es6.svg)
+![es6](http://svgporn.com/logos/es6.svg)
 
 ## <a href="http://eslint.org/" target="_blank">Eslint</a>
-![eslint](http://gilbarbara.github.io/logos/eslint.svg)
+![eslint](http://svgporn.com/logos/eslint.svg)
 
 ## <a href="http://expressjs.com/" target="_blank">Express</a>
-![express](http://gilbarbara.github.io/logos/express.svg)
+![express](http://svgporn.com/logos/express.svg)
 
 ## <a href="http://famous.org/" target="_blank">Famo.us</a>
-![famous](http://gilbarbara.github.io/logos/famous.svg)
+![famous](http://svgporn.com/logos/famous.svg)
 
 ## <a href="https://www.firebase.com/" target="_blank">Firebase</a> *
-![firebase](http://gilbarbara.github.io/logos/firebase.svg)
+![firebase](http://svgporn.com/logos/firebase.svg)
 
 ## <a href="https://firefox.com/" target="_blank">Firefox</a>
-![firefox](http://gilbarbara.github.io/logos/firefox.svg)
+![firefox](http://svgporn.com/logos/firefox.svg)
 
 ## <a href="http://flask.pocoo.org/" target="_blank">Flask</a>
-![flask](http://gilbarbara.github.io/logos/flask.svg)
+![flask](http://svgporn.com/logos/flask.svg)
 
 ## <a href="http://flexible.gs/" target="_blank">flexible.gs</a>
-![flexible-gs](http://gilbarbara.github.io/logos/flexible-gs.svg)
+![flexible-gs](http://svgporn.com/logos/flexible-gs.svg)
 
 ## <a href="https://flightjs.github.io/" target="_blank">Flight</a> *
-![flight](http://gilbarbara.github.io/logos/flight.svg)
+![flight](http://svgporn.com/logos/flight.svg)
 
 ## <a href="http://flowtype.org/" target="_blank">Flow</a> *
-![flow](http://gilbarbara.github.io/logos/flow.svg)
+![flow](http://svgporn.com/logos/flow.svg)
 
 ## <a href="https://facebook.github.io/flux/" target="_blank">Flux</a>
-![flux](http://gilbarbara.github.io/logos/flux.svg)
+![flux](http://svgporn.com/logos/flux.svg)
 
 ## <a href="https://github.com/foreverjs/forever" target="_blank">Forever</a>
-![forever](http://gilbarbara.github.io/logos/forever.svg)
+![forever](http://svgporn.com/logos/forever.svg)
 
 ## <a href="https://ghost.org/" target="_blank">Ghost</a>
-![ghost](http://gilbarbara.github.io/logos/ghost.svg)
+![ghost](http://svgporn.com/logos/ghost.svg)
 
 ## <a href="https://git-scm.com/" target="_blank">Git</a>
-![git](http://gilbarbara.github.io/logos/git-icon.svg)
+![git](http://svgporn.com/logos/git-icon.svg)
 
-![git](http://gilbarbara.github.io/logos/git.svg)
+![git](http://svgporn.com/logos/git.svg)
 
 ## <a href="https://github.com/" target="_blank">Github</a>
-![github](http://gilbarbara.github.io/logos/github-icon.svg)
+![github](http://svgporn.com/logos/github-icon.svg)
 
-![github](http://gilbarbara.github.io/logos/github.svg)
+![github](http://svgporn.com/logos/github.svg)
 
-![github](http://gilbarbara.github.io/logos/github-octocat.svg)
+![github](http://svgporn.com/logos/github-octocat.svg)
 
 ## <a href="https://about.gitlab.com/" target="_blank">Gitlab</a>
-![gitlab](http://gilbarbara.github.io/logos/gitlab.svg)
+![gitlab](http://svgporn.com/logos/gitlab.svg)
 
 ## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a>
-![google-cloud](http://gilbarbara.github.io/logos/google-cloud.svg)
+![google-cloud](http://svgporn.com/logos/google-cloud.svg)
 
 ## <a href="https://developers.google.com/" target="_blank">Google Developers</a>
-![google-developers](http://gilbarbara.github.io/logos/google-developers.svg)
+![google-developers](http://svgporn.com/logos/google-developers.svg)
 
 ## <a href="https://golang.org/" target="_blank">Go</a>
-![go](http://gilbarbara.github.io/logos/gopher.svg)
+![go](http://svgporn.com/logos/gopher.svg)
 
 ## <a href="https://grails.org/" target="_blank">Grails</a>
-![grails](http://gilbarbara.github.io/logos/grails.svg)
+![grails](http://svgporn.com/logos/grails.svg)
 
 ## <a href="http://gruntjs.com/" target="_blank">Grunt</a>
-![grunt](http://gilbarbara.github.io/logos/grunt.svg)
+![grunt](http://svgporn.com/logos/grunt.svg)
 
 ## <a href="http://gulpjs.com/" target="_blank">Gulp</a>
-![gulp](http://gilbarbara.github.io/logos/gulp.svg)
+![gulp](http://svgporn.com/logos/gulp.svg)
 
 ## <a href="http://www.gwtproject.org/" target="_blank">GWT</a>
-![gwt](http://gilbarbara.github.io/logos/gwt.svg)
+![gwt](http://svgporn.com/logos/gwt.svg)
 
 ## <a href="http://hacklang.org/" target="_blank">hack</a> *
-![hack](http://gilbarbara.github.io/logos/hack.svg)
+![hack](http://svgporn.com/logos/hack.svg)
 
 ## <a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>
-![hadoop](http://gilbarbara.github.io/logos/hadoop.svg)
+![hadoop](http://svgporn.com/logos/hadoop.svg)
 
 ## <a href="http://haml.info/" target="_blank">Haml</a>
-![haml](http://gilbarbara.github.io/logos/haml.svg)
+![haml](http://svgporn.com/logos/haml.svg)
 
 ## <a href="http://handlebarsjs.com/" target="_blank">Handlebars</a>
-![handlebars](http://gilbarbara.github.io/logos/handlebars.svg)
+![handlebars](http://svgporn.com/logos/handlebars.svg)
 
 ## <a href="http://hapijs.com/" target="_blank">hapi</a>
-![hapi](http://gilbarbara.github.io/logos/hapi.svg)
+![hapi](http://svgporn.com/logos/hapi.svg)
 
 ## <a href="https://www.harrow.io/" target="_blank">Harrow</a>
-![harrow](http://gilbarbara.github.io/logos/harrow.svg)
+![harrow](http://svgporn.com/logos/harrow.svg)
 
 ## <a href="https://www.haskell.org/" target="_blank">Haskell</a>
-![haskell](http://gilbarbara.github.io/logos/haskell.svg)
+![haskell](http://svgporn.com/logos/haskell.svg)
 
 ## <a href="http://haxe.org/" target="_blank">Haxe</a>
-![haxe](http://gilbarbara.github.io/logos/haxe.svg)
+![haxe](http://svgporn.com/logos/haxe.svg)
 
 ## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
-![heroku](http://gilbarbara.github.io/logos/heroku.svg)
+![heroku](http://svgporn.com/logos/heroku.svg)
 
 ## <a href="http://www.w3.org/TR/html5/" target="_blank">HTML5</a>
-![html-5](http://gilbarbara.github.io/logos/html-5.svg)
+![html-5](http://svgporn.com/logos/html-5.svg)
 
 ## <a href="https://html5boilerplate.com/" target="_blank">HTML5 Boilerplate</a>
-![html5-boilerplate](http://gilbarbara.github.io/logos/html5-boilerplate.svg)
+![html5-boilerplate](http://svgporn.com/logos/html5-boilerplate.svg)
 
 ## <a href="http://www.hubspot.com/" target="_blank">Hubspot</a>
-![hubspot](http://gilbarbara.github.io/logos/hubspot.svg)
+![hubspot](http://svgporn.com/logos/hubspot.svg)
 
 ## <a href="https://github.com/imagemin/imagemin" target="_blank">imagemin</a>
-![imagemin](http://gilbarbara.github.io/logos/imagemin.svg)
+![imagemin](http://svgporn.com/logos/imagemin.svg)
 
 ## <a href="http://fbinfer.com/" target="_blank">Infer</a> *
-![infer](http://gilbarbara.github.io/logos/infer.svg)
+![infer](http://svgporn.com/logos/infer.svg)
 
 ## <a href="http://www.invisionapp.com/" target="_blank">Invision</a>
-![invision](http://gilbarbara.github.io/logos/invision.svg)
+![invision](http://svgporn.com/logos/invision.svg)
 
 ## <a href="https://iojs.org/" target="_blank">io.js</a> *
-![io](http://gilbarbara.github.io/logos/io.svg)
+![io](http://svgporn.com/logos/io.svg)
 
 ## <a href="http://ionicframework.com/" target="_blank">Ionic</a>
-![ionic](http://gilbarbara.github.io/logos/ionic.svg)
+![ionic](http://svgporn.com/logos/ionic.svg)
 
 ## <a href="http://jade-lang.com/" target="_blank">Jade</a>
-![jade](http://gilbarbara.github.io/logos/jade.svg)
+![jade](http://svgporn.com/logos/jade.svg)
 
 ## <a href="http://jasmine.github.io/" target="_blank">Jasmine</a>
-![jasmine](http://gilbarbara.github.io/logos/jasmine.svg)
+![jasmine](http://svgporn.com/logos/jasmine.svg)
 
 ## <a href="https://www.java.com/" target="_blank">Java</a>
-![java](http://gilbarbara.github.io/logos/java.svg)
+![java](http://svgporn.com/logos/java.svg)
 
 ## <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">javascript (JS)</a>
-![javascript](http://gilbarbara.github.io/logos/javascript.svg)
+![javascript](http://svgporn.com/logos/javascript.svg)
 
 ## <a href="https://jenkins-ci.org/" target="_blank">Jenkins</a>
-![jenkins](http://gilbarbara.github.io/logos/jenkins.svg)
+![jenkins](http://svgporn.com/logos/jenkins.svg)
 
 ## <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>
-![jetbrains](http://gilbarbara.github.io/logos/jetbrains.svg)
+![jetbrains](http://svgporn.com/logos/jetbrains.svg)
 
 ## <a href="https://jhipster.github.io/" target="_blank">Jhipster</a>
-![jhipster](http://gilbarbara.github.io/logos/jhipster.svg)
+![jhipster](http://svgporn.com/logos/jhipster.svg)
 
 ## <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA</a>
-![jira](http://gilbarbara.github.io/logos/jira.svg)
+![jira](http://svgporn.com/logos/jira.svg)
 
 ## <a href="http://www.joomla.org/" target="_blank">Joomla</a>
-![joomla](http://gilbarbara.github.io/logos/joomla.svg)
+![joomla](http://svgporn.com/logos/joomla.svg)
 
 ## <a href="https://jquery.com/" target="_blank">jQuery</a>
-![jquery](http://gilbarbara.github.io/logos/jquery.svg)
+![jquery](http://svgporn.com/logos/jquery.svg)
 
 ## <a href="https://jsbin.com/" target="_blank">jsbin</a>
-![jsbin](http://gilbarbara.github.io/logos/jsbin.svg)
+![jsbin](http://svgporn.com/logos/jsbin.svg)
 
 ## <a href="http://jscs.info/" target="_blank">JSCS</a>
-![jscs](http://gilbarbara.github.io/logos/jscs.svg)
+![jscs](http://svgporn.com/logos/jscs.svg)
 
 ## <a href="https://jsfiddle.net/" target="_blank">JSFiddle</a>
-![jsfiddle](http://gilbarbara.github.io/logos/jsfiddle.svg)
+![jsfiddle](http://svgporn.com/logos/jsfiddle.svg)
 
 ## <a href="http://json.org/" target="_blank">JSON</a>
-![json](http://gilbarbara.github.io/logos/json.svg)
+![json](http://svgporn.com/logos/json.svg)
 
 ## <a href="http://jspm.io/" target="_blank">JSPM</a> *
-![jspm](http://gilbarbara.github.io/logos/jspm.svg)
+![jspm](http://svgporn.com/logos/jspm.svg)
 
 ## <a href="http://karma-runner.github.io/" target="_blank">Karma</a>
-![karma](http://gilbarbara.github.io/logos/karma.svg)
+![karma](http://svgporn.com/logos/karma.svg)
 
 ## <a href="http://keen.io/" target="_blank">Keen IO</a>
-![keen](http://gilbarbara.github.io/logos/keen.svg)
+![keen](http://svgporn.com/logos/keen.svg)
 
 ## <a href="https://kitematic.com/" target="_blank">Kitematic</a> *
-![kitematic](http://gilbarbara.github.io/logos/kitematic.svg)
+![kitematic](http://svgporn.com/logos/kitematic.svg)
 
 ## <a href="https://kraken.io/" target="_blank">Kraken</a>
-![kraken](http://gilbarbara.github.io/logos/kraken.svg)
+![kraken](http://svgporn.com/logos/kraken.svg)
 
 ## <a href="http://krakenjs.com/" target="_blank">Krakenjs</a>
-![krakenjs](http://gilbarbara.github.io/logos/krakenjs.svg)
+![krakenjs](http://svgporn.com/logos/krakenjs.svg)
 
 ## <a href="http://laravel.com/" target="_blank">Laravel</a>
-![laravel](http://gilbarbara.github.io/logos/laravel.svg)
+![laravel](http://svgporn.com/logos/laravel.svg)
 
 ## <a href="http://leafletjs.com/" target="_blank">Leafjet</a>
-![leafjet](http://gilbarbara.github.io/logos/leafjet.svg)
+![leafjet](http://svgporn.com/logos/leafjet.svg)
 
 ## <a href="http://lesscss.org/" target="_blank">Less</a>
-![less](http://gilbarbara.github.io/logos/less.svg)
+![less](http://svgporn.com/logos/less.svg)
 
 ## <a href="https://lodash.com/" target="_blank">Lodash</a> *
-![lodash](http://gilbarbara.github.io/logos/lodash.svg)
+![lodash](http://svgporn.com/logos/lodash.svg)
 
 ## <a href="http://lotusrb.org/" target="_blank">Lotus</a>
-![lotus](http://gilbarbara.github.io/logos/lotus.svg)
+![lotus](http://svgporn.com/logos/lotus.svg)
 
 ## <a href="http://lucene.apache.org/" target="_blank">Lucene</a>
-![lucene](http://gilbarbara.github.io/logos/lucene.svg)
+![lucene](http://svgporn.com/logos/lucene.svg)
 
 ## <a href="https://lucenenet.apache.org/" target="_blank">Lucene.net</a>
-![lucene.net](http://gilbarbara.github.io/logos/lucene.net.svg)
+![lucene.net](http://svgporn.com/logos/lucene.net.svg)
 
 ## <a href="http://magento.com/" target="_blank">Magento</a>
-![magento](http://gilbarbara.github.io/logos/magento.svg)
+![magento](http://svgporn.com/logos/magento.svg)
 
 ## <a href="http://mailchimp.com/" target="_blank">Mailchimp</a>
-![mailchimp](http://gilbarbara.github.io/logos/mailchimp-freddie.svg)
+![mailchimp](http://svgporn.com/logos/mailchimp-freddie.svg)
 
-![mailchimp](http://gilbarbara.github.io/logos/mailchimp.svg)
+![mailchimp](http://svgporn.com/logos/mailchimp.svg)
 
 ## <a href="http://mandrill.com/" target="_blank">Mandrill</a>
-![mandrill](http://gilbarbara.github.io/logos/mandrill-shield.svg)
+![mandrill](http://svgporn.com/logos/mandrill-shield.svg)
 
-![mandrill](http://gilbarbara.github.io/logos/mandrill.svg)
+![mandrill](http://svgporn.com/logos/mandrill.svg)
 
 ## <a href="https://mariadb.org/" target="_blank">MariaDB</a>
-![mariadb](http://gilbarbara.github.io/logos/mariadb.svg)
+![mariadb](http://svgporn.com/logos/mariadb.svg)
 
 ## <a href="http://marionettejs.com/" target="_blank">Marionette.js</a>
-![marionette](http://gilbarbara.github.io/logos/marionette.svg)
+![marionette](http://svgporn.com/logos/marionette.svg)
 
 ## <a href="http://daringfireball.net/projects/markdown/" target="_blank">Markdown</a>
-![markdown](http://gilbarbara.github.io/logos/markdown.svg)
+![markdown](http://svgporn.com/logos/markdown.svg)
 
 ## <a href="http://material-ui.com/" target="_blank">Material UI</a>
-![material-ui](http://gilbarbara.github.io/logos/material-ui.svg)
+![material-ui](http://svgporn.com/logos/material-ui.svg)
 
 ## <a href="https://developer.mozilla.org/" target="_blank">MDN</a>
-![mdn](http://gilbarbara.github.io/logos/mdn.svg)
+![mdn](http://svgporn.com/logos/mdn.svg)
 
 ## <a href="http://memcached.org/" target="_blank">Memcached</a>
-![memcached](http://gilbarbara.github.io/logos/memcached.svg)
+![memcached](http://svgporn.com/logos/memcached.svg)
 
 ## <a href="https://mercurial.selenic.com/" target="_blank">Mercurial</a>
-![mercurial](http://gilbarbara.github.io/logos/mercurial.svg)
+![mercurial](http://svgporn.com/logos/mercurial.svg)
 
 ## <a href="https://www.meteor.com/" target="_blank">Meteor</a>
-![meteor](http://gilbarbara.github.io/logos/meteor-icon.svg)
+![meteor](http://svgporn.com/logos/meteor-icon.svg)
 
-![meteor](http://gilbarbara.github.io/logos/meteor.svg)
+![meteor](http://svgporn.com/logos/meteor.svg)
 
 ## <a href="https://lhorie.github.io/mithril/" target="_blank">Mithril</a> *
-![mithril](http://gilbarbara.github.io/logos/mithril.svg)
+![mithril](http://svgporn.com/logos/mithril.svg)
 
 ## <a href="http://mochajs.org/" target="_blank">Mocha</a> *
-![mocha](http://gilbarbara.github.io/logos/mocha.svg)
+![mocha](http://svgporn.com/logos/mocha.svg)
 
 ## <a href="http://modernizr.com/" target="_blank">Modernizr</a>
-![modernizr](http://gilbarbara.github.io/logos/modernizr.svg)
+![modernizr](http://svgporn.com/logos/modernizr.svg)
 
 ## <a href="http://momentjs.com/" target="_blank">Moment.js</a>
-![momentjs](http://gilbarbara.github.io/logos/momentjs.svg)
+![momentjs](http://svgporn.com/logos/momentjs.svg)
 
 ## <a href="http://mootools.net/" target="_blank">MooTools</a>
-![mootools](http://gilbarbara.github.io/logos/mootools.svg)
+![mootools](http://svgporn.com/logos/mootools.svg)
 
 ## <a href="https://www.mongodb.org/" target="_blank">MongoDB</a>
-![mongodb](http://gilbarbara.github.io/logos/mongodb.svg)
+![mongodb](http://svgporn.com/logos/mongodb.svg)
 
 ## <a href="http://www.mono-project.com/" target="_blank">Mono</a>
-![mono](http://gilbarbara.github.io/logos/mono.svg)
+![mono](http://svgporn.com/logos/mono.svg)
 
 ## <a href="http://dev.mysql.com/" target="_blank">MySQL</a>
-![mysql](http://gilbarbara.github.io/logos/mysql.svg)
+![mysql](http://svgporn.com/logos/mysql.svg)
 
 ## <a href="http://www.myth.io/" target="_blank">Myth</a>
-![myth](http://gilbarbara.github.io/logos/myth.svg)
+![myth](http://svgporn.com/logos/myth.svg)
 
 ## <a href="https://www.nativescript.org/" target="_blank">NativeScript</a>
-![nativescript](http://gilbarbara.github.io/logos/nativescript.svg)
+![nativescript](http://svgporn.com/logos/nativescript.svg)
 
 ## <a href="http://neat.bourbon.io/" target="_blank">Neat</a>
-![neat](http://gilbarbara.github.io/logos/neat.svg)
+![neat](http://svgporn.com/logos/neat.svg)
 
 ## <a href="http://neo4j.com/" target="_blank">Neo4j</a>
-![neo4j](http://gilbarbara.github.io/logos/neo4j.svg)
+![neo4j](http://svgporn.com/logos/neo4j.svg)
 
 ## <a href="http://neovim.io/" target="_blank">Neovim</a>
-![neovim](http://gilbarbara.github.io/logos/neovim.svg)
+![neovim](http://svgporn.com/logos/neovim.svg)
 
 ## <a href="https://netbeans.org/" target="_blank">Netbeans</a>
-![netbeans](http://gilbarbara.github.io/logos/netbeans.svg)
+![netbeans](http://svgporn.com/logos/netbeans.svg)
 
 ## <a href="http://newrelic.com/" target="_blank">New Relic</a>
-![new-relic](http://gilbarbara.github.io/logos/new-relic.svg)
+![new-relic](http://svgporn.com/logos/new-relic.svg)
 
 ## <a href="https://www.nginx.com/" target="_blank">NGINX</a>
-![nginx](http://gilbarbara.github.io/logos/nginx.svg)
+![nginx](http://svgporn.com/logos/nginx.svg)
 
 ## <a href="https://www.nodejitsu.com/" target="_blank">Nodejitsu</a>
-![nodejitsu](http://gilbarbara.github.io/logos/nodejitsu.svg)
+![nodejitsu](http://svgporn.com/logos/nodejitsu.svg)
 
 ## <a href="https://nodejs.org/" target="_blank">Node.js</a>
-![nodejs](http://gilbarbara.github.io/logos/nodejs-icon.svg)
+![nodejs](http://svgporn.com/logos/nodejs-icon.svg)
 
-![nodejs](http://gilbarbara.github.io/logos/nodejs.svg)
+![nodejs](http://svgporn.com/logos/nodejs.svg)
 
 ## <a href="http://nodemon.io/" target="_blank">nodemon</a>
-![nodemon](http://gilbarbara.github.io/logos/nodemon.svg)
+![nodemon](http://svgporn.com/logos/nodemon.svg)
 
 ## <a href="https://github.com/sass/node-sass" target="_blank">Node-Sass</a>
-![node-sass](http://gilbarbara.github.io/logos/node-sass.svg)
+![node-sass](http://svgporn.com/logos/node-sass.svg)
 
 ## <a href="https://www.npmjs.com/" target="_blank">NPM</a>
-![npm](http://gilbarbara.github.io/logos/npm.svg)
+![npm](http://svgporn.com/logos/npm.svg)
 
-![npm](http://gilbarbara.github.io/logos/npm-2.svg)
+![npm](http://svgporn.com/logos/npm-2.svg)
 
 ## <a href="http://nuclide.io/" target="_blank">Nuclide</a> *
-![nuclide](http://gilbarbara.github.io/logos/nuclide.svg)
+![nuclide](http://svgporn.com/logos/nuclide.svg)
 
 ## <a href="http://nwjs.io/" target="_blank">NW.js a.k.a. Nodewebkit</a>
-![nwjs](http://gilbarbara.github.io/logos/nodewebkit.svg)
+![nwjs](http://svgporn.com/logos/nodewebkit.svg)
 
 ## <a href="http://oauth.net/" target="_blank">OAuth</a>
-![oauth](http://gilbarbara.github.io/logos/oauth.svg)
+![oauth](http://svgporn.com/logos/oauth.svg)
 
 ## <a href="http://ogp.me/" target="_blank">Open Graph</a>
-![open-graph](http://gilbarbara.github.io/logos/open-graph.svg)
+![open-graph](http://svgporn.com/logos/open-graph.svg)
 
 ## <a href="http://www.oshwa.org/" target="_blank">Open Source Hardware Association</a>
-![oshw](http://gilbarbara.github.io/logos/oshw.svg)
+![oshw](http://svgporn.com/logos/oshw.svg)
 
 ## <a href="http://opensource.org/" target="_blank">Open Source Initiative</a>
-![opensource](http://gilbarbara.github.io/logos/opensource.svg)
+![opensource](http://svgporn.com/logos/opensource.svg)
 
 ## <a href="http://openlayers.org/" target="_blank">OpenLayers</a>
-![openlayers](http://gilbarbara.github.io/logos/openlayers.svg)
+![openlayers](http://svgporn.com/logos/openlayers.svg)
 
 ## <a href="https://www.openstack.org/" target="_blank">openstack</a> *
-![openstack](http://gilbarbara.github.io/logos/openstack.svg)
+![openstack](http://svgporn.com/logos/openstack.svg)
 
 ## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
-![optimizely](http://gilbarbara.github.io/logos/optimizely.svg)
+![optimizely](http://svgporn.com/logos/optimizely.svg)
 
 ## <a href="http://usepanda.com/" target="_blank">Panda</a>
-![panda](http://gilbarbara.github.io/logos/panda.svg)
+![panda](http://svgporn.com/logos/panda.svg)
 
 ## <a href="http://passportjs.org/" target="_blank">Passport</a>
-![passport](http://gilbarbara.github.io/logos/passport.svg)
+![passport](http://svgporn.com/logos/passport.svg)
 
 ## <a href="https://www.perl.org/" target="_blank">Perl</a>
-![perl](http://gilbarbara.github.io/logos/perl.svg)
+![perl](http://svgporn.com/logos/perl.svg)
 
 ## <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
-![phonegap](http://gilbarbara.github.io/logos/phonegap.svg)
+![phonegap](http://svgporn.com/logos/phonegap.svg)
 
-![phonegap](http://gilbarbara.github.io/logos/phonegap-bot.svg)
+![phonegap](http://svgporn.com/logos/phonegap-bot.svg)
 
 ## <a href="http://php.net/" target="_blank">PHP</a>
-![php](http://gilbarbara.github.io/logos/php.svg)
+![php](http://svgporn.com/logos/php.svg)
 
 ## <a href="https://www.pingdom.com/" target="_blank">Pingdom</a>
-![pingdom](http://gilbarbara.github.io/logos/pingdom.svg)
+![pingdom](http://svgporn.com/logos/pingdom.svg)
 
 ## <a href="https://www.pixelapse.com/" target="_blank">Pixelapse</a>
-![pixelapse](http://gilbarbara.github.io/logos/pixelapse.svg)
+![pixelapse](http://svgporn.com/logos/pixelapse.svg)
 
 ## <a href="https://www.playframework.com/" target="_blank">Play</a>
-![play](http://gilbarbara.github.io/logos/play.svg)
+![play](http://svgporn.com/logos/play.svg)
 
 ## <a href="https://www.polymer-project.org/1.0/" target="_blank">Polymer</a>
-![polymer](http://gilbarbara.github.io/logos/polymer.svg)
+![polymer](http://svgporn.com/logos/polymer.svg)
 
 ## <a href="https://github.com/postcss/postcss" target="_blank">PostCSS</a>
-![postcss](http://gilbarbara.github.io/logos/postcss.svg)
+![postcss](http://svgporn.com/logos/postcss.svg)
 
 ## <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a>
-![postgresql](http://gilbarbara.github.io/logos/postgresql.svg)
+![postgresql](http://svgporn.com/logos/postgresql.svg)
 
 ## <a href="http://pouchdb.com/" target="_blank">PouchDB</a>
-![pouchdb](http://gilbarbara.github.io/logos/pouchdb.svg)
+![pouchdb](http://svgporn.com/logos/pouchdb.svg)
 
 ## <a href="https://precursorapp.com/" target="_blank">Precursor</a>
-![precursor](http://gilbarbara.github.io/logos/precursor.svg)
+![precursor](http://svgporn.com/logos/precursor.svg)
 
 ## <a href="http://www.producthunt.com/" target="_blank">Product Hunt</a>
-![producthunt](http://gilbarbara.github.io/logos/producthunt.svg)
+![producthunt](http://svgporn.com/logos/producthunt.svg)
 
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a>
-![puppet](http://gilbarbara.github.io/logos/puppet.svg)
+![puppet](http://svgporn.com/logos/puppet.svg)
 
 ## <a href="https://www.python.org/" target="_blank">Python</a>
-![python](http://gilbarbara.github.io/logos/python.svg)
+![python](http://svgporn.com/logos/python.svg)
 
 ## <a href="https://github.com/kriskowal/q" target="_blank">Q</a>
-![q](http://gilbarbara.github.io/logos/q.svg)
+![q](http://svgporn.com/logos/q.svg)
 
 ## <a href="http://www.rackspace.com/" target="_blank">Rackspace</a>
-![rackspace](http://gilbarbara.github.io/logos/rackspace.svg)
+![rackspace](http://svgporn.com/logos/rackspace.svg)
 
 ## <a href="http://rubyonrails.org/" target="_blank">Rails</a>
-![rails](http://gilbarbara.github.io/logos/rails.svg)
+![rails](http://svgporn.com/logos/rails.svg)
 
 ## <a href="http://llllll.li/randomColor/" target="_blank">randomColor</a>
-![randomcolor](http://gilbarbara.github.io/logos/randomcolor.svg)
+![randomcolor](http://svgporn.com/logos/randomcolor.svg)
 
 ## <a href="http://raphaeljs.com/" target="_blank">Raphaël</a>
-![raphael](http://gilbarbara.github.io/logos/raphael.svg)
+![raphael](http://svgporn.com/logos/raphael.svg)
 
 ## <a href="https://www.raspberrypi.org/" target="_blank">Raspberry Pi</a>
-![raspberry-pi](http://gilbarbara.github.io/logos/raspberry-pi.svg)
+![raspberry-pi](http://svgporn.com/logos/raspberry-pi.svg)
 
 ## <a href="https://facebook.github.io/react/" target="_blank">React</a>
-![react](http://gilbarbara.github.io/logos/react.svg)
+![react](http://svgporn.com/logos/react.svg)
 
 ## <a href="http://redis.io/" target="_blank">Redis</a>
-![redis](http://gilbarbara.github.io/logos/redis.svg)
+![redis](http://svgporn.com/logos/redis.svg)
 
 ## <a href="http://requirejs.org/" target="_blank">RequireJS</a>
-![require](http://gilbarbara.github.io/logos/require.svg)
+![require](http://svgporn.com/logos/require.svg)
 
 ## <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">Rest</a>
-![rest](http://gilbarbara.github.io/logos/rest.svg)
+![rest](http://svgporn.com/logos/rest.svg)
 
 ## <a href="http://basho.com/products/#riak" target="_blank">Riak</a>
-![riak](http://gilbarbara.github.io/logos/riak.svg)
+![riak](http://svgporn.com/logos/riak.svg)
 
 ## <a href="http://www.emc.com/domains/rsa/index.htm" target="_blank">RSA</a>
-![rsa](http://gilbarbara.github.io/logos/rsa.svg)
+![rsa](http://svgporn.com/logos/rsa.svg)
 
 ## <a href="https://www.ruby-lang.org/" target="_blank">Ruby</a>
-![ruby](http://gilbarbara.github.io/logos/ruby.svg)
+![ruby](http://svgporn.com/logos/ruby.svg)
 
 ## <a href="https://rubygems.org/" target="_blank">RubyGems</a>
-![rubygems](http://gilbarbara.github.io/logos/rubygems.svg)
+![rubygems](http://svgporn.com/logos/rubygems.svg)
 
 ## <a href="https://github.com/tonsky/rum" target="_blank">Rum</a>
-![rum](http://gilbarbara.github.io/logos/rum.svg)
+![rum](http://svgporn.com/logos/rum.svg)
 
 ## <a href="http://www.rust-lang.org/" target="_blank">Rust</a>
-![rust](http://gilbarbara.github.io/logos/rust.svg)
+![rust](http://svgporn.com/logos/rust.svg)
 
 ## <a href="http://saltstack.com/" target="_blank">SaltStack</a>
-![saltstack](http://gilbarbara.github.io/logos/saltstack.svg)
+![saltstack](http://svgporn.com/logos/saltstack.svg)
 
 ## <a href="http://sass-lang.com/" target="_blank">Sass</a>
-![sass](http://gilbarbara.github.io/logos/sass.svg)
+![sass](http://svgporn.com/logos/sass.svg)
 
 ## <a href="http://www.scala-lang.org/" target="_blank">Scala</a>
-![scala](http://gilbarbara.github.io/logos/scala.svg)
+![scala](http://svgporn.com/logos/scala.svg)
 
 ## <a href="https://segment.com/" target="_blank">Segment</a>
-![segment](http://gilbarbara.github.io/logos/segment.svg)
+![segment](http://svgporn.com/logos/segment.svg)
 
 ## <a href="https://semaphoreci.com/" target="_blank">Semaphore</a>
-![semaphore](http://gilbarbara.github.io/logos/semaphore.svg)
+![semaphore](http://svgporn.com/logos/semaphore.svg)
 
 ## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
-![sentry](http://gilbarbara.github.io/logos/sentry.svg)
+![sentry](http://svgporn.com/logos/sentry.svg)
 
 ## <a href="http://shields.io/" target="_blank">Shields.io</a> *
-![shields](http://gilbarbara.github.io/logos/shields.svg)
+![shields](http://svgporn.com/logos/shields.svg)
 
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
-![sinatra](http://gilbarbara.github.io/logos/sinatra.svg)
+![sinatra](http://svgporn.com/logos/sinatra.svg)
 
 ## <a href="http://snapsvg.io/" target="_blank">Snap.svg</a>
-![snap-svg](http://gilbarbara.github.io/logos/snap-svg.svg)
+![snap-svg](http://svgporn.com/logos/snap-svg.svg)
 
 ## <a href="http://socket.io/" target="_blank">Socket.io</a>
-![socket.io](http://gilbarbara.github.io/logos/socket.io.svg)
+![socket.io](http://svgporn.com/logos/socket.io.svg)
 
 ## <a href="http://lucene.apache.org/solr/" target="_blank">Solr</a>
-![solr](http://gilbarbara.github.io/logos/solr.svg)
+![solr](http://svgporn.com/logos/solr.svg)
 
 ## <a href="https://spring.io/" target="_blank">Spring</a> *
-![spring](http://gilbarbara.github.io/logos/spring.svg)
+![spring](http://svgporn.com/logos/spring.svg)
 
 ## <a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>
-![stackoverflow](http://gilbarbara.github.io/logos/stackoverflow.svg)
+![stackoverflow](http://svgporn.com/logos/stackoverflow.svg)
 
 ## <a href="https://www.atlassian.com/software/stash" target="_blank">Stash</a>
-![stash](http://gilbarbara.github.io/logos/stash.svg)
+![stash](http://svgporn.com/logos/stash.svg)
 
 ## <a href="https://struts.apache.org/" target="_blank">Struts</a>
-![struts](http://gilbarbara.github.io/logos/struts.svg)
+![struts](http://svgporn.com/logos/struts.svg)
 
 ## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
-![stylus](http://gilbarbara.github.io/logos/stylus.svg)
+![stylus](http://svgporn.com/logos/stylus.svg)
 
 ## <a href="https://subversion.apache.org/" target="_blank">Subversion</a>
-![subversion](http://gilbarbara.github.io/logos/subversion.svg)
+![subversion](http://svgporn.com/logos/subversion.svg)
 
 ## <a href="http://www.w3.org/Graphics/SVG/" target="_blank">SVG</a>
-![svg](http://gilbarbara.github.io/logos/svg.svg)
+![svg](http://svgporn.com/logos/svg.svg)
 
 ## <a href="https://developer.apple.com/swift/" target="_blank">Swift</a>
-![swift](http://gilbarbara.github.io/logos/swift.svg)
+![swift](http://svgporn.com/logos/swift.svg)
 
 ## <a href="https://symfony.com/" target="_blank">Symfony</a>
-![symfony](http://gilbarbara.github.io/logos/symfony.svg)
+![symfony](http://svgporn.com/logos/symfony.svg)
 
 ## <a href="https://taiga.io/" target="_blank">Taiga</a>
-![taiga](http://gilbarbara.github.io/logos/taiga.svg)
+![taiga](http://svgporn.com/logos/taiga.svg)
 
 ## <a href="http://tastejs.com/" target="_blank">TasteJS</a> *
-![tastejs](http://gilbarbara.github.io/logos/tastejs.svg)
+![tastejs](http://svgporn.com/logos/tastejs.svg)
 
 ## <a href="http://todomvc.com/" target="_blank">TodoMVC</a>
-![todomvc](http://gilbarbara.github.io/logos/todomvc.svg)
+![todomvc](http://svgporn.com/logos/todomvc.svg)
 
 ## <a href="http://traackr.com/" target="_blank">Traackr</a>
-![traackr](http://gilbarbara.github.io/logos/traackr.svg)
+![traackr](http://svgporn.com/logos/traackr.svg)
 
 ## <a href="https://travis-ci.org/" target="_blank">Travis CI</a>
-![travis-ci](http://gilbarbara.github.io/logos/travis-ci-icon.svg)
+![travis-ci](http://svgporn.com/logos/travis-ci-icon.svg)
 
-![travis-ci](http://gilbarbara.github.io/logos/travis-ci.svg)
+![travis-ci](http://svgporn.com/logos/travis-ci.svg)
 
 ## <a href="https://unity3d.com/" target="_blank">Unity</a>
-![unity](http://gilbarbara.github.io/logos/unity.svg)
+![unity](http://svgporn.com/logos/unity.svg)
 
 ## <a href="https://vaadin.com/" target="_blank">Vaadin</a>
-![vaadin](http://gilbarbara.github.io/logos/vaadin.svg)
+![vaadin](http://svgporn.com/logos/vaadin.svg)
 
 ## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a> *
-![vagrant](http://gilbarbara.github.io/logos/vagrant.svg)
+![vagrant](http://svgporn.com/logos/vagrant.svg)
 
 ## <a href="http://www.vim.org/" target="_blank">Vim</a>
-![vim](http://gilbarbara.github.io/logos/vim.svg)
+![vim](http://svgporn.com/logos/vim.svg)
 
 ## <a href="https://www.visualstudio.com/" target="_blank">Visual Studio</a>
-![visual-studio](http://gilbarbara.github.io/logos/visual-studio.svg)
+![visual-studio](http://svgporn.com/logos/visual-studio.svg)
 
 ## <a href="https://vwo.com/" target="_blank">Visual Website Optimizer</a>
-![visual_website_optimizer](http://gilbarbara.github.io/logos/visual_website_optimizer.svg)
+![visual_website_optimizer](http://svgporn.com/logos/visual_website_optimizer.svg)
 
 ## <a href="http://vuejs.org/" target="_blank">Vue.js</a> *
-![vue](http://gilbarbara.github.io/logos/vue.svg)
+![vue](http://svgporn.com/logos/vue.svg)
 
 ## <a href="http://www.w3.org/" target="_blank">W3C</a>
-![w3c](http://gilbarbara.github.io/logos/w3c.svg)
+![w3c](http://svgporn.com/logos/w3c.svg)
 
 ## <a href="http://webcomponents.org/" target="_blank">WebComponents</a>
-![webcomponents](http://gilbarbara.github.io/logos/webcomponents.svg)
+![webcomponents](http://svgporn.com/logos/webcomponents.svg)
 
 ## <a href="http://webpack.github.io/" target="_blank">webpack</a> *
-![webpack](http://gilbarbara.github.io/logos/webpack.svg)
+![webpack](http://svgporn.com/logos/webpack.svg)
 
 ## <a href="https://www.webplatform.org/" target="_blank">WebPlatform</a> *
-![webplatform](http://gilbarbara.github.io/logos/webplatform.svg)
+![webplatform](http://svgporn.com/logos/webplatform.svg)
 
 ## <a href="http://wercker.com/" target="_blank">Wercker</a>
-![wercker](http://gilbarbara.github.io/logos/wercker.svg)
+![wercker](http://svgporn.com/logos/wercker.svg)
 
 ## <a href="https://wicket.apache.org/" target="_blank">Wicket</a>
-![wicket](http://gilbarbara.github.io/logos/wicket.svg)
+![wicket](http://svgporn.com/logos/wicket.svg)
 
 ## <a href="https://wordpress.org/" target="_blank">Wordpress</a>
-![wordpress](http://gilbarbara.github.io/logos/wordpress-icon.svg)
+![wordpress](http://svgporn.com/logos/wordpress-icon.svg)
 
-![wordpress](http://gilbarbara.github.io/logos/wordpress.svg)
+![wordpress](http://svgporn.com/logos/wordpress.svg)
 
 ## <a href="http://www.ycombinator.com/" target="_blank">YCombinator</a>
-![ycombinator](http://gilbarbara.github.io/logos/ycombinator.svg)
+![ycombinator](http://svgporn.com/logos/ycombinator.svg)
 
 ## <a href="http://yeoman.io/" target="_blank">Yeoman</a>
-![yeoman](http://gilbarbara.github.io/logos/yeoman.svg)
+![yeoman](http://svgporn.com/logos/yeoman.svg)
 
 
 ---
