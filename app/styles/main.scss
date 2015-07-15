@@ -3,6 +3,9 @@
 
 @import url(http://fonts.googleapis.com/css?family=Lato:400,400italic|Varela+Round);
 
+@import 'components/header';
+@import 'components/logos';
+
 html {
   font-size: 62.5%;
   height: 100%;
@@ -37,122 +40,6 @@ h6 {
 .container {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
-}
-
-header {
-  padding-top: 3rem;
-  text-align: center;
-
-  @include md {
-    padding-top: 4rem;
-  }
-
-  .logo {
-    width: 95%;
-
-    @include md {
-      width: 70%;
-    }
-
-    @include lg {
-      width: 50%;
-    }
-  }
-
-  h3 {
-    font-size: 1.8rem;
-    margin: 1.5rem 3rem 0.5rem;
-
-    @include sm {
-      font-size: 2rem;
-      margin-left: auto;
-      margin-right: auto;
-    }
-
-    @include md {
-      font-size: 2.5rem;
-      margin-top: 2rem;
-      max-width: 80%;
-    }
-
-    @include lg {
-      max-width: 60%;
-    }
-  }
-
-  .tag-cloud {
-    align-items: center;
-    display: flex;
-    justify-content: space-around;
-    flex-flow: wrap;
-
-    a {
-      background-color: $link-color;
-      border-radius: 5px;
-      color: #fff;
-      display: inline-block;
-      margin: 1rem;
-      padding: 0.5rem 1rem;
-      text-decoration: none;
-    }
-  }
-}
-
-.logos {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  list-style: none;
-  margin: 0 0 3rem;
-  padding: 0;
-
-  > li {
-    align-items: center;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    padding: 8vh 1vh;
-    position: relative;
-    text-align: center;
-    width: 100%;
-
-    @include md {
-      width: 50%;
-    }
-
-    @include lg {
-      width: percentage(1/3);
-    }
-
-    a {
-      display: block;
-      outline: none;
-
-      &.visible {
-        .name {
-          color: #444;
-        }
-      }
-    }
-
-    .name {
-      bottom: 0;
-      color: $bg-color;
-      font-size: 2rem;
-      font-weight: bold;
-      left: 0;
-      position: absolute;
-      right: 0;
-      text-decoration: none;
-      transition: color 0.3s;
-    }
-
-    img {
-      display: block;
-      margin: 0 auto;
-      max-width: 100%;
-    }
-  }
 }
 
 footer {

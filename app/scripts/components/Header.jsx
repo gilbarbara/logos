@@ -6,7 +6,9 @@ var Header = React.createClass({
     mixins: [React.addons.PureRenderMixin],
 
     propTypes: {
-        logos: React.PropTypes.array.isRequired
+        columns: React.PropTypes.number.isRequired,
+        logos: React.PropTypes.array.isRequired,
+        onClickChangeColumns: React.PropTypes.func.isRequired
     },
 
     componentWillMount () {
@@ -26,7 +28,7 @@ var Header = React.createClass({
                 });
             });
 
-            tags = this.sortObject(tags);
+            tags = this._sortObject(tags);
 
             tags.forEach((t) => {
                 if (t.value < sizer.min) {
@@ -44,7 +46,7 @@ var Header = React.createClass({
         }
     },
 
-    sortObject (obj) {
+    _sortObject (obj) {
         var arr = [];
         for (var prop in obj) {
             if (obj.hasOwnProperty(prop)) {
@@ -65,7 +67,8 @@ var Header = React.createClass({
     },
 
     render () {
-        var state = this.state,
+        var props = this.props,
+            state = this.state,
             tags;
 
         if (config.features.tags) {
@@ -85,6 +88,15 @@ var Header = React.createClass({
                 <img src="media/svg-porn.svg" className="logo"/>
 
                 <h3>A collection of svg logos for developers.</h3>
+                <ul className="menu">
+                    <li><span className="title">Columns</span>
+                        <div className="switch">
+                            <a href="#" className={props.columns < 2 ? 'disabled' : ''} data-column="-1" onClick={props.onClickChangeColumns}>-</a>
+                            <a href="#" className={props.columns > 4 ? 'disabled' : ''}  data-column="1" onClick={props.onClickChangeColumns}>+</a>
+                        </div>
+                        <span className="keyboard">or use your keyboard</span>
+                    </li>
+                </ul>
                 {tags}
             </header>
         );
