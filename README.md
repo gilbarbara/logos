@@ -76,6 +76,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>
 ![bitbucket](http://svgporn.com/logos/bitbucket.svg)
 
+## <a href="https://www.bitrise.io/" target="_blank">Bitrise</a>
+![bitrise](http://svgporn.com/logos/bitrise.svg)
+
 ## <a href="http://blocsapp.com/" target="_blank">Blocs</a> *
 ![blocs](http://svgporn.com/logos/blocs.svg)
 
@@ -93,6 +96,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://brackets.io/" target="_blank">Brackets</a>
 ![brackets](http://svgporn.com/logos/brackets.svg)
+
+## <a href="http://brandfolder.com/" target="_blank">Brandfolder</a>
+![brandfolder](http://svgporn.com/logos/brandfolder.svg)
 
 ## <a href="http://browserify.org/" target="_blank">Browserify</a>
 ![browserify](http://svgporn.com/logos/browserify-icon.svg)
@@ -304,6 +310,12 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/foreverjs/forever" target="_blank">Forever</a>
 ![forever](http://svgporn.com/logos/forever.svg)
 
+## <a href="http://framed.io/" target="_blank">Framed</a> *
+![framed.svg](http://svgporn.com/logos/framed.svg)
+
+## <a href="https://freedcamp.com/" target="_blank">freedcamp</a>
+![freedcamp](http://svgporn.com/logos/freedcamp.svg)
+
 ## <a href="https://ghost.org/" target="_blank">Ghost</a>
 ![ghost](http://svgporn.com/logos/ghost.svg)
 
@@ -369,6 +381,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
 ![heroku](http://svgporn.com/logos/heroku.svg)
+
+## <a href="http://hhvm.com/" target="_blank">HHVM</a> *
+![hhvm](http://svgporn.com/logos/hhvm.svg)
 
 ## <a href="http://www.w3.org/TR/html5/" target="_blank">HTML5</a>
 ![html-5](http://svgporn.com/logos/html-5.svg)
@@ -640,6 +655,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.playframework.com/" target="_blank">Play</a>
 ![play](http://svgporn.com/logos/play.svg)
 
+## <a href="https://podio.com/" target="_blank">Podio</a>
+![podio](http://svgporn.com/logos/podio.svg)
+
 ## <a href="https://www.polymer-project.org/1.0/" target="_blank">Polymer</a>
 ![polymer](http://svgporn.com/logos/polymer.svg)
 
@@ -708,6 +726,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://github.com/tonsky/rum" target="_blank">Rum</a>
 ![rum](http://svgporn.com/logos/rum.svg)
+
+## <a href="https://www.runscope.com/" target="_blank">runscope</a>
+![runscope](http://svgporn.com/logos/runscope.svg)
 
 ## <a href="http://www.rust-lang.org/" target="_blank">Rust</a>
 ![rust](http://svgporn.com/logos/rust.svg)
@@ -781,6 +802,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://tastejs.com/" target="_blank">TasteJS</a> *
 ![tastejs](http://svgporn.com/logos/tastejs.svg)
 
+## <a href="https://www.teamwork.com/" target="_blank">teamwork</a>
+![teamwork](http://svgporn.com/logos/teamwork.svg)
+
 ## <a href="http://todomvc.com/" target="_blank">TodoMVC</a>
 ![todomvc](http://svgporn.com/logos/todomvc.svg)
 
@@ -791,6 +815,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![travis-ci](http://svgporn.com/logos/travis-ci-icon.svg)
 
 ![travis-ci](http://svgporn.com/logos/travis-ci.svg)
+
+## <a href="https://trello.com/" target="_blank">Trello</a>
+![trello](http://svgporn.com/logos/trello.svg)
 
 ## <a href="https://unity3d.com/" target="_blank">Unity</a>
 ![unity](http://svgporn.com/logos/unity.svg)

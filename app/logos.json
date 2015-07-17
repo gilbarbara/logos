@@ -222,6 +222,18 @@
       ]
     },
     {
+      "name": "Bitrise",
+      "files": [
+        "bitrise.svg"
+      ],
+      "shortname": "bitrise",
+      "url": "https://www.bitrise.io/",
+      "tags": [
+        "continuous integration",
+        "ios"
+      ]
+    },
+    {
       "name": "Blocs",
       "files": [
         "blocs.svg"
@@ -295,6 +307,17 @@
       "url": "http://brackets.io/",
       "tags": [
         "code editor"
+      ]
+    },
+    {
+      "name": "Brandfolder",
+      "files": [
+        "brandfolder.svg"
+      ],
+      "shortname": "brandfolder",
+      "url": "http://brandfolder.com/",
+      "tags": [
+        "asset manager"
       ]
     },
     {
@@ -1145,6 +1168,29 @@
       ]
     },
     {
+      "name": "Framed",
+      "files": [
+        "framed.svg"
+      ],
+      "shortname": "framed.svg",
+      "url": "http://framed.io/",
+      "tags": [
+        "customer data analytics"
+      ],
+      "converted": true
+    },
+    {
+      "name": "freedcamp",
+      "files": [
+        "freedcamp.svg"
+      ],
+      "shortname": "freedcamp",
+      "url": "https://freedcamp.com/",
+      "tags": [
+        "project management"
+      ]
+    },
+    {
       "name": "Ghost",
       "files": [
         "ghost.svg"
@@ -1390,6 +1436,20 @@
         "cloud platform",
         "PaaS"
       ]
+    },
+    {
+      "name": "HHVM",
+      "files": [
+        "hhvm.svg"
+      ],
+      "shortname": "hhvm",
+      "url": "http://hhvm.com/",
+      "tags": [
+        "php",
+        "hack",
+        "virtual machine"
+      ],
+      "converted": true
     },
     {
       "name": "HTML5",
@@ -2439,6 +2499,17 @@
       ]
     },
     {
+      "name": "Podio",
+      "files": [
+        "podio.svg"
+      ],
+      "shortname": "podio",
+      "url": "https://podio.com/",
+      "tags": [
+        "project management"
+      ]
+    },
+    {
       "name": "Polymer",
       "files": [
         "polymer.svg"
@@ -2715,6 +2786,17 @@
         "clojureScript",
         "react",
         "framework"
+      ]
+    },
+    {
+      "name": "runscope",
+      "files": [
+        "runscope.svg"
+      ],
+      "shortname": "runscope",
+      "url": "https://www.runscope.com/",
+      "tags": [
+        "api monitoring"
       ]
     },
     {
@@ -3004,6 +3086,17 @@
       "converted": true
     },
     {
+      "name": "teamwork",
+      "files": [
+        "teamwork.svg"
+      ],
+      "shortname": "teamwork",
+      "url": "https://www.teamwork.com/",
+      "tags": [
+        "project management"
+      ]
+    },
+    {
       "name": "TodoMVC",
       "files": [
         "todomvc.svg"
@@ -3037,6 +3130,17 @@
       "url": "https://travis-ci.org/",
       "tags": [
         "continuous integration"
+      ]
+    },
+    {
+      "name": "Trello",
+      "files": [
+        "trello.svg"
+      ],
+      "shortname": "trello",
+      "url": "https://trello.com/",
+      "tags": [
+        "project management"
       ]
     },
     {
