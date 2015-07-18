@@ -35,11 +35,17 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://apiary.io/" target="_blank">Apiary</a>
 ![apiary](http://svgporn.com/logos/apiary.svg)
 
+## <a href="http://www.appcelerator.com/" target="_blank">Appcelerator</a>
+![appcelerator](http://svgporn.com/logos/appcelerator.svg)
+
 ## <a href="https://www.arangodb.com/" target="_blank">ArangoDB</a>
 ![arangodb](http://svgporn.com/logos/arangodb.svg)
 
 ## <a href="https://www.arduino.cc/" target="_blank">Arduino</a>
 ![arduino](http://svgporn.com/logos/arduino.svg)
+
+## <a href="https://asana.com/" target="_blank">Asana</a>
+![asana](http://svgporn.com/logos/asana.svg)
 
 ## <a href="https://atom.io/" target="_blank">Atom</a>
 ![atom](http://svgporn.com/logos/atom.svg)
@@ -110,6 +116,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://isocpp.org/" target="_blank">C++</a>
 ![c++](http://svgporn.com/logos/c++.svg)
+
+## <a href="https://www.campaignmonitor.com/" target="_blank">Campaign Monitor</a>
+![campaignmonitor](http://svgporn.com/logos/campaignmonitor.svg)
 
 ## <a href="http://canjs.com/" target="_blank">CanJS</a>
 ![canjs](http://svgporn.com/logos/canjs.svg)
@@ -310,6 +319,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/foreverjs/forever" target="_blank">Forever</a>
 ![forever](http://svgporn.com/logos/forever.svg)
 
+## <a href="http://foundation.zurb.com/" target="_blank">Foundation</a>
+![foundation](http://svgporn.com/logos/foundation.svg)
+
 ## <a href="http://framed.io/" target="_blank">Framed</a> *
 ![framed.svg](http://svgporn.com/logos/framed.svg)
 
@@ -394,6 +406,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.hubspot.com/" target="_blank">Hubspot</a>
 ![hubspot](http://svgporn.com/logos/hubspot.svg)
 
+## <a href="https://ifttt.com/" target="_blank">IFTTT</a>
+![ifttt](http://svgporn.com/logos/ifttt.svg)
+
 ## <a href="https://github.com/imagemin/imagemin" target="_blank">imagemin</a>
 ![imagemin](http://svgporn.com/logos/imagemin.svg)
 
@@ -460,6 +475,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://keen.io/" target="_blank">Keen IO</a>
 ![keen](http://svgporn.com/logos/keen.svg)
 
+## <a href="http://www.kinvey.com/" target="_blank">Kinvey</a>
+![kinvey](http://svgporn.com/logos/kinvey.svg)
+
 ## <a href="https://kissmetrics.com/" target="_blank">kissmetrics</a>
 ![kissmetrics](http://svgporn.com/logos/kissmetrics.svg)
 
@@ -486,6 +504,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://logentries.com/" target="_blank">logentries</a>
 ![logentries](http://svgporn.com/logos/logentries.svg)
+
+## <a href="http://loopback.io/" target="_blank">Loopback</a>
+![loopback](http://svgporn.com/logos/loopback.svg)
 
 ## <a href="http://lotusrb.org/" target="_blank">Lotus</a>
 ![lotus](http://svgporn.com/logos/lotus.svg)
@@ -632,6 +653,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://usepanda.com/" target="_blank">Panda</a>
 ![panda](http://svgporn.com/logos/panda.svg)
 
+## <a href="https://parse.com/" target="_blank">Parse</a>
+![parse](http://svgporn.com/logos/parse.svg)
+
 ## <a href="http://passportjs.org/" target="_blank">Passport</a>
 ![passport](http://svgporn.com/logos/passport.svg)
 
@@ -732,6 +756,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.rust-lang.org/" target="_blank">Rust</a>
 ![rust](http://svgporn.com/logos/rust.svg)
+
+## <a href="http://sailsjs.org/" target="_blank">Sails</a>
+![sails](http://svgporn.com/logos/sails.svg)
 
 ## <a href="http://saltstack.com/" target="_blank">SaltStack</a>
 ![saltstack](http://svgporn.com/logos/saltstack.svg)
@@ -871,6 +898,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://yeoman.io/" target="_blank">Yeoman</a>
 ![yeoman](http://svgporn.com/logos/yeoman.svg)
+
+## <a href="https://zapier.com/" target="_blank">Zapier</a>
+![zapier](http://svgporn.com/logos/zapier.svg)
 
 ## <a href="https://www.zenhub.io/" target="_blank">Zenhub</a>
 ![zenhub](http://svgporn.com/logos/zenhub.svg)
