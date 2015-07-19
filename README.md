@@ -733,7 +733,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://requirejs.org/" target="_blank">RequireJS</a>
 ![require](http://svgporn.com/logos/require.svg)
 
-## <a href="https://en.wikipedia.org/wiki/Representational_state_transfer" target="_blank">Rest</a>
+## <a href="http://www.w3.org/2001/sw/wiki/REST" target="_blank">Rest</a>
 ![rest](http://svgporn.com/logos/rest.svg)
 
 ## <a href="http://basho.com/products/#riak" target="_blank">Riak</a>
