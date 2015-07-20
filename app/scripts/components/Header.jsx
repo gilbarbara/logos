@@ -1,5 +1,7 @@
 var React    = require('react/addons'),
-    ScaleLog = require('../utils/scaleLog'),
+    lodash   = require('lodash'),
+    Colors   = require('../utils/Colors'),
+    ScaleLog = require('../utils/ScaleLog'),
     config   = require('../config');
 
 var Header = React.createClass({
@@ -8,14 +10,16 @@ var Header = React.createClass({
     propTypes: {
         columns: React.PropTypes.number.isRequired,
         logos: React.PropTypes.array.isRequired,
-        onClickChangeColumns: React.PropTypes.func.isRequired
+        onClickChangeColumns: React.PropTypes.func.isRequired,
+        onClickTag: React.PropTypes.func.isRequired
     },
 
     componentWillMount () {
-        let tags  = {},
-            sizer = {
+        let tags   = {},
+            fScale = {
                 min: 1,
-                max: 0
+                max: 0,
+                unit: 'rem'
             };
 
         if (config.features.tags) {
@@ -28,25 +32,26 @@ var Header = React.createClass({
                 });
             });
 
-            tags = this._sortObject(tags);
-
+            tags = this._sortObject(tags, 'value');
             tags.forEach((t) => {
-                if (t.value < sizer.min) {
-                    sizer.min = t.value;
+                if (t.value < fScale.min) {
+                    fScale.min = t.value;
                 }
-                if (t.value > sizer.max) {
-                    sizer.max = t.value;
+                if (t.value > fScale.max) {
+                    fScale.max = t.value;
                 }
             });
 
             this.setState({
                 tags: tags,
-                scale: new ScaleLog(sizer)
+                fontScale: new ScaleLog(fScale),
+                colorScale: new ScaleLog({ minSize: 12, min: fScale.min, maxSize: 70, max: fScale.max }),
+                color: new Colors('#ffced3')
             });
         }
     },
 
-    _sortObject (obj) {
+    _sortObject (obj, attr) {
         var arr = [];
         for (var prop in obj) {
             if (obj.hasOwnProperty(prop)) {
@@ -56,12 +61,16 @@ var Header = React.createClass({
                 });
             }
         }
-        /*arr.sort(function (a, b) {
-         return b.value - a.value;
-         });*/
-        arr.sort(function (a, b) {
-            return a.key.toLowerCase().localeCompare(b.key.toLowerCase());
-        }); //use this to sort as strings
+        if (attr === 'value') {
+            arr.sort(function (a, b) {
+                return b.value - a.value;
+            });
+        }
+        else {
+            arr.sort(function (a, b) {
+                return a.key.toLowerCase().localeCompare(b.key.toLowerCase());
+            }); //use this to sort as strings
+        }
 
         return arr;
     },
@@ -69,14 +78,22 @@ var Header = React.createClass({
     render () {
         var props = this.props,
             state = this.state,
-            tags;
+            tags,
+            style;
 
         if (config.features.tags) {
             tags = (
                 <div className="tag-cloud">
                     {state.tags.map((d, i) => {
-                        return (<a key={i} href="#"
-                                   style={{ fontSize: state.scale.value(d.value)}}>{d.key + ' (' + d.value + ')'}</a>
+                        style = {
+                            backgroundColor: state.color.hsl2hex({
+                                h: state.color.hue(),
+                                s: state.color.saturation(),
+                                l: state.color.lightness() - +state.colorScale.value(d.value)
+                            }),
+                            fontSize: state.fontScale.value(d.value)
+                        };
+                        return (<a key={i} href="#" data-tag={d.key} onClick={this.props.onClickTag} style={style}>{d.key + ' (' + d.value + ')'}</a>
                         );
                     })}
                 </div>
@@ -87,12 +104,15 @@ var Header = React.createClass({
             <header>
                 <img src="media/svg-porn.svg" className="logo"/>
 
-                <h3>A collection of svg logos for developers.</h3>
+                <h3>A collection of svg logos for developers</h3>
                 <ul className="menu">
                     <li><span className="title">Columns</span>
+
                         <div className="switch">
-                            <a href="#" className={props.columns < 2 ? 'disabled' : ''} data-column="-1" onClick={props.onClickChangeColumns}>-</a>
-                            <a href="#" className={props.columns > 4 ? 'disabled' : ''}  data-column="1" onClick={props.onClickChangeColumns}>+</a>
+                            <a href="#" className={props.columns < 2 ? 'disabled' : ''} data-column="-1"
+                               onClick={props.onClickChangeColumns}>-</a>
+                            <a href="#" className={props.columns > 4 ? 'disabled' : ''} data-column="1"
+                               onClick={props.onClickChangeColumns}>+</a>
                         </div>
                         <span className="keyboard">or use your keyboard</span>
                     </li>

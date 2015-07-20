@@ -37,10 +37,22 @@ var App = React.createClass({
         this._changeColumns(this.state.columns + col);
     },
 
-    _changeColumns(num) {
+    _onClickTag (e) {
+        e.preventDefault();
+
+        var el  = e.currentTarget;
+
+        console.log(el);
+    },
+
+    _changeColumns (num) {
         this.setState({
             columns: num
         });
+    },
+
+    _filterLogos (tag) {
+
     },
 
     render () {
@@ -62,7 +74,8 @@ var App = React.createClass({
             <div className="app">
                 <div className="container">
                     <Header logos={state.logos} columns={state.columns}
-                            onClickChangeColumns={this._onClickChangeColumns}/>
+                            onClickChangeColumns={this._onClickChangeColumns}
+                            onClickTag={this._onClickTag}/>
                     <main>
                         <ul className={'logos col-' + state.columns}>
                             {logos}
