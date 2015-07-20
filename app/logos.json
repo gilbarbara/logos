@@ -1085,6 +1085,17 @@
       ]
     },
     {
+      "name": "F#",
+      "files": [
+        "fsharp.svg"
+      ],
+      "shortname": "fsharp",
+      "url": "http://fsharp.org/",
+      "tags": [
+        "language"
+      ]
+    },
+    {
       "name": "Famo.us",
       "files": [
         "famous.svg"
@@ -1325,6 +1336,20 @@
       ]
     },
     {
+      "name": "Gradle",
+      "files": [
+        "gradle.svg"
+      ],
+      "shortname": "gradle",
+      "url": "https://gradle.org/",
+      "tags": [
+        "java",
+        "c",
+        "build automation"
+      ],
+      "converted": true
+    },
+    {
       "name": "Grails",
       "files": [
         "grails.svg"
@@ -1498,6 +1523,17 @@
         "virtual machine"
       ],
       "converted": true
+    },
+    {
+      "name": "HipChat",
+      "files": [
+        "hipchat.svg"
+      ],
+      "shortname": "hipchat",
+      "url": "https://www.hipchat.com/",
+      "tags": [
+        "team collaboration"
+      ]
     },
     {
       "name": "HTML5",
@@ -1957,6 +1993,17 @@
       "tags": [
         "ruby",
         "web framework"
+      ]
+    },
+    {
+      "name": "Lua",
+      "files": [
+        "lua.svg"
+      ],
+      "shortname": "lua",
+      "url": "http://www.lua.org/",
+      "tags": [
+        "language"
       ]
     },
     {
@@ -2785,6 +2832,18 @@
       ]
     },
     {
+      "name": "Reddit",
+      "files": [
+        "reddit.svg"
+      ],
+      "shortname": "reddit",
+      "url": "https://www.reddit.com/",
+      "tags": [
+        "social news",
+        "community"
+      ]
+    },
+    {
       "name": "Redis",
       "files": [
         "redis.svg"
@@ -3094,6 +3153,18 @@
       ]
     },
     {
+      "name": "StatusPage",
+      "files": [
+        "statuspage.svg"
+      ],
+      "shortname": "statuspage",
+      "url": "https://www.statuspage.io/",
+      "tags": [
+        "server status"
+      ],
+      "converted": true
+    },
+    {
       "name": "Struts",
       "files": [
         "struts.svg"
@@ -3226,6 +3297,17 @@
       ]
     },
     {
+      "name": "Trac",
+      "files": [
+        "trac.svg"
+      ],
+      "shortname": "trac",
+      "url": "http://trac.edgewall.org/",
+      "tags": [
+        "issue tracker"
+      ]
+    },
+    {
       "name": "Travis CI",
       "files": [
         "travis-ci-icon.svg",
@@ -3247,6 +3329,34 @@
       "tags": [
         "project manager"
       ]
+    },
+    {
+      "name": "Twilio",
+      "files": [
+        "twilio.svg"
+      ],
+      "shortname": "twilio",
+      "url": "https://www.twilio.com/",
+      "tags": [
+        "cloud communication",
+        "IaaS"
+      ]
+    },
+    {
+      "name": "UnitJS",
+      "files": [
+        "unitjs.svg"
+      ],
+      "shortname": "unitjs",
+      "url": "http://unitjs.com/",
+      "tags": [
+        "testing",
+        "unit testing",
+        "assertion",
+        "bdd",
+        "tdd"
+      ],
+      "converted": true
     },
     {
       "name": "Unity",

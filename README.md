@@ -292,6 +292,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://expressjs.com/" target="_blank">Express</a>
 ![express](http://svgporn.com/logos/express.svg)
 
+## <a href="http://fsharp.org/" target="_blank">F#</a>
+![fsharp](http://svgporn.com/logos/fsharp.svg)
+
 ## <a href="http://famous.org/" target="_blank">Famo.us</a>
 ![famous](http://svgporn.com/logos/famous.svg)
 
@@ -355,6 +358,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://golang.org/" target="_blank">Go</a>
 ![go](http://svgporn.com/logos/gopher.svg)
 
+## <a href="https://gradle.org/" target="_blank">Gradle</a> *
+![gradle](http://svgporn.com/logos/gradle.svg)
+
 ## <a href="https://grails.org/" target="_blank">Grails</a>
 ![grails](http://svgporn.com/logos/grails.svg)
 
@@ -396,6 +402,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://hhvm.com/" target="_blank">HHVM</a> *
 ![hhvm](http://svgporn.com/logos/hhvm.svg)
+
+## <a href="https://www.hipchat.com/" target="_blank">HipChat</a>
+![hipchat](http://svgporn.com/logos/hipchat.svg)
 
 ## <a href="http://www.w3.org/TR/html5/" target="_blank">HTML5</a>
 ![html-5](http://svgporn.com/logos/html-5.svg)
@@ -510,6 +519,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://lotusrb.org/" target="_blank">Lotus</a>
 ![lotus](http://svgporn.com/logos/lotus.svg)
+
+## <a href="http://www.lua.org/" target="_blank">Lua</a>
+![lua](http://svgporn.com/logos/lua.svg)
 
 ## <a href="http://lucene.apache.org/" target="_blank">Lucene</a>
 ![lucene](http://svgporn.com/logos/lucene.svg)
@@ -727,6 +739,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://facebook.github.io/react/" target="_blank">React</a>
 ![react](http://svgporn.com/logos/react.svg)
 
+## <a href="https://www.reddit.com/" target="_blank">Reddit</a>
+![reddit](http://svgporn.com/logos/reddit.svg)
+
 ## <a href="http://redis.io/" target="_blank">Redis</a>
 ![redis](http://svgporn.com/logos/redis.svg)
 
@@ -805,6 +820,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.atlassian.com/software/stash" target="_blank">Stash</a>
 ![stash](http://svgporn.com/logos/stash.svg)
 
+## <a href="https://www.statuspage.io/" target="_blank">StatusPage</a> *
+![statuspage](http://svgporn.com/logos/statuspage.svg)
+
 ## <a href="https://struts.apache.org/" target="_blank">Struts</a>
 ![struts](http://svgporn.com/logos/struts.svg)
 
@@ -838,6 +856,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://traackr.com/" target="_blank">Traackr</a>
 ![traackr](http://svgporn.com/logos/traackr.svg)
 
+## <a href="http://trac.edgewall.org/" target="_blank">Trac</a>
+![trac](http://svgporn.com/logos/trac.svg)
+
 ## <a href="https://travis-ci.org/" target="_blank">Travis CI</a>
 ![travis-ci](http://svgporn.com/logos/travis-ci-icon.svg)
 
@@ -845,6 +866,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://trello.com/" target="_blank">Trello</a>
 ![trello](http://svgporn.com/logos/trello.svg)
+
+## <a href="https://www.twilio.com/" target="_blank">Twilio</a>
+![twilio](http://svgporn.com/logos/twilio.svg)
+
+## <a href="http://unitjs.com/" target="_blank">UnitJS</a> *
+![unitjs](http://svgporn.com/logos/unitjs.svg)
 
 ## <a href="https://unity3d.com/" target="_blank">Unity</a>
 ![unity](http://svgporn.com/logos/unity.svg)
