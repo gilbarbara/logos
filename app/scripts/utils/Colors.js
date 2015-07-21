@@ -1,4 +1,5 @@
-var _ = require('lodash');
+var _    = require('lodash'),
+    math = require('./Math');
 
 /*
  Color
@@ -98,6 +99,8 @@ class Colors {
                     return 60 * (b - r) / d + 120;
                 case b:
                     return 60 * (r - g) / d + 240;
+                default:
+                    break;
             }
         }());
         if (h < 0) {
@@ -171,6 +174,7 @@ class Colors {
             (_.intersection(_.keys(attr), ['r', 'g', 'b']).length > 0)) {
             return null;
         }
+
         if (_.intersection(_.keys(attr), ['r', 'g', 'b']).length > 0) {
             type = 'rgb';
         }
@@ -180,11 +184,13 @@ class Colors {
         else {
             return null;
         }
+
         _.each(attr, function (val, key, list) {
             if (val === null) {
                 return delete list[key];
             }
         });
+
         switch (type) {
             case 'rgb':
                 rgb = _.pick(attr, 'r', 'g', 'b');
@@ -203,20 +209,18 @@ class Colors {
                 else {
                     out = this.hsl;
                 }
+                break;
+            default:
+                break;
         }
         return out;
     }
 
     static constrain (attr, amount, limit, direction) {
-        var math, test, val;
-        math = [attr, direction, amount].join(' ');
-        val = eval(math);
-        test = (limit[1] >= val && val >= limit[0]);
-        if (test) {
-            val;
+        var val  = math.expr(attr + direction + amount),
+            test = (limit[1] >= val && val >= limit[0]);
 
-        }
-        else {
+        if (!test) {
             if (val < limit[0]) {
                 val = limit[0];
             }
@@ -224,6 +228,7 @@ class Colors {
                 val = limit[1];
             }
         }
+
         return Math.abs(val);
     }
 
