@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "name": "Airbrake",
+      "files": [
+        "airbrake.svg"
+      ],
+      "shortname": "airbrake",
+      "url": "https://airbrake.io/",
+      "tags": [
+        "log manager",
+        "server monitoring"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
+      ]
+    },
+    {
       "name": "Angular",
       "files": [
         "angular-icon.svg",
@@ -12,6 +28,9 @@
         "javascript",
         "framework",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -24,6 +43,10 @@
       "tags": [
         "configuration management",
         "python"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -35,6 +58,9 @@
       "url": "http://www.apache.org/",
       "tags": [
         "web server"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -47,6 +73,10 @@
       "tags": [
         "cloud computing",
         "IaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -59,6 +89,9 @@
       "tags": [
         "documentation",
         "api"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -70,6 +103,10 @@
       "url": "http://www.appcelerator.com/",
       "tags": [
         "mBaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -83,6 +120,9 @@
         "database",
         "nosql",
         "graph database"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -94,6 +134,9 @@
       "url": "https://www.arduino.cc/",
       "tags": [
         "hardware"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -105,6 +148,9 @@
       "url": "https://asana.com/",
       "tags": [
         "team collaboration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -117,6 +163,9 @@
       "tags": [
         "code editor",
         "node.js"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -129,6 +178,9 @@
       "tags": [
         "authentication",
         "security"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -141,6 +193,9 @@
       "tags": [
         "css",
         "postprocessor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -152,6 +207,9 @@
       "url": "https://github.com/sindresorhus/awesome",
       "tags": [
         "reference"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -166,6 +224,10 @@
         "code deployment",
         "content delivery",
         "IaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -179,6 +241,9 @@
         "javascript",
         "compiler",
         "postprocessor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -193,6 +258,9 @@
         "javascript",
         "framework",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -204,6 +272,9 @@
       "url": "https://basecamp.com/",
       "tags": [
         "project manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -216,6 +287,9 @@
       "tags": [
         "unix shell",
         "cli"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -228,6 +302,9 @@
       "tags": [
         "css",
         "methodology"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -241,6 +318,9 @@
         "git",
         "mercurial",
         "code management"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -253,6 +333,9 @@
       "tags": [
         "continuous integration",
         "ios"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -266,6 +349,9 @@
         "prototyping",
         "layout"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -278,6 +364,9 @@
       "tags": [
         "project manager",
         "agile"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -293,6 +382,9 @@
         "framework",
         "ui"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -305,6 +397,9 @@
       "tags": [
         "sass",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -319,6 +414,9 @@
         "javascript",
         "css",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -330,6 +428,9 @@
       "url": "http://brackets.io/",
       "tags": [
         "code editor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -341,6 +442,9 @@
       "url": "http://brandfolder.com/",
       "tags": [
         "asset manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -356,6 +460,9 @@
         "node.js",
         "tool",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -368,6 +475,23 @@
       "tags": [
         "cross browser testing",
         "testing"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
+      "name": "C",
+      "files": [
+        "c.svg"
+      ],
+      "shortname": "c",
+      "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
+      "tags": [
+        "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -379,6 +503,9 @@
       "url": "https://isocpp.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -390,6 +517,9 @@
       "url": "https://www.campaignmonitor.com/",
       "tags": [
         "email marketing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -403,6 +533,9 @@
         "javascript",
         "framework",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -414,6 +547,10 @@
       "url": "http://capistranorb.com/",
       "tags": [
         "automation tool"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -427,6 +564,9 @@
         "database",
         "nosql",
         "storage"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -439,6 +579,9 @@
       "tags": [
         "ruby",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -450,6 +593,10 @@
       "url": "https://codeclimate.com/",
       "tags": [
         "static analysis"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -461,6 +608,9 @@
       "url": "http://codecov.io/",
       "tags": [
         "code coverage"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -477,6 +627,9 @@
         "assertion",
         "mocha"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -488,6 +641,9 @@
       "url": "https://github.com/chalk/chalk",
       "tags": [
         "string styling"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -502,6 +658,10 @@
         "code deployment",
         "IaaS",
         "ruby"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -513,6 +673,9 @@
       "url": "http://www.google.com/chrome/",
       "tags": [
         "browser"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -524,6 +687,9 @@
       "url": "https://circleci.com/",
       "tags": [
         "continuous integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -536,6 +702,9 @@
       "tags": [
         "lisp",
         "dialect"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -548,6 +717,9 @@
       "tags": [
         "clojure",
         "javascript"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -561,6 +733,9 @@
         "package manager",
         "swift",
         "objective c"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -576,6 +751,9 @@
         "subversion",
         "code management",
         "issue tracker"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -588,6 +766,9 @@
       "tags": [
         "php",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -602,6 +783,9 @@
         "code playground",
         "code editor",
         "service"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -614,6 +798,9 @@
       "tags": [
         "code deployment",
         "continuous integration"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -629,6 +816,9 @@
         "blog",
         "reference"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -641,6 +831,9 @@
       "tags": [
         "language",
         "javascript"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -655,6 +848,9 @@
         "sass",
         "framework"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -667,6 +863,9 @@
       "tags": [
         "javascript",
         "package manager"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -681,6 +880,9 @@
         "javascript",
         "mobile app framework"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -693,6 +895,9 @@
       "tags": [
         "database",
         "nosql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -704,6 +909,9 @@
       "url": "https://coveralls.io/",
       "tags": [
         "code coverage"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -716,6 +924,9 @@
       "tags": [
         "javascript",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -728,6 +939,9 @@
       "tags": [
         "cross browser testing",
         "testing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -739,6 +953,9 @@
       "url": "http://www.w3.org/TR/CSS/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -752,6 +969,9 @@
         "css",
         "polyfill",
         "transformer"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -766,6 +986,9 @@
         "library",
         "data visualization",
         "svg"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -777,6 +1000,9 @@
       "url": "https://www.dartlang.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -790,6 +1016,9 @@
         "database",
         "sql",
         "nosql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -801,6 +1030,9 @@
       "url": "https://www.deployhq.com/",
       "tags": [
         "code deployment"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -812,6 +1044,9 @@
       "url": "https://www.designernews.co/",
       "tags": [
         "social news"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -824,6 +1059,10 @@
       "tags": [
         "cloud computing",
         "IaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -835,6 +1074,9 @@
       "url": "http://distelli.com/",
       "tags": [
         "code deployment"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -848,6 +1090,9 @@
       "tags": [
         "code hosting",
         "prototyping"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -861,6 +1106,9 @@
         "python",
         "framework",
         "web application framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -874,6 +1122,10 @@
         "code deployment",
         "container",
         "IaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -887,7 +1139,40 @@
         "javascript",
         "library"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
+    },
+    {
+      "name": "dotCloud",
+      "files": [
+        "dotcloud.svg"
+      ],
+      "shortname": "dotcloud",
+      "url": "https://www.dotcloud.com/",
+      "tags": [
+        "cloud platform",
+        "PaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
+      ]
+    },
+    {
+      "name": ".NET",
+      "files": [
+        "dotnet.svg"
+      ],
+      "shortname": ".net",
+      "url": "http://www.microsoft.com/net",
+      "tags": [
+        "framework"
+      ],
+      "categories": [
+        "developers"
+      ]
     },
     {
       "name": "Drone",
@@ -898,6 +1183,9 @@
       "url": "https://drone.io/",
       "tags": [
         "continuous integration"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -911,17 +1199,9 @@
       "tags": [
         "javascript",
         "library"
-      ]
-    },
-    {
-      "name": ".NET",
-      "files": [
-        "dotnet.svg"
       ],
-      "shortname": ".net",
-      "url": "http://www.microsoft.com/net",
-      "tags": [
-        "framework"
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -934,6 +1214,9 @@
       "tags": [
         "php",
         "content management"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -946,6 +1229,9 @@
       "tags": [
         "code editor",
         "IDE"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -958,6 +1244,9 @@
       "tags": [
         "search server",
         "lucene"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -969,6 +1258,9 @@
       "url": "http://electron.atom.io/",
       "tags": [
         "desktop app framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -983,6 +1275,9 @@
         "javascript",
         "framework",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -996,6 +1291,9 @@
         "content assist",
         "html",
         "css"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1009,6 +1307,10 @@
         "code deployment",
         "code management",
         "PaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -1023,6 +1325,9 @@
         "framework",
         "front-end"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1034,6 +1339,9 @@
       "url": "http://www.erlang.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1045,6 +1353,9 @@
       "url": "http://www.ecmascript.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1057,6 +1368,9 @@
       "tags": [
         "javascript",
         "linter"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1070,6 +1384,10 @@
         "log manager",
         "server monitoring"
       ],
+      "categories": [
+        "developers",
+        "devOps"
+      ],
       "converted": true
     },
     {
@@ -1082,6 +1400,9 @@
       "tags": [
         "node.js",
         "web server"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1093,6 +1414,9 @@
       "url": "http://fsharp.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1106,6 +1430,9 @@
         "javascript",
         "library",
         "animation"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1120,6 +1447,9 @@
         "cloud computing",
         "BaaS"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1131,6 +1461,9 @@
       "url": "https://firefox.com/",
       "tags": [
         "browser"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1143,6 +1476,9 @@
       "tags": [
         "python",
         "web framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1157,6 +1493,9 @@
         "grid",
         "framework",
         "ui"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1170,6 +1509,9 @@
         "javascript",
         "framework",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -1185,6 +1527,9 @@
         "javascript",
         "cli"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1197,6 +1542,9 @@
       "tags": [
         "javascript",
         "architecture"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1210,6 +1558,9 @@
         "node.js",
         "script runner",
         "cli"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1224,6 +1575,9 @@
         "sass",
         "framework",
         "ui"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1236,6 +1590,9 @@
       "tags": [
         "customer data analytics"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1247,6 +1604,9 @@
       "url": "https://freedcamp.com/",
       "tags": [
         "project manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1259,6 +1619,9 @@
       "tags": [
         "content management",
         "blogging platform"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1271,6 +1634,9 @@
       "url": "https://git-scm.com/",
       "tags": [
         "version control"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1286,6 +1652,9 @@
         "git",
         "code management",
         "issue tracker"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1299,6 +1668,9 @@
         "git",
         "code management",
         "continuous integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1311,6 +1683,10 @@
       "tags": [
         "cloud computing",
         "PaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -1322,6 +1698,9 @@
       "url": "https://developers.google.com/",
       "tags": [
         "reference"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1333,6 +1712,9 @@
       "url": "https://golang.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1347,6 +1729,9 @@
         "c",
         "build automation"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1359,6 +1744,9 @@
       "tags": [
         "java",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1372,6 +1760,9 @@
         "javascript",
         "node.js",
         "build automation"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1385,6 +1776,9 @@
         "javascript",
         "node.js",
         "build automation"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1398,6 +1792,9 @@
         "java",
         "framework",
         "javascript"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1410,6 +1807,9 @@
       "tags": [
         "language",
         "php"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -1424,6 +1824,9 @@
         "java",
         "framework",
         "storage"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1437,6 +1840,9 @@
         "html",
         "template",
         "preprocessor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1449,6 +1855,9 @@
       "tags": [
         "html",
         "template"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1461,6 +1870,9 @@
       "tags": [
         "node.js",
         "web application framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1473,6 +1885,9 @@
       "tags": [
         "continuous integration",
         "capistrano"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1484,6 +1899,9 @@
       "url": "https://www.haskell.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1496,6 +1914,9 @@
       "tags": [
         "language",
         "toolkit"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1508,6 +1929,10 @@
       "tags": [
         "cloud platform",
         "PaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -1522,6 +1947,9 @@
         "hack",
         "virtual machine"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1533,6 +1961,9 @@
       "url": "https://www.hipchat.com/",
       "tags": [
         "team collaboration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1544,6 +1975,9 @@
       "url": "http://www.w3.org/TR/html5/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1556,6 +1990,9 @@
       "tags": [
         "html",
         "boilerplate"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1567,6 +2004,9 @@
       "url": "http://www.hubspot.com/",
       "tags": [
         "inbound marketing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1578,6 +2018,9 @@
       "url": "https://ifttt.com/",
       "tags": [
         "service integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1589,6 +2032,23 @@
       "url": "https://github.com/imagemin/imagemin",
       "tags": [
         "image optimization"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
+      "name": "import.io",
+      "files": [
+        "importio.svg"
+      ],
+      "shortname": "importio",
+      "url": "https://import.io/",
+      "tags": [
+        "data scraping"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1604,6 +2064,9 @@
         "objective c",
         "c"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1616,6 +2079,9 @@
       "tags": [
         "prototyping",
         "collaboration platform"
+      ],
+      "categories": [
+        "designers"
       ]
     },
     {
@@ -1630,6 +2096,9 @@
         "node.js",
         "back-end"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1642,6 +2111,9 @@
       "tags": [
         "javascript",
         "mobile app framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1654,6 +2126,9 @@
       "tags": [
         "template",
         "preprocessor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1667,6 +2142,9 @@
         "bdd",
         "testing",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1678,6 +2156,9 @@
       "url": "https://www.java.com/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1689,6 +2170,9 @@
       "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1701,6 +2185,9 @@
       "tags": [
         "continuous integration",
         "java"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1713,6 +2200,9 @@
       "tags": [
         "code editor",
         "IDE"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1728,6 +2218,9 @@
         "java",
         "spring",
         "angular"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1739,6 +2232,9 @@
       "url": "https://www.atlassian.com/software/jira",
       "tags": [
         "issue tracker"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1752,6 +2248,9 @@
         "content management",
         "php",
         "mysql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1764,6 +2263,9 @@
       "tags": [
         "javascript",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1775,6 +2277,9 @@
       "url": "https://jsbin.com/",
       "tags": [
         "code playground"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1787,6 +2292,9 @@
       "tags": [
         "linter",
         "javascript"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1800,6 +2308,9 @@
         "playground",
         "code editor",
         "service"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1811,6 +2322,9 @@
       "url": "http://json.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1823,6 +2337,9 @@
       "tags": [
         "javascript",
         "package manager"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -1837,6 +2354,9 @@
         "tdd",
         "testing",
         "javascript"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1849,6 +2369,9 @@
       "tags": [
         "customer data analytics",
         "service integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1860,6 +2383,10 @@
       "url": "http://www.kinvey.com/",
       "tags": [
         "mBaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -1871,6 +2398,9 @@
       "url": "https://kissmetrics.com/",
       "tags": [
         "customer data analytics"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1884,6 +2414,10 @@
         "desktop app",
         "docker"
       ],
+      "categories": [
+        "developers",
+        "devOps"
+      ],
       "converted": true
     },
     {
@@ -1895,6 +2429,9 @@
       "url": "https://kraken.io/",
       "tags": [
         "image optimization"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1908,6 +2445,9 @@
         "node.js",
         "express",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1920,6 +2460,9 @@
       "tags": [
         "php",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1933,6 +2476,9 @@
         "javascript",
         "library",
         "maps"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1945,6 +2491,24 @@
       "tags": [
         "css",
         "preprocessor"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
+      "name": "loader",
+      "files": [
+        "loader.svg"
+      ],
+      "shortname": "loader",
+      "url": "https://loader.io/",
+      "tags": [
+        "load testing"
+      ],
+      "categories": [
+        "devOps",
+        "services"
       ]
     },
     {
@@ -1958,6 +2522,9 @@
         "javascript",
         "library"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -1969,6 +2536,10 @@
       "url": "https://logentries.com/",
       "tags": [
         "log manager"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -1981,6 +2552,9 @@
       "tags": [
         "node.js",
         "API framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -1993,6 +2567,9 @@
       "tags": [
         "ruby",
         "web framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2004,6 +2581,9 @@
       "url": "http://www.lua.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2015,6 +2595,9 @@
       "url": "http://lucene.apache.org/",
       "tags": [
         "search engine"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2027,6 +2610,9 @@
       "tags": [
         "lucene",
         "search engine"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2039,6 +2625,9 @@
       "tags": [
         "php",
         "e-commerce"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2051,6 +2640,9 @@
       "url": "http://mailchimp.com/",
       "tags": [
         "email marketing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2064,6 +2656,9 @@
       "tags": [
         "email delivery",
         "api"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2077,6 +2672,9 @@
         "database",
         "sql",
         "mysql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2090,6 +2688,9 @@
         "javascript",
         "backbone",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2101,6 +2702,9 @@
       "url": "http://daringfireball.net/projects/markdown/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2113,6 +2717,9 @@
       "tags": [
         "ui",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2124,6 +2731,9 @@
       "url": "https://developer.mozilla.org/",
       "tags": [
         "reference"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2135,6 +2745,9 @@
       "url": "http://memcached.org/",
       "tags": [
         "object cache"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2146,6 +2759,9 @@
       "url": "https://mercurial.selenic.com/",
       "tags": [
         "version control"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2160,6 +2776,9 @@
         "javascript",
         "framework",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2173,6 +2792,9 @@
         "javascript",
         "framework",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -2188,6 +2810,9 @@
         "tdd",
         "testing"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -2201,6 +2826,9 @@
         "javascript",
         "library",
         "feature detection"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2213,6 +2841,9 @@
       "tags": [
         "javascript",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2225,6 +2856,9 @@
       "tags": [
         "javascript",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2237,6 +2871,9 @@
       "tags": [
         "database",
         "nosql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2249,6 +2886,9 @@
       "tags": [
         ".net",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2261,6 +2901,9 @@
       "tags": [
         "database",
         "sql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2274,6 +2917,9 @@
         "css",
         "preprocessor",
         "polyfill"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2285,6 +2931,9 @@
       "url": "https://www.nativescript.org/",
       "tags": [
         
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2298,6 +2947,9 @@
         "sass",
         "bourbon",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2310,6 +2962,9 @@
       "tags": [
         "database",
         "graph database"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2322,6 +2977,9 @@
       "tags": [
         "vim",
         "code editor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2334,6 +2992,9 @@
       "tags": [
         "code editor",
         "IDE"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2346,6 +3007,10 @@
       "tags": [
         "software analytics",
         "SaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2357,6 +3022,9 @@
       "url": "https://www.nginx.com/",
       "tags": [
         "web server"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2369,6 +3037,10 @@
       "tags": [
         "cloud platform",
         "PaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2382,6 +3054,9 @@
       "tags": [
         "javascript",
         "back-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2394,6 +3069,9 @@
       "tags": [
         "node.js",
         "script runner"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2407,6 +3085,9 @@
         "sass",
         "c",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2421,6 +3102,9 @@
         "javascript",
         "node.js",
         "package manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2434,6 +3118,9 @@
         "code editor",
         "IDE"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -2445,6 +3132,9 @@
       "url": "http://nwjs.io/",
       "tags": [
         "desktop app framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2457,6 +3147,9 @@
       "tags": [
         "authentication",
         "security"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2468,6 +3161,9 @@
       "url": "http://ogp.me/",
       "tags": [
         "social sharing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2480,6 +3176,9 @@
       "tags": [
         "hardware",
         "association"
+      ],
+      "categories": [
+        "hardware"
       ]
     },
     {
@@ -2492,6 +3191,9 @@
       "tags": [
         "open source",
         "association"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2505,6 +3207,9 @@
         "javascript",
         "library",
         "maps"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2518,7 +3223,26 @@
         "cloud computing",
         "IaaS"
       ],
+      "categories": [
+        "developers",
+        "devOps"
+      ],
       "converted": true
+    },
+    {
+      "name": "Opsmatic",
+      "files": [
+        "opsmatic.svg"
+      ],
+      "shortname": "opsmatic",
+      "url": "https://opsmatic.com/",
+      "tags": [
+        "software analytics"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
+      ]
     },
     {
       "name": "Optimizely",
@@ -2530,6 +3254,9 @@
       "tags": [
         "a/b testing",
         "testing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2541,6 +3268,9 @@
       "url": "http://usepanda.com/",
       "tags": [
         "newsfeed reader"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2552,6 +3282,10 @@
       "url": "https://parse.com/",
       "tags": [
         "mBaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2565,6 +3299,9 @@
         "node.js",
         "authentication",
         "security"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2576,6 +3313,9 @@
       "url": "https://www.perl.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2589,6 +3329,9 @@
       "tags": [
         "javascript",
         "mobile app framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2600,6 +3343,9 @@
       "url": "http://php.net/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2611,6 +3357,9 @@
       "url": "https://www.pingdom.com/",
       "tags": [
         "server monitoring"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2624,6 +3373,9 @@
         "version control",
         "layout",
         "ui"
+      ],
+      "categories": [
+        "designers"
       ]
     },
     {
@@ -2636,6 +3388,9 @@
       "tags": [
         "java",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2647,6 +3402,9 @@
       "url": "https://podio.com/",
       "tags": [
         "project manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2659,6 +3417,9 @@
       "tags": [
         "components",
         "polyfill"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2672,6 +3433,9 @@
         "css",
         "preprocessor",
         "transformer"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2684,6 +3448,9 @@
       "tags": [
         "database",
         "sql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2697,6 +3464,9 @@
         "database",
         "nosql",
         "javascript"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2709,6 +3479,9 @@
       "tags": [
         "prototyping",
         "layout"
+      ],
+      "categories": [
+        "designers"
       ]
     },
     {
@@ -2720,6 +3493,9 @@
       "url": "http://www.producthunt.com/",
       "tags": [
         "social news"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2733,6 +3509,10 @@
         "configuration management",
         "IaaS",
         "ruby"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2744,6 +3524,9 @@
       "url": "https://www.python.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2756,6 +3539,9 @@
       "tags": [
         "node.js",
         "promises"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2768,6 +3554,10 @@
       "tags": [
         "cloud computing",
         "IaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2780,6 +3570,9 @@
       "tags": [
         "ruby",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2792,6 +3585,9 @@
       "tags": [
         "javascript",
         "library"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2805,6 +3601,9 @@
         "javascript",
         "library",
         "svg"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2815,6 +3614,9 @@
       "shortname": "raspberry-pi",
       "url": "https://www.raspberrypi.org/",
       "tags": [
+        "hardware"
+      ],
+      "categories": [
         "hardware"
       ]
     },
@@ -2829,6 +3631,9 @@
         "javascript",
         "library",
         "front-end"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2841,6 +3646,9 @@
       "tags": [
         "social news",
         "community"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2853,6 +3661,9 @@
       "tags": [
         "database",
         "nosql"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2865,6 +3676,9 @@
       "tags": [
         "javascript",
         "module loader"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2876,6 +3690,9 @@
       "url": "http://www.w3.org/2001/sw/wiki/REST",
       "tags": [
         "architecture"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2889,6 +3706,9 @@
         "database",
         "nosql",
         "storage"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2901,6 +3721,10 @@
       "tags": [
         "authentication",
         "security"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2912,6 +3736,9 @@
       "url": "https://www.ruby-lang.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2924,6 +3751,9 @@
       "tags": [
         "ruby",
         "package manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2938,6 +3768,9 @@
         "clojureScript",
         "react",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2949,6 +3782,10 @@
       "url": "https://www.runscope.com/",
       "tags": [
         "api monitoring"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2960,6 +3797,9 @@
       "url": "http://www.rust-lang.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2972,6 +3812,9 @@
       "tags": [
         "node.js",
         "web application framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -2984,6 +3827,10 @@
       "tags": [
         "configuration management",
         "python"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -2996,6 +3843,9 @@
       "tags": [
         "css",
         "preprocessor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3007,6 +3857,9 @@
       "url": "http://www.scala-lang.org/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3019,6 +3872,9 @@
       "tags": [
         "customer data analytics",
         "service integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3031,6 +3887,9 @@
       "tags": [
         "code deployment",
         "continuous integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3041,7 +3900,11 @@
       "shortname": "sentry",
       "url": "https://getsentry.com/welcome/",
       "tags": [
-        "error logging"
+        "log manager"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -3053,6 +3916,9 @@
       "url": "http://shields.io/",
       "tags": [
         "badges"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -3066,6 +3932,9 @@
       "tags": [
         "ruby",
         "web framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3077,6 +3946,9 @@
       "url": "https://slack.com/",
       "tags": [
         "team collaboration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3090,6 +3962,9 @@
         "javascript",
         "library",
         "svg"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3102,6 +3977,9 @@
       "tags": [
         "javascript",
         "real-time communication"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3114,6 +3992,9 @@
       "tags": [
         "search server",
         "lucene"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3127,6 +4008,9 @@
         "java",
         "framework"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -3138,6 +4022,9 @@
       "url": "http://stackoverflow.com/",
       "tags": [
         "reference"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3150,6 +4037,9 @@
       "tags": [
         "git",
         "code management"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3162,7 +4052,27 @@
       "tags": [
         "server status"
       ],
+      "categories": [
+        "developers",
+        "devOps"
+      ],
       "converted": true
+    },
+    {
+      "name": "Steroids",
+      "files": [
+        "steroids.svg"
+      ],
+      "shortname": "steroids",
+      "url": "http://www.appgyver.com/steroids",
+      "tags": [
+        "mobile app framework",
+        "ionic",
+        "cordova"
+      ],
+      "categories": [
+        "developers"
+      ]
     },
     {
       "name": "Struts",
@@ -3174,6 +4084,9 @@
       "tags": [
         "java",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3186,6 +4099,9 @@
       "tags": [
         "css",
         "preprocessor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3197,6 +4113,24 @@
       "url": "https://subversion.apache.org/",
       "tags": [
         "version control"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
+      "name": "Supersonic",
+      "files": [
+        "supersonic.svg"
+      ],
+      "shortname": "supersonic",
+      "url": "http://www.appgyver.com/supersonic",
+      "tags": [
+        "ui framework",
+        "angular"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3208,6 +4142,9 @@
       "url": "http://www.w3.org/Graphics/SVG/",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3220,6 +4157,9 @@
       "tags": [
         "language",
         "javascript"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3232,6 +4172,26 @@
       "tags": [
         "php",
         "framework"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
+      "name": "TargetProcess",
+      "files": [
+        "targetprocess.svg"
+      ],
+      "shortname": "targetprocess",
+      "url": "http://www.targetprocess.com/",
+      "tags": [
+        "project manager",
+        "agile",
+        "scrum",
+        "kanban"
+      ],
+      "categories": [
+        "teams"
       ]
     },
     {
@@ -3246,6 +4206,9 @@
         "agile",
         "scrum",
         "kanban"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3259,6 +4222,9 @@
         "todomvc",
         "reference"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -3270,6 +4236,9 @@
       "url": "https://www.teamwork.com/",
       "tags": [
         "project manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3283,6 +4252,9 @@
         "javascript",
         "reference",
         "tutorials"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3294,6 +4266,9 @@
       "url": "http://traackr.com/",
       "tags": [
         "social marketing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3305,6 +4280,9 @@
       "url": "http://trac.edgewall.org/",
       "tags": [
         "issue tracker"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3317,6 +4295,9 @@
       "url": "https://travis-ci.org/",
       "tags": [
         "continuous integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3328,6 +4309,9 @@
       "url": "https://trello.com/",
       "tags": [
         "project manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3340,6 +4324,10 @@
       "tags": [
         "cloud communication",
         "IaaS"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -3356,6 +4344,9 @@
         "bdd",
         "tdd"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -3369,6 +4360,9 @@
         "game engine",
         "c",
         "c++"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3381,6 +4375,9 @@
       "tags": [
         "java",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3394,6 +4391,10 @@
         "configuration management",
         "ruby"
       ],
+      "categories": [
+        "developers",
+        "devOps"
+      ],
       "converted": true
     },
     {
@@ -3405,6 +4406,9 @@
       "url": "http://www.vim.org/",
       "tags": [
         "code editor"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3417,6 +4421,9 @@
       "tags": [
         "code editor",
         "IDE"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3429,6 +4436,9 @@
       "tags": [
         "a/b testing",
         "testing"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3443,6 +4453,9 @@
         "library",
         "front-end"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -3454,6 +4467,9 @@
       "url": "http://www.w3.org/",
       "tags": [
         "reference"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3465,6 +4481,9 @@
       "url": "https://waffle.io/",
       "tags": [
         "project manager"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3477,6 +4496,9 @@
       "tags": [
         "components",
         "shadow dom"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3491,6 +4513,9 @@
         "node.js",
         "task runner"
       ],
+      "categories": [
+        "developers"
+      ],
       "converted": true
     },
     {
@@ -3502,6 +4527,9 @@
       "url": "https://www.webplatform.org/",
       "tags": [
         "reference"
+      ],
+      "categories": [
+        "developers"
       ],
       "converted": true
     },
@@ -3516,6 +4544,10 @@
         "code deployment",
         "content delivery",
         "docker"
+      ],
+      "categories": [
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -3528,6 +4560,9 @@
       "tags": [
         "java",
         "framework"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3540,6 +4575,9 @@
       "url": "https://wordpress.org/",
       "tags": [
         "content management"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3551,6 +4589,9 @@
       "url": "http://www.ycombinator.com/",
       "tags": [
         "social news"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {
@@ -3562,6 +4603,28 @@
       "url": "http://yeoman.io/",
       "tags": [
         "development stack"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
+      "name": "YouTrack",
+      "files": [
+        "youtrack.svg"
+      ],
+      "shortname": "youtrack",
+      "url": "https://www.jetbrains.com/youtrack/",
+      "tags": [
+        "project manager",
+        "issue tracker",
+        "agile",
+        "scrum",
+        "kanban"
+      ],
+      "categories": [
+        "developers",
+        "teams"
       ]
     },
     {
@@ -3573,6 +4636,9 @@
       "url": "https://zapier.com/",
       "tags": [
         "service integration"
+      ],
+      "categories": [
+        "developers"
       ]
     },
     {

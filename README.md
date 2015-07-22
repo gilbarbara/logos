@@ -18,6 +18,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ---
 
+## <a href="https://airbrake.io/" target="_blank">Airbrake</a>
+![airbrake](http://svgporn.com/logos/airbrake.svg)
+
 ## <a href="https://angularjs.org/" target="_blank">Angular</a>
 ![angular](http://svgporn.com/logos/angular-icon.svg)
 
@@ -113,6 +116,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>
 ![browserstack](http://svgporn.com/logos/browserstack.svg)
+
+## <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">C</a>
+![c](http://svgporn.com/logos/c.svg)
 
 ## <a href="https://isocpp.org/" target="_blank">C++</a>
 ![c++](http://svgporn.com/logos/c++.svg)
@@ -242,14 +248,17 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://dojotoolkit.org/" target="_blank">Dojo Toolkit</a> *
 ![dojo](http://svgporn.com/logos/dojo.svg)
 
+## <a href="https://www.dotcloud.com/" target="_blank">dotCloud</a>
+![dotcloud](http://svgporn.com/logos/dotcloud.svg)
+
+## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
+![.net](http://svgporn.com/logos/dotnet.svg)
+
 ## <a href="https://drone.io/" target="_blank">Drone</a> *
 ![drone](http://svgporn.com/logos/drone.svg)
 
 ## <a href="http://www.dropzonejs.com/" target="_blank">Dropzone</a>
 ![dropzone](http://svgporn.com/logos/dropzone.svg)
-
-## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
-![.net](http://svgporn.com/logos/dotnet.svg)
 
 ## <a href="https://www.drupal.org/" target="_blank">Drupal</a>
 ![drupal](http://svgporn.com/logos/drupal.svg)
@@ -421,6 +430,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/imagemin/imagemin" target="_blank">imagemin</a>
 ![imagemin](http://svgporn.com/logos/imagemin.svg)
 
+## <a href="https://import.io/" target="_blank">import.io</a>
+![importio](http://svgporn.com/logos/importio.svg)
+
 ## <a href="http://fbinfer.com/" target="_blank">Infer</a> *
 ![infer](http://svgporn.com/logos/infer.svg)
 
@@ -507,6 +519,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://lesscss.org/" target="_blank">Less</a>
 ![less](http://svgporn.com/logos/less.svg)
+
+## <a href="https://loader.io/" target="_blank">loader</a>
+![loader](http://svgporn.com/logos/loader.svg)
 
 ## <a href="https://lodash.com/" target="_blank">Lodash</a> *
 ![lodash](http://svgporn.com/logos/lodash.svg)
@@ -658,6 +673,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.openstack.org/" target="_blank">openstack</a> *
 ![openstack](http://svgporn.com/logos/openstack.svg)
+
+## <a href="https://opsmatic.com/" target="_blank">Opsmatic</a>
+![opsmatic](http://svgporn.com/logos/opsmatic.svg)
 
 ## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
 ![optimizely](http://svgporn.com/logos/optimizely.svg)
@@ -823,6 +841,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.statuspage.io/" target="_blank">StatusPage</a> *
 ![statuspage](http://svgporn.com/logos/statuspage.svg)
 
+## <a href="http://www.appgyver.com/steroids" target="_blank">Steroids</a>
+![steroids](http://svgporn.com/logos/steroids.svg)
+
 ## <a href="https://struts.apache.org/" target="_blank">Struts</a>
 ![struts](http://svgporn.com/logos/struts.svg)
 
@@ -832,6 +853,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://subversion.apache.org/" target="_blank">Subversion</a>
 ![subversion](http://svgporn.com/logos/subversion.svg)
 
+## <a href="http://www.appgyver.com/supersonic" target="_blank">Supersonic</a>
+![supersonic](http://svgporn.com/logos/supersonic.svg)
+
 ## <a href="http://www.w3.org/Graphics/SVG/" target="_blank">SVG</a>
 ![svg](http://svgporn.com/logos/svg.svg)
 
@@ -840,6 +864,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://symfony.com/" target="_blank">Symfony</a>
 ![symfony](http://svgporn.com/logos/symfony.svg)
+
+## <a href="http://www.targetprocess.com/" target="_blank">TargetProcess</a>
+![targetprocess](http://svgporn.com/logos/targetprocess.svg)
 
 ## <a href="https://taiga.io/" target="_blank">Taiga</a>
 ![taiga](http://svgporn.com/logos/taiga.svg)
@@ -925,6 +952,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://yeoman.io/" target="_blank">Yeoman</a>
 ![yeoman](http://svgporn.com/logos/yeoman.svg)
+
+## <a href="https://www.jetbrains.com/youtrack/" target="_blank">YouTrack</a>
+![youtrack](http://svgporn.com/logos/youtrack.svg)
 
 ## <a href="https://zapier.com/" target="_blank">Zapier</a>
 ![zapier](http://svgporn.com/logos/zapier.svg)
