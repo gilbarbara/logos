@@ -14,13 +14,34 @@ var Header = React.createClass({
         onClickTag: React.PropTypes.func.isRequired
     },
 
-    componentWillMount () {
-        let tags   = {},
-            fScale = {
+    getInitialState () {
+        return {
+            category: 'developers',
+            ready: false
+        };
+    },
+
+    componentDidMount () {
+        let tags       = {},
+            categories = {},
+            fScale     = {
                 min: 1,
                 max: 0,
                 unit: 'rem'
             };
+
+        if (config.features.categories) {
+            this.props.logos.forEach(function (d) {
+                d.categories.forEach(function (t) {
+                    if (!categories.hasOwnProperty(t)) {
+                        categories[t] = 0;
+                    }
+                    categories[t]++;
+                });
+            });
+
+            categories = this._sortObject(categories, 'value');
+        }
 
         if (config.features.tags) {
             this.props.logos.forEach(function (d) {
@@ -41,14 +62,16 @@ var Header = React.createClass({
                     fScale.max = t.value;
                 }
             });
-
-            this.setState({
-                tags: tags,
-                fontScale: new ScaleLog(fScale),
-                colorScale: new ScaleLog({ minSize: 12, min: fScale.min, maxSize: 70, max: fScale.max }),
-                color: new Colors('#ffced3')
-            });
         }
+
+        this.setState({
+            categories,
+            tags,
+            ready: true,
+            fontScale: new ScaleLog(fScale),
+            colorScale: new ScaleLog({ minSize: 12, min: fScale.min, maxSize: 70, max: fScale.max }),
+            color: new Colors('#ffced3')
+        });
     },
 
     _sortObject (obj, attr) {
@@ -75,36 +98,68 @@ var Header = React.createClass({
         return arr;
     },
 
+    _onClickShowCategories (e) {
+        e.preventDefault();
+
+        var el = e.currentTarget;
+        console.log(el);
+    },
+
+    _onClickSelectCategory (e) {
+        e.preventDefault();
+
+        var el = e.currentTarget;
+        console.log(el);
+    },
+
     render () {
         var props = this.props,
             state = this.state,
+            categories = state.category,
             tags,
             style;
 
-        if (config.features.tags) {
-            tags = (
-                <div className="tag-cloud">
-                    {state.tags.map((d, i) => {
-                        style = {
-                            backgroundColor: state.color.hsl2hex({
-                                h: state.color.hue(),
-                                s: state.color.saturation(),
-                                l: state.color.lightness() - +state.colorScale.value(d.value)
-                            }),
-                            fontSize: state.fontScale.value(d.value)
-                        };
-                        return (<a key={i} href="#" data-tag={d.key} onClick={this.props.onClickTag} style={style}>{d.key + ' (' + d.value + ')'}</a>
-                        );
-                    })}
-                </div>
-            );
+        if (state.ready) {
+            if (config.features.tags) {
+                tags = (
+                    <div className="tag-cloud">
+                        {state.tags.map((d, i) => {
+                            style = {
+                                backgroundColor: state.color.hsl2hex({
+                                    h: state.color.hue(),
+                                    s: state.color.saturation(),
+                                    l: state.color.lightness() - +state.colorScale.value(d.value)
+                                }),
+                                fontSize: state.fontScale.value(d.value)
+                            };
+                            return (<a key={i} href="#" data-tag={d.key} onClick={this.props.onClickTag}
+                                       style={style}>{d.key + ' (' + d.value + ')'}</a>
+                            );
+                        })}
+                    </div>
+                );
+            }
+
+            if (config.features.categories) {
+                categories = (
+                    <span className="categories">
+                    <a href="#" className="categories__toggle" onClick={this._onClickShowCategories}>{state.category}</a>
+                    <ul className="categories__menu">
+                        {state.categories.map((d, i) => {
+                            return (<li key={i} data-value={d.value}><a href="#" onClick={this._onClickSelectCategory}>{d.key}</a></li>);
+                        })}
+                    </ul>
+                </span>
+                );
+            }
         }
 
         return (
             <header>
                 <img src="media/svg-porn.svg" className="logo"/>
 
-                <h3>A collection of svg logos for developers</h3>
+                <h3>A collection of svg logos for {categories}</h3>
+
                 <ul className="menu">
                     <li><span className="title">Columns</span>
 
