@@ -49,7 +49,7 @@ function watchifyTask (options) {
         }
 
         stream
-            .pipe(source($.if(options.watch, 'main.js', 'main.min.js')))
+            .pipe(source($.if(options.watch, 'app.js', 'app.min.js')))
             .pipe(buffer())
             .pipe($.if(!options.watch, $.uglify()))
             .pipe(gulp.dest(target() + '/assets'))
@@ -113,16 +113,14 @@ gulp.task('icons', function () {
     gulp.src('**/*.svg', { cwd: 'app/media/icons' })
         .pipe($.svgSprite({
             mode: {
-                view: {         // Activate the «view» mode
-                    bust: false,
-                    render: {
-                        scss: true      // Activate Sass output (with default options)
-                    }
-                },
-                symbol: true
+                symbol: {
+                    dest: '.',
+                    prefix: '',
+                    sprite: 'icons'
+                }
             }
         }))
-        .pipe(gulp.dest('.tmp/assets'));
+        .pipe(gulp.dest('app/media'));
 });
 
 gulp.task('readme', function () {
@@ -251,22 +249,6 @@ gulp.task('build', function (cb) {
 
 gulp.task('deploy', function (cb) {
     runSequence('build', ['gh-pages'], cb);
-});
-
-gulp.task('deploy-old', ['build'], function () {
-    return gulp.src([
-        'logos/*.svg',
-        '.tmp/*.html',
-        '.tmp/main.css',
-        '.tmp/main.js',
-        'app/media/**/*',
-        'app/CNAME',
-        '*.md'
-    ])
-        .pipe($.ghPages({
-            force: true
-        }));
-
 });
 
 gulp.task('default', ['serve']);

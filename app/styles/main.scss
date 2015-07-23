@@ -50,3 +50,21 @@ footer {
   margin: -1.5rem;
   padding: 1.5rem;
 }
+
+.isvg {
+  display: none;
+
+  path {
+    fill: $link-color;
+  }
+
+  #check path {
+    fill: #fff;
+  }
+}
+
+.icon {
+  fill: $link-color;
+  height: 16px;
+  width: 16px;
+}

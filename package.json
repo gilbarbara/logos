@@ -9,7 +9,8 @@
   "license": "CC0-1.0",
   "homepage": "http://gilbarbara.github.io/logos/",
   "dependencies": {
-    "react": "^0.13"
+    "react": "^0.13",
+    "react-inlinesvg": "^0.4.2"
   },
   "devDependencies": {
     "babelify": "^6.1",
@@ -19,7 +20,7 @@
     "connect-history-api-fallback": "^1.1",
     "del": "^1.2",
     "eslint": "^0.24",
-    "eslint-plugin-react": "^2.7",
+    "eslint-plugin-react": "^3.0",
     "gulp": "^3.9",
     "gulp-autoprefixer": "^2.3",
     "gulp-cache": "^0.2",
