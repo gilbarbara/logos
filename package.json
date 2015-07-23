@@ -37,6 +37,7 @@
     "gulp-rename": "^1.2",
     "gulp-sass": "^2.0",
     "gulp-size": "^1.2",
+    "gulp-svg-sprite": "^1.2.6",
     "gulp-tap": "^0.1",
     "gulp-uglify": "^1.2",
     "gulp-useref": "^1.2",

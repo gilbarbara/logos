@@ -17,7 +17,8 @@ var Header = React.createClass({
     getInitialState () {
         return {
             category: 'developers',
-            ready: false
+            ready: false,
+            showCategoriesMenu: false
         };
     },
 
@@ -102,7 +103,7 @@ var Header = React.createClass({
         e.preventDefault();
 
         var el = e.currentTarget;
-        console.log(el);
+        this._toggleCategoriesMenu();
     },
 
     _onClickSelectCategory (e) {
@@ -110,6 +111,12 @@ var Header = React.createClass({
 
         var el = e.currentTarget;
         console.log(el);
+    },
+
+    _toggleCategoriesMenu () {
+        this.setState({
+            showCategoriesMenu: !this.state.showCategoriesMenu
+        });
     },
 
     render () {
@@ -146,7 +153,7 @@ var Header = React.createClass({
                     <a href="#" className="categories__toggle" onClick={this._onClickShowCategories}>{state.category}</a>
                     <ul className="categories__menu">
                         {state.categories.map((d, i) => {
-                            return (<li key={i} data-value={d.value}><a href="#" onClick={this._onClickSelectCategory}>{d.key}</a></li>);
+                            return (<li key={i} data-value={d.value}><a href="#" onClick={this._onClickSelectCategory}>{d.key}<span className="svg-check"></span></a></li>);
                         })}
                     </ul>
                 </span>
@@ -155,7 +162,7 @@ var Header = React.createClass({
         }
 
         return (
-            <header>
+            <header className={state.showCategoriesMenu ? 'show-menu' : ''}>
                 <img src="media/svg-porn.svg" className="logo"/>
 
                 <h3>A collection of svg logos for {categories}</h3>
@@ -173,10 +180,10 @@ var Header = React.createClass({
                     </li>
                 </ul>
                 {tags}
+                <div className="overlay" onClick={this._toggleCategoriesMenu}></div>
             </header>
         );
     }
-
 });
 
 module.exports = Header;
