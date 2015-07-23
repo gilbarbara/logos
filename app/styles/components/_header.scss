@@ -42,11 +42,13 @@ header {
   .categories {
     display: inline-block;
     position: relative;
-    width: 165px;
 
     &__toggle {
-      padding: 0 26px 0 8px;
+      display: flex;
+      justify-content: space-between;
+      padding: 0 8px;
       position: relative;
+      text-align: right;
       text-decoration: none;
 
       &:before {
@@ -59,15 +61,14 @@ header {
         width: 100%;
       }
 
-      &:after {
-        border-color: $link-color transparent transparent;
-        border-radius: 3px;
-        border-style: solid;
-        border-width: 12px 8px 0;
-        content: '';
-        position: absolute;
-        right: 3px;
-        top: 10px;
+      svg {
+        margin-left: 5px;
+        position: relative;
+        top: 4px;
+
+        @include md {
+          top: 7px;
+        }
       }
     }
 
@@ -83,17 +84,30 @@ header {
       transform: translateY(5%) scaleY(0);
       transform-origin: top;
       transition: all 0.2s ease-in-out;
-      width: 100%;
-      z-index: 100;
+      width: 140px;
+      z-index: 20;
+
+      @include md {
+        width: 180px;
+      }
 
       > li {
         a {
-          background-color: rgba($link-color, 1);
+          background-color: $link-color;
           color: #fff;
-          display: block;
+          display: flex;
+          justify-content: space-between;
           padding: 5px 8px;
           text-align: left;
           text-decoration: none;
+
+          svg {
+            margin-top: 2px;
+
+            @include md {
+              margin-top: 5px;
+            }
+          }
         }
       }
     }
@@ -110,7 +124,7 @@ header {
     right: 0;
     top: 0;
     transition: all 0.2s ease-in;
-    z-index: 20;
+    z-index: 10;
   }
 
   .menu {
