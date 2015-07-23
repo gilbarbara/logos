@@ -381,7 +381,7 @@
         "agile"
       ],
       "categories": [
-        "developers"
+        "teams"
       ]
     },
     {
@@ -534,7 +534,7 @@
         "email marketing"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -1620,7 +1620,7 @@
         "customer data analytics"
       ],
       "categories": [
-        "developers"
+        "business"
       ],
       "converted": true
     },
@@ -1635,7 +1635,7 @@
         "project manager"
       ],
       "categories": [
-        "developers"
+        "teams"
       ]
     },
     {
@@ -1650,7 +1650,8 @@
         "blogging platform"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "everybody"
       ]
     },
     {
@@ -2049,7 +2050,7 @@
         "inbound marketing"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -2063,7 +2064,7 @@
         "service integration"
       ],
       "categories": [
-        "developers"
+        "everybody"
       ]
     },
     {
@@ -2091,7 +2092,7 @@
         "data scraping"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -2430,7 +2431,7 @@
         "service integration"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -2459,7 +2460,7 @@
         "customer data analytics"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -2700,7 +2701,7 @@
         "email marketing"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -3329,7 +3330,7 @@
         "testing"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -3477,7 +3478,7 @@
         "project manager"
       ],
       "categories": [
-        "developers"
+        "teams"
       ]
     },
     {
@@ -3961,7 +3962,7 @@
         "service integration"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -4295,7 +4296,7 @@
         "kanban"
       ],
       "categories": [
-        "developers"
+        "teams"
       ]
     },
     {
@@ -4369,7 +4370,7 @@
         "social marketing"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -4412,7 +4413,8 @@
         "project manager"
       ],
       "categories": [
-        "developers"
+        "teams",
+        "everybody"
       ]
     },
     {
@@ -4539,7 +4541,7 @@
         "testing"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -4584,7 +4586,7 @@
         "project manager"
       ],
       "categories": [
-        "developers"
+        "teams"
       ]
     },
     {
@@ -4689,7 +4691,9 @@
       "shortname": "wordpress",
       "url": "https://wordpress.org/",
       "tags": [
-        "content management"
+        "content management",
+        "php",
+        "mysql"
       ],
       "categories": [
         "developers"
