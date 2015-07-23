@@ -1,4 +1,5 @@
 var React  = require('react'),
+    Isvg   = require('react-inlinesvg'),
     Header = require('./components/Header'),
     Footer = require('./components/Footer'),
     Loader = require('./components/Loader'),
@@ -8,12 +9,13 @@ var React  = require('react'),
 var App = React.createClass({
     getInitialState () {
         return {
+            columns: 3,
             logos: json.items,
-            columns: 3
+            category: 'anyone'
         };
     },
-    componentDidMount: function () {
 
+    componentDidMount: function () {
         this
             .getDOMNode()
             .offsetParent
@@ -40,9 +42,14 @@ var App = React.createClass({
     _onClickTag (e) {
         e.preventDefault();
 
-        var el  = e.currentTarget;
-
+        var el = e.currentTarget;
         console.log(el);
+    },
+
+    _selectCategory (value) {
+        this.setState({
+            category: value
+        });
     },
 
     _changeColumns (num) {
@@ -57,25 +64,29 @@ var App = React.createClass({
 
     render () {
         var state = this.state,
-            logos = [];
+            hidden,
+            logos = [],
+            visible = 0;
 
         state.logos.forEach(function (d, i) {
+            hidden =  state.category !== 'anyone' && d.categories.indexOf(state.category) === -1;
             d.files.forEach(function (f, j) {
-                logos.push(<Logo key={i + '-' + j} info={{
-                    name: d.name,
-                    shortname: d.shortname,
-                    url: d.url,
-                    image: f
-                }}/>);
-            });
-        });
+                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}/>);
+
+                if (!hidden) {
+                    visible++;
+                }
+            }, this);
+        }, this);
 
         return (
             <div className="app">
+                <Isvg src="../media/icons.svg" uniquifyIDs={false}/>
+
                 <div className="container">
-                    <Header logos={state.logos} columns={state.columns}
-                            onClickChangeColumns={this._onClickChangeColumns}
-                            onClickTag={this._onClickTag}/>
+                    <Header logos={state.logos} columns={state.columns} visible={visible}
+                            onClickChangeColumns={this._onClickChangeColumns} onClickTag={this._onClickTag}
+                            category={state.category} selectCategory={this._selectCategory}/>
                     <main>
                         <ul className={'logos col-' + state.columns}>
                             {logos}

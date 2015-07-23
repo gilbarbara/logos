@@ -4,23 +4,35 @@ var Logo = React.createClass({
     mixins: [React.addons.PureRenderMixin],
 
     propTypes: {
-        info: React.PropTypes.object.isRequired
+        image: React.PropTypes.string.isRequired,
+        hidden: React.PropTypes.bool.isRequired,
+        info: React.PropTypes.object.isRequired,
+        onClickTag: React.PropTypes.func.isRequired
     },
 
     toggleInfo (e) {
         var el = e.currentTarget;
-        el.parentNode.classList.toggle('visible');
+        el.classList.toggle('show-info');
     },
 
     render () {
-        var info = this.props.info;
+        var props = this.props,
+            info  = this.props.info;
         return (
-            <li>
+            <li className={props.hidden ? 'hidden' : ''} onMouseEnter={this.toggleInfo} onMouseLeave={this.toggleInfo}>
                 <a href={info.url} target="_blank" className="logo-item">
-                    <img src={'../logos/' + info.image} alt={info.name} className={info.shotname}
-                         onMouseEnter={this.toggleInfo} onMouseLeave={this.toggleInfo}/>
-                    <span className="name">{info.name}</span>
+                    <img src={'../logos/' + this.props.image} alt={info.name} className={info.shotname}/>
                 </a>
+
+                <div className="info">
+                    <h5><a href={info.url} target="_blank">{info.name}</a></h5>
+
+                    <div className="tags">{
+                        info.tags.map((t, i) => {
+                            return (<a key={i} href="#" onClick={props.onClickTag} data-tag={t}>#{t}</a>);
+                        })
+                    }</div>
+                </div>
             </li>
         );
     }

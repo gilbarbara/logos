@@ -2,7 +2,8 @@ var React    = require('react/addons'),
     lodash   = require('lodash'),
     Colors   = require('../utils/Colors'),
     ScaleLog = require('../utils/ScaleLog'),
-    config   = require('../config');
+    config   = require('../config'),
+    Icon     = require('./Icon');
 
 var Header = React.createClass({
     mixins: [React.addons.PureRenderMixin],
@@ -11,12 +12,13 @@ var Header = React.createClass({
         columns: React.PropTypes.number.isRequired,
         logos: React.PropTypes.array.isRequired,
         onClickChangeColumns: React.PropTypes.func.isRequired,
-        onClickTag: React.PropTypes.func.isRequired
+        onClickTag: React.PropTypes.func.isRequired,
+        selectCategory: React.PropTypes.func.isRequired,
+        visible: React.PropTypes.number.isRequired
     },
 
     getInitialState () {
         return {
-            category: 'developers',
             ready: false,
             showCategoriesMenu: false
         };
@@ -41,7 +43,7 @@ var Header = React.createClass({
                 });
             });
 
-            categories = this._sortObject(categories, 'value');
+            categories = [{key: 'anyone', value: 0}].concat(this._sortObject(categories, 'value'));
         }
 
         if (config.features.tags) {
@@ -110,7 +112,9 @@ var Header = React.createClass({
         e.preventDefault();
 
         var el = e.currentTarget;
-        console.log(el);
+
+        this.props.selectCategory(el.dataset.value);
+        this._toggleCategoriesMenu();
     },
 
     _toggleCategoriesMenu () {
@@ -120,9 +124,9 @@ var Header = React.createClass({
     },
 
     render () {
-        var props = this.props,
-            state = this.state,
-            categories = state.category,
+        var props      = this.props,
+            state      = this.state,
+            categories = props.category,
             tags,
             style;
 
@@ -150,10 +154,12 @@ var Header = React.createClass({
             if (config.features.categories) {
                 categories = (
                     <span className="categories">
-                    <a href="#" className="categories__toggle" onClick={this._onClickShowCategories}>{state.category}</a>
+                    <a href="#" className="categories__toggle"
+                       onClick={this._onClickShowCategories}>{props.category} <Icon id="caret-down"/></a>
                     <ul className="categories__menu">
                         {state.categories.map((d, i) => {
-                            return (<li key={i} data-value={d.value}><a href="#" onClick={this._onClickSelectCategory}>{d.key}<span className="svg-check"></span></a></li>);
+                            return (<li key={i}><a href="#" onClick={this._onClickSelectCategory} data-value={d.key}>{d.key}
+                            {d.key === props.category ? <Icon id="check"/> : ''}</a></li>);
                         })}
                     </ul>
                 </span>
@@ -165,7 +171,7 @@ var Header = React.createClass({
             <header className={state.showCategoriesMenu ? 'show-menu' : ''}>
                 <img src="media/svg-porn.svg" className="logo"/>
 
-                <h3>A collection of svg logos for {categories}</h3>
+                <h3>A collection of {props.visible} svg logos for {categories}</h3>
 
                 <ul className="menu">
                     <li><span className="title">Columns</span>
