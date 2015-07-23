@@ -1,0 +1,19 @@
+%svg-common {
+  background: url('#{$media-path}icons.svg') no-repeat;
+  display: inline-block;
+}
+
+.svg-caret-down {
+  @extend %svg-common;
+  background-position: 0 0;
+  height: 10px;
+  width: 17px;
+}
+
+.svg-check {
+  @extend %svg-common;
+  background-position: 0 100%;
+  height: 14px;
+  width: 17px;
+}
+

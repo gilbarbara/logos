@@ -1,6 +1,6 @@
 module.exports = {
     features: {
-        categories: false,
+        categories: true,
         menu: false,
         tags: false
     }

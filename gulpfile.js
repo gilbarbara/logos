@@ -109,6 +109,21 @@ gulp.task('media', function () {
         }));
 });
 
+gulp.task('icons', function () {
+    gulp.src('**/*.svg', { cwd: 'app/media/icons' })
+        .pipe($.svgSprite({
+            mode: {
+                view: {         // Activate the «view» mode
+                    bust: false,
+                    render: {
+                        scss: true      // Activate Sass output (with default options)
+                    }
+                },
+                symbol: true
+            }
+        }))
+        .pipe(gulp.dest('.tmp/assets'));
+});
 
 gulp.task('readme', function () {
     var json = JSON.parse(fs.readFileSync('./app/logos.json'));
