@@ -13,7 +13,7 @@ var Header = React.createClass({
         logos: React.PropTypes.array.isRequired,
         onClickChangeColumns: React.PropTypes.func.isRequired,
         onClickTag: React.PropTypes.func.isRequired,
-        selectCategory: React.PropTypes.func.isRequired,
+        changeCategory: React.PropTypes.func.isRequired,
         visible: React.PropTypes.number.isRequired
     },
 
@@ -104,16 +104,15 @@ var Header = React.createClass({
     _onClickShowCategories (e) {
         e.preventDefault();
 
-        var el = e.currentTarget;
         this._toggleCategoriesMenu();
     },
 
-    _onClickSelectCategory (e) {
+    _onClickChangeCategory (e) {
         e.preventDefault();
 
         var el = e.currentTarget;
 
-        this.props.selectCategory(el.dataset.value);
+        this.props.changeCategory(el.dataset.value);
         this._toggleCategoriesMenu();
     },
 
@@ -158,7 +157,7 @@ var Header = React.createClass({
                        onClick={this._onClickShowCategories}>{props.category} <Icon id="caret-down"/></a>
                     <ul className="categories__menu">
                         {state.categories.map((d, i) => {
-                            return (<li key={i}><a href="#" onClick={this._onClickSelectCategory} data-value={d.key}>{d.key}
+                            return (<li key={i}><a href="#" onClick={this._onClickChangeCategory} data-value={d.key}>{d.key}
                             {d.key === props.category ? <Icon id="check"/> : ''}</a></li>);
                         })}
                     </ul>

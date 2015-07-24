@@ -1,10 +1,11 @@
-var React  = require('react'),
-    Isvg   = require('react-inlinesvg'),
-    Header = require('./components/Header'),
-    Footer = require('./components/Footer'),
-    Loader = require('./components/Loader'),
-    Logo   = require('./components/Logo'),
-    json   = require('../logos.json');
+var React   = require('react'),
+    Isvg    = require('react-inlinesvg'),
+    Storage = require('./utils/Storage'),
+    Header  = require('./components/Header'),
+    Footer  = require('./components/Footer'),
+    Loader  = require('./components/Loader'),
+    Logo    = require('./components/Logo'),
+    json    = require('../logos.json');
 
 var App = React.createClass({
     getInitialState () {
@@ -13,6 +14,16 @@ var App = React.createClass({
             logos: json.items,
             category: 'anyone'
         };
+    },
+
+    componentWillMount: function () {
+        var category = Storage.getItem('category'),
+            columns  = Storage.getItem('columns');
+
+        this.setState({
+            category: category && this.state.category !== category ? category : this.state.category,
+            columns: columns && this.state.columns !== columns ? columns : this.state.columns
+        });
     },
 
     componentDidMount: function () {
@@ -46,16 +57,18 @@ var App = React.createClass({
         console.log(el);
     },
 
-    _selectCategory (value) {
+    _changeCategory (value) {
         this.setState({
             category: value
         });
+        Storage.setItem('category', value);
     },
 
     _changeColumns (num) {
         this.setState({
             columns: num
         });
+        Storage.setItem('columns', num);
     },
 
     _filterLogos (tag) {
@@ -63,13 +76,13 @@ var App = React.createClass({
     },
 
     render () {
-        var state = this.state,
+        var state   = this.state,
             hidden,
-            logos = [],
+            logos   = [],
             visible = 0;
 
         state.logos.forEach(function (d, i) {
-            hidden =  state.category !== 'anyone' && d.categories.indexOf(state.category) === -1;
+            hidden = state.category !== 'anyone' && d.categories.indexOf(state.category) === -1;
             d.files.forEach(function (f, j) {
                 logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}/>);
 
@@ -86,7 +99,7 @@ var App = React.createClass({
                 <div className="container">
                     <Header logos={state.logos} columns={state.columns} visible={visible}
                             onClickChangeColumns={this._onClickChangeColumns} onClickTag={this._onClickTag}
-                            category={state.category} selectCategory={this._selectCategory}/>
+                            category={state.category} changeCategory={this._changeCategory}/>
                     <main>
                         <ul className={'logos col-' + state.columns}>
                             {logos}
