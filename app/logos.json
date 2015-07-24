@@ -110,6 +110,21 @@
       ]
     },
     {
+      "name": "AppSignal",
+      "files": [
+        "appsignal.svg"
+      ],
+      "shortname": "appsignal",
+      "url": "https://appsignal.com/",
+      "tags": [
+        "software analytics"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
+      ]
+    },
+    {
       "name": "ArangoDB",
       "files": [
         "arangodb.svg"
@@ -520,6 +535,20 @@
       ],
       "categories": [
         "developers"
+      ]
+    },
+    {
+      "name": "Campfire",
+      "files": [
+        "campfire.svg"
+      ],
+      "shortname": "campfire",
+      "url": "https://campfirenow.com/",
+      "tags": [
+        "team collaboration"
+      ],
+      "categories": [
+        "teams"
       ]
     },
     {
@@ -1674,6 +1703,20 @@
       ]
     },
     {
+      "name": "Glint",
+      "files": [
+        "glint.svg"
+      ],
+      "shortname": "glint",
+      "url": "http://www.glintinc.com/",
+      "tags": [
+        "organization analysis"
+      ],
+      "categories": [
+        "business"
+      ]
+    },
+    {
       "name": "Google Cloud",
       "files": [
         "google-cloud.svg"
@@ -2114,6 +2157,22 @@
       ],
       "categories": [
         "developers"
+      ]
+    },
+    {
+      "name": "Iron.io",
+      "files": [
+        "iron.svg"
+      ],
+      "shortname": "iron",
+      "url": "https://www.iron.io/",
+      "tags": [
+        "message queue",
+        "task processor"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
       ]
     },
     {
@@ -2798,6 +2857,21 @@
       "converted": true
     },
     {
+      "name": "Mixpanel",
+      "files": [
+        "mixpanel.svg"
+      ],
+      "shortname": "mixpanel",
+      "url": "https://mixpanel.com/",
+      "tags": [
+        "customer data analytics",
+        "SaaS"
+      ],
+      "categories": [
+        "business"
+      ]
+    },
+    {
       "name": "Mocha",
       "files": [
         "mocha.svg"
@@ -2929,7 +3003,7 @@
       "shortname": "nativescript",
       "url": "https://www.nativescript.org/",
       "tags": [
-
+        
       ],
       "categories": [
         "developers"
@@ -3494,7 +3568,21 @@
         "social news"
       ],
       "categories": [
-        "developers"
+        "geeks"
+      ]
+    },
+    {
+      "name": "Producteev",
+      "files": [
+        "producteev.svg"
+      ],
+      "shortname": "producteev",
+      "url": "https://www.producteev.com/",
+      "tags": [
+        "task manager"
+      ],
+      "categories": [
+        "teams"
       ]
     },
     {
@@ -4241,6 +4329,20 @@
       ]
     },
     {
+      "name": "Todoist",
+      "files": [
+        "todoist.svg"
+      ],
+      "shortname": "todoist",
+      "url": "https://en.todoist.com/",
+      "tags": [
+        "task manager"
+      ],
+      "categories": [
+        "teams"
+      ]
+    },
+    {
       "name": "TodoMVC",
       "files": [
         "todomvc.svg"
@@ -4501,6 +4603,20 @@
       ]
     },
     {
+      "name": "webhooks",
+      "files": [
+        "webhooks.svg"
+      ],
+      "shortname": "webhooks",
+      "url": "http://www.webhooks.org/",
+      "tags": [
+        "architecture"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
       "name": "webpack",
       "files": [
         "webpack.svg"
@@ -4638,6 +4754,22 @@
       ],
       "categories": [
         "developers"
+      ]
+    },
+    {
+      "name": "Zendesk",
+      "files": [
+        "zendesk.svg"
+      ],
+      "shortname": "zendesk",
+      "url": "https://www.zendesk.com/",
+      "tags": [
+        "php",
+        "customer service"
+      ],
+      "categories": [
+        "business",
+        "teams"
       ]
     },
     {

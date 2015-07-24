@@ -41,6 +41,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.appcelerator.com/" target="_blank">Appcelerator</a>
 ![appcelerator](http://svgporn.com/logos/appcelerator.svg)
 
+## <a href="https://appsignal.com/" target="_blank">AppSignal</a>
+![appsignal](http://svgporn.com/logos/appsignal.svg)
+
 ## <a href="https://www.arangodb.com/" target="_blank">ArangoDB</a>
 ![arangodb](http://svgporn.com/logos/arangodb.svg)
 
@@ -125,6 +128,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.campaignmonitor.com/" target="_blank">Campaign Monitor</a>
 ![campaignmonitor](http://svgporn.com/logos/campaignmonitor.svg)
+
+## <a href="https://campfirenow.com/" target="_blank">Campfire</a>
+![campfire](http://svgporn.com/logos/campfire.svg)
 
 ## <a href="http://canjs.com/" target="_blank">CanJS</a>
 ![canjs](http://svgporn.com/logos/canjs.svg)
@@ -358,6 +364,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://about.gitlab.com/" target="_blank">Gitlab</a>
 ![gitlab](http://svgporn.com/logos/gitlab.svg)
 
+## <a href="http://www.glintinc.com/" target="_blank">Glint</a>
+![glint](http://svgporn.com/logos/glint.svg)
+
 ## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a>
 ![google-cloud](http://svgporn.com/logos/google-cloud.svg)
 
@@ -444,6 +453,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://ionicframework.com/" target="_blank">Ionic</a>
 ![ionic](http://svgporn.com/logos/ionic.svg)
+
+## <a href="https://www.iron.io/" target="_blank">Iron.io</a>
+![iron](http://svgporn.com/logos/iron.svg)
 
 ## <a href="http://jade-lang.com/" target="_blank">Jade</a>
 ![jade](http://svgporn.com/logos/jade.svg)
@@ -585,6 +597,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://lhorie.github.io/mithril/" target="_blank">Mithril</a> *
 ![mithril](http://svgporn.com/logos/mithril.svg)
+
+## <a href="https://mixpanel.com/" target="_blank">Mixpanel</a>
+![mixpanel](http://svgporn.com/logos/mixpanel.svg)
 
 ## <a href="http://mochajs.org/" target="_blank">Mocha</a> *
 ![mocha](http://svgporn.com/logos/mocha.svg)
@@ -729,6 +744,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.producthunt.com/" target="_blank">Product Hunt</a>
 ![producthunt](http://svgporn.com/logos/producthunt.svg)
+
+## <a href="https://www.producteev.com/" target="_blank">Producteev</a>
+![producteev](http://svgporn.com/logos/producteev.svg)
 
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a>
 ![puppet](http://svgporn.com/logos/puppet.svg)
@@ -877,6 +895,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.teamwork.com/" target="_blank">teamwork</a>
 ![teamwork](http://svgporn.com/logos/teamwork.svg)
 
+## <a href="https://en.todoist.com/" target="_blank">Todoist</a>
+![todoist](http://svgporn.com/logos/todoist.svg)
+
 ## <a href="http://todomvc.com/" target="_blank">TodoMVC</a>
 ![todomvc](http://svgporn.com/logos/todomvc.svg)
 
@@ -930,6 +951,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://webcomponents.org/" target="_blank">WebComponents</a>
 ![webcomponents](http://svgporn.com/logos/webcomponents.svg)
 
+## <a href="http://www.webhooks.org/" target="_blank">webhooks</a>
+![webhooks](http://svgporn.com/logos/webhooks.svg)
+
 ## <a href="http://webpack.github.io/" target="_blank">webpack</a> *
 ![webpack](http://svgporn.com/logos/webpack.svg)
 
@@ -958,6 +982,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://zapier.com/" target="_blank">Zapier</a>
 ![zapier](http://svgporn.com/logos/zapier.svg)
+
+## <a href="https://www.zendesk.com/" target="_blank">Zendesk</a>
+![zendesk](http://svgporn.com/logos/zendesk.svg)
 
 ## <a href="https://www.zenhub.io/" target="_blank">Zenhub</a>
 ![zenhub](http://svgporn.com/logos/zenhub.svg)
