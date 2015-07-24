@@ -12,7 +12,6 @@
         "server monitoring"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -45,7 +44,6 @@
         "python"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -75,7 +73,6 @@
         "IaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -105,7 +102,6 @@
         "mBaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -120,7 +116,6 @@
         "software analytics"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -241,7 +236,6 @@
         "IaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -304,7 +298,7 @@
         "cli"
       ],
       "categories": [
-        "developers"
+        "geeks"
       ]
     },
     {
@@ -398,7 +392,8 @@
         "ui"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "designers"
       ],
       "converted": true
     },
@@ -459,7 +454,7 @@
         "asset manager"
       ],
       "categories": [
-        "developers"
+        "business"
       ]
     },
     {
@@ -578,7 +573,6 @@
         "automation tool"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -624,7 +618,6 @@
         "static analysis"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -689,7 +682,6 @@
         "ruby"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -829,7 +821,7 @@
         "continuous integration"
       ],
       "categories": [
-        "developers"
+        "DevOps"
       ],
       "converted": true
     },
@@ -846,7 +838,8 @@
         "reference"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "designers"
       ],
       "converted": true
     },
@@ -1061,7 +1054,7 @@
         "code deployment"
       ],
       "categories": [
-        "developers"
+        "DevOps"
       ]
     },
     {
@@ -1075,7 +1068,8 @@
         "social news"
       ],
       "categories": [
-        "developers"
+        "geeks",
+        "designers"
       ]
     },
     {
@@ -1090,7 +1084,6 @@
         "IaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -1153,7 +1146,6 @@
         "IaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -1185,7 +1177,6 @@
         "PaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -1338,7 +1329,6 @@
         "PaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -1414,7 +1404,6 @@
         "server monitoring"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ],
       "converted": true
@@ -1524,7 +1513,8 @@
         "ui"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "designers"
       ]
     },
     {
@@ -1606,7 +1596,8 @@
         "ui"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "designers"
       ]
     },
     {
@@ -1684,7 +1675,8 @@
         "issue tracker"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "teams"
       ]
     },
     {
@@ -1729,7 +1721,6 @@
         "PaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -2092,7 +2083,7 @@
         "data scraping"
       ],
       "categories": [
-        "business"
+        "geeks"
       ]
     },
     {
@@ -2125,7 +2116,8 @@
         "collaboration platform"
       ],
       "categories": [
-        "designers"
+        "designers",
+        "teams"
       ]
     },
     {
@@ -2172,7 +2164,6 @@
         "task processor"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -2445,7 +2436,6 @@
         "mBaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -2475,7 +2465,6 @@
         "docker"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ],
       "converted": true
@@ -2597,7 +2586,6 @@
         "log manager"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -2717,7 +2705,8 @@
         "api"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "business"
       ]
     },
     {
@@ -2778,7 +2767,8 @@
         "framework"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "designers"
       ]
     },
     {
@@ -3083,7 +3073,6 @@
         "SaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -3223,7 +3212,8 @@
         "security"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "devOps"
       ]
     },
     {
@@ -3298,7 +3288,6 @@
         "IaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ],
       "converted": true
@@ -3314,7 +3303,6 @@
         "software analytics"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -3344,7 +3332,7 @@
         "newsfeed reader"
       ],
       "categories": [
-        "developers"
+        "geeks"
       ]
     },
     {
@@ -3358,7 +3346,6 @@
         "mBaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -3449,7 +3436,8 @@
         "ui"
       ],
       "categories": [
-        "designers"
+        "designers",
+        "teams"
       ]
     },
     {
@@ -3599,7 +3587,6 @@
         "ruby"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -3644,7 +3631,6 @@
         "IaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -3736,7 +3722,7 @@
         "community"
       ],
       "categories": [
-        "developers"
+        "geeks"
       ]
     },
     {
@@ -3811,8 +3797,8 @@
         "security"
       ],
       "categories": [
-        "developers",
-        "DevOps"
+        "DevOps",
+        "hackers"
       ]
     },
     {
@@ -3872,7 +3858,6 @@
         "api monitoring"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -3917,7 +3902,6 @@
         "python"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -3991,7 +3975,6 @@
         "log manager"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -4141,7 +4124,6 @@
         "server status"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ],
       "converted": true
@@ -4232,7 +4214,8 @@
         "language"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "designers"
       ]
     },
     {
@@ -4429,7 +4412,6 @@
         "IaaS"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -4495,7 +4477,6 @@
         "ruby"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ],
       "converted": true
@@ -4586,6 +4567,7 @@
         "project manager"
       ],
       "categories": [
+        "developers",
         "teams"
       ]
     },
@@ -4663,7 +4645,6 @@
         "docker"
       ],
       "categories": [
-        "developers",
         "DevOps"
       ]
     },
@@ -4711,7 +4692,7 @@
         "social news"
       ],
       "categories": [
-        "developers"
+        "geeks"
       ]
     },
     {
@@ -4758,7 +4739,8 @@
         "service integration"
       ],
       "categories": [
-        "developers"
+        "developers",
+        "geeks"
       ]
     },
     {
