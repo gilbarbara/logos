@@ -42,6 +42,12 @@ h6 {
   padding-right: 1.5rem;
 }
 
+.app {
+  &.no-scroll {
+    overflow: hidden;
+  }
+}
+
 footer {
   border-top: 1px solid #ccc;
   display: flex;
@@ -57,7 +63,8 @@ footer {
     fill: $link-color;
   }
 
-  #check path {
+  #check path,
+  #times-circle path {
     fill: #fff;
   }
 }
@@ -67,3 +74,4 @@ footer {
   height: 16px;
   width: 16px;
 }
+

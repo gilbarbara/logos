@@ -9,11 +9,14 @@ var Header = React.createClass({
     mixins: [React.addons.PureRenderMixin],
 
     propTypes: {
+        changeCategory: React.PropTypes.func.isRequired,
+        changeTag: React.PropTypes.func.isRequired,
         columns: React.PropTypes.number.isRequired,
         logos: React.PropTypes.array.isRequired,
         onClickChangeColumns: React.PropTypes.func.isRequired,
-        onClickTag: React.PropTypes.func.isRequired,
-        changeCategory: React.PropTypes.func.isRequired,
+        onClickShowTagCloud: React.PropTypes.func.isRequired,
+        tag: React.PropTypes.string,
+        tagCloudVisible: React.PropTypes.bool.isRequired,
         visible: React.PropTypes.number.isRequired
     },
 
@@ -30,7 +33,8 @@ var Header = React.createClass({
             fScale     = {
                 min: 1,
                 max: 0,
-                unit: 'rem'
+                unit: 'rem',
+                maxSize: 1.2
             };
 
         if (config.features.categories) {
@@ -43,7 +47,7 @@ var Header = React.createClass({
                 });
             });
 
-            categories = [{key: 'anyone', value: 0}].concat(this._sortObject(categories, 'value'));
+            categories = [{ key: 'everybody', value: 0 }].concat(this._sortObject(categories, 'value'));
         }
 
         if (config.features.tags) {
@@ -57,6 +61,7 @@ var Header = React.createClass({
             });
 
             tags = this._sortObject(tags, 'value');
+
             tags.forEach((t) => {
                 if (t.value < fScale.min) {
                     fScale.min = t.value;
@@ -72,7 +77,7 @@ var Header = React.createClass({
             tags,
             ready: true,
             fontScale: new ScaleLog(fScale),
-            colorScale: new ScaleLog({ minSize: 12, min: fScale.min, maxSize: 70, max: fScale.max }),
+            colorScale: new ScaleLog({ minSize: 10, min: fScale.min, maxSize: 65, max: fScale.max }),
             color: new Colors('#ffced3')
         });
     },
@@ -122,30 +127,47 @@ var Header = React.createClass({
         });
     },
 
+    _onClickTag (e) {
+        e.preventDefault();
+        this.props.changeTag(e.currentTarget.dataset.tag);
+
+        this.setState({
+            showTagCloud: false
+        });
+    },
+
     render () {
         var props      = this.props,
             state      = this.state,
             categories = props.category,
-            tags,
+            output     = {},
             style;
 
         if (state.ready) {
             if (config.features.tags) {
-                tags = (
-                    <div className="tag-cloud">
-                        {state.tags.map((d, i) => {
-                            style = {
-                                backgroundColor: state.color.hsl2hex({
-                                    h: state.color.hue(),
-                                    s: state.color.saturation(),
-                                    l: state.color.lightness() - +state.colorScale.value(d.value)
-                                }),
-                                fontSize: state.fontScale.value(d.value)
-                            };
-                            return (<a key={i} href="#" data-tag={d.key} onClick={this.props.onClickTag}
-                                       style={style}>{d.key + ' (' + d.value + ')'}</a>
-                            );
-                        })}
+                output.tagsMenu = (
+                    <li>
+                        <a href="#" className={'title' + (props.tag ? ' tag' : '')}
+                           onClick={props.onClickShowTagCloud}>{!props.tag ? 'Show tags?' : <span>#{props.tag}<Icon id="times-circle"/></span>}</a>
+                    </li>
+                );
+                output.tagCloud = (
+                    <div className="tags">
+                        <div className="tag-cloud" onClick={props.onClickShowTagCloud}>
+                            {state.tags.map((d, i) => {
+                                style = {
+                                    backgroundColor: state.color.hsl2hex({
+                                        h: state.color.hue(),
+                                        s: state.color.saturation(),
+                                        l: state.color.lightness() - +state.colorScale.value(d.value)
+                                    }),
+                                    fontSize: state.fontScale.value(d.value)
+                                };
+                                return (<a key={i} href="#" data-tag={d.key} onClick={this._onClickTag}
+                                           style={style}>#{d.key + ' (' + d.value + ')'}</a>
+                                );
+                            })}
+                        </div>
                     </div>
                 );
             }
@@ -157,8 +179,9 @@ var Header = React.createClass({
                        onClick={this._onClickShowCategories}>{props.category} <Icon id="caret-down"/></a>
                     <ul className="categories__menu">
                         {state.categories.map((d, i) => {
-                            return (<li key={i}><a href="#" onClick={this._onClickChangeCategory} data-value={d.key}>{d.key}
-                            {d.key === props.category ? <Icon id="check"/> : ''}</a></li>);
+                            return (
+                                <li key={i}><a href="#" onClick={this._onClickChangeCategory} data-value={d.key}>{d.key}
+                                    {d.key === props.category ? <Icon id="check"/> : ''}</a></li>);
                         })}
                     </ul>
                 </span>
@@ -167,12 +190,14 @@ var Header = React.createClass({
         }
 
         return (
-            <header className={state.showCategoriesMenu ? 'show-menu' : ''}>
+            <header
+                className={[state.showCategoriesMenu ? 'show-menu' : '', props.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
                 <img src="media/svg-porn.svg" className="logo"/>
 
                 <h3>A collection of {props.visible} svg logos for {categories}</h3>
 
                 <ul className="menu">
+                    {output.tagsMenu}
                     <li><span className="title">Columns</span>
 
                         <div className="switch">
@@ -184,7 +209,7 @@ var Header = React.createClass({
                         <span className="keyboard">or use your keyboard</span>
                     </li>
                 </ul>
-                {tags}
+                {output.tagCloud}
                 <div className="overlay" onClick={this._toggleCategoriesMenu}></div>
             </header>
         );

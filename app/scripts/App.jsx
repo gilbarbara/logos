@@ -10,9 +10,11 @@ var React   = require('react'),
 var App = React.createClass({
     getInitialState () {
         return {
+            category: 'everybody',
             columns: 3,
             logos: json.items,
-            category: 'anyone'
+            tag: undefined,
+            tagCloudVisible: false
         };
     },
 
@@ -50,18 +52,53 @@ var App = React.createClass({
         this._changeColumns(this.state.columns + col);
     },
 
-    _onClickTag (e) {
-        e.preventDefault();
-
-        var el = e.currentTarget;
-        console.log(el);
-    },
-
     _changeCategory (value) {
         this.setState({
-            category: value
+            category: value,
+            tag: undefined
         });
         Storage.setItem('category', value);
+    },
+
+    _onClickTag (e) {
+        e.preventDefault();
+        var tag = e.currentTarget.dataset.tag || undefined;
+
+        document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
+        this._changeTag(tag);
+    },
+
+    _onClickShowTags (e) {
+        if (e) {
+            e.preventDefault();
+        }
+
+        if (this.state.tag) {
+            this.setState({
+                tag: undefined
+            });
+        }
+        else {
+            this._toggleTagCloudVisibitily();
+        }
+    },
+
+    _toggleTagCloudVisibitily  () {
+        document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
+        this.setState({
+            tagCloudVisible: !this.state.tagCloudVisible
+        });
+    },
+
+    _changeTag (tag) {
+        document.body.style.overflow = 'auto';
+        this._scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
+
+        this.setState({
+            tag,
+            tagCloudVisible: false,
+            category: 'everybody'
+        });
     },
 
     _changeColumns (num) {
@@ -75,6 +112,27 @@ var App = React.createClass({
 
     },
 
+    _scrollTo (element = document.body, to = 0, duration = document.body.scrollTop) {
+        duration = duration / 10 < 500 ? duration : 500;
+
+        var difference = to - element.scrollTop,
+            perTick = difference / duration * 10,
+            timeout;
+
+        if (duration < 0) {
+            clearTimeout(timeout);
+            return;
+        }
+
+        timeout = setTimeout(function () {
+            element.scrollTop = element.scrollTop + perTick;
+            if (element.scrollTop === to) {
+                clearTimeout(timeout);
+            }
+            this._scrollTo(element, to, duration - 10);
+        }.bind(this), 10);
+    },
+
     render () {
         var state   = this.state,
             hidden,
@@ -82,7 +140,12 @@ var App = React.createClass({
             visible = 0;
 
         state.logos.forEach(function (d, i) {
-            hidden = state.category !== 'anyone' && d.categories.indexOf(state.category) === -1;
+            if (state.tag) {
+                hidden = d.tags.indexOf(state.tag) === -1;
+            }
+            else {
+                hidden = state.category !== 'everybody' && d.categories.indexOf(state.category) === -1;
+            }
             d.files.forEach(function (f, j) {
                 logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}/>);
 
@@ -98,7 +161,9 @@ var App = React.createClass({
 
                 <div className="container">
                     <Header logos={state.logos} columns={state.columns} visible={visible}
-                            onClickChangeColumns={this._onClickChangeColumns} onClickTag={this._onClickTag}
+                            onClickChangeColumns={this._onClickChangeColumns}
+                            onClickShowTagCloud={this._onClickShowTags} tagCloudVisible={this.state.tagCloudVisible}
+                            changeTag={this._changeTag} tag={this.state.tag}
                             category={state.category} changeCategory={this._changeCategory}/>
                     <main>
                         <ul className={'logos col-' + state.columns}>

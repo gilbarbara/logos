@@ -58,7 +58,7 @@
         "web server"
       ],
       "categories": [
-        "developers"
+        "DevOps"
       ]
     },
     {
@@ -88,7 +88,7 @@
         "api"
       ],
       "categories": [
-        "developers"
+        "DevOps"
       ]
     },
     {
@@ -362,6 +362,20 @@
         "designers"
       ],
       "converted": true
+    },
+    {
+      "name": "Blogger",
+      "files": [
+        "blogger.svg"
+      ],
+      "shortname": "blogger",
+      "url": "https://www.blogger.com/",
+      "tags": [
+        "blogging platform"
+      ],
+      "categories": [
+        "bloggers"
+      ]
     },
     {
       "name": "Blossom",
@@ -696,7 +710,7 @@
         "browser"
       ],
       "categories": [
-        "everybody"
+        "geeks"
       ]
     },
     {
@@ -1240,6 +1254,20 @@
       ]
     },
     {
+      "name": "DuckDuckGo",
+      "files": [
+        "duckduckgo.svg"
+      ],
+      "shortname": "duckduckgo",
+      "url": "https://duckduckgo.com/",
+      "tags": [
+        "search engine"
+      ],
+      "categories": [
+        "geeks"
+      ]
+    },
+    {
       "name": "Eclipse",
       "files": [
         "eclipse.svg"
@@ -1438,6 +1466,20 @@
       ]
     },
     {
+      "name": "Facebook",
+      "files": [
+        "facebook.svg"
+      ],
+      "shortname": "facebook",
+      "url": "https://www.facebook.com/",
+      "tags": [
+        "social network"
+      ],
+      "categories": [
+        "sharing"
+      ]
+    },
+    {
       "name": "Famo.us",
       "files": [
         "famous.svg"
@@ -1481,7 +1523,7 @@
         "browser"
       ],
       "categories": [
-        "everybody"
+        "geeks"
       ]
     },
     {
@@ -1515,6 +1557,21 @@
       "categories": [
         "developers",
         "designers"
+      ]
+    },
+    {
+      "name": "flickr",
+      "files": [
+        "flickr-icon.svg",
+        "flickr.svg"
+      ],
+      "shortname": "flickr",
+      "url": "https://www.flickr.com/",
+      "tags": [
+        "image sharing"
+      ],
+      "categories": [
+        "sharing"
       ]
     },
     {
@@ -1641,7 +1698,6 @@
         "blogging platform"
       ],
       "categories": [
-        "developers",
         "bloggers"
       ]
     },
@@ -1707,6 +1763,20 @@
       ],
       "categories": [
         "business"
+      ]
+    },
+    {
+      "name": "Google +",
+      "files": [
+        "google-plus.svg"
+      ],
+      "shortname": "googleplus",
+      "url": "https://plus.google.com/",
+      "tags": [
+        "social network"
+      ],
+      "categories": [
+        "sharing"
       ]
     },
     {
@@ -2105,6 +2175,22 @@
       "converted": true
     },
     {
+      "name": "Instagram",
+      "files": [
+        "instagram-icon.svg",
+        "instagram.svg"
+      ],
+      "shortname": "instagram",
+      "url": "https://instagram.com/",
+      "tags": [
+        "image sharing",
+        "selfies"
+      ],
+      "categories": [
+        "sharing"
+      ]
+    },
+    {
       "name": "Invision",
       "files": [
         "invision.svg"
@@ -2221,6 +2307,20 @@
       "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
       "tags": [
         "language"
+      ],
+      "categories": [
+        "developers"
+      ]
+    },
+    {
+      "name": "Jekyll",
+      "files": [
+        "jekyll.svg"
+      ],
+      "shortname": "jekyll",
+      "url": "http://jekyllrb.com/",
+      "tags": [
+        "static site generator"
       ],
       "categories": [
         "developers"
@@ -2786,6 +2886,20 @@
       ]
     },
     {
+      "name": "Medium",
+      "files": [
+        "medium.svg"
+      ],
+      "shortname": "medium",
+      "url": "https://medium.com/",
+      "tags": [
+        "microblog"
+      ],
+      "categories": [
+        "bloggers"
+      ]
+    },
+    {
       "name": "Memcached",
       "files": [
         "memcached.svg"
@@ -2994,7 +3108,7 @@
       "shortname": "nativescript",
       "url": "https://www.nativescript.org/",
       "tags": [
-        
+
       ],
       "categories": [
         "developers"
@@ -3087,7 +3201,7 @@
         "web server"
       ],
       "categories": [
-        "developers"
+        "DevOps"
       ]
     },
     {
@@ -3213,7 +3327,7 @@
       ],
       "categories": [
         "developers",
-        "devOps"
+        "DevOps"
       ]
     },
     {
@@ -3421,6 +3535,20 @@
       ],
       "categories": [
         "developers"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "files": [
+        "pinterest.svg"
+      ],
+      "shortname": "pinterest",
+      "url": "https://www.pinterest.com/",
+      "tags": [
+        "image sharing"
+      ],
+      "categories": [
+        "sharing"
       ]
     },
     {
@@ -4069,6 +4197,20 @@
       ]
     },
     {
+      "name": "soundcloud",
+      "files": [
+        "soundcloud.svg"
+      ],
+      "shortname": "soundcloud",
+      "url": "https://soundcloud.com/",
+      "tags": [
+        "music sharing"
+      ],
+      "categories": [
+        "sharing"
+      ]
+    },
+    {
       "name": "Spring",
       "files": [
         "spring.svg"
@@ -4083,6 +4225,20 @@
         "developers"
       ],
       "converted": true
+    },
+    {
+      "name": "Squarespace",
+      "files": [
+        "squarespace.svg"
+      ],
+      "shortname": "squarespace",
+      "url": "http://www.squarespace.com/",
+      "tags": [
+        "content management"
+      ],
+      "categories": [
+        "sharing"
+      ]
     },
     {
       "name": "Stack Overflow",
@@ -4373,7 +4529,6 @@
     {
       "name": "Travis CI",
       "files": [
-        "travis-ci-icon.svg",
         "travis-ci.svg"
       ],
       "shortname": "travis-ci",
@@ -4398,6 +4553,23 @@
       "categories": [
         "teams",
         "geeks"
+      ]
+    },
+    {
+      "name": "tumblr",
+      "files": [
+        "tumblr-icon.svg",
+        "tumblr.svg"
+      ],
+      "shortname": "tumblr",
+      "url": "https://tumblr.com/",
+      "tags": [
+        "image sharing",
+        "microblog"
+      ],
+      "categories": [
+        "bloggers",
+        "sharing"
       ]
     },
     {
@@ -4493,6 +4665,21 @@
       ],
       "categories": [
         "developers"
+      ]
+    },
+    {
+      "name": "Vimeo",
+      "files": [
+        "vimeo-icon.svg",
+        "vimeo.svg"
+      ],
+      "shortname": "vimeo",
+      "url": "https://vimeo.com/",
+      "tags": [
+        "video sharing"
+      ],
+      "categories": [
+        "sharing"
       ]
     },
     {
@@ -4726,6 +4913,20 @@
       "categories": [
         "developers",
         "teams"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "files": [
+        "youtube.svg"
+      ],
+      "shortname": "youtube",
+      "url": "https://www.youtube.com/",
+      "tags": [
+        "video sharing"
+      ],
+      "categories": [
+        "sharing"
       ]
     },
     {

@@ -1,18 +1,18 @@
 SVG Logos
 ====================
-#### A collection of svg vector logos for developers.
+#### A collection of svg vector logos for everybody.
 [View All](http://svgporn.com)
 
 The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc).
 Some were recreated from rastered images.
 
 ## Tips for working with SVGs
-• Always convert borders to paths. They use a fixed size and behave strangely when resized.  
+• Always convert borders to paths. They use a fixed size and behave strangely when resized.
 • Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
 
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
-Please add your requests in the issues preferably with links to the vector files.  
+Please add your requests in the issues preferably with links to the vector files.
 
 *All logos appearing on the site are the property of their respective owners.*
 
@@ -93,6 +93,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://blocsapp.com/" target="_blank">Blocs</a> *
 ![blocs](http://svgporn.com/logos/blocs.svg)
+
+## <a href="https://www.blogger.com/" target="_blank">Blogger</a>
+![blogger](http://svgporn.com/logos/blogger.svg)
 
 ## <a href="https://www.blossom.co/" target="_blank">Blossom</a>
 ![blossom](http://svgporn.com/logos/blossom.svg)
@@ -269,6 +272,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.drupal.org/" target="_blank">Drupal</a>
 ![drupal](http://svgporn.com/logos/drupal.svg)
 
+## <a href="https://duckduckgo.com/" target="_blank">DuckDuckGo</a>
+![duckduckgo](http://svgporn.com/logos/duckduckgo.svg)
+
 ## <a href="https://eclipse.org/" target="_blank">Eclipse</a>
 ![eclipse](http://svgporn.com/logos/eclipse.svg)
 
@@ -310,6 +316,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://fsharp.org/" target="_blank">F#</a>
 ![fsharp](http://svgporn.com/logos/fsharp.svg)
 
+## <a href="https://www.facebook.com/" target="_blank">Facebook</a>
+![facebook](http://svgporn.com/logos/facebook.svg)
+
 ## <a href="http://famous.org/" target="_blank">Famo.us</a>
 ![famous](http://svgporn.com/logos/famous.svg)
 
@@ -324,6 +333,11 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://flexible.gs/" target="_blank">flexible.gs</a>
 ![flexible-gs](http://svgporn.com/logos/flexible-gs.svg)
+
+## <a href="https://www.flickr.com/" target="_blank">flickr</a>
+![flickr](http://svgporn.com/logos/flickr-icon.svg)
+
+![flickr](http://svgporn.com/logos/flickr.svg)
 
 ## <a href="https://flightjs.github.io/" target="_blank">Flight</a> *
 ![flight](http://svgporn.com/logos/flight.svg)
@@ -366,6 +380,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.glintinc.com/" target="_blank">Glint</a>
 ![glint](http://svgporn.com/logos/glint.svg)
+
+## <a href="https://plus.google.com/" target="_blank">Google +</a>
+![googleplus](http://svgporn.com/logos/google-plus.svg)
 
 ## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a>
 ![google-cloud](http://svgporn.com/logos/google-cloud.svg)
@@ -445,6 +462,11 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://fbinfer.com/" target="_blank">Infer</a> *
 ![infer](http://svgporn.com/logos/infer.svg)
 
+## <a href="https://instagram.com/" target="_blank">Instagram</a>
+![instagram](http://svgporn.com/logos/instagram-icon.svg)
+
+![instagram](http://svgporn.com/logos/instagram.svg)
+
 ## <a href="http://www.invisionapp.com/" target="_blank">Invision</a>
 ![invision](http://svgporn.com/logos/invision.svg)
 
@@ -468,6 +490,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">javascript (JS)</a>
 ![javascript](http://svgporn.com/logos/javascript.svg)
+
+## <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+![jekyll](http://svgporn.com/logos/jekyll.svg)
 
 ## <a href="https://jenkins-ci.org/" target="_blank">Jenkins</a>
 ![jenkins](http://svgporn.com/logos/jenkins.svg)
@@ -583,6 +608,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://developer.mozilla.org/" target="_blank">MDN</a>
 ![mdn](http://svgporn.com/logos/mdn.svg)
+
+## <a href="https://medium.com/" target="_blank">Medium</a>
+![medium](http://svgporn.com/logos/medium.svg)
 
 ## <a href="http://memcached.org/" target="_blank">Memcached</a>
 ![memcached](http://svgporn.com/logos/memcached.svg)
@@ -718,6 +746,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.pingdom.com/" target="_blank">Pingdom</a>
 ![pingdom](http://svgporn.com/logos/pingdom.svg)
 
+## <a href="https://www.pinterest.com/" target="_blank">Pinterest</a>
+![pinterest](http://svgporn.com/logos/pinterest.svg)
+
 ## <a href="https://www.pixelapse.com/" target="_blank">Pixelapse</a>
 ![pixelapse](http://svgporn.com/logos/pixelapse.svg)
 
@@ -847,8 +878,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://lucene.apache.org/solr/" target="_blank">Solr</a>
 ![solr](http://svgporn.com/logos/solr.svg)
 
+## <a href="https://soundcloud.com/" target="_blank">soundcloud</a>
+![soundcloud](http://svgporn.com/logos/soundcloud.svg)
+
 ## <a href="https://spring.io/" target="_blank">Spring</a> *
 ![spring](http://svgporn.com/logos/spring.svg)
+
+## <a href="http://www.squarespace.com/" target="_blank">Squarespace</a>
+![squarespace](http://svgporn.com/logos/squarespace.svg)
 
 ## <a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>
 ![stackoverflow](http://svgporn.com/logos/stackoverflow.svg)
@@ -908,12 +945,15 @@ Please add your requests in the issues preferably with links to the vector files
 ![trac](http://svgporn.com/logos/trac.svg)
 
 ## <a href="https://travis-ci.org/" target="_blank">Travis CI</a>
-![travis-ci](http://svgporn.com/logos/travis-ci-icon.svg)
-
 ![travis-ci](http://svgporn.com/logos/travis-ci.svg)
 
 ## <a href="https://trello.com/" target="_blank">Trello</a>
 ![trello](http://svgporn.com/logos/trello.svg)
+
+## <a href="https://tumblr.com/" target="_blank">tumblr</a>
+![tumblr](http://svgporn.com/logos/tumblr-icon.svg)
+
+![tumblr](http://svgporn.com/logos/tumblr.svg)
 
 ## <a href="https://www.twilio.com/" target="_blank">Twilio</a>
 ![twilio](http://svgporn.com/logos/twilio.svg)
@@ -932,6 +972,11 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.vim.org/" target="_blank">Vim</a>
 ![vim](http://svgporn.com/logos/vim.svg)
+
+## <a href="https://vimeo.com/" target="_blank">Vimeo</a>
+![vimeo](http://svgporn.com/logos/vimeo-icon.svg)
+
+![vimeo](http://svgporn.com/logos/vimeo.svg)
 
 ## <a href="https://www.visualstudio.com/" target="_blank">Visual Studio</a>
 ![visual-studio](http://svgporn.com/logos/visual-studio.svg)
@@ -979,6 +1024,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.jetbrains.com/youtrack/" target="_blank">YouTrack</a>
 ![youtrack](http://svgporn.com/logos/youtrack.svg)
+
+## <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+![youtube](http://svgporn.com/logos/youtube.svg)
 
 ## <a href="https://zapier.com/" target="_blank">Zapier</a>
 ![zapier](http://svgporn.com/logos/zapier.svg)
