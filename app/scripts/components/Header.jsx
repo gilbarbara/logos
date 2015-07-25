@@ -34,7 +34,7 @@ var Header = React.createClass({
                 min: 1,
                 max: 0,
                 unit: 'rem',
-                maxSize: 1.2
+                maxSize: 4
             };
 
         if (config.features.categories) {
@@ -60,7 +60,7 @@ var Header = React.createClass({
                 });
             });
 
-            tags = this._sortObject(tags, 'value');
+            tags = this._sortObject(tags, 'key');
 
             tags.forEach((t) => {
                 if (t.value < fScale.min) {
@@ -76,9 +76,7 @@ var Header = React.createClass({
             categories,
             tags,
             ready: true,
-            fontScale: new ScaleLog(fScale),
-            colorScale: new ScaleLog({ minSize: 10, min: fScale.min, maxSize: 65, max: fScale.max }),
-            color: new Colors('#ffced3')
+            fontScale: new ScaleLog(fScale)
         });
     },
 
@@ -141,30 +139,53 @@ var Header = React.createClass({
             state      = this.state,
             categories = props.category,
             output     = {},
-            style;
+            style,
+            classes;
 
         if (state.ready) {
             if (config.features.tags) {
                 output.tagsMenu = (
                     <li>
-                        <a href="#" className={'title' + (props.tag ? ' tag' : '')}
-                           onClick={props.onClickShowTagCloud}>{!props.tag ? 'Show tags?' : <span>#{props.tag}<Icon id="times-circle"/></span>}</a>
+                        <a href="#" className={'tags-button' + (props.tag ? ' tagged' : '')}
+                           onClick={props.onClickShowTagCloud}>{!props.tag ? <span><Icon id="cloud"/>Tags</span> : <span>#{props.tag}<Icon id="times-circle"/></span>}</a>
                     </li>
                 );
                 output.tagCloud = (
-                    <div className="tags">
-                        <div className="tag-cloud" onClick={props.onClickShowTagCloud}>
+                    <div className="tags" onClick={props.onClickShowTagCloud}>
+                        <div className="tag-cloud">
                             {state.tags.map((d, i) => {
                                 style = {
-                                    backgroundColor: state.color.hsl2hex({
-                                        h: state.color.hue(),
-                                        s: state.color.saturation(),
-                                        l: state.color.lightness() - +state.colorScale.value(d.value)
-                                    }),
                                     fontSize: state.fontScale.value(d.value)
                                 };
-                                return (<a key={i} href="#" data-tag={d.key} onClick={this._onClickTag}
-                                           style={style}>#{d.key + ' (' + d.value + ')'}</a>
+                                switch (Math.min(Math.ceil(d.value < 5 ? 0 : d.value / 10), 5)) {
+                                    case 5: {
+                                        classes = 'tag-size-5';
+                                        break;
+                                    }
+                                    case 4: {
+                                        classes = 'tag-size-4';
+                                        break;
+                                    }
+                                    case 3: {
+                                        classes = 'tag-size-3';
+                                        break;
+                                    }
+                                    case 2: {
+                                        classes = 'tag-size-2';
+                                        break;
+                                    }
+                                    case 1: {
+                                        classes = 'tag-size-1';
+                                        break;
+                                    }
+                                    default: {
+                                        classes = 'tag-size-0';
+                                        break;
+                                    }
+                                }
+
+                                console.log(d.key, d.value, classes);
+                                return (<a key={i} href="#" className={classes} data-tag={d.key} onClick={this._onClickTag}>#{d.key + ' (' + d.value + ')'}</a>
                                 );
                             })}
                         </div>

@@ -29,13 +29,13 @@ header {
     }
 
     @include md {
-      font-size: 2.6rem;
+      font-size: 2.2rem;
       margin-top: 2rem;
       max-width: 80%;
     }
 
     @include lg {
-      max-width: 60%;
+      max-width: 50%;
     }
   }
 
@@ -151,19 +151,34 @@ header {
         color: lighten($link-color, 10%);
         display: inline-block;
         font-size: 1.6rem;
-       // text-transform: uppercase;
+        text-decoration: none;
+      }
 
-        &.tag {
+      .tags-button {
+        background-color: lighten($link-color, 10%);
+        border-radius: 4px;
+        color: #fff;
+        display: inline-flex;
+        font-size: 1.4rem;
+        line-height: 1;
+        padding: 3px 6px;
+        text-decoration: none;
+
+        > span {
+          align-content: center;
+          display: inline-flex;
+        }
+
+        .icon {
+          margin-right: 3px;
+        }
+
+        &.tagged {
           background-color: $link-color;
-          border-radius: 4px;
-          color: #fff;
-          padding: 3px 6px;
-          text-decoration: none;
 
           .icon {
             margin-left: 3px;
-            position: relative;
-            top: 2px;
+            margin-right: 0;
           }
         }
       }
@@ -210,6 +225,7 @@ header {
     max-height: 0;
     opacity: 0;
     overflow: hidden;
+    pointer-events: all;
     position: fixed;
     right: 0;
     top: 0;
@@ -223,16 +239,45 @@ header {
     flex-flow: wrap;
     justify-content: space-around;
     margin: 2rem;
-    pointer-events: all;
+    pointer-events: none;
 
     a {
-      background-color: $link-color;
+      background-color: lighten($tag-color, 24);
       border-radius: 5px;
       color: #fff;
       display: inline-block;
+      font-size: 1.2rem;
       margin: 0.75rem 0.5rem;
       padding: 0.5rem 1rem;
+      pointer-events: all;
       text-decoration: none;
+
+      &.tag-size {
+        &-1 {
+          background-color: adjust-hue(lighten($tag-color, 16), $tag-step);
+          font-size: 1.4rem;
+        }
+
+        &-2 {
+          background-color: adjust-hue(lighten($tag-color, 8), $tag-step*2);
+          font-size: 1.6rem;
+        }
+
+        &-3 {
+          background-color: adjust-hue($tag-color, $tag-step*3);
+          font-size: 2rem;
+        }
+
+        &-4 {
+          background-color: adjust-hue($tag-color, $tag-step*4);
+          font-size: 2.3rem;
+        }
+
+        &-5 {
+          background-color: adjust-hue($tag-color, $tag-step*5);
+          font-size: 2.6rem;
+        }
+      }
     }
   }
 
