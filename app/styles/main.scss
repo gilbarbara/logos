@@ -60,12 +60,11 @@ footer {
   display: none;
 
   path {
-    fill: $link-color;
+    fill: #fff;
   }
 
-  #check path,
-  #times-circle path {
-    fill: #fff;
+  #caret-down path {
+    fill: $link-color;
   }
 }
 
