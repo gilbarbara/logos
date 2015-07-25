@@ -334,7 +334,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://flexible.gs/" target="_blank">flexible.gs</a>
 ![flexible-gs](http://svgporn.com/logos/flexible-gs.svg)
 
-## <a href="https://www.flickr.com/" target="_blank">flickr</a>
+## <a href="https://www.flickr.com/" target="_blank">flickr</a> *
 ![flickr](http://svgporn.com/logos/flickr-icon.svg)
 
 ![flickr](http://svgporn.com/logos/flickr.svg)
@@ -381,6 +381,12 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.glintinc.com/" target="_blank">Glint</a>
 ![glint](http://svgporn.com/logos/glint.svg)
 
+## <a href="http://www.google.com/" target="_blank">Google</a>
+![google](http://svgporn.com/logos/google.svg)
+
+## <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a> *
+![google-analytics](http://svgporn.com/logos/google-analytics.svg)
+
 ## <a href="https://plus.google.com/" target="_blank">Google +</a>
 ![googleplus](http://svgporn.com/logos/google-plus.svg)
 
@@ -392,6 +398,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://golang.org/" target="_blank">Go</a>
 ![go](http://svgporn.com/logos/gopher.svg)
+
+## <a href="https://www.gnu.org/" target="_blank">GNU</a>
+![gnu](http://svgporn.com/logos/gnu.svg)
 
 ## <a href="https://gradle.org/" target="_blank">Gradle</a> *
 ![gradle](http://svgporn.com/logos/gradle.svg)
@@ -467,6 +476,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![instagram](http://svgporn.com/logos/instagram.svg)
 
+## <a href="http://windows.microsoft.com/en-us/internet-explorer/" target="_blank">Interner Explorer</a>
+![internetexplorer](http://svgporn.com/logos/internetexplorer.svg)
+
 ## <a href="http://www.invisionapp.com/" target="_blank">Invision</a>
 ![invision](http://svgporn.com/logos/invision.svg)
 
@@ -488,10 +500,10 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.java.com/" target="_blank">Java</a>
 ![java](http://svgporn.com/logos/java.svg)
 
-## <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">javascript (JS)</a>
+## <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">Javascript (JS)</a>
 ![javascript](http://svgporn.com/logos/javascript.svg)
 
-## <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>
+## <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> *
 ![jekyll](http://svgporn.com/logos/jekyll.svg)
 
 ## <a href="https://jenkins-ci.org/" target="_blank">Jenkins</a>
@@ -764,7 +776,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/postcss/postcss" target="_blank">PostCSS</a>
 ![postcss](http://svgporn.com/logos/postcss.svg)
 
-## <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a>
+## <a href="http://www.postgresql.org/" target="_blank">PostgreSQL</a> *
 ![postgresql](http://svgporn.com/logos/postgresql.svg)
 
 ## <a href="http://pouchdb.com/" target="_blank">PouchDB</a>
@@ -779,7 +791,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.producteev.com/" target="_blank">Producteev</a>
 ![producteev](http://svgporn.com/logos/producteev.svg)
 
-## <a href="https://puppetlabs.com/" target="_blank">Puppet</a>
+## <a href="https://puppetlabs.com/" target="_blank">Puppet</a> *
 ![puppet](http://svgporn.com/logos/puppet.svg)
 
 ## <a href="https://www.python.org/" target="_blank">Python</a>
@@ -838,6 +850,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.rust-lang.org/" target="_blank">Rust</a>
 ![rust](http://svgporn.com/logos/rust.svg)
+
+## <a href="https://www.apple.com/safari/" target="_blank">Safari</a>
+![safari](http://svgporn.com/logos/safari.svg)
 
 ## <a href="http://sailsjs.org/" target="_blank">Sails</a>
 ![sails](http://svgporn.com/logos/sails.svg)
@@ -954,6 +969,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![tumblr](http://svgporn.com/logos/tumblr-icon.svg)
 
 ![tumblr](http://svgporn.com/logos/tumblr.svg)
+
+## <a href="https://en.wikipedia.org/wiki/Tux" target="_blank">Tux</a>
+![tux](http://svgporn.com/logos/tux.svg)
 
 ## <a href="https://www.twilio.com/" target="_blank">Twilio</a>
 ![twilio](http://svgporn.com/logos/twilio.svg)
