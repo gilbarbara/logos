@@ -21,6 +21,11 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://airbrake.io/" target="_blank">Airbrake</a>
 ![airbrake](http://svgporn.com/logos/airbrake.svg)
 
+## <a href="https://www.android.com/" target="_blank">Android</a>
+![android](http://svgporn.com/logos/android-icon.svg)
+
+![android](http://svgporn.com/logos/android.svg)
+
 ## <a href="https://angularjs.org/" target="_blank">Angular</a>
 ![angular](http://svgporn.com/logos/angular-icon.svg)
 
@@ -40,6 +45,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.appcelerator.com/" target="_blank">Appcelerator</a>
 ![appcelerator](http://svgporn.com/logos/appcelerator.svg)
+
+## <a href="http://www.apple.com/" target="_blank">Apple</a>
+![apple](http://svgporn.com/logos/apple.svg)
 
 ## <a href="https://appsignal.com/" target="_blank">AppSignal</a>
 ![appsignal](http://svgporn.com/logos/appsignal.svg)
@@ -150,6 +158,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://celluloid.io/" target="_blank">Celluloid</a>
 ![celluloid](http://svgporn.com/logos/celluloid.svg)
 
+## <a href="https://www.centos.org/" target="_blank">CentOS</a>
+![centos](http://svgporn.com/logos/centos.svg)
+
 ## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
 ![codeclimate](http://svgporn.com/logos/codeclimate.svg)
 
@@ -232,6 +243,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.dartlang.org/" target="_blank">Dart</a>
 ![dart](http://svgporn.com/logos/dart.svg)
+
+## <a href="https://www.debian.org/" target="_blank">debian</a>
+![debian](http://svgporn.com/logos/debian.svg)
 
 ## <a href="http://deliciousdb.com/" target="_blank">DeliciousDB</a>
 ![deliciousdb](http://svgporn.com/logos/delicious-burger.svg)
@@ -325,6 +339,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://famous.org/" target="_blank">Famo.us</a>
 ![famous](http://svgporn.com/logos/famous.svg)
 
+## <a href="https://getfedora.org/" target="_blank">fedora</a>
+![fedora](http://svgporn.com/logos/fedora.svg)
+
 ## <a href="https://www.firebase.com/" target="_blank">Firebase</a> *
 ![firebase](http://svgporn.com/logos/firebase.svg)
 
@@ -359,6 +376,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://framed.io/" target="_blank">Framed</a> *
 ![framed.svg](http://svgporn.com/logos/framed.svg)
+
+## <a href="https://www.freebsd.org/" target="_blank">FreeBSD</a>
+![freebsd](http://svgporn.com/logos/freebsd.svg)
 
 ## <a href="https://freedcamp.com/" target="_blank">freedcamp</a>
 ![freedcamp](http://svgporn.com/logos/freedcamp.svg)
@@ -491,6 +511,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://ionicframework.com/" target="_blank">Ionic</a>
 ![ionic](http://svgporn.com/logos/ionic.svg)
 
+## <a href="https://www.apple.com/ios/" target="_blank">iOS</a>
+![ios](http://svgporn.com/logos/ios.svg)
+
 ## <a href="https://www.iron.io/" target="_blank">Iron.io</a>
 ![iron](http://svgporn.com/logos/iron.svg)
 
@@ -578,6 +601,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
 ![linkedin](http://svgporn.com/logos/linkedin.svg)
 
+## <a href="http://www.linuxmint.com/" target="_blank">Linux Mint</a>
+![linux-mint](http://svgporn.com/logos/linux-mint.svg)
+
 ## <a href="https://loader.io/" target="_blank">loader</a>
 ![loader](http://svgporn.com/logos/loader.svg)
 
@@ -601,6 +627,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://lucenenet.apache.org/" target="_blank">Lucene.net</a>
 ![lucene.net](http://svgporn.com/logos/lucene.net.svg)
+
+## <a href="http://www.apple.com/osx/" target="_blank">Mac OS X</a>
+![macosx](http://svgporn.com/logos/macosx.svg)
+
+## <a href="https://www.mageia.org/" target="_blank">mageia</a>
+![mageia](http://svgporn.com/logos/mageia.svg)
 
 ## <a href="http://magento.com/" target="_blank">Magento</a>
 ![magento](http://svgporn.com/logos/magento.svg)
@@ -643,6 +675,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![meteor](http://svgporn.com/logos/meteor-icon.svg)
 
 ![meteor](http://svgporn.com/logos/meteor.svg)
+
+## <a href="http://www.microsoft.com/" target="_blank">Microsoft</a>
+![microsoft](http://svgporn.com/logos/microsoft.svg)
 
 ## <a href="https://lhorie.github.io/mithril/" target="_blank">Mithril</a> *
 ![mithril](http://svgporn.com/logos/mithril.svg)
@@ -938,6 +973,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.appgyver.com/supersonic" target="_blank">Supersonic</a>
 ![supersonic](http://svgporn.com/logos/supersonic.svg)
 
+## <a href="https://www.suse.com/" target="_blank">Suse</a>
+![suse](http://svgporn.com/logos/suse.svg)
+
 ## <a href="http://www.w3.org/Graphics/SVG/" target="_blank">SVG</a>
 ![svg](http://svgporn.com/logos/svg.svg)
 
@@ -987,6 +1025,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.twilio.com/" target="_blank">Twilio</a>
 ![twilio](http://svgporn.com/logos/twilio.svg)
+
+## <a href="http://www.ubuntu.com/" target="_blank">ubuntu</a>
+![ubuntu](http://svgporn.com/logos/ubuntu.svg)
 
 ## <a href="http://unitjs.com/" target="_blank">UnitJS</a> *
 ![unitjs](http://svgporn.com/logos/unitjs.svg)
@@ -1046,6 +1087,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://wicket.apache.org/" target="_blank">Wicket</a>
 ![wicket](http://svgporn.com/logos/wicket.svg)
+
+## <a href="https://www.microsoft.com/windows" target="_blank">Windows</a>
+![microsoft-windows](http://svgporn.com/logos/microsoft-windows.svg)
 
 ## <a href="http://www.wix.com/" target="_blank">Wix</a>
 ![wix](http://svgporn.com/logos/wix.svg)

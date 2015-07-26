@@ -17,6 +17,23 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Android",
+      "files": [
+        "android-icon.svg",
+        "android.svg"
+      ],
+      "shortname": "android",
+      "url": "https://www.android.com/",
+      "tags": [
+        "operational system",
+        "mobile"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Angular",
       "files": [
         "angular-icon.svg",
@@ -111,6 +128,22 @@
         "DevOps"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Apple",
+      "files": [
+        "apple.svg"
+      ],
+      "shortname": "apple",
+      "url": "http://www.apple.com/",
+      "tags": [
+        "technology",
+        "company"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "AppSignal",
@@ -679,6 +712,22 @@
       "added": "2015-07-24"
     },
     {
+      "name": "CentOS",
+      "files": [
+        "centos.svg"
+      ],
+      "shortname": "centos",
+      "url": "https://www.centos.org/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Code Climate",
       "files": [
         "codeclimate.svg"
@@ -1124,6 +1173,22 @@
         "developers"
       ],
       "added": "2015-07-06"
+    },
+    {
+      "name": "debian",
+      "files": [
+        "debian.svg"
+      ],
+      "shortname": "debian",
+      "url": "https://www.debian.org/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "DeliciousDB",
@@ -1610,6 +1675,22 @@
       "added": "2015-07-05"
     },
     {
+      "name": "fedora",
+      "files": [
+        "fedora.svg"
+      ],
+      "shortname": "fedora",
+      "url": "https://getfedora.org/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Firebase",
       "files": [
         "firebase.svg"
@@ -1797,6 +1878,22 @@
       ],
       "added": "2015-07-24",
       "converted": true
+    },
+    {
+      "name": "FreeBSD",
+      "files": [
+        "freebsd.svg"
+      ],
+      "shortname": "freebsd",
+      "url": "https://www.freebsd.org/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "freedcamp",
@@ -2463,6 +2560,22 @@
       "added": "2015-06-11"
     },
     {
+      "name": "iOS",
+      "files": [
+        "ios.svg"
+      ],
+      "shortname": "ios",
+      "url": "https://www.apple.com/ios/",
+      "tags": [
+        "operational system",
+        "mobile"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Iron.io",
       "files": [
         "iron.svg"
@@ -2929,6 +3042,22 @@
       "added": "2015-07-26"
     },
     {
+      "name": "Linux Mint",
+      "files": [
+        "linux-mint.svg"
+      ],
+      "shortname": "linux-mint",
+      "url": "http://www.linuxmint.com/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "loader",
       "files": [
         "loader.svg"
@@ -3052,6 +3181,37 @@
         "developers"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Mac OS X",
+      "files": [
+        "macosx.svg"
+      ],
+      "shortname": "macosx",
+      "url": "http://www.apple.com/osx/",
+      "tags": [
+        "operational system"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
+    },
+    {
+      "name": "mageia",
+      "files": [
+        "mageia.svg"
+      ],
+      "shortname": "mageia",
+      "url": "https://www.mageia.org/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "Magento",
@@ -3246,6 +3406,22 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "Microsoft",
+      "files": [
+        "microsoft.svg"
+      ],
+      "shortname": "microsoft",
+      "url": "http://www.microsoft.com/",
+      "tags": [
+        "technology",
+        "company"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "Mithril",
@@ -4791,6 +4967,22 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Suse",
+      "files": [
+        "suse.svg"
+      ],
+      "shortname": "suse",
+      "url": "https://www.suse.com/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "SVG",
       "files": [
         "svg.svg"
@@ -5048,6 +5240,22 @@
         "DevOps"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "ubuntu",
+      "files": [
+        "ubuntu.svg"
+      ],
+      "shortname": "ubuntu",
+      "url": "http://www.ubuntu.com/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "UnitJS",
@@ -5357,6 +5565,21 @@
         "developers"
       ],
       "added": "2015-07-06"
+    },
+    {
+      "name": "Windows",
+      "files": [
+        "microsoft-windows.svg"
+      ],
+      "shortname": "microsoft-windows",
+      "url": "https://www.microsoft.com/windows",
+      "tags": [
+        "operational system"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "Wix",
