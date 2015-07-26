@@ -184,7 +184,6 @@ var Header = React.createClass({
                                     }
                                 }
 
-                                console.log(d.key, d.value, classes);
                                 return (<a key={i} href="#" className={classes} data-tag={d.key} onClick={this._onClickTag}>#{d.key + ' (' + d.value + ')'}</a>
                                 );
                             })}

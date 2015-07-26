@@ -19,7 +19,7 @@ var Logo = React.createClass({
         var props = this.props,
             info  = this.props.info;
         return (
-            <li className={props.hidden ? 'hidden' : ''} onMouseEnter={this.toggleInfo} onMouseLeave={this.toggleInfo}>
+            <li className={props.hidden ? 'hidden' : ''} onMouseEnter={this.toggleInfo} onMouseLeave={this.toggleInfo} data-added={info.added}>
                 <a href={info.url} target="_blank" className="logo-item">
                     <img src={'../logos/' + this.props.image} alt={info.name} className={info.shotname}/>
                 </a>
