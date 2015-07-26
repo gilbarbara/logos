@@ -79,6 +79,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://basecamp.com/" target="_blank">Basecamp</a>
 ![basecamp](http://svgporn.com/logos/basecamp.svg)
 
+## <a href="http://www.basekit.com/" target="_blank">BaseKit</a>
+![basekit](http://svgporn.com/logos/basekit.svg)
+
 ## <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
 ![bash](http://svgporn.com/logos/bash.svg)
 
@@ -1023,11 +1026,17 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.webplatform.org/" target="_blank">WebPlatform</a> *
 ![webplatform](http://svgporn.com/logos/webplatform.svg)
 
+## <a href="http://www.weebly.com/" target="_blank">Weebly</a>
+![weebly](http://svgporn.com/logos/weebly.svg)
+
 ## <a href="http://wercker.com/" target="_blank">Wercker</a>
 ![wercker](http://svgporn.com/logos/wercker.svg)
 
 ## <a href="https://wicket.apache.org/" target="_blank">Wicket</a>
 ![wicket](http://svgporn.com/logos/wicket.svg)
+
+## <a href="http://www.wix.com/" target="_blank">Wix</a>
+![wix](http://svgporn.com/logos/wix.svg)
 
 ## <a href="https://wordpress.org/" target="_blank">Wordpress</a>
 ![wordpress](http://svgporn.com/logos/wordpress-icon.svg)

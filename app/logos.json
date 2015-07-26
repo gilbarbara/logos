@@ -306,6 +306,22 @@
       "added": "2015-07-24"
     },
     {
+      "name": "BaseKit",
+      "files": [
+        "basekit.svg"
+      ],
+      "shortname": "basekit",
+      "url": "http://www.basekit.com/",
+      "tags": [
+        "content management",
+        "website builder"
+      ],
+      "categories": [
+        "publishers"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Bash",
       "files": [
         "bash.svg"
@@ -4593,10 +4609,11 @@
       "shortname": "squarespace",
       "url": "http://www.squarespace.com/",
       "tags": [
-        "content management"
+        "content management",
+        "website builder"
       ],
       "categories": [
-        "sharing"
+        "publishers"
       ],
       "added": "2015-07-24"
     },
@@ -5017,8 +5034,7 @@
         "game engine"
       ],
       "categories": [
-        "developers",
-        "gamers"
+        "developers"
       ],
       "added": "2015-07-06"
     },
@@ -5233,6 +5249,22 @@
       "converted": true
     },
     {
+      "name": "Weebly",
+      "files": [
+        "weebly.svg"
+      ],
+      "shortname": "weebly",
+      "url": "http://www.weebly.com/",
+      "tags": [
+        "content management",
+        "website builder"
+      ],
+      "categories": [
+        "publishers"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Wercker",
       "files": [
         "wercker.svg"
@@ -5266,6 +5298,22 @@
       "added": "2015-07-06"
     },
     {
+      "name": "Wix",
+      "files": [
+        "wix.svg"
+      ],
+      "shortname": "wix",
+      "url": "http://www.wix.com/",
+      "tags": [
+        "content management",
+        "website builder"
+      ],
+      "categories": [
+        "publishers"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Wordpress",
       "files": [
         "wordpress-icon.svg",
@@ -5280,7 +5328,8 @@
       ],
       "categories": [
         "developers",
-        "bloggers"
+        "bloggers",
+        "publishers"
       ],
       "added": "2015-06-11"
     },
