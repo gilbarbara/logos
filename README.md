@@ -566,11 +566,17 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://laravel.com/" target="_blank">Laravel</a>
 ![laravel](http://svgporn.com/logos/laravel.svg)
 
+## <a href="http://www.last.fm/" target="_blank">last.fm</a>
+![lastfm](http://svgporn.com/logos/lastfm.svg)
+
 ## <a href="http://leafletjs.com/" target="_blank">Leafjet</a>
 ![leafjet](http://svgporn.com/logos/leafjet.svg)
 
 ## <a href="http://lesscss.org/" target="_blank">Less</a>
 ![less](http://svgporn.com/logos/less.svg)
+
+## <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+![linkedin](http://svgporn.com/logos/linkedin.svg)
 
 ## <a href="https://loader.io/" target="_blank">loader</a>
 ![loader](http://svgporn.com/logos/loader.svg)
@@ -757,6 +763,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://php.net/" target="_blank">PHP</a>
 ![php](http://svgporn.com/logos/php.svg)
+
+## <a href="https://picasa.google.com/" target="_blank">Picasa</a>
+![picasa](http://svgporn.com/logos/picasa.svg)
 
 ## <a href="https://www.pingdom.com/" target="_blank">Pingdom</a>
 ![pingdom](http://svgporn.com/logos/pingdom.svg)
@@ -998,6 +1007,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![vimeo](http://svgporn.com/logos/vimeo-icon.svg)
 
 ![vimeo](http://svgporn.com/logos/vimeo.svg)
+
+## <a href="https://vine.co/" target="_blank">Vine</a>
+![vine](http://svgporn.com/logos/vine.svg)
 
 ## <a href="https://www.visualstudio.com/" target="_blank">Visual Studio</a>
 ![visual-studio](http://svgporn.com/logos/visual-studio.svg)

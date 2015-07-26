@@ -2865,6 +2865,21 @@
       "added": "2015-06-11"
     },
     {
+      "name": "last.fm",
+      "files": [
+        "lastfm.svg"
+      ],
+      "shortname": "lastfm",
+      "url": "http://www.last.fm/",
+      "tags": [
+        "music sharing"
+      ],
+      "categories": [
+        "sharing"
+      ],
+      "added": "2015-07-26"
+    },
+    {
       "name": "Leafjet",
       "files": [
         "leafjet.svg"
@@ -2896,6 +2911,22 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "LinkedIn",
+      "files": [
+        "linkedin.svg"
+      ],
+      "shortname": "linkedin",
+      "url": "https://www.linkedin.com/",
+      "tags": [
+        "professional networking"
+      ],
+      "categories": [
+        "sharing",
+        "business"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "loader",
@@ -3832,6 +3863,21 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "Picasa",
+      "files": [
+        "picasa.svg"
+      ],
+      "shortname": "picasa",
+      "url": "https://picasa.google.com/",
+      "tags": [
+        "image sharing"
+      ],
+      "categories": [
+        "sharing"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "Pingdom",
@@ -5101,6 +5147,21 @@
         "sharing"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Vine",
+      "files": [
+        "vine.svg"
+      ],
+      "shortname": "vine",
+      "url": "https://vine.co/",
+      "tags": [
+        "video sharing"
+      ],
+      "categories": [
+        "sharing"
+      ],
+      "added": "2015-07-26"
     },
     {
       "name": "Visual Studio",
