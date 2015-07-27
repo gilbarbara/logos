@@ -240,8 +240,7 @@ gulp.task('gh-master', function () {
             branch: 'master',
             cacheDir: '.master',
             message: commitMessage,
-            force: true,
-            push: false
+            force: true
         }));
 });
 
