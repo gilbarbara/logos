@@ -20,7 +20,7 @@ header {
 
   h3 {
     font-size: 1.8rem;
-    margin: 1.5rem 3rem 0.5rem;
+    margin: 1.5rem 1rem 0.5rem;
 
     @include sm {
       font-size: 2rem;
@@ -133,10 +133,10 @@ header {
     list-style: none;
     margin: 2rem auto 0;
     padding: 0;
-    width: 50%;
+    width: 100%;
 
-    @include md-only {
-      display: none;
+    @include md {
+      width: 50%;
     }
 
     > li {
@@ -147,11 +147,17 @@ header {
         text-align: right;
       }
 
-      .title {
-        color: lighten($link-color, 10%);
-        display: inline-block;
-        font-size: 1.6rem;
-        text-decoration: none;
+      &.columns {
+        @include md-only {
+          display: none;
+        }
+
+        .title {
+          color: lighten($link-color, 10%);
+          display: inline-block;
+          font-size: 1.6rem;
+          text-decoration: none;
+        }
       }
 
       .tags-button {
@@ -161,7 +167,7 @@ header {
         display: inline-flex;
         font-size: 1.4rem;
         line-height: 1;
-        padding: 3px 6px;
+        padding: 4px 6px;
         text-decoration: none;
 
         > span {
@@ -219,7 +225,7 @@ header {
   }
 
   .tags {
-    background-color: rgba($bg-color, 0.7);
+    background-color: rgba($bg-color, 0.8);
     bottom: 0;
     left: 0;
     max-height: 0;
@@ -238,8 +244,12 @@ header {
     display: inline-flex;
     flex-flow: wrap;
     justify-content: space-around;
-    margin: 2rem;
+    margin: 15px;
     pointer-events: none;
+
+    @include xs-only {
+      justify-content: flex-start;
+    }
 
     a {
       background-color: lighten($tag-color, 24);
@@ -247,10 +257,14 @@ header {
       color: #fff;
       display: inline-block;
       font-size: 1.2rem;
-      margin: 0.75rem 0.5rem;
+      margin: 0.5rem;
       padding: 0.5rem 1rem;
       pointer-events: all;
       text-decoration: none;
+
+      @include sm-only {
+        margin: 0.3rem;
+      }
 
       &.tag-size {
         &-1 {

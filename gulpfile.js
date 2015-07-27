@@ -18,7 +18,8 @@ var isProduction = function () {
     target       = function () {
         return (isProduction() ? 'dist' : '.tmp');
     },
-    middleware   = historyApiFallback({});
+    middleware   = historyApiFallback({}),
+    commitMessage;
 
 function watchifyTask (options) {
     var bundler, rebundle, iteration = 0;
@@ -209,14 +210,47 @@ gulp.task('clean', function (cb) {
     del([target() + '/*'], cb);
 });
 
+gulp.task('get-commit', function () {
+    return $.git.exec({ args: 'log -1 --pretty=%s" < "%b' }, function (err, stdout) {
+        if (err) {
+            throw err;
+        }
+
+        commitMessage = stdout.replace(/(?:\r\n|\r|\n)/g, '');
+    });
+});
+
 gulp.task('gh-pages', function () {
     return gulp.src(['dist/**/*'], {
         dot: true
     })
         .pipe($.ghPages({
-            force: true
+            force: true,
+            message: commitMessage
         }));
+});
 
+gulp.task('gh-master', function () {
+    return gulp.src([
+        'logos/**/*.svg',
+        'README.md',
+        'LICENSE.txt'
+    ], { base: './' })
+        .pipe($.ghPages({
+            branch: 'master',
+            cacheDir: '.master',
+            message: commitMessage,
+            force: true,
+            push: false
+        }));
+});
+
+gulp.task('deploy-pages', function (cb) {
+    runSequence(['get-commit', 'build'], 'gh-pages', cb);
+});
+
+gulp.task('deploy-master', function (cb) {
+    runSequence(['get-commit', 'readme'], 'gh-master', cb);
 });
 
 gulp.task('serve', ['assets'], function () {
@@ -245,10 +279,6 @@ gulp.task('serve', ['assets'], function () {
 gulp.task('build', function (cb) {
     process.env.NODE_ENV = 'production';
     runSequence('clean', 'lint', 'readme', 'assets', ['media', 'bundle'], 'sizer', cb);
-});
-
-gulp.task('deploy', function (cb) {
-    runSequence('build', ['gh-pages'], cb);
 });
 
 gulp.task('default', ['serve']);

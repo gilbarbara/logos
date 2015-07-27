@@ -31,6 +31,7 @@
     "gulp-filter": "^2.0",
     "gulp-flatten": "^0.1",
     "gulp-gh-pages": "^0.5",
+    "gulp-git": "^1.2",
     "gulp-if": "^1.2",
     "gulp-imagemin": "^2.3",
     "gulp-load-plugins": "^0.10",

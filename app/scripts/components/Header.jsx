@@ -218,7 +218,7 @@ var Header = React.createClass({
 
                 <ul className="menu">
                     {output.tagsMenu}
-                    <li><span className="title">Columns</span>
+                    <li className="columns"><span className="title">Columns</span>
 
                         <div className="switch">
                             <a href="#" className={props.columns < 2 ? 'disabled' : ''} data-column="-1"
