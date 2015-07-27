@@ -1,9 +1,0 @@
-{
-  "name": "logos",
-  "version": "0.2.0",
-  "dependencies": {
-    "jquery": "~2",
-    "modernizr": "~2",
-    "bootstrap-sass": "~3"
-  }
-}
