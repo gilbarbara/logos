@@ -84,6 +84,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![backbone](http://svgporn.com/logos/backbone.svg)
 
+## <a href="https://getbase.com/" target="_blank">Base</a>
+![base](http://svgporn.com/logos/base.svg)
+
 ## <a href="https://basecamp.com/" target="_blank">Basecamp</a>
 ![basecamp](http://svgporn.com/logos/basecamp.svg)
 
@@ -113,6 +116,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a> *
 ![bootstrap](http://svgporn.com/logos/bootstrap.svg)
+
+## <a href="https://bosun.org/" target="_blank">Bosun</a>
+![bosun](http://svgporn.com/logos/bosun.svg)
 
 ## <a href="http://bourbon.io/" target="_blank">bourbon</a>
 ![bourbon](http://svgporn.com/logos/bourbon.svg)
@@ -202,6 +208,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![codepen](http://svgporn.com/logos/codepen.svg)
 
+## <a href="https://coderwall.com/" target="_blank">coderwall</a>
+![coderwall](http://svgporn.com/logos/coderwall.svg)
+
 ## <a href="https://codeship.com/" target="_blank">Codeship</a> *
 ![codeship](http://svgporn.com/logos/codeship.svg)
 
@@ -226,11 +235,17 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://coveralls.io/" target="_blank">Coveralls</a>
 ![coveralls](http://svgporn.com/logos/coveralls.svg)
 
+## <a href="https://try.crashlytics.com/" target="_blank">Crashlytics</a>
+![crashlytics](http://svgporn.com/logos/crashlytics.svg)
+
 ## <a href="http://www.createjs.com/" target="_blank">CreateJS</a>
 ![createjs](http://svgporn.com/logos/createjs.svg)
 
 ## <a href="http://crossbrowsertesting.com/" target="_blank">Cross Browser Testing</a>
 ![crossbrowsertesting](http://svgporn.com/logos/crossbrowsertesting.svg)
+
+## <a href="https://crowdprocess.com/" target="_blank">CrowdProcess</a>
+![crowdprocess](http://svgporn.com/logos/crowdprocess.svg)
 
 ## <a href="http://www.w3.org/TR/CSS/" target="_blank">CSS3</a>
 ![css-3](http://svgporn.com/logos/css-3.svg)
@@ -642,6 +657,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![mailchimp](http://svgporn.com/logos/mailchimp.svg)
 
+## <a href="http://www.mailgun.com/" target="_blank">Mailgun</a>
+![mailgun](http://svgporn.com/logos/mailgun.svg)
+
 ## <a href="http://mandrill.com/" target="_blank">Mandrill</a>
 ![mandrill](http://svgporn.com/logos/mandrill-shield.svg)
 
@@ -791,6 +809,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.perl.org/" target="_blank">Perl</a>
 ![perl](http://svgporn.com/logos/perl.svg)
 
+## <a href="http://www.phoenixframework.org/" target="_blank">Phoenix</a>
+![phoenix](http://svgporn.com/logos/phoenix.svg)
+
 ## <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
 ![phonegap](http://svgporn.com/logos/phonegap.svg)
 
@@ -919,6 +940,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://semaphoreci.com/" target="_blank">Semaphore</a>
 ![semaphore](http://svgporn.com/logos/semaphore.svg)
 
+## <a href="https://sendgrid.com/" target="_blank">SendGrid</a>
+![sendgrid](http://svgporn.com/logos/sendgrid.svg)
+
 ## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
 ![sentry](http://svgporn.com/logos/sentry.svg)
 
@@ -951,6 +975,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>
 ![stackoverflow](http://svgporn.com/logos/stackoverflow.svg)
+
+## <a href="http://stackshare.io/" target="_blank">stackshare</a>
+![stackshare](http://svgporn.com/logos/stackshare.svg)
 
 ## <a href="https://www.atlassian.com/software/stash" target="_blank">Stash</a>
 ![stash](http://svgporn.com/logos/stash.svg)

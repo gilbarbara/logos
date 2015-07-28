@@ -324,6 +324,21 @@
       "added": "2015-06-11"
     },
     {
+      "name": "Base",
+      "files": [
+        "base.svg"
+      ],
+      "shortname": "base",
+      "url": "https://getbase.com/",
+      "tags": [
+        "crm"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-07-27"
+    },
+    {
       "name": "Basecamp",
       "files": [
         "basecamp.svg"
@@ -486,6 +501,21 @@
       ],
       "added": "2015-06-11",
       "converted": true
+    },
+    {
+      "name": "Bosun",
+      "files": [
+        "bosun.svg"
+      ],
+      "shortname": "bosun",
+      "url": "https://bosun.org/",
+      "tags": [
+        "server monitoring"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-27"
     },
     {
       "name": "bourbon",
@@ -943,6 +973,24 @@
       "added": "2015-06-11"
     },
     {
+      "name": "coderwall",
+      "files": [
+        "coderwall.svg"
+      ],
+      "shortname": "coderwall",
+      "url": "https://coderwall.com/",
+      "tags": [
+        "collaborative",
+        "reference",
+        "teams",
+        "professional networking"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-27"
+    },
+    {
       "name": "Codeship",
       "files": [
         "codeship.svg"
@@ -1078,6 +1126,21 @@
       "added": "2015-07-02"
     },
     {
+      "name": "Crashlytics",
+      "files": [
+        "crashlytics.svg"
+      ],
+      "shortname": "crashlytics",
+      "url": "https://try.crashlytics.com/",
+      "tags": [
+        "mobile crash reporter"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-27"
+    },
+    {
       "name": "CreateJS",
       "files": [
         "createjs.svg"
@@ -1108,6 +1171,22 @@
         "developers"
       ],
       "added": "2015-06-30"
+    },
+    {
+      "name": "CrowdProcess",
+      "files": [
+        "crowdprocess.svg"
+      ],
+      "shortname": "crowdprocess",
+      "url": "https://crowdprocess.com/",
+      "tags": [
+        "distributed computing"
+      ],
+      "categories": [
+        "developers",
+        "geeks"
+      ],
+      "added": "2015-07-27"
     },
     {
       "name": "CSS3",
@@ -3246,6 +3325,22 @@
       "added": "2015-07-05"
     },
     {
+      "name": "Mailgun",
+      "files": [
+        "mailgun.svg"
+      ],
+      "shortname": "mailgun",
+      "url": "http://www.mailgun.com/",
+      "tags": [
+        "transactional email"
+      ],
+      "categories": [
+        "developers",
+        "business"
+      ],
+      "added": "2015-07-27"
+    },
+    {
       "name": "Mandrill",
       "files": [
         "mandrill-shield.svg",
@@ -3254,8 +3349,7 @@
       "shortname": "mandrill",
       "url": "http://mandrill.com/",
       "tags": [
-        "email delivery",
-        "api"
+        "transactional email"
       ],
       "categories": [
         "developers",
@@ -4009,6 +4103,23 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Phoenix",
+      "files": [
+        "phoenix.svg"
+      ],
+      "shortname": "phoenix",
+      "url": "http://www.phoenixframework.org/",
+      "tags": [
+        "elixir",
+        "erlang",
+        "web framework"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-27"
+    },
+    {
       "name": "PhoneGap",
       "files": [
         "phonegap.svg",
@@ -4681,6 +4792,22 @@
       "added": "2015-07-24"
     },
     {
+      "name": "SendGrid",
+      "files": [
+        "sendgrid.svg"
+      ],
+      "shortname": "sendgrid",
+      "url": "https://sendgrid.com/",
+      "tags": [
+        "transactional email"
+      ],
+      "categories": [
+        "developers",
+        "business"
+      ],
+      "added": "2015-07-27"
+    },
+    {
       "name": "Sentry",
       "files": [
         "sentry.svg"
@@ -4847,12 +4974,30 @@
       "shortname": "stackoverflow",
       "url": "http://stackoverflow.com/",
       "tags": [
+        "collaborative",
         "reference"
       ],
       "categories": [
         "developers"
       ],
       "added": "2015-06-25"
+    },
+    {
+      "name": "stackshare",
+      "files": [
+        "stackshare.svg"
+      ],
+      "shortname": "stackshare",
+      "url": "http://stackshare.io/",
+      "tags": [
+        "tools",
+        "social"
+      ],
+      "categories": [
+        "developers",
+        "business"
+      ],
+      "added": "2015-07-27"
     },
     {
       "name": "Stash",
@@ -5075,7 +5220,7 @@
       "url": "http://tastejs.com/",
       "tags": [
         "todomvc",
-        "reference"
+        "learning"
       ],
       "categories": [
         "developers"
@@ -5122,7 +5267,7 @@
       "url": "http://todomvc.com/",
       "tags": [
         "javascript",
-        "reference",
+        "learning",
         "tutorials"
       ],
       "categories": [
