@@ -20,7 +20,7 @@ header {
 
   h3 {
     font-size: 1.8rem;
-    margin: 1.5rem 1rem 0.5rem;
+    margin: 1.5rem 2rem 0.5rem;
 
     @include sm {
       font-size: 2rem;
@@ -44,12 +44,18 @@ header {
     position: relative;
 
     &__toggle {
+      align-items: center;
       display: flex;
       justify-content: space-between;
       padding: 0 8px;
       position: relative;
       text-align: right;
       text-decoration: none;
+
+      &:focus,
+      &:active {
+        outline: none;
+      }
 
       &:before {
         border-top: 1px dashed $link-color;
@@ -61,14 +67,12 @@ header {
         width: 100%;
       }
 
-      svg {
-        margin-left: 5px;
-        position: relative;
-        top: 4px;
+      @at-root .isvg #caret-down path {
+        fill: $link-color;
+      }
 
-        @include md {
-          top: 7px;
-        }
+      .icon {
+        margin-left: 5px;
       }
     }
 
@@ -113,20 +117,6 @@ header {
     }
   }
 
-  .overlay {
-    background-color: #000;
-    bottom: 0;
-    height: 0;
-    left: 0;
-    opacity: 0;
-    pointer-events: all;
-    position: fixed;
-    right: 0;
-    top: 0;
-    transition: all 0.2s ease-in;
-    z-index: 10;
-  }
-
   .menu {
     display: flex;
     justify-content: space-around;
@@ -135,20 +125,28 @@ header {
     padding: 0;
     width: 100%;
 
-    @include md {
+    @include sm {
+      width: 70%;
+    }
+
+    @include lg {
       width: 50%;
     }
 
     > li {
-      text-align: left;
+      text-align: center;
       width: 100%;
+
+      @include md {
+        text-align: left;
+      }
 
       &:last-of-type {
         text-align: right;
       }
 
       &.columns {
-        @include md-only {
+        @include sm-only {
           display: none;
         }
 
@@ -228,14 +226,13 @@ header {
     background-color: rgba($bg-color, 0.8);
     bottom: 0;
     left: 0;
-    max-height: 0;
     opacity: 0;
-    overflow: hidden;
     pointer-events: all;
     position: fixed;
     right: 0;
     top: 0;
-    transition: opacity 0.3s ease-in;
+    transition: opacity 0.5s, visibility 0.2s;
+    visibility: hidden;
     z-index: 20;
   }
 
@@ -261,6 +258,9 @@ header {
       padding: 0.5rem 1rem;
       pointer-events: all;
       text-decoration: none;
+      transform: translate(10%, -200%);
+      transform-origin: top;
+      transition: transform 0.2s 0.1s;
 
       @include sm-only {
         margin: 0.3rem;
@@ -295,6 +295,20 @@ header {
     }
   }
 
+  .overlay {
+    background-color: #000;
+    bottom: 0;
+    height: 0;
+    left: 0;
+    opacity: 0;
+    pointer-events: all;
+    position: fixed;
+    right: 0;
+    top: 0;
+    transition: all 0.2s ease-in;
+    z-index: 10;
+  }
+
   &.show-menu {
     .categories__menu {
       display: block;
@@ -310,9 +324,13 @@ header {
 
   &.show-tags {
     .tags {
-      max-height: 100vh;
       opacity: 1;
       overflow: scroll;
+      visibility: visible;
+    }
+
+    .tag-cloud a {
+      transform: translate(0);
     }
   }
 }

@@ -9,6 +9,7 @@ var Header = React.createClass({
     mixins: [React.addons.PureRenderMixin],
 
     propTypes: {
+        categoryMenuVisible: React.PropTypes.bool.isRequired,
         changeCategory: React.PropTypes.func.isRequired,
         changeTag: React.PropTypes.func.isRequired,
         columns: React.PropTypes.number.isRequired,
@@ -17,13 +18,13 @@ var Header = React.createClass({
         onClickShowTagCloud: React.PropTypes.func.isRequired,
         tag: React.PropTypes.string,
         tagCloudVisible: React.PropTypes.bool.isRequired,
+        toggleCategoryMenu: React.PropTypes.func.isRequired,
         visible: React.PropTypes.number.isRequired
     },
 
     getInitialState () {
         return {
-            ready: false,
-            showCategoriesMenu: false
+            ready: false
         };
     },
 
@@ -107,7 +108,7 @@ var Header = React.createClass({
     _onClickShowCategories (e) {
         e.preventDefault();
 
-        this._toggleCategoriesMenu();
+        this.props.toggleCategoryMenu();
     },
 
     _onClickChangeCategory (e) {
@@ -116,13 +117,7 @@ var Header = React.createClass({
         var el = e.currentTarget;
 
         this.props.changeCategory(el.dataset.value);
-        this._toggleCategoriesMenu();
-    },
-
-    _toggleCategoriesMenu () {
-        this.setState({
-            showCategoriesMenu: !this.state.showCategoriesMenu
-        });
+        this.props.toggleCategoryMenu();
     },
 
     _onClickTag (e) {
@@ -196,7 +191,7 @@ var Header = React.createClass({
                 categories = (
                     <span className="categories">
                     <a href="#" className="categories__toggle"
-                       onClick={this._onClickShowCategories}>{props.category} <Icon id="caret-down"/></a>
+                       onClick={this._onClickShowCategories}>{props.category}<Icon id="caret-down"/></a>
                     <ul className="categories__menu">
                         {state.categories.map((d, i) => {
                             return (
@@ -211,7 +206,7 @@ var Header = React.createClass({
 
         return (
             <header
-                className={[state.showCategoriesMenu ? 'show-menu' : '', props.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
+                className={[props.categoryMenuVisible ? 'show-menu' : '', props.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
                 <img src="media/svg-porn.svg" className="logo"/>
 
                 <h3>A collection of {props.visible} svg logos for {categories}</h3>
@@ -230,7 +225,7 @@ var Header = React.createClass({
                     </li>
                 </ul>
                 {output.tagCloud}
-                <div className="overlay" onClick={this._toggleCategoriesMenu}></div>
+                <div className="overlay" onClick={this.props.toggleCategoryMenu}></div>
             </header>
         );
     }

@@ -46,6 +46,41 @@ h6 {
   &.no-scroll {
     overflow: hidden;
   }
+
+  .scroll-top {
+    background-color: darken($bg-color, 10);
+    border-radius: 8px;
+    line-height: 1;
+    opacity: 0;
+    padding: 1.6rem;
+    position: fixed;
+    right: 1.2rem;
+    top: 1.2rem;
+    transform: translatey(-100%);
+    transition: opacity 0.3s, transform 0.2s, visibility 0.2s;
+    visibility: hidden;
+    z-index: 30;
+
+    &:hover {
+      opacity: 0.7;
+    }
+
+    &.visible {
+      opacity: 0.3;
+      transform: translatey(0);
+      visibility: visible;
+    }
+
+
+    @at-root .isvg #caret-up path {
+      fill: lighten($link-color, 10);
+    }
+
+    .icon {
+      height: 20px;
+      width: 20px;
+    }
+  }
 }
 
 footer {
@@ -61,10 +96,6 @@ footer {
 
   path {
     fill: #fff;
-  }
-
-  #caret-down path {
-    fill: $link-color;
   }
 }
 

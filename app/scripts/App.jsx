@@ -5,12 +5,14 @@ var React   = require('react'),
     Footer  = require('./components/Footer'),
     Loader  = require('./components/Loader'),
     Logo    = require('./components/Logo'),
+    Icon    = require('./components/Icon'),
     json    = require('../logos.json');
 
 var App = React.createClass({
     getInitialState () {
         return {
             category: 'everybody',
+            categoryMenuVisible: false,
             columns: 3,
             logos: json.items,
             tag: undefined,
@@ -29,19 +31,39 @@ var App = React.createClass({
     },
 
     componentDidMount: function () {
-        this
-            .getDOMNode()
-            .offsetParent
-            .addEventListener('keypress', function (e) {
-                var intKey = (window.Event) ? e.which : e.keyCode;
+        document.body.addEventListener('keydown', function (e) {
+            var intKey = (window.Event) ? e.which : e.keyCode;
 
-                if (intKey === 45 && this.state.columns > 1) {
-                    this._changeColumns(this.state.columns - 1);
+            if ((intKey === 189 || intKey === 109) && this.state.columns > 1) {
+                this._changeColumns(this.state.columns - 1);
+            }
+
+            if ((intKey === 187 || intKey === 107) && this.state.columns < 5) {
+                this._changeColumns(this.state.columns + 1);
+            }
+            if (intKey === 27) {
+                if (this.state.tagCloudVisible) {
+                    this._toggleTagCloudVisibility();
                 }
-                else if ((intKey === 43 || intKey === 61) && this.state.columns < 5) {
-                    this._changeColumns(this.state.columns + 1);
+
+                if (this.state.categoryMenuVisible) {
+                    this._toggleCategoryMenuVisibility();
                 }
-            }.bind(this));
+            }
+        }.bind(this));
+
+        window.addEventListener('scroll', function (e) {
+            if ((document.body.scrollTop >= 1000 && document.body.clientHeight > 4000) && !this.state.tagCloudVisible && !this.state.scrollable) {
+                this.setState({
+                    scrollable: true
+                });
+            }
+            else if (e.target.body.scrollTop < 1000 && this.state.scrollable) {
+                this.setState({
+                    scrollable: false
+                });
+            }
+        }.bind(this));
     },
 
     _onClickChangeColumns (e) {
@@ -58,6 +80,13 @@ var App = React.createClass({
             tag: undefined
         });
         Storage.setItem('category', value);
+    },
+
+    _toggleCategoryMenuVisibility  () {
+        document.body.style.overflow = !this.state.categoryMenuVisible ? 'hidden' : 'auto';
+        this.setState({
+            categoryMenuVisible: !this.state.categoryMenuVisible
+        });
     },
 
     _onClickTag (e) {
@@ -79,11 +108,11 @@ var App = React.createClass({
             });
         }
         else {
-            this._toggleTagCloudVisibitily();
+            this._toggleTagCloudVisibility();
         }
     },
 
-    _toggleTagCloudVisibitily  () {
+    _toggleTagCloudVisibility  () {
         document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
         this.setState({
             tagCloudVisible: !this.state.tagCloudVisible
@@ -116,7 +145,7 @@ var App = React.createClass({
         duration = duration / 10 < 500 ? duration : 500;
 
         var difference = to - element.scrollTop,
-            perTick = difference / duration * 10,
+            perTick    = difference / duration * 10,
             timeout;
 
         if (duration < 0) {
@@ -131,6 +160,12 @@ var App = React.createClass({
             }
             this._scrollTo(element, to, duration - 10);
         }.bind(this), 10);
+    },
+
+    _scrollTop (e) {
+        e.preventDefault();
+
+        this._scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
     },
 
     render () {
@@ -164,6 +199,8 @@ var App = React.createClass({
                             onClickChangeColumns={this._onClickChangeColumns}
                             onClickShowTagCloud={this._onClickShowTags} tagCloudVisible={this.state.tagCloudVisible}
                             changeTag={this._changeTag} tag={this.state.tag}
+                            toggleCategoryMenu={this._toggleCategoryMenuVisibility}
+                            categoryMenuVisible={this.state.categoryMenuVisible}
                             category={state.category} changeCategory={this._changeCategory}/>
                     <main>
                         <ul className={'logos col-' + state.columns}>
@@ -172,6 +209,7 @@ var App = React.createClass({
                     </main>
                     <Footer />
                 </div>
+                <a href="#" onClick={this._scrollTop} className={'scroll-top' + (this.state.scrollable ? ' visible' : '')}><Icon id="caret-up"/></a>
             </div>
         );
     }

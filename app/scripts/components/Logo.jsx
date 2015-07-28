@@ -4,8 +4,8 @@ var Logo = React.createClass({
     mixins: [React.addons.PureRenderMixin],
 
     propTypes: {
-        image: React.PropTypes.string.isRequired,
         hidden: React.PropTypes.bool.isRequired,
+        image: React.PropTypes.string.isRequired,
         info: React.PropTypes.object.isRequired,
         onClickTag: React.PropTypes.func.isRequired
     },
