@@ -241,6 +241,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.createjs.com/" target="_blank">CreateJS</a>
 ![createjs](http://svgporn.com/logos/createjs.svg)
 
+## <a href="https://www.crittercism.com/" target="_blank">Crittercism</a>
+![crittercism](http://svgporn.com/logos/crittercism.svg)
+
 ## <a href="http://crossbrowsertesting.com/" target="_blank">Cross Browser Testing</a>
 ![crossbrowsertesting](http://svgporn.com/logos/crossbrowsertesting.svg)
 
@@ -315,6 +318,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://electron.atom.io/" target="_blank">Electron</a>
 ![electron](http://svgporn.com/logos/electron.svg)
+
+## <a href="https://elementary.io/" target="_blank">elementary OS</a>
+![elementary](http://svgporn.com/logos/elementary.svg)
 
 ## <a href="http://emberjs.com/" target="_blank">Ember</a>
 ![ember](http://svgporn.com/logos/ember-tomster.svg)
@@ -445,6 +451,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://grails.org/" target="_blank">Grails</a>
 ![grails](http://svgporn.com/logos/grails.svg)
+
+## <a href="https://grove.io/" target="_blank">Grove</a> *
+![grove](http://svgporn.com/logos/grove.svg)
 
 ## <a href="http://gruntjs.com/" target="_blank">Grunt</a>
 ![grunt](http://svgporn.com/logos/grunt.svg)
@@ -609,6 +618,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://leafletjs.com/" target="_blank">Leafjet</a>
 ![leafjet](http://svgporn.com/logos/leafjet.svg)
+
+## <a href="http://leankit.com/" target="_blank">Leankit</a>
+![leankit](http://svgporn.com/logos/leankit.svg)
 
 ## <a href="http://lesscss.org/" target="_blank">Less</a>
 ![less](http://svgporn.com/logos/less.svg)
@@ -802,6 +814,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://parse.com/" target="_blank">Parse</a>
 ![parse](http://svgporn.com/logos/parse.svg)
+
+## <a href="https://www.parsehub.com/" target="_blank">parsehub</a>
+![parsehub](http://svgporn.com/logos/parsehub.svg)
 
 ## <a href="http://passportjs.org/" target="_blank">Passport</a>
 ![passport](http://svgporn.com/logos/passport.svg)
@@ -1053,6 +1068,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.twilio.com/" target="_blank">Twilio</a>
 ![twilio](http://svgporn.com/logos/twilio.svg)
 
+## <a href="http://www.typeform.com/" target="_blank">Typeform</a>
+![typeform](http://svgporn.com/logos/typeform.svg)
+
 ## <a href="http://www.ubuntu.com/" target="_blank">ubuntu</a>
 ![ubuntu](http://svgporn.com/logos/ubuntu.svg)
 
@@ -1084,6 +1102,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://vwo.com/" target="_blank">Visual Website Optimizer</a>
 ![visual_website_optimizer](http://svgporn.com/logos/visual_website_optimizer.svg)
+
+## <a href="http://www.voidlinux.eu/" target="_blank">Void</a>
+![void](http://svgporn.com/logos/void.svg)
 
 ## <a href="http://vuejs.org/" target="_blank">Vue.js</a> *
 ![vue](http://svgporn.com/logos/vue.svg)
@@ -1126,6 +1147,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![wordpress](http://svgporn.com/logos/wordpress.svg)
 
+## <a href="http://www.wufoo.com/" target="_blank">Wufoo</a>
+![wufoo](http://svgporn.com/logos/wufoo.svg)
+
 ## <a href="http://www.ycombinator.com/" target="_blank">YCombinator</a>
 ![ycombinator](http://svgporn.com/logos/ycombinator.svg)
 
@@ -1140,6 +1164,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://zapier.com/" target="_blank">Zapier</a>
 ![zapier](http://svgporn.com/logos/zapier.svg)
+
+## <a href="http://framework.zend.com/" target="_blank">Zend Framework</a>
+![zend-framework](http://svgporn.com/logos/zend-framework.svg)
 
 ## <a href="https://www.zendesk.com/" target="_blank">Zendesk</a>
 ![zendesk](http://svgporn.com/logos/zendesk.svg)

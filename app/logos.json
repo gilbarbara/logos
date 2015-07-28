@@ -1157,6 +1157,21 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Crittercism",
+      "files": [
+        "crittercism.svg"
+      ],
+      "shortname": "crittercism",
+      "url": "https://www.crittercism.com/",
+      "tags": [
+        "mobile crash reporter"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-28"
+    },
+    {
       "name": "Cross Browser Testing",
       "files": [
         "crossbrowsertesting.svg"
@@ -1556,6 +1571,22 @@
         "developers"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "elementary OS",
+      "files": [
+        "elementary.svg"
+      ],
+      "shortname": "elementary",
+      "url": "https://elementary.io/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-28"
     },
     {
       "name": "Ember",
@@ -2215,6 +2246,23 @@
       "added": "2015-07-05"
     },
     {
+      "name": "Grove",
+      "files": [
+        "grove.svg"
+      ],
+      "shortname": "grove",
+      "url": "https://grove.io/",
+      "tags": [
+        "team collaboration",
+        "IRC server"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "added": "2015-07-28",
+      "converted": true
+    },
+    {
       "name": "Grunt",
       "files": [
         "grunt.svg"
@@ -2532,6 +2580,7 @@
         "data scraping"
       ],
       "categories": [
+        "developers",
         "geeks"
       ],
       "added": "2015-07-24"
@@ -3087,6 +3136,23 @@
         "developers"
       ],
       "added": "2015-07-02"
+    },
+    {
+      "name": "Leankit",
+      "files": [
+        "leankit.svg"
+      ],
+      "shortname": "leankit",
+      "url": "http://leankit.com/",
+      "tags": [
+        "project manager",
+        "kanban"
+      ],
+      "categories": [
+        "developers",
+        "teams"
+      ],
+      "added": "2015-07-28"
     },
     {
       "name": "Less",
@@ -4069,6 +4135,22 @@
         "DevOps"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "parsehub",
+      "files": [
+        "parsehub.svg"
+      ],
+      "shortname": "parsehub",
+      "url": "https://www.parsehub.com/",
+      "tags": [
+        "data scraping"
+      ],
+      "categories": [
+        "developers",
+        "geeks"
+      ],
+      "added": "2015-07-28"
     },
     {
       "name": "Passport",
@@ -5387,6 +5469,22 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Typeform",
+      "files": [
+        "typeform.svg"
+      ],
+      "shortname": "typeform",
+      "url": "http://www.typeform.com/",
+      "tags": [
+        "forms"
+      ],
+      "categories": [
+        "business",
+        "designers"
+      ],
+      "added": "2015-07-28"
+    },
+    {
       "name": "ubuntu",
       "files": [
         "ubuntu.svg"
@@ -5547,6 +5645,22 @@
         "business"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "Void",
+      "files": [
+        "void.svg"
+      ],
+      "shortname": "void",
+      "url": "http://www.voidlinux.eu/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-28"
     },
     {
       "name": "Vue.js",
@@ -5763,6 +5877,22 @@
       "added": "2015-06-11"
     },
     {
+      "name": "Wufoo",
+      "files": [
+        "wufoo.svg"
+      ],
+      "shortname": "wufoo",
+      "url": "http://www.wufoo.com/",
+      "tags": [
+        "forms"
+      ],
+      "categories": [
+        "business",
+        "designers"
+      ],
+      "added": "2015-07-28"
+    },
+    {
       "name": "YCombinator",
       "files": [
         "ycombinator.svg"
@@ -5842,6 +5972,22 @@
         "geeks"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Zend Framework",
+      "files": [
+        "zend-framework.svg"
+      ],
+      "shortname": "zend-framework",
+      "url": "http://framework.zend.com/",
+      "tags": [
+        "php",
+        "framework"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-28"
     },
     {
       "name": "Zendesk",

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="267px" viewBox="0 0 256 267" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.243359375 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+	<g transform="translate(4.000000, 3.000000)">
+		<path d="M33.0666667,178.008889 L68.3377778,110.222222 L96.4444444,157.617778 L60.6222222,214.933333 L33.0666667,178.008889 Z" fill="#92C83E"></path>
+		<path d="M55.6622222,209.422222 L122.897778,78.2577778 L159.271111,146.595556 L107.466667,236.426667 L55.6622222,209.422222 Z" fill="#4B843D"></path>
+		<path d="M98.0977778,233.12 L191.235556,42.9866667 C191.235556,42.9866667 221.546667,77.7066667 228.711111,93.6888889 C235.324444,108.568889 233.671111,141.635556 223.2,167.537778 C212.728889,193.44 191.235556,212.728889 179.111111,217.688889 C128.96,239.733333 98.0977778,233.12 98.0977778,233.12 L98.0977778,233.12 Z" fill="#92C83E"></path>
+		<path d="M248,124 C248,55.6622222 192.337778,0 124,0 C55.6622222,0 0,55.6622222 0,124 C0,186.826667 47.3955556,239.182222 108.568889,246.897778 L108.568889,260.124444 L134.471111,247.448889 C197.848889,242.488889 248,189.031111 248,124 L248,124 Z M124,225.955556 C71.0933333,225.955556 22.0444444,176.906667 22.0444444,124 C22.0444444,71.0933333 71.0933333,22.0444444 124,22.0444444 C176.906667,22.0444444 225.955556,71.0933333 225.955556,124 C225.955556,176.906667 176.906667,225.955556 124,225.955556 L124,225.955556 Z" fill="#FFFFFF" filter="url(#filter-1)"></path>
+	</g>
+</svg>
