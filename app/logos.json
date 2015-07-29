@@ -617,6 +617,22 @@
       "added": "2015-06-30"
     },
     {
+      "name": "BugHerd",
+      "files": [
+        "bugherd.svg"
+      ],
+      "shortname": "bugherd",
+      "url": "http://bugherd.com/",
+      "tags": [
+        "bug tracker"
+      ],
+      "categories": [
+        "developers",
+        "business"
+      ],
+      "added": "2015-07-29"
+    },
+    {
       "name": "C",
       "files": [
         "c.svg"
@@ -903,6 +919,21 @@
       "added": "2015-07-07"
     },
     {
+      "name": "Close",
+      "files": [
+        "close.svg"
+      ],
+      "shortname": "close",
+      "url": "http://close.io/",
+      "tags": [
+        "crm"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-07-29"
+    },
+    {
       "name": "CocoaPods",
       "files": [
         "cocoapods.svg"
@@ -1125,6 +1156,40 @@
         "developers"
       ],
       "added": "2015-07-02"
+    },
+    {
+      "name": "Coverity",
+      "files": [
+        "coverity.svg"
+      ],
+      "shortname": "coverity",
+      "url": "http://www.coverity.com/",
+      "tags": [
+        "static analysis",
+        "java",
+        "c"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-29"
+    },
+    {
+      "name": "Craft",
+      "files": [
+        "craft.svg"
+      ],
+      "shortname": "craft",
+      "url": "http://buildwithcraft.com/",
+      "tags": [
+        "content management",
+        "blogging platform"
+      ],
+      "categories": [
+        "business",
+        "bloggers"
+      ],
+      "added": "2015-07-29"
     },
     {
       "name": "Crashlytics",
@@ -2447,6 +2512,21 @@
       "added": "2015-07-07"
     },
     {
+      "name": "Heap",
+      "files": [
+        "heap.svg"
+      ],
+      "shortname": "heap",
+      "url": "https://heapanalytics.com/",
+      "tags": [
+        "customer data analytics"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-07-29"
+    },
+    {
       "name": "Heroku",
       "files": [
         "heroku.svg"
@@ -3252,6 +3332,21 @@
         "DevOps"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "loggly",
+      "files": [
+        "loggly.svg"
+      ],
+      "shortname": "loggly",
+      "url": "http://loggly.com/",
+      "tags": [
+        "log manager"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-29"
     },
     {
       "name": "Loopback",
@@ -4189,6 +4284,23 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Phalcon",
+      "files": [
+        "phalcon.svg"
+      ],
+      "shortname": "phalcon",
+      "url": "https://phalconphp.com/",
+      "tags": [
+        "php",
+        "c",
+        "web framework"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-29"
+    },
+    {
       "name": "Phoenix",
       "files": [
         "phoenix.svg"
@@ -4282,6 +4394,21 @@
         "sharing"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "pipedrive",
+      "files": [
+        "pipedrive.svg"
+      ],
+      "shortname": "pipedrive",
+      "url": "https://www.pipedrive.com/",
+      "tags": [
+        "crm"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-07-29"
     },
     {
       "name": "Pixelapse",
@@ -4672,6 +4799,21 @@
       "added": "2015-07-05"
     },
     {
+      "name": "Rollbar",
+      "files": [
+        "rollbar.svg"
+      ],
+      "shortname": "rollbar",
+      "url": "https://rollbar.com/",
+      "tags": [
+        "server monitoring"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-29"
+    },
+    {
       "name": "RSA",
       "files": [
         "rsa.svg"
@@ -4798,6 +4940,21 @@
         "developers"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Salesforce",
+      "files": [
+        "salesforce.svg"
+      ],
+      "shortname": "salesforce",
+      "url": "http://www.salesforce.com/",
+      "tags": [
+        "crm"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-07-29"
     },
     {
       "name": "SaltStack",
