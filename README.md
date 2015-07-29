@@ -140,6 +140,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>
 ![browserstack](http://svgporn.com/logos/browserstack.svg)
 
+## <a href="http://bugherd.com/" target="_blank">BugHerd</a>
+![bugherd](http://svgporn.com/logos/bugherd.svg)
+
 ## <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">C</a>
 ![c](http://svgporn.com/logos/c.svg)
 
@@ -194,6 +197,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://cljs.info/" target="_blank">ClojureScript</a>
 ![cljs](http://svgporn.com/logos/cljs.svg)
 
+## <a href="http://close.io/" target="_blank">Close</a>
+![close](http://svgporn.com/logos/close.svg)
+
 ## <a href="https://cocoapods.org/" target="_blank">CocoaPods</a>
 ![cocoapods](http://svgporn.com/logos/cocoapods.svg)
 
@@ -234,6 +240,12 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://coveralls.io/" target="_blank">Coveralls</a>
 ![coveralls](http://svgporn.com/logos/coveralls.svg)
+
+## <a href="http://www.coverity.com/" target="_blank">Coverity</a>
+![coverity](http://svgporn.com/logos/coverity.svg)
+
+## <a href="http://buildwithcraft.com/" target="_blank">Craft</a>
+![craft](http://svgporn.com/logos/craft.svg)
 
 ## <a href="https://try.crashlytics.com/" target="_blank">Crashlytics</a>
 ![crashlytics](http://svgporn.com/logos/crashlytics.svg)
@@ -488,6 +500,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://haxe.org/" target="_blank">Haxe</a>
 ![haxe](http://svgporn.com/logos/haxe.svg)
 
+## <a href="https://heapanalytics.com/" target="_blank">Heap</a>
+![heap](http://svgporn.com/logos/heap.svg)
+
 ## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
 ![heroku](http://svgporn.com/logos/heroku.svg)
 
@@ -639,6 +654,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://logentries.com/" target="_blank">logentries</a>
 ![logentries](http://svgporn.com/logos/logentries.svg)
+
+## <a href="http://loggly.com/" target="_blank">loggly</a>
+![loggly](http://svgporn.com/logos/loggly.svg)
 
 ## <a href="http://loopback.io/" target="_blank">Loopback</a>
 ![loopback](http://svgporn.com/logos/loopback.svg)
@@ -824,6 +842,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.perl.org/" target="_blank">Perl</a>
 ![perl](http://svgporn.com/logos/perl.svg)
 
+## <a href="https://phalconphp.com/" target="_blank">Phalcon</a>
+![phalcon](http://svgporn.com/logos/phalcon.svg)
+
 ## <a href="http://www.phoenixframework.org/" target="_blank">Phoenix</a>
 ![phoenix](http://svgporn.com/logos/phoenix.svg)
 
@@ -843,6 +864,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.pinterest.com/" target="_blank">Pinterest</a>
 ![pinterest](http://svgporn.com/logos/pinterest.svg)
+
+## <a href="https://www.pipedrive.com/" target="_blank">pipedrive</a>
+![pipedrive](http://svgporn.com/logos/pipedrive.svg)
 
 ## <a href="https://www.pixelapse.com/" target="_blank">Pixelapse</a>
 ![pixelapse](http://svgporn.com/logos/pixelapse.svg)
@@ -916,6 +940,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://basho.com/products/#riak" target="_blank">Riak</a>
 ![riak](http://svgporn.com/logos/riak.svg)
 
+## <a href="https://rollbar.com/" target="_blank">Rollbar</a>
+![rollbar](http://svgporn.com/logos/rollbar.svg)
+
 ## <a href="http://www.emc.com/domains/rsa/index.htm" target="_blank">RSA</a>
 ![rsa](http://svgporn.com/logos/rsa.svg)
 
@@ -939,6 +966,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://sailsjs.org/" target="_blank">Sails</a>
 ![sails](http://svgporn.com/logos/sails.svg)
+
+## <a href="http://www.salesforce.com/" target="_blank">Salesforce</a>
+![salesforce](http://svgporn.com/logos/salesforce.svg)
 
 ## <a href="http://saltstack.com/" target="_blank">SaltStack</a>
 ![saltstack](http://svgporn.com/logos/saltstack.svg)
