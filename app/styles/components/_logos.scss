@@ -48,6 +48,10 @@
       text-decoration: none;
       transition: all 0.2s;
 
+      @include md-only {
+        color: #999;
+      }
+
       &.logo-item {
         display: block;
         width: 100%;

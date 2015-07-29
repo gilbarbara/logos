@@ -1086,6 +1086,7 @@
       "url": "https://cordova.apache.org/",
       "tags": [
         "javascript",
+        "mobile",
         "mobile app framework"
       ],
       "categories": [
@@ -1133,6 +1134,7 @@
       "shortname": "crashlytics",
       "url": "https://try.crashlytics.com/",
       "tags": [
+        "mobile",
         "mobile crash reporter"
       ],
       "categories": [
@@ -1164,6 +1166,7 @@
       "shortname": "crittercism",
       "url": "https://www.crittercism.com/",
       "tags": [
+        "mobile",
         "mobile crash reporter"
       ],
       "categories": [
@@ -2680,6 +2683,7 @@
       "url": "http://ionicframework.com/",
       "tags": [
         "javascript",
+        "mobile",
         "mobile app framework"
       ],
       "categories": [
@@ -4211,6 +4215,7 @@
       "url": "http://phonegap.com/",
       "tags": [
         "javascript",
+        "mobile",
         "mobile app framework"
       ],
       "categories": [
@@ -5121,6 +5126,7 @@
       "shortname": "steroids",
       "url": "http://www.appgyver.com/steroids",
       "tags": [
+        "mobile",
         "mobile app framework",
         "ionic",
         "cordova"
