@@ -55,6 +55,11 @@
       &.logo-item {
         display: block;
         width: 100%;
+
+        @include sm-only {
+          margin-bottom: 5rem !important;
+          margin-top: 2rem !important;
+        }
       }
     }
 
@@ -74,7 +79,7 @@
 
     .tags {
       display: flex;
-      flex-flow: row;
+      flex-flow: row wrap;
       justify-content: center;
       margin-top: 4px;
 
@@ -148,8 +153,8 @@
       }
 
       .logo-item {
-        margin-bottom: 3rem;
-        margin-top: 3rem;
+        margin-bottom: 4rem;
+        margin-top: 2rem;
       }
 
       img {
