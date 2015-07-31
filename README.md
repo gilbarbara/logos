@@ -506,6 +506,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
 ![heroku](http://svgporn.com/logos/heroku.svg)
 
+## <a href="http://hood.ie/" target="_blank">Hoodie</a>
+![hoodie](http://svgporn.com/logos/hoodie.svg)
+
 ## <a href="http://hhvm.com/" target="_blank">HHVM</a> *
 ![hhvm](http://svgporn.com/logos/hhvm.svg)
 
@@ -639,6 +642,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://lesscss.org/" target="_blank">Less</a>
 ![less](http://svgporn.com/logos/less.svg)
+
+## <a href="http://leveldb.org/" target="_blank">LevelDB</a>
+![leveldb](http://svgporn.com/logos/leveldb.svg)
 
 ## <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
 ![linkedin](http://svgporn.com/logos/linkedin.svg)
@@ -785,6 +791,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![nodejs](http://svgporn.com/logos/nodejs-icon.svg)
 
 ![nodejs](http://svgporn.com/logos/nodejs.svg)
+
+## <a href="http://nodebots.io/" target="_blank">NodeBots</a>
+![nodebots](http://svgporn.com/logos/nodebots.svg)
 
 ## <a href="http://nodemon.io/" target="_blank">nodemon</a>
 ![nodemon](http://svgporn.com/logos/nodemon.svg)
@@ -979,6 +988,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.scala-lang.org/" target="_blank">Scala</a>
 ![scala](http://svgporn.com/logos/scala.svg)
 
+## <a href="https://www.sencha.com/" target="_blank">Sencha Touch</a>
+![sencha](http://svgporn.com/logos/sencha.svg)
+
 ## <a href="https://segment.com/" target="_blank">Segment</a>
 ![segment](http://svgporn.com/logos/segment.svg)
 
@@ -1012,6 +1024,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://soundcloud.com/" target="_blank">soundcloud</a>
 ![soundcloud](http://svgporn.com/logos/soundcloud.svg)
 
+## <a href="https://www.sourcetreeapp.com/" target="_blank">SourceTree</a>
+![sourcetree](http://svgporn.com/logos/sourcetree.svg)
+
 ## <a href="https://spring.io/" target="_blank">Spring</a> *
 ![spring](http://svgporn.com/logos/spring.svg)
 
@@ -1035,6 +1050,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://struts.apache.org/" target="_blank">Struts</a>
 ![struts](http://svgporn.com/logos/struts.svg)
+
+## <a href="https://styleci.io/" target="_blank">StyleCI</a>
+![styleci](http://svgporn.com/logos/styleci.svg)
 
 ## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
 ![stylus](http://svgporn.com/logos/stylus.svg)
@@ -1104,11 +1122,17 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.ubuntu.com/" target="_blank">ubuntu</a>
 ![ubuntu](http://svgporn.com/logos/ubuntu.svg)
 
+## <a href="http://getuikit.com/" target="_blank">uikit</a>
+![uikit](http://svgporn.com/logos/uikit.svg)
+
 ## <a href="http://unitjs.com/" target="_blank">UnitJS</a> *
 ![unitjs](http://svgporn.com/logos/unitjs.svg)
 
 ## <a href="https://unity3d.com/" target="_blank">Unity</a>
 ![unity](http://svgporn.com/logos/unity.svg)
+
+## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
+![v8](http://svgporn.com/logos/v8.svg)
 
 ## <a href="https://vaadin.com/" target="_blank">Vaadin</a>
 ![vaadin](http://svgporn.com/logos/vaadin.svg)
