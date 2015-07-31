@@ -781,6 +781,8 @@
       "shortname": "codeclimate",
       "url": "https://codeclimate.com/",
       "tags": [
+        "ruby",
+        "code review",
         "static analysis"
       ],
       "categories": [
@@ -2544,6 +2546,22 @@
       "added": "2015-06-24"
     },
     {
+      "name": "Hoodie",
+      "files": [
+        "hoodie.svg"
+      ],
+      "shortname": "hoodie",
+      "url": "http://hood.ie/",
+      "tags": [
+        "javascript",
+        "web application framework"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-30"
+    },
+    {
       "name": "HHVM",
       "files": [
         "hhvm.svg"
@@ -3253,6 +3271,21 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "LevelDB",
+      "files": [
+        "leveldb.svg"
+      ],
+      "shortname": "leveldb",
+      "url": "http://leveldb.org/",
+      "tags": [
+        "database"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-30"
     },
     {
       "name": "LinkedIn",
@@ -3992,6 +4025,22 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "NodeBots",
+      "files": [
+        "nodebots.svg"
+      ],
+      "shortname": "nodebots",
+      "url": "http://nodebots.io/",
+      "tags": [
+        "node.js",
+        "hardware controller"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-30"
     },
     {
       "name": "nodemon",
@@ -5004,6 +5053,22 @@
       "added": "2015-07-02"
     },
     {
+      "name": "Sencha Touch",
+      "files": [
+        "sencha.svg"
+      ],
+      "shortname": "sencha",
+      "url": "https://www.sencha.com/",
+      "tags": [
+        "mobile",
+        "mobile app framework"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-30"
+    },
+    {
       "name": "Segment",
       "files": [
         "segment.svg"
@@ -5178,6 +5243,23 @@
       "added": "2015-07-24"
     },
     {
+      "name": "SourceTree",
+      "files": [
+        "sourcetree.svg"
+      ],
+      "shortname": "sourcetree",
+      "url": "https://www.sourcetreeapp.com/",
+      "tags": [
+        "git",
+        "mercurial",
+        "desktop app"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-30"
+    },
+    {
       "name": "Spring",
       "files": [
         "spring.svg"
@@ -5252,7 +5334,8 @@
       "url": "https://www.atlassian.com/software/stash",
       "tags": [
         "git",
-        "code management"
+        "code management",
+        "enterprise"
       ],
       "categories": [
         "developers"
@@ -5308,6 +5391,23 @@
         "developers"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "StyleCI",
+      "files": [
+        "styleci.svg"
+      ],
+      "shortname": "styleci",
+      "url": "https://styleci.io/",
+      "tags": [
+        "php",
+        "continuous integration",
+        "code review"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-30"
     },
     {
       "name": "Stylus",
@@ -5664,6 +5764,25 @@
       "added": "2015-07-26"
     },
     {
+      "name": "uikit",
+      "files": [
+        "uikit.svg"
+      ],
+      "shortname": "uikit",
+      "url": "http://getuikit.com/",
+      "tags": [
+        "css",
+        "less",
+        "framework",
+        "ui"
+      ],
+      "categories": [
+        "developers",
+        "designers"
+      ],
+      "added": "2015-07-30"
+    },
+    {
       "name": "UnitJS",
       "files": [
         "unitjs.svg"
@@ -5697,6 +5816,22 @@
         "developers"
       ],
       "added": "2015-07-06"
+    },
+    {
+      "name": "V8",
+      "files": [
+        "v8.svg"
+      ],
+      "shortname": "v8",
+      "url": "https://developers.google.com/v8/",
+      "tags": [
+        "javascript",
+        "engine"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-30"
     },
     {
       "name": "Vaadin",
