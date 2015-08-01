@@ -253,7 +253,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://buildwithcraft.com/" target="_blank">Craft</a>
 ![craft](http://svgporn.com/logos/craft.svg)
 
-## <a href="https://try.crashlytics.com/" target="_blank">Crashlytics</a>
+## <a href="https://try.crashlytics.com/" target="_blank">Crashlytics</a> *
 ![crashlytics](http://svgporn.com/logos/crashlytics.svg)
 
 ## <a href="http://www.createjs.com/" target="_blank">CreateJS</a>
@@ -622,7 +622,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://keen.io/" target="_blank">Keen IO</a>
 ![keen](http://svgporn.com/logos/keen.svg)
 
-## <a href="https://keymetrics.io/" target="_blank">Keymetrics</a>
+## <a href="https://keymetrics.io/" target="_blank">Keymetrics</a> *
 ![keymetrics](http://svgporn.com/logos/keymetrics.svg)
 
 ## <a href="http://www.kinvey.com/" target="_blank">Kinvey</a>
@@ -734,7 +734,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://medium.com/" target="_blank">Medium</a>
 ![medium](http://svgporn.com/logos/medium.svg)
 
-## <a href="http://mean.io/" target="_blank">Mean</a>
+## <a href="http://mean.io/" target="_blank">Mean</a> *
 ![meanio](http://svgporn.com/logos/meanio.svg)
 
 ## <a href="http://memcached.org/" target="_blank">Memcached</a>
@@ -878,7 +878,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://phalconphp.com/" target="_blank">Phalcon</a>
 ![phalcon](http://svgporn.com/logos/phalcon.svg)
 
-## <a href="http://www.phoenixframework.org/" target="_blank">Phoenix</a>
+## <a href="http://www.phoenixframework.org/" target="_blank">Phoenix</a> *
 ![phoenix](http://svgporn.com/logos/phoenix.svg)
 
 ## <a href="http://phonegap.com/" target="_blank">PhoneGap</a>
@@ -907,7 +907,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.playframework.com/" target="_blank">Play</a>
 ![play](http://svgporn.com/logos/play.svg)
 
-## <a href="https://github.com/Unitech/pm2" target="_blank">PM2</a>
+## <a href="https://github.com/Unitech/pm2" target="_blank">PM2</a> *
 ![pm2](http://svgporn.com/logos/pm2.svg)
 
 ## <a href="https://podio.com/" target="_blank">Podio</a>
@@ -1015,7 +1015,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.scala-lang.org/" target="_blank">Scala</a>
 ![scala](http://svgporn.com/logos/scala.svg)
 
-## <a href="https://www.sencha.com/" target="_blank">Sencha Touch</a>
+## <a href="https://www.sencha.com/" target="_blank">Sencha Touch</a> *
 ![sencha](http://svgporn.com/logos/sencha.svg)
 
 ## <a href="https://segment.com/" target="_blank">Segment</a>
@@ -1063,7 +1063,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://stackoverflow.com/" target="_blank">Stack Overflow</a>
 ![stackoverflow](http://svgporn.com/logos/stackoverflow.svg)
 
-## <a href="http://stackshare.io/" target="_blank">stackshare</a>
+## <a href="http://stackshare.io/" target="_blank">stackshare</a> *
 ![stackshare](http://svgporn.com/logos/stackshare.svg)
 
 ## <a href="https://www.atlassian.com/software/stash" target="_blank">Stash</a>
@@ -1145,6 +1145,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.twilio.com/" target="_blank">Twilio</a>
 ![twilio](http://svgporn.com/logos/twilio.svg)
+
+## <a href="https://twitter.com/" target="_blank">Twitter</a>
+![twitter](http://svgporn.com/logos/twitter.svg)
 
 ## <a href="http://www.typeform.com/" target="_blank">Typeform</a>
 ![typeform](http://svgporn.com/logos/typeform.svg)
@@ -1231,7 +1234,7 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![wordpress](http://svgporn.com/logos/wordpress.svg)
 
-## <a href="http://www.wufoo.com/" target="_blank">Wufoo</a>
+## <a href="http://www.wufoo.com/" target="_blank">Wufoo</a> *
 ![wufoo](http://svgporn.com/logos/wufoo.svg)
 
 ## <a href="http://www.ycombinator.com/" target="_blank">YCombinator</a>

@@ -459,7 +459,7 @@
       "shortname": "blogger",
       "url": "https://www.blogger.com/",
       "tags": [
-        "blogging platform"
+        "blog platform"
       ],
       "categories": [
         "bloggers"
@@ -1217,7 +1217,7 @@
       "url": "http://buildwithcraft.com/",
       "tags": [
         "content management",
-        "blogging platform"
+        "blog platform"
       ],
       "categories": [
         "business",
@@ -2148,7 +2148,7 @@
       "url": "https://ghost.org/",
       "tags": [
         "content management",
-        "blogging platform"
+        "blog platform"
       ],
       "categories": [
         "bloggers"
@@ -3728,7 +3728,7 @@
       "shortname": "medium",
       "url": "https://medium.com/",
       "tags": [
-        "microblog"
+        "blog platform"
       ],
       "categories": [
         "bloggers"
@@ -5901,6 +5901,22 @@
         "DevOps"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Twitter",
+      "files": [
+        "twitter.svg"
+      ],
+      "shortname": "twitter",
+      "url": "https://twitter.com/",
+      "tags": [
+        "blogging",
+        "social network"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "Typeform",
