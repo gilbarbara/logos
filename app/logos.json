@@ -1239,7 +1239,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-07-27"
+      "added": "2015-07-27",
+      "converted": true
     },
     {
       "name": "CreateJS",
@@ -3174,7 +3175,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-07-31"
+      "added": "2015-07-31",
+      "converted": true
     },
     {
       "name": "Kinvey",
@@ -3747,7 +3749,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-31"
+      "added": "2015-07-31",
+      "converted": true
     },
     {
       "name": "Memcached",
@@ -4495,7 +4498,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-27"
+      "added": "2015-07-27",
+      "converted": true
     },
     {
       "name": "PhoneGap",
@@ -4638,7 +4642,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-07-31"
+      "added": "2015-07-31",
+      "converted": true
     },
     {
       "name": "Podio",
@@ -5213,7 +5218,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-30"
+      "added": "2015-07-30",
+      "converted": true
     },
     {
       "name": "Segment",
@@ -5470,7 +5476,8 @@
         "developers",
         "business"
       ],
-      "added": "2015-07-27"
+      "added": "2015-07-27",
+      "converted": true
     },
     {
       "name": "Stash",
@@ -6352,7 +6359,8 @@
         "business",
         "designers"
       ],
-      "added": "2015-07-28"
+      "added": "2015-07-28",
+      "converted": true
     },
     {
       "name": "YCombinator",
