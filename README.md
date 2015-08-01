@@ -149,6 +149,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://isocpp.org/" target="_blank">C++</a>
 ![c++](http://svgporn.com/logos/c++.svg)
 
+## <a href="https://cachethq.io/" target="_blank">Cachet</a>
+![cachet](http://svgporn.com/logos/cachet.svg)
+
 ## <a href="https://www.campaignmonitor.com/" target="_blank">Campaign Monitor</a>
 ![campaignmonitor](http://svgporn.com/logos/campaignmonitor.svg)
 
@@ -234,6 +237,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://cordova.apache.org/" target="_blank">Cordova</a> *
 ![cordova](http://svgporn.com/logos/cordova.svg)
+
+## <a href="https://coreos.com/" target="_blank">CoreOS</a>
+![coreos](http://svgporn.com/logos/coreos.svg)
 
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
 ![couchdb](http://svgporn.com/logos/couchdb.svg)
@@ -344,6 +350,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>
 ![engine-yard](http://svgporn.com/logos/engine-yard.svg)
+
+## <a href="http://www.envato.com/" target="_blank">Envato</a>
+![envato](http://svgporn.com/logos/envato.svg)
 
 ## <a href="http://enyojs.com/" target="_blank">Enyo</a> *
 ![enyo](http://svgporn.com/logos/enyo.svg)
@@ -613,6 +622,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://keen.io/" target="_blank">Keen IO</a>
 ![keen](http://svgporn.com/logos/keen.svg)
 
+## <a href="https://keymetrics.io/" target="_blank">Keymetrics</a>
+![keymetrics](http://svgporn.com/logos/keymetrics.svg)
+
 ## <a href="http://www.kinvey.com/" target="_blank">Kinvey</a>
 ![kinvey](http://svgporn.com/logos/kinvey.svg)
 
@@ -627,6 +639,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://krakenjs.com/" target="_blank">Krakenjs</a>
 ![krakenjs](http://svgporn.com/logos/krakenjs.svg)
+
+## <a href="http://kubernetes.io/" target="_blank">Kubernetes</a>
+![kubernets](http://svgporn.com/logos/kubernets.svg)
 
 ## <a href="http://laravel.com/" target="_blank">Laravel</a>
 ![laravel](http://svgporn.com/logos/laravel.svg)
@@ -719,8 +734,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://medium.com/" target="_blank">Medium</a>
 ![medium](http://svgporn.com/logos/medium.svg)
 
+## <a href="http://mean.io/" target="_blank">Mean</a>
+![meanio](http://svgporn.com/logos/meanio.svg)
+
 ## <a href="http://memcached.org/" target="_blank">Memcached</a>
 ![memcached](http://svgporn.com/logos/memcached.svg)
+
+## <a href="http://www.memsql.com/" target="_blank">MemSQL</a>
+![memsql](http://svgporn.com/logos/memsql.svg)
 
 ## <a href="https://mercurial.selenic.com/" target="_blank">Mercurial</a>
 ![mercurial](http://svgporn.com/logos/mercurial.svg)
@@ -753,6 +774,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.mongodb.org/" target="_blank">MongoDB</a>
 ![mongodb](http://svgporn.com/logos/mongodb.svg)
+
+## <a href="https://mongolab.com/" target="_blank">MongoLab</a>
+![mongolab](http://svgporn.com/logos/mongolab.svg)
 
 ## <a href="http://www.mono-project.com/" target="_blank">Mono</a>
 ![mono](http://svgporn.com/logos/mono.svg)
@@ -882,6 +906,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.playframework.com/" target="_blank">Play</a>
 ![play](http://svgporn.com/logos/play.svg)
+
+## <a href="https://github.com/Unitech/pm2" target="_blank">PM2</a>
+![pm2](http://svgporn.com/logos/pm2.svg)
 
 ## <a href="https://podio.com/" target="_blank">Podio</a>
 ![podio](http://svgporn.com/logos/podio.svg)
@@ -1086,6 +1113,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.teamwork.com/" target="_blank">teamwork</a>
 ![teamwork](http://svgporn.com/logos/teamwork.svg)
+
+## <a href="https://tectonic.com/" target="_blank">Tecnotic</a>
+![tectonic](http://svgporn.com/logos/tectonic.svg)
 
 ## <a href="https://en.todoist.com/" target="_blank">Todoist</a>
 ![todoist](http://svgporn.com/logos/todoist.svg)

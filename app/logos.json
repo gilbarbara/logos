@@ -663,6 +663,21 @@
       "added": "2015-07-06"
     },
     {
+      "name": "Cachet",
+      "files": [
+        "cachet.svg"
+      ],
+      "shortname": "cachet",
+      "url": "https://cachethq.io/",
+      "tags": [
+        "server status"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-31"
+    },
+    {
       "name": "Campaign Monitor",
       "files": [
         "campaignmonitor.svg"
@@ -1127,6 +1142,23 @@
       ],
       "added": "2015-07-24",
       "converted": true
+    },
+    {
+      "name": "CoreOS",
+      "files": [
+        "coreos.svg"
+      ],
+      "shortname": "coreos",
+      "url": "https://coreos.com/",
+      "tags": [
+        "operational system",
+        "linux",
+        "containers"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "CouchDB",
@@ -1709,6 +1741,22 @@
         "DevOps"
       ],
       "added": "2015-06-25"
+    },
+    {
+      "name": "Envato",
+      "files": [
+        "envato.svg"
+      ],
+      "shortname": "envato",
+      "url": "http://www.envato.com/",
+      "tags": [
+        "marketplace"
+      ],
+      "categories": [
+        "developers",
+        "designers"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "Enyo",
@@ -3113,6 +3161,22 @@
       "added": "2015-07-04"
     },
     {
+      "name": "Keymetrics",
+      "files": [
+        "keymetrics.svg"
+      ],
+      "shortname": "keymetrics",
+      "url": "https://keymetrics.io/",
+      "tags": [
+        "node.js",
+        "performance monitoring"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-31"
+    },
+    {
       "name": "Kinvey",
       "files": [
         "kinvey.svg"
@@ -3190,6 +3254,23 @@
         "developers"
       ],
       "added": "2015-06-23"
+    },
+    {
+      "name": "Kubernetes",
+      "files": [
+        "kubernets.svg"
+      ],
+      "shortname": "kubernets",
+      "url": "http://kubernetes.io/",
+      "tags": [
+        "linux",
+        "containers",
+        "docker"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "Laravel",
@@ -3653,6 +3734,22 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Mean",
+      "files": [
+        "meanio.svg"
+      ],
+      "shortname": "meanio",
+      "url": "http://mean.io/",
+      "tags": [
+        "javascript",
+        "fullstack framework"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-31"
+    },
+    {
       "name": "Memcached",
       "files": [
         "memcached.svg"
@@ -3666,6 +3763,22 @@
         "developers"
       ],
       "added": "2015-06-24"
+    },
+    {
+      "name": "MemSQL",
+      "files": [
+        "memsql.svg"
+      ],
+      "shortname": "memsql",
+      "url": "http://www.memsql.com/",
+      "tags": [
+        "database",
+        "in-memory"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "Mercurial",
@@ -3832,6 +3945,23 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "MongoLab",
+      "files": [
+        "mongolab.svg"
+      ],
+      "shortname": "mongolab",
+      "url": "https://mongolab.com/",
+      "tags": [
+        "mongoDB",
+        "DBaaS"
+      ],
+      "categories": [
+        "developers",
+        "designers"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "Mono",
@@ -4493,6 +4623,22 @@
         "developers"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "PM2",
+      "files": [
+        "pm2.svg"
+      ],
+      "shortname": "pm2",
+      "url": "https://github.com/Unitech/pm2",
+      "tags": [
+        "node.js",
+        "process manager"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "Podio",
@@ -5588,6 +5734,23 @@
         "teams"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Tecnotic",
+      "files": [
+        "tectonic.svg"
+      ],
+      "shortname": "tectonic",
+      "url": "https://tectonic.com/",
+      "tags": [
+        "linux",
+        "containers",
+        "PaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-07-31"
     },
     {
       "name": "Todoist",
