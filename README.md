@@ -1146,6 +1146,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.twilio.com/" target="_blank">Twilio</a>
 ![twilio](http://svgporn.com/logos/twilio.svg)
 
+## <a href="https://twitter.com/" target="_blank">Twitter</a>
+![twitter](http://svgporn.com/logos/twitter.svg)
+
 ## <a href="http://www.typeform.com/" target="_blank">Typeform</a>
 ![typeform](http://svgporn.com/logos/typeform.svg)
 
