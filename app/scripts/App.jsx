@@ -143,6 +143,7 @@ var App = React.createClass({
         var search;
         if (typeof e === 'object') {
             if (e.type === 'click') {
+                e.preventDefault();
                 e.currentTarget.parentNode.previousSibling.focus();
             }
             else if (e.type === 'input') {

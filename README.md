@@ -26,7 +26,7 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![android](http://svgporn.com/logos/android.svg)
 
-## <a href="https://angular.io/" target="_blank">Angular</a>
+## <a href="https://angular.io/" target="_blank">Angular</a> *
 ![angular](http://svgporn.com/logos/angular-icon.svg)
 
 ![angular](http://svgporn.com/logos/angular.svg)
@@ -997,7 +997,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.rust-lang.org/" target="_blank">Rust</a>
 ![rust](http://svgporn.com/logos/rust.svg)
 
-## <a href="https://www.apple.com/safari/" target="_blank">Safari</a>
+## <a href="https://www.apple.com/safari/" target="_blank">Safari</a> *
 ![safari](http://svgporn.com/logos/safari.svg)
 
 ## <a href="http://sailsjs.org/" target="_blank">Sails</a>

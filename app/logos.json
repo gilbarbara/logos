@@ -44,12 +44,14 @@
       "tags": [
         "javascript",
         "framework",
-        "front-end"
+        "front-end",
+        "vectorized"
       ],
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "converted": true
     },
     {
       "name": "Ansible",
@@ -298,7 +300,8 @@
       "tags": [
         "javascript",
         "compiler",
-        "postprocessor"
+        "postprocessor",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -443,7 +446,8 @@
       "url": "http://blocsapp.com/",
       "tags": [
         "prototyping",
-        "layout"
+        "layout",
+        "vectorized"
       ],
       "categories": [
         "designers"
@@ -493,11 +497,13 @@
         "css",
         "sass",
         "framework",
-        "ui"
+        "ui",
+        "vectorized"
       ],
       "categories": [
         "developers",
-        "designers"
+        "designers",
+        "vectorized"
       ],
       "added": "2015-06-11",
       "converted": true
@@ -592,8 +598,8 @@
       "tags": [
         "javascript",
         "node.js",
-        "tool",
-        "front-end"
+        "front-end",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -732,6 +738,7 @@
       "shortname": "capistrano",
       "url": "http://capistranorb.com/",
       "tags": [
+        "configuration manager",
         "automation tool"
       ],
       "categories": [
@@ -831,8 +838,8 @@
         "bdd",
         "tdd",
         "testing",
-        "assertion",
-        "mocha"
+        "mocha",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1047,7 +1054,8 @@
       "url": "https://codeship.com/",
       "tags": [
         "code deployment",
-        "continuous integration"
+        "continuous integration",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -1065,7 +1073,8 @@
       "tags": [
         "tutorials",
         "blog",
-        "reference"
+        "reference",
+        "vectorized"
       ],
       "categories": [
         "developers",
@@ -1100,7 +1109,8 @@
       "tags": [
         "css",
         "sass",
-        "framework"
+        "framework",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1117,7 +1127,8 @@
       "url": "https://github.com/componentjs/component",
       "tags": [
         "javascript",
-        "package manager"
+        "package manager",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1135,7 +1146,9 @@
       "tags": [
         "javascript",
         "mobile",
-        "mobile app framework"
+        "mobile app framework",
+        "cli",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1234,7 +1247,8 @@
       "url": "https://try.crashlytics.com/",
       "tags": [
         "mobile",
-        "mobile crash reporter"
+        "mobile crash reporter",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -1459,7 +1473,8 @@
       "shortname": "distelli",
       "url": "http://distelli.com/",
       "tags": [
-        "code deployment"
+        "code deployment",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1476,7 +1491,8 @@
       "url": "https://divshot.com/",
       "tags": [
         "code hosting",
-        "prototyping"
+        "prototyping",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -1573,7 +1589,8 @@
       "shortname": "drone",
       "url": "https://drone.io/",
       "tags": [
-        "continuous integration"
+        "continuous integration",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1769,7 +1786,8 @@
       "tags": [
         "javascript",
         "framework",
-        "front-end"
+        "front-end",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1816,7 +1834,8 @@
       "url": "http://eslint.org/",
       "tags": [
         "javascript",
-        "linter"
+        "linter",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -1832,7 +1851,8 @@
       "url": "http://www.eventsentry.com/",
       "tags": [
         "log manager",
-        "server monitoring"
+        "server monitoring",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -2014,7 +2034,8 @@
       "tags": [
         "javascript",
         "framework",
-        "front-end"
+        "front-end",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -2032,7 +2053,8 @@
       "tags": [
         "static type checker",
         "javascript",
-        "cli"
+        "cli",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -2100,7 +2122,8 @@
       "shortname": "framed.svg",
       "url": "http://framed.io/",
       "tags": [
-        "customer data analytics"
+        "customer data analytics",
+        "vectorized"
       ],
       "categories": [
         "business"
@@ -2164,7 +2187,8 @@
       "shortname": "git",
       "url": "https://git-scm.com/",
       "tags": [
-        "version control"
+        "version control",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -2246,7 +2270,8 @@
       "shortname": "google-analytics",
       "url": "http://www.google.com/analytics/",
       "tags": [
-        "customer data analytics"
+        "customer data analytics",
+        "vectorized"
       ],
       "categories": [
         "business"
@@ -2323,7 +2348,8 @@
       "shortname": "gnu",
       "url": "https://www.gnu.org/",
       "tags": [
-        "open source"
+        "open source",
+        "cli"
       ],
       "categories": [
         "hackers"
@@ -2340,7 +2366,8 @@
       "tags": [
         "java",
         "c",
-        "build automation"
+        "build automation",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -2373,7 +2400,8 @@
       "url": "https://grove.io/",
       "tags": [
         "team collaboration",
-        "IRC server"
+        "IRC server",
+        "vectorized"
       ],
       "categories": [
         "teams"
@@ -2391,7 +2419,8 @@
       "tags": [
         "javascript",
         "node.js",
-        "build automation"
+        "build automation",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -2408,7 +2437,8 @@
       "tags": [
         "javascript",
         "node.js",
-        "build automation"
+        "build automation",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -2441,7 +2471,8 @@
       "url": "http://hacklang.org/",
       "tags": [
         "language",
-        "php"
+        "php",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -2586,7 +2617,8 @@
       "url": "https://www.heroku.com/",
       "tags": [
         "cloud platform",
-        "PaaS"
+        "PaaS",
+        "cli"
       ],
       "categories": [
         "developers",
@@ -2620,7 +2652,8 @@
       "tags": [
         "php",
         "hack",
-        "virtual machine"
+        "virtual machine",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -2712,7 +2745,8 @@
       "shortname": "imagemin",
       "url": "https://github.com/imagemin/imagemin",
       "tags": [
-        "image optimization"
+        "image optimization",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -2746,7 +2780,8 @@
         "static analysis",
         "java",
         "objective c",
-        "c"
+        "c",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -2813,7 +2848,8 @@
       "tags": [
         "javascript",
         "node.js",
-        "back-end"
+        "back-end",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -2831,7 +2867,8 @@
       "tags": [
         "javascript",
         "mobile",
-        "mobile app framework"
+        "mobile app framework",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -3072,7 +3109,8 @@
       "url": "http://jscs.info/",
       "tags": [
         "linter",
-        "javascript"
+        "javascript",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -3120,7 +3158,9 @@
       "url": "http://jspm.io/",
       "tags": [
         "javascript",
-        "package manager"
+        "package manager",
+        "cli",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -3170,7 +3210,8 @@
       "url": "https://keymetrics.io/",
       "tags": [
         "node.js",
-        "performance monitoring"
+        "performance monitoring",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -3217,7 +3258,8 @@
       "url": "https://kitematic.com/",
       "tags": [
         "desktop app",
-        "docker"
+        "docker",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -3427,7 +3469,8 @@
       "url": "https://lodash.com/",
       "tags": [
         "javascript",
-        "library"
+        "library",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -3744,7 +3787,8 @@
       "url": "http://mean.io/",
       "tags": [
         "javascript",
-        "fullstack framework"
+        "fullstack framework",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -3809,7 +3853,8 @@
       "tags": [
         "javascript",
         "framework",
-        "front-end"
+        "front-end",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -3842,7 +3887,8 @@
       "tags": [
         "javascript",
         "framework",
-        "front-end"
+        "front-end",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -3876,7 +3922,8 @@
       "tags": [
         "bdd",
         "tdd",
-        "testing"
+        "testing",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -4153,7 +4200,8 @@
       "url": "https://nodejs.org/",
       "tags": [
         "javascript",
-        "back-end"
+        "back-end",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -4220,7 +4268,8 @@
       "tags": [
         "javascript",
         "node.js",
-        "package manager"
+        "package manager",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -4236,7 +4285,8 @@
       "url": "http://nuclide.io/",
       "tags": [
         "code editor",
-        "IDE"
+        "IDE",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -4493,7 +4543,8 @@
       "tags": [
         "elixir",
         "erlang",
-        "web framework"
+        "web framework",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -4512,7 +4563,8 @@
       "tags": [
         "javascript",
         "mobile",
-        "mobile app framework"
+        "mobile app framework",
+        "cli"
       ],
       "categories": [
         "developers"
@@ -4637,7 +4689,9 @@
       "url": "https://github.com/Unitech/pm2",
       "tags": [
         "node.js",
-        "process manager"
+        "process manager",
+        "cli",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -5118,13 +5172,14 @@
       "shortname": "safari",
       "url": "https://www.apple.com/safari/",
       "tags": [
-        "browser"
+        "browser",
+        "vectorized"
       ],
       "categories": [
         "geeks"
       ],
       "added": "2015-07-25",
-      "converter": true
+      "converted": true
     },
     {
       "name": "Sails",
@@ -5421,7 +5476,8 @@
       "url": "https://spring.io/",
       "tags": [
         "java",
-        "framework"
+        "framework",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -5469,8 +5525,9 @@
       "shortname": "stackshare",
       "url": "http://stackshare.io/",
       "tags": [
-        "tools",
-        "social"
+        "developer stack",
+        "social",
+        "vectorized"
       ],
       "categories": [
         "developers",
@@ -5504,7 +5561,8 @@
       "shortname": "statuspage",
       "url": "https://www.statuspage.io/",
       "tags": [
-        "server status"
+        "server status",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -5977,11 +6035,11 @@
       "shortname": "unitjs",
       "url": "http://unitjs.com/",
       "tags": [
+        "bdd",
+        "tdd",
         "testing",
         "unit testing",
-        "assertion",
-        "bdd",
-        "tdd"
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -6045,7 +6103,9 @@
       "url": "https://www.vagrantup.com/",
       "tags": [
         "configuration manager",
-        "ruby"
+        "ruby",
+        "cli",
+        "vectorized"
       ],
       "categories": [
         "DevOps"
@@ -6157,7 +6217,8 @@
       "tags": [
         "javascript",
         "library",
-        "front-end"
+        "front-end",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -6237,7 +6298,9 @@
       "tags": [
         "javascript",
         "node.js",
-        "build automation"
+        "build automation",
+        "cli",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -6253,7 +6316,8 @@
       "shortname": "webplatform",
       "url": "https://www.webplatform.org/",
       "tags": [
-        "reference"
+        "reference",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -6369,7 +6433,8 @@
       "shortname": "wufoo",
       "url": "http://www.wufoo.com/",
       "tags": [
-        "forms"
+        "forms",
+        "vectorized"
       ],
       "categories": [
         "business",
@@ -6401,7 +6466,8 @@
       "shortname": "yeoman",
       "url": "http://yeoman.io/",
       "tags": [
-        "development stack"
+        "scaffolding",
+        "cli"
       ],
       "categories": [
         "developers"
