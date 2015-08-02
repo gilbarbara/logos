@@ -26,7 +26,7 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![android](http://svgporn.com/logos/android.svg)
 
-## <a href="https://angularjs.org/" target="_blank">Angular</a>
+## <a href="https://angular.io/" target="_blank">Angular</a>
 ![angular](http://svgporn.com/logos/angular-icon.svg)
 
 ![angular](http://svgporn.com/logos/angular.svg)
