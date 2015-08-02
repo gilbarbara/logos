@@ -40,7 +40,7 @@
         "angular.svg"
       ],
       "shortname": "angular",
-      "url": "https://angularjs.org/",
+      "url": "https://angular.io/",
       "tags": [
         "javascript",
         "framework",
@@ -59,7 +59,7 @@
       "shortname": "ansible",
       "url": "http://www.ansible.com/",
       "tags": [
-        "configuration management",
+        "configuration manager",
         "python"
       ],
       "categories": [
@@ -361,7 +361,7 @@
       "shortname": "basekit",
       "url": "http://www.basekit.com/",
       "tags": [
-        "content management",
+        "content manager",
         "website builder"
       ],
       "categories": [
@@ -411,7 +411,7 @@
       "tags": [
         "git",
         "mercurial",
-        "code management"
+        "code manager"
       ],
       "categories": [
         "developers"
@@ -863,7 +863,7 @@
       "shortname": "chef",
       "url": "https://www.chef.io/",
       "tags": [
-        "configuration management",
+        "configuration manager",
         "code deployment",
         "IaaS",
         "ruby"
@@ -978,7 +978,7 @@
         "git",
         "mercurial",
         "subversion",
-        "code management",
+        "code manager",
         "issue tracker"
       ],
       "categories": [
@@ -1216,7 +1216,7 @@
       "shortname": "craft",
       "url": "http://buildwithcraft.com/",
       "tags": [
-        "content management",
+        "content manager",
         "blog platform"
       ],
       "categories": [
@@ -1606,7 +1606,7 @@
       "url": "https://www.drupal.org/",
       "tags": [
         "php",
-        "content management"
+        "content manager"
       ],
       "categories": [
         "developers"
@@ -1735,7 +1735,7 @@
       "url": "https://www.engineyard.com/",
       "tags": [
         "code deployment",
-        "code management",
+        "code manager",
         "PaaS"
       ],
       "categories": [
@@ -2147,7 +2147,7 @@
       "shortname": "ghost",
       "url": "https://ghost.org/",
       "tags": [
-        "content management",
+        "content manager",
         "blog platform"
       ],
       "categories": [
@@ -2182,7 +2182,7 @@
       "url": "https://github.com/",
       "tags": [
         "git",
-        "code management",
+        "code manager",
         "issue tracker"
       ],
       "categories": [
@@ -2200,7 +2200,7 @@
       "url": "https://about.gitlab.com/",
       "tags": [
         "git",
-        "code management",
+        "code manager",
         "continuous integration"
       ],
       "categories": [
@@ -3023,7 +3023,7 @@
       "shortname": "joomla",
       "url": "http://www.joomla.org/",
       "tags": [
-        "content management",
+        "content manager",
         "php",
         "mysql"
       ],
@@ -4781,7 +4781,7 @@
       "shortname": "puppet",
       "url": "https://puppetlabs.com/",
       "tags": [
-        "configuration management",
+        "configuration manager",
         "IaaS",
         "ruby"
       ],
@@ -5165,7 +5165,7 @@
       "shortname": "saltstack",
       "url": "http://saltstack.com/",
       "tags": [
-        "configuration management",
+        "configuration manager",
         "python"
       ],
       "categories": [
@@ -5437,7 +5437,7 @@
       "shortname": "squarespace",
       "url": "http://www.squarespace.com/",
       "tags": [
-        "content management",
+        "content manager",
         "website builder"
       ],
       "categories": [
@@ -5488,7 +5488,7 @@
       "url": "https://www.atlassian.com/software/stash",
       "tags": [
         "git",
-        "code management",
+        "code manager",
         "enterprise"
       ],
       "categories": [
@@ -6044,7 +6044,7 @@
       "shortname": "vagrant",
       "url": "https://www.vagrantup.com/",
       "tags": [
-        "configuration management",
+        "configuration manager",
         "ruby"
       ],
       "categories": [
@@ -6269,7 +6269,7 @@
       "shortname": "weebly",
       "url": "http://www.weebly.com/",
       "tags": [
-        "content management",
+        "content manager",
         "website builder"
       ],
       "categories": [
@@ -6333,7 +6333,7 @@
       "shortname": "wix",
       "url": "http://www.wix.com/",
       "tags": [
-        "content management",
+        "content manager",
         "website builder"
       ],
       "categories": [
@@ -6350,7 +6350,7 @@
       "shortname": "wordpress",
       "url": "https://wordpress.org/",
       "tags": [
-        "content management",
+        "content manager",
         "php",
         "mysql"
       ],
