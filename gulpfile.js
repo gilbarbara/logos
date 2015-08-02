@@ -4,6 +4,7 @@ var gulp               = require('gulp'),
     buffer             = require('vinyl-buffer'),
     browserSync        = require('browser-sync'),
     del                = require('del'),
+    exec               = require('child_process').exec,
     fs                 = require('fs'),
     historyApiFallback = require('connect-history-api-fallback'),
     merge              = require('merge-stream'),
@@ -210,13 +211,16 @@ gulp.task('clean', function (cb) {
     del([target() + '/*'], cb);
 });
 
-gulp.task('get-commit', function () {
-    return $.git.exec({ args: 'log -1 --pretty=%s" < "%b' }, function (err, stdout) {
-        if (err) {
-            throw err;
+gulp.task('get-commit', function (cb) {
+    exec('git log -1 --pretty=%s && git log -1 --pretty=%b', function (err, stdout, stderr) {
+        var parts = stdout.replace('\n\n', '').split('\n');
+
+        commitMessage = parts[0];
+        if (parts[1]) {
+            commitMessage += ' — ' + parts[1];
         }
 
-        commitMessage = stdout.replace(/(?:\r\n|\r|\n)/g, '');
+        cb(err);
     });
 });
 
