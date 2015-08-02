@@ -77,7 +77,8 @@ var App = React.createClass({
     _changeCategory (value) {
         this.setState({
             category: value,
-            tag: undefined
+            tag: undefined,
+            search: undefined
         });
         Storage.setItem('category', value);
     },
@@ -126,7 +127,8 @@ var App = React.createClass({
         this.setState({
             tag,
             tagCloudVisible: false,
-            category: 'everybody'
+            category: 'everybody',
+            search: undefined
         });
     },
 
@@ -137,8 +139,22 @@ var App = React.createClass({
         Storage.setItem('columns', num);
     },
 
-    _filterLogos (tag) {
+    _searchLogos (e) {
+        var search;
+        if (typeof e === 'object') {
+            if (e.type === 'click') {
+                e.currentTarget.parentNode.previousSibling.focus();
+            }
+            else if (e.type === 'input') {
+                search = e.target.value;
+            }
+        }
 
+        this.setState({
+            category: 'everybody',
+            search: search || undefined,
+            tag: undefined
+        });
     },
 
     _scrollTo (element = document.body, to = 0, duration = document.body.scrollTop) {
@@ -175,12 +191,16 @@ var App = React.createClass({
             visible = 0;
 
         state.logos.forEach(function (d, i) {
-            if (state.tag) {
+            if (state.search) {
+                hidden = d.name.toLowerCase().indexOf(state.search) === -1;
+            }
+            else if (state.tag) {
                 hidden = d.tags.indexOf(state.tag) === -1;
             }
             else {
                 hidden = state.category !== 'everybody' && d.categories.indexOf(state.category) === -1;
             }
+
             d.files.forEach(function (f, j) {
                 logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}/>);
 
@@ -190,26 +210,35 @@ var App = React.createClass({
             }, this);
         }, this);
 
+        logos.push(<li key="nothing" className="nothing">Nothing Found</li>);
+
         return (
             <div className="app">
                 <Isvg src="../media/icons.svg" uniquifyIDs={false}/>
 
                 <div className="container">
-                    <Header logos={state.logos} columns={state.columns} visible={visible}
-                            onClickChangeColumns={this._onClickChangeColumns}
-                            onClickShowTagCloud={this._onClickShowTags} tagCloudVisible={this.state.tagCloudVisible}
-                            changeTag={this._changeTag} tag={this.state.tag}
+                    <Header state={{
+                        logos: state.logos,
+                        category: state.category,
+                        categoryMenuVisible: state.categoryMenuVisible,
+                        columns: state.columns,
+                        search: state.search,
+                        tag: state.tag,
+                        tagCloudVisible: state.tagCloudVisible
+                    }} visible={visible} onClickChangeColumns={this._onClickChangeColumns}
+                            onSearch={this._searchLogos} changeCategory={this._changeCategory}
                             toggleCategoryMenu={this._toggleCategoryMenuVisibility}
-                            categoryMenuVisible={this.state.categoryMenuVisible}
-                            category={state.category} changeCategory={this._changeCategory}/>
+                            onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
+                        />
                     <main>
-                        <ul className={'logos col-' + state.columns}>
+                        <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
                         </ul>
                     </main>
                     <Footer />
                 </div>
-                <a href="#" onClick={this._scrollTop} className={'scroll-top' + (this.state.scrollable ? ' visible' : '')}><Icon id="caret-up"/></a>
+                <a href="#" onClick={this._scrollTop}
+                   className={'scroll-top' + (state.scrollable ? ' visible' : '')}><Icon id="caret-up"/></a>
             </div>
         );
     }

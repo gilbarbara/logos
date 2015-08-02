@@ -31,7 +31,7 @@ header {
     @include md {
       font-size: 2.2rem;
       margin-top: 2rem;
-      max-width: 80%;
+      max-width: 70%;
     }
 
     @include lg {
@@ -67,11 +67,8 @@ header {
         width: 100%;
       }
 
-      @at-root .isvg #caret-down path {
-        fill: $link-color;
-      }
-
       .icon {
+        fill: $link-color;
         margin-left: 5px;
       }
     }
@@ -126,6 +123,10 @@ header {
     width: 100%;
 
     @include sm {
+      width: 90%;
+    }
+
+    @include md {
       width: 70%;
     }
 
@@ -134,11 +135,62 @@ header {
     }
 
     > li {
-      text-align: center;
-      width: 100%;
+      text-align: left;
 
-      @include md {
-        text-align: left;
+      &:first-of-type {
+        width: 67%;
+
+        @include sm {
+          width: 100%;
+        }
+      }
+
+      &.search {
+        width: 32%;
+
+        @include sm {
+          width: 100%;
+        }
+
+        .search-box {
+          display: inline-block;
+          position: relative;
+          width: 100%;
+
+          @include sm {
+            width: 150px;
+          }
+
+          .icon {
+            fill: $link-color;
+            position: absolute;
+            right: 0;
+            top: 0;
+            transform: translate(-25%, 20%);
+          }
+
+          a .icon {
+            transform: translate(-25%, 27%);
+          }
+        }
+
+        input {
+          appearance: none;
+          background-color: rgba($link-color, 0.1);
+          border: 1px solid $link-color;
+          border-radius: 4px;
+          box-shadow: none;
+          color: $link-color;
+          display: inline-flex;
+          font-family: "Varela Round", sans-serif;
+          font-size: 1.4rem;
+          height: 24px;
+          line-height: 1;
+          margin: 0;
+          outline: none;
+          padding: 3px 22px 2px 8px;
+          width: 100%;
+        }
       }
 
       &:last-of-type {
@@ -146,6 +198,9 @@ header {
       }
 
       &.columns {
+        text-align: center;
+        width: 100%;
+
         @include sm-only {
           display: none;
         }
@@ -174,6 +229,7 @@ header {
         }
 
         .icon {
+          fill: #fff;
           margin-right: 3px;
         }
 

@@ -71,12 +71,8 @@ h6 {
       visibility: visible;
     }
 
-
-    @at-root .isvg #caret-up path {
-      fill: lighten($link-color, 10);
-    }
-
     .icon {
+      fill: lighten($link-color, 10);
       height: 20px;
       width: 20px;
     }
@@ -93,10 +89,6 @@ footer {
 
 .isvg {
   display: none;
-
-  path {
-    fill: #fff;
-  }
 }
 
 .icon {
