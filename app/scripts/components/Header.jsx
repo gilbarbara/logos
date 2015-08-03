@@ -137,14 +137,14 @@ var Header = React.createClass({
         if (state.ready) {
             if (config.features.tags) {
                 output.tagsMenu = (
-                    <li>
-                        <a href="#" className={'tags-button' + (props.state.tag ? ' tagged' : '')}
+                    <li className="menu__tags">
+                        <a href="#" className={props.state.tag ? ' tagged' : ''}
                            onClick={props.onClickShowTagCloud}>{!props.state.tag ? <span><Icon id="cloud"/>Tags</span> : <span>#{props.state.tag}<Icon id="times-circle"/></span>}</a>
                     </li>
                 );
                 output.tagCloud = (
-                    <div className="tags" onClick={props.onClickShowTagCloud}>
-                        <div className="tag-cloud">
+                    <div className="tag-cloud" onClick={props.onClickShowTagCloud}>
+                        <div className="tag-cloud__wrapper">
                             {state.tags.map((d, i) => {
                                 style = {
                                     fontSize: state.fontScale.value(d.value)
@@ -210,17 +210,16 @@ var Header = React.createClass({
 
                 <ul className="menu">
                     {output.tagsMenu}
-                    <li className="columns"><span className="title">Columns</span>
-
+                    <li className="menu__columns">
                         <div className="switch">
                             <a href="#" className={props.state.columns < 2 ? 'disabled' : ''} data-column="-1"
                                onClick={props.onClickChangeColumns}>-</a>
                             <a href="#" className={props.state.columns > 4 ? 'disabled' : ''} data-column="1"
                                onClick={props.onClickChangeColumns}>+</a>
                         </div>
-                        <span className="keyboard">or use your keyboard</span>
+                        <div className="keyboard">or use your keyboard</div>
                     </li>
-                    <li className="search">
+                    <li className="menu__search">
                         <div className="search-box">
                             <input type="text" name="search" value={props.state.search} onChange={props.onSearch}/><span className="input-icon">{props.state.search ? <a href="#" onClick={props.onSearch}><Icon id="times-circle"/></a> : <Icon id="search"/>}</span>
                         </div>

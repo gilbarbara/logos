@@ -131,11 +131,11 @@ header {
     }
 
     @include lg {
+      margin-top: 4rem;
       width: 50%;
     }
 
     > li {
-      text-align: left;
 
       &:first-of-type {
         width: 67%;
@@ -145,75 +145,15 @@ header {
         }
       }
 
-      &.search {
-        width: 32%;
-
-        @include sm {
-          width: 100%;
-        }
-
-        .search-box {
-          display: inline-block;
-          position: relative;
-          width: 100%;
-
-          @include sm {
-            width: 150px;
-          }
-
-          .icon {
-            fill: $link-color;
-            position: absolute;
-            right: 0;
-            top: 0;
-            transform: translate(-25%, 20%);
-          }
-
-          a .icon {
-            transform: translate(-25%, 27%);
-          }
-        }
-
-        input {
-          appearance: none;
-          background-color: rgba($link-color, 0.1);
-          border: 1px solid $link-color;
-          border-radius: 4px;
-          box-shadow: none;
-          color: $link-color;
-          display: inline-flex;
-          font-family: "Varela Round", sans-serif;
-          font-size: 1.4rem;
-          height: 24px;
-          line-height: 1;
-          margin: 0;
-          outline: none;
-          padding: 3px 22px 2px 8px;
-          width: 100%;
-        }
-      }
-
       &:last-of-type {
         text-align: right;
       }
+    }
 
-      &.columns {
-        text-align: center;
-        width: 100%;
+    &__tags {
+      text-align: left;
 
-        @include sm-only {
-          display: none;
-        }
-
-        .title {
-          color: lighten($link-color, 10%);
-          display: inline-block;
-          font-size: 1.6rem;
-          text-decoration: none;
-        }
-      }
-
-      .tags-button {
+      a {
         background-color: lighten($link-color, 10%);
         border-radius: 4px;
         color: #fff;
@@ -242,6 +182,39 @@ header {
           }
         }
       }
+    }
+
+    &__columns {
+      text-align: center;
+      width: 100%;
+
+      @include sm-only {
+        display: none;
+      }
+
+      .switch {
+        background-color: lighten($link-color, 10%);
+        border-radius: 5px;
+        display: inline-flex;
+
+        > a {
+          color: #fff;
+          display: flex;
+          font-size: 2rem;
+          line-height: 1;
+          padding: 0.2rem 1.3rem;
+          text-decoration: none !important;
+
+          &:last-of-type {
+            border-left: 1px solid $bg-color;
+          }
+
+          &.disabled {
+            color: lighten($link-color, 20%);
+            pointer-events: none;
+          }
+        }
+      }
 
       .keyboard {
         color: lighten($link-color, 15%);
@@ -251,34 +224,57 @@ header {
         vertical-align: middle;
       }
     }
-  }
 
-  .switch {
-    background-color: lighten($link-color, 10%);
-    border-radius: 5px;
-    display: inline-flex;
-    margin-left: 1rem;
+    &__search {
+      width: 32%;
 
-    > a {
-      color: #fff;
-      display: flex;
-      font-size: 2rem;
-      line-height: 1;
-      padding: 0.2rem 1.3rem;
-      text-decoration: none !important;
-
-      &:last-of-type {
-        border-left: 1px solid $bg-color;
+      @include sm {
+        width: 100%;
       }
 
-      &.disabled {
-        color: lighten($link-color, 20%);
-        pointer-events: none;
+      .search-box {
+        display: inline-block;
+        position: relative;
+        width: 100%;
+
+        @include sm {
+          width: 150px;
+        }
+
+        .icon {
+          fill: $link-color;
+          position: absolute;
+          right: 0;
+          top: 0;
+          transform: translate(-25%, 20%);
+        }
+
+        a .icon {
+          transform: translate(-25%, 27%);
+        }
+      }
+
+      input {
+        appearance: none;
+        background-color: rgba($link-color, 0.1);
+        border: 1px solid $link-color;
+        border-radius: 4px;
+        box-shadow: none;
+        color: $link-color;
+        display: inline-flex;
+        font-family: "Varela Round", sans-serif;
+        font-size: 1.4rem;
+        height: 24px;
+        line-height: 1;
+        margin: 0;
+        outline: none;
+        padding: 3px 22px 2px 8px;
+        width: 100%;
       }
     }
   }
 
-  .tags {
+  .tag-cloud {
     background-color: rgba($bg-color, 0.8);
     bottom: 0;
     cursor: pointer;
@@ -291,62 +287,63 @@ header {
     transition: opacity 0.5s, visibility 0.2s;
     visibility: hidden;
     z-index: 20;
-  }
 
-  .tag-cloud {
-    align-items: center;
-    display: inline-flex;
-    flex-flow: wrap;
-    justify-content: space-around;
-    margin: 15px;
-    pointer-events: none;
+    &__wrapper {
+      align-items: center;
+      display: inline-flex;
+      flex-flow: wrap;
+      justify-content: space-around;
+      margin: 15px;
+      pointer-events: none;
 
-    @include xs-only {
-      justify-content: flex-start;
-    }
-
-    a {
-      background-color: lighten($tag-color, 24);
-      border-radius: 5px;
-      color: #fff;
-      display: inline-block;
-      font-size: 1.2rem;
-      margin: 0.5rem;
-      padding: 0.5rem 1rem;
-      pointer-events: all;
-      text-decoration: none;
-      transform: translate(10%, -200%);
-      transform-origin: top;
-      transition: transform 0.2s 0.1s;
-
-      @include sm-only {
-        margin: 0.3rem;
+      @include xs-only {
+        justify-content: flex-start;
       }
 
-      &.tag-size {
-        &-1 {
-          background-color: adjust-hue(lighten($tag-color, 16), $tag-step);
-          font-size: 1.4rem;
+      a {
+        background-color: lighten($tag-color, 24);
+        border-radius: 5px;
+        color: #fff;
+        display: inline-block;
+        font-size: 1.2rem;
+        margin: 0.5rem;
+        opacity: 0.1;
+        padding: 0.5rem 1rem;
+        pointer-events: all;
+        text-decoration: none;
+        transform: translateY(-20%) scaleY(0.1);
+        transform-origin: top;
+        transition: transform 0.3s ease-in-out, opacity 0.2s 0.1s;
+
+        @include sm-only {
+          margin: 0.3rem;
         }
 
-        &-2 {
-          background-color: adjust-hue(lighten($tag-color, 8), $tag-step*2);
-          font-size: 1.6rem;
-        }
+        &.tag-size {
+          &-1 {
+            background-color: adjust-hue(lighten($tag-color, 16), $tag-step);
+            font-size: 1.4rem;
+          }
 
-        &-3 {
-          background-color: adjust-hue($tag-color, $tag-step*3);
-          font-size: 2rem;
-        }
+          &-2 {
+            background-color: adjust-hue(lighten($tag-color, 8), $tag-step*2);
+            font-size: 1.6rem;
+          }
 
-        &-4 {
-          background-color: adjust-hue($tag-color, $tag-step*4);
-          font-size: 2.2rem;
-        }
+          &-3 {
+            background-color: adjust-hue($tag-color, $tag-step*3);
+            font-size: 2rem;
+          }
 
-        &-5 {
-          background-color: adjust-hue($tag-color, $tag-step*5);
-          font-size: 2.4rem;
+          &-4 {
+            background-color: adjust-hue($tag-color, $tag-step*4);
+            font-size: 2.2rem;
+          }
+
+          &-5 {
+            background-color: adjust-hue($tag-color, $tag-step*5);
+            font-size: 2.4rem;
+          }
         }
       }
     }
@@ -362,7 +359,7 @@ header {
     position: fixed;
     right: 0;
     top: 0;
-    transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in-out;
     z-index: 10;
   }
 
@@ -380,14 +377,15 @@ header {
   }
 
   &.show-tags {
-    .tags {
+    .tag-cloud {
       opacity: 1;
       overflow: scroll;
       visibility: visible;
-    }
 
-    .tag-cloud a {
-      transform: translate(0);
+      a {
+        opacity: 1;
+        transform: translateY(0) scaleY(1);
+      }
     }
   }
 }

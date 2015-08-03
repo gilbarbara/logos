@@ -69,6 +69,10 @@
       position: absolute;
       right: 0;
       transition: color 0.3s;
+
+      @include md {
+        min-height: 62px;
+      }
     }
 
     h5 {
@@ -168,7 +172,7 @@
   &.col-4 {
     > li {
       @include md {
-        padding: 8vh 3vh;
+        padding: 6vh 3vh 12vh;
         width: percentage(1/4) !important;
       }
     }
@@ -181,7 +185,7 @@
       }
 
       @include lg {
-        padding: 8vh 5vh;
+        padding: 6vh 5vh 12vh;
       }
     }
   }
