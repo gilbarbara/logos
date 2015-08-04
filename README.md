@@ -64,6 +64,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://atom.io/" target="_blank">Atom</a>
 ![atom](http://svgporn.com/logos/atom.svg)
 
+## <a href="https://atomic.io/" target="_blank">atomic</a> *
+![atomic](http://svgporn.com/logos/atomic.svg)
+
 ## <a href="https://auth0.com/" target="_blank">Auth0</a>
 ![auth0](http://svgporn.com/logos/auth0.svg)
 
@@ -95,6 +98,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
 ![bash](http://svgporn.com/logos/bash.svg)
+
+## <a href="https://www.behance.net/" target="_blank">Bēhance</a>
+![behance](http://svgporn.com/logos/behance.svg)
 
 ## <a href="https://en.bem.info/" target="_blank">Bem</a>
 ![bem](http://svgporn.com/logos/bem.svg)
@@ -297,6 +303,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.designernews.co/" target="_blank">Designer News</a>
 ![designernews](http://svgporn.com/logos/designernews.svg)
 
+## <a href="http://www.deviantart.com/" target="_blank">DeviantArt</a>
+![deviantart](http://svgporn.com/logos/deviantart.svg)
+
 ## <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
 ![digitalocean](http://svgporn.com/logos/digitalocean.svg)
 
@@ -320,6 +329,11 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
 ![.net](http://svgporn.com/logos/dotnet.svg)
+
+## <a href="https://www.dribbble.com/" target="_blank">dribbble</a>
+![dribbble](http://svgporn.com/logos/dribbble-icon.svg)
+
+![dribbble](http://svgporn.com/logos/dribbble.svg)
 
 ## <a href="https://drone.io/" target="_blank">Drone</a> *
 ![drone](http://svgporn.com/logos/drone.svg)
@@ -612,6 +626,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://jquery.com/" target="_blank">jQuery</a>
 ![jquery](http://svgporn.com/logos/jquery.svg)
 
+## <a href="http://jruby.org/" target="_blank">JRuby</a>
+![jruby](http://svgporn.com/logos/jruby.svg)
+
 ## <a href="https://jsbin.com/" target="_blank">jsbin</a>
 ![jsbin](http://svgporn.com/logos/jsbin.svg)
 
@@ -738,6 +755,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://daringfireball.net/projects/markdown/" target="_blank">Markdown</a>
 ![markdown](http://svgporn.com/logos/markdown.svg)
+
+## <a href="https://marvelapp.com/" target="_blank">Marvel</a> *
+![marvel](http://svgporn.com/logos/marvel.svg)
 
 ## <a href="http://material-ui.com/" target="_blank">Material UI</a>
 ![material-ui](http://svgporn.com/logos/material-ui.svg)
@@ -954,6 +974,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.producteev.com/" target="_blank">Producteev</a>
 ![producteev](http://svgporn.com/logos/producteev.svg)
 
+## <a href="https://proto.io/" target="_blank">Proto.io</a> *
+![protoio](http://svgporn.com/logos/protoio.svg)
+
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a> *
 ![puppet](http://svgporn.com/logos/puppet.svg)
 
@@ -1062,6 +1085,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
 ![sinatra](http://svgporn.com/logos/sinatra.svg)
 
+## <a href="http://bohemiancoding.com/sketch/" target="_blank">Sketch</a> *
+![sketchapp](http://svgporn.com/logos/sketchapp.svg)
+
 ## <a href="https://slack.com/" target="_blank">slack</a>
 ![slack](http://svgporn.com/logos/slack.svg)
 
@@ -1124,6 +1150,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.suse.com/" target="_blank">Suse</a>
 ![suse](http://svgporn.com/logos/suse.svg)
+
+## <a href="http://susy.oddbird.net/" target="_blank">Susy</a>
+![susy](http://svgporn.com/logos/susy.svg)
 
 ## <a href="http://www.w3.org/Graphics/SVG/" target="_blank">SVG</a>
 ![svg](http://svgporn.com/logos/svg.svg)
