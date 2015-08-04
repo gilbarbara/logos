@@ -26,7 +26,7 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![android](http://svgporn.com/logos/android.svg)
 
-## <a href="https://angular.io/" target="_blank">Angular</a>
+## <a href="https://angular.io/" target="_blank">Angular</a> *
 ![angular](http://svgporn.com/logos/angular-icon.svg)
 
 ![angular](http://svgporn.com/logos/angular.svg)
@@ -131,6 +131,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://brandfolder.com/" target="_blank">Brandfolder</a>
 ![brandfolder](http://svgporn.com/logos/brandfolder.svg)
+
+## <a href="https://github.com/broccolijs/broccoli" target="_blank">Broccoli</a>
+![broccoli](http://svgporn.com/logos/broccoli.svg)
 
 ## <a href="http://browserify.org/" target="_blank">Browserify</a>
 ![browserify](http://svgporn.com/logos/browserify-icon.svg)
@@ -375,6 +378,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://fsharp.org/" target="_blank">F#</a>
 ![fsharp](http://svgporn.com/logos/fsharp.svg)
 
+## <a href="http://www.fabfile.org/" target="_blank">Fabric</a> *
+![fabric](http://svgporn.com/logos/fabric.svg)
+
 ## <a href="https://www.facebook.com/" target="_blank">Facebook</a>
 ![facebook](http://svgporn.com/logos/facebook.svg)
 
@@ -550,6 +556,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![instagram](http://svgporn.com/logos/instagram.svg)
 
+## <a href="https://www.intercom.io/" target="_blank">Intercom</a>
+![intercom](http://svgporn.com/logos/intercom.svg)
+
 ## <a href="http://windows.microsoft.com/en-us/internet-explorer/" target="_blank">Interner Explorer</a>
 ![internetexplorer](http://svgporn.com/logos/internetexplorer.svg)
 
@@ -633,6 +642,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://kitematic.com/" target="_blank">Kitematic</a> *
 ![kitematic](http://svgporn.com/logos/kitematic.svg)
+
+## <a href="http://knexjs.org/" target="_blank">Knex.js</a> *
+![knex](http://svgporn.com/logos/knex.svg)
 
 ## <a href="https://kraken.io/" target="_blank">Kraken</a>
 ![kraken](http://svgporn.com/logos/kraken.svg)
@@ -766,6 +778,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://modernizr.com/" target="_blank">Modernizr</a>
 ![modernizr](http://svgporn.com/logos/modernizr.svg)
 
+## <a href="https://modulus.io/" target="_blank">Modulus</a>
+![modulus](http://svgporn.com/logos/modulus.svg)
+
 ## <a href="http://momentjs.com/" target="_blank">Moment.js</a>
 ![momentjs](http://svgporn.com/logos/momentjs.svg)
 
@@ -859,6 +874,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
 ![optimizely](http://svgporn.com/logos/optimizely.svg)
+
+## <a href="http://facebook.github.io/origami/" target="_blank">Origami</a> *
+![origami](http://svgporn.com/logos/origami.svg)
 
 ## <a href="http://usepanda.com/" target="_blank">Panda</a>
 ![panda](http://svgporn.com/logos/panda.svg)
@@ -973,6 +991,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.w3.org/2001/sw/wiki/REST" target="_blank">Rest</a>
 ![rest](http://svgporn.com/logos/rest.svg)
 
+## <a href="http://www.rethinkdb.com/" target="_blank">RethinkDB</a> *
+![rethinkdb](http://svgporn.com/logos/rethinkdb.svg)
+
 ## <a href="http://basho.com/products/#riak" target="_blank">Riak</a>
 ![riak](http://svgporn.com/logos/riak.svg)
 
@@ -997,7 +1018,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.rust-lang.org/" target="_blank">Rust</a>
 ![rust](http://svgporn.com/logos/rust.svg)
 
-## <a href="https://www.apple.com/safari/" target="_blank">Safari</a>
+## <a href="https://www.apple.com/safari/" target="_blank">Safari</a> *
 ![safari](http://svgporn.com/logos/safari.svg)
 
 ## <a href="http://sailsjs.org/" target="_blank">Sails</a>
@@ -1020,6 +1041,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://segment.com/" target="_blank">Segment</a>
 ![segment](http://svgporn.com/logos/segment.svg)
+
+## <a href="http://semantic-ui.com/" target="_blank">Semantic UI</a> *
+![semantic-ui](http://svgporn.com/logos/semantic-ui.svg)
 
 ## <a href="https://semaphoreci.com/" target="_blank">Semaphore</a>
 ![semaphore](http://svgporn.com/logos/semaphore.svg)
@@ -1057,6 +1081,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://spring.io/" target="_blank">Spring</a> *
 ![spring](http://svgporn.com/logos/spring.svg)
 
+## <a href="https://squareup.com/" target="_blank">Square</a> *
+![square](http://svgporn.com/logos/square.svg)
+
 ## <a href="http://www.squarespace.com/" target="_blank">Squarespace</a>
 ![squarespace](http://svgporn.com/logos/squarespace.svg)
 
@@ -1074,6 +1101,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.appgyver.com/steroids" target="_blank">Steroids</a>
 ![steroids](http://svgporn.com/logos/steroids.svg)
+
+## <a href="https://strongloop.com/" target="_blank">StrongLoop</a> *
+![strongloop](http://svgporn.com/logos/strongloop.svg)
 
 ## <a href="https://struts.apache.org/" target="_blank">Struts</a>
 ![struts](http://svgporn.com/logos/struts.svg)
