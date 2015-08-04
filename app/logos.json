@@ -502,8 +502,7 @@
       ],
       "categories": [
         "developers",
-        "designers",
-        "vectorized"
+        "designers"
       ],
       "added": "2015-06-11",
       "converted": true
@@ -1558,7 +1557,7 @@
       "shortname": "dotcloud",
       "url": "https://www.dotcloud.com/",
       "tags": [
-        "cloud platform",
+        "cloud computing",
         "PaaS"
       ],
       "categories": [
@@ -1948,8 +1947,8 @@
       "url": "https://www.firebase.com/",
       "tags": [
         "database",
-        "cloud computing",
-        "BaaS"
+        "realtime",
+        "DBaaS"
       ],
       "categories": [
         "developers"
@@ -2366,7 +2365,7 @@
       "tags": [
         "java",
         "c",
-        "build automation",
+        "build tool",
         "vectorized"
       ],
       "categories": [
@@ -2419,7 +2418,7 @@
       "tags": [
         "javascript",
         "node.js",
-        "build automation",
+        "build tool",
         "cli"
       ],
       "categories": [
@@ -2437,7 +2436,7 @@
       "tags": [
         "javascript",
         "node.js",
-        "build automation",
+        "build tool",
         "cli"
       ],
       "categories": [
@@ -2616,7 +2615,7 @@
       "shortname": "heroku",
       "url": "https://www.heroku.com/",
       "tags": [
-        "cloud platform",
+        "cloud computing",
         "PaaS",
         "cli"
       ],
@@ -4180,7 +4179,7 @@
       "shortname": "nodejitsu",
       "url": "https://www.nodejitsu.com/",
       "tags": [
-        "cloud platform",
+        "cloud computing",
         "PaaS"
       ],
       "categories": [
@@ -6297,7 +6296,7 @@
       "tags": [
         "javascript",
         "node.js",
-        "build automation",
+        "build tool",
         "cli",
         "vectorized"
       ],
@@ -6547,8 +6546,7 @@
       "shortname": "zendesk",
       "url": "https://www.zendesk.com/",
       "tags": [
-        "php",
-        "customer service"
+        "customer support"
       ],
       "categories": [
         "business",
