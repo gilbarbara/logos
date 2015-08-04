@@ -1338,7 +1338,8 @@
     {
       "name": "CSS3",
       "files": [
-        "css-3.svg"
+        "css-3.svg",
+        "css-3_official.svg"
       ],
       "shortname": "css-3",
       "url": "http://www.w3.org/TR/CSS/",

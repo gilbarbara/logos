@@ -274,6 +274,8 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.w3.org/TR/CSS/" target="_blank">CSS3</a>
 ![css-3](http://svgporn.com/logos/css-3.svg)
 
+![css-3](http://svgporn.com/logos/css-3_official.svg)
+
 ## <a href="http://cssnext.io/" target="_blank">cssnext</a>
 ![cssnext](http://svgporn.com/logos/cssnext.svg)
 
