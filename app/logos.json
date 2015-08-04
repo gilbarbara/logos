@@ -587,6 +587,23 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Broccoli",
+      "files": [
+        "broccoli.svg"
+      ],
+      "shortname": "broccoli",
+      "url": "https://github.com/broccolijs/broccoli",
+      "tags": [
+        "node.js",
+        "build tool",
+        "cli"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-03"
+    },
+    {
       "name": "Browserify",
       "files": [
         "browserify-icon.svg",
@@ -1891,6 +1908,25 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Fabric",
+      "files": [
+        "fabric.svg"
+      ],
+      "shortname": "fabric",
+      "url": "http://www.fabfile.org/",
+      "tags": [
+        "configuration manager",
+        "code deployment",
+        "python",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-03",
+      "converted": true
+    },
+    {
       "name": "Facebook",
       "files": [
         "facebook.svg"
@@ -2806,6 +2842,23 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Intercom",
+      "files": [
+        "intercom.svg"
+      ],
+      "shortname": "intercom",
+      "url": "https://www.intercom.io/",
+      "tags": [
+        "customer support",
+        "email marketing",
+        "crm"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-03"
+    },
+    {
       "name": "Interner Explorer",
       "files": [
         "internetexplorer.svg"
@@ -3264,6 +3317,25 @@
         "DevOps"
       ],
       "added": "2015-07-07",
+      "converted": true
+    },
+    {
+      "name": "Knex.js",
+      "files": [
+        "knex.svg"
+      ],
+      "shortname": "knex",
+      "url": "http://knexjs.org/",
+      "tags": [
+        "javascript",
+        "library",
+        "database",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-03",
       "converted": true
     },
     {
@@ -3948,6 +4020,22 @@
       "added": "2015-06-11"
     },
     {
+      "name": "Modulus",
+      "files": [
+        "modulus.svg"
+      ],
+      "shortname": "modulus",
+      "url": "https://modulus.io/",
+      "tags": [
+        "cloud computing",
+        "PaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-03"
+    },
+    {
       "name": "Moment.js",
       "files": [
         "momentjs.svg"
@@ -4435,6 +4523,26 @@
         "business"
       ],
       "added": "2015-07-02"
+    },
+    {
+      "name": "Origami",
+      "files": [
+        "origami.svg"
+      ],
+      "shortname": "origami",
+      "url": "http://facebook.github.io/origami/",
+      "tags": [
+        "mobile",
+        "prototyping",
+        "layout",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "designers"
+      ],
+      "added": "2015-08-03",
+      "converted": true
     },
     {
       "name": "Panda",
@@ -5035,6 +5143,25 @@
       "added": "2015-06-11"
     },
     {
+      "name": "RethinkDB",
+      "files": [
+        "rethinkdb.svg"
+      ],
+      "shortname": "rethinkdb",
+      "url": "http://www.rethinkdb.com/",
+      "tags": [
+        "database",
+        "realtime",
+        "json",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-03",
+      "converted": true
+    },
+    {
       "name": "Riak",
       "files": [
         "riak.svg"
@@ -5291,6 +5418,27 @@
       "added": "2015-07-05"
     },
     {
+      "name": "Semantic UI",
+      "files": [
+        "semantic-ui.svg"
+      ],
+      "shortname": "semantic-ui",
+      "url": "http://semantic-ui.com/",
+      "tags": [
+        "css",
+        "less",
+        "framework",
+        "ui",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "designers"
+      ],
+      "added": "2015-08-03",
+      "converted": true
+    },
+    {
       "name": "Semaphore",
       "files": [
         "semaphore.svg"
@@ -5484,6 +5632,23 @@
       "converted": true
     },
     {
+      "name": "Square",
+      "files": [
+        "square.svg"
+      ],
+      "shortname": "square",
+      "url": "https://squareup.com/",
+      "tags": [
+        "payment service",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-03",
+      "converted": true
+    },
+    {
       "name": "Squarespace",
       "files": [
         "squarespace.svg"
@@ -5585,6 +5750,26 @@
         "developers"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "StrongLoop",
+      "files": [
+        "strongloop.svg"
+      ],
+      "shortname": "strongloop",
+      "url": "https://strongloop.com/",
+      "tags": [
+        "node.js",
+        "library",
+        "cli",
+        "mBaaS",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-03",
+      "converted": true
     },
     {
       "name": "Struts",
