@@ -225,6 +225,24 @@
       "added": "2015-06-13"
     },
     {
+      "name": "atomic",
+      "files": [
+        "atomic.svg"
+      ],
+      "shortname": "atomic",
+      "url": "https://atomic.io/",
+      "tags": [
+        "mobile",
+        "prototyping",
+        "ui"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04",
+      "converted": true
+    },
+    {
       "name": "Auth0",
       "files": [
         "auth0.svg"
@@ -388,6 +406,23 @@
       "added": "2015-06-11"
     },
     {
+      "name": "Bēhance",
+      "files": [
+        "behance.svg"
+      ],
+      "shortname": "behance",
+      "url": "https://www.behance.net/",
+      "tags": [
+        "social",
+        "portfolio",
+        "showcase"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04"
+    },
+    {
       "name": "Bem",
       "files": [
         "bem.svg"
@@ -444,8 +479,9 @@
       "shortname": "blocs",
       "url": "http://blocsapp.com/",
       "tags": [
+        "desktop app",
         "prototyping",
-        "layout",
+        "ui",
         "vectorized"
       ],
       "categories": [
@@ -1466,6 +1502,23 @@
       "added": "2015-07-07"
     },
     {
+      "name": "DeviantArt",
+      "files": [
+        "deviantart.svg"
+      ],
+      "shortname": "deviantart",
+      "url": "http://www.deviantart.com/",
+      "tags": [
+        "social",
+        "portfolio",
+        "showcase"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04"
+    },
+    {
       "name": "DigitalOcean",
       "files": [
         "digitalocean.svg"
@@ -1596,6 +1649,24 @@
         "developers"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "dribbble",
+      "files": [
+        "dribbble-icon.svg",
+        "dribbble.svg"
+      ],
+      "shortname": "dribbble",
+      "url": "https://www.dribbble.com/",
+      "tags": [
+        "social",
+        "portfolio",
+        "showcase"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04"
     },
     {
       "name": "Drone",
@@ -3138,6 +3209,22 @@
       "added": "2015-06-11"
     },
     {
+      "name": "JRuby",
+      "files": [
+        "jruby.svg"
+      ],
+      "shortname": "jruby",
+      "url": "http://jruby.org/",
+      "tags": [
+        "java",
+        "ruby"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04"
+    },
+    {
       "name": "jsbin",
       "files": [
         "jsbin.svg"
@@ -3801,6 +3888,24 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "Marvel",
+      "files": [
+        "marvel.svg"
+      ],
+      "shortname": "marvel",
+      "url": "https://marvelapp.com/",
+      "tags": [
+        "mobile",
+        "prototyping",
+        "ui"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04",
+      "converted": true
     },
     {
       "name": "Material UI",
@@ -4534,7 +4639,7 @@
       "tags": [
         "mobile",
         "prototyping",
-        "layout",
+        "ui",
         "vectorized"
       ],
       "categories": [
@@ -4761,7 +4866,6 @@
       "url": "https://www.pixelapse.com/",
       "tags": [
         "version control",
-        "layout",
         "ui"
       ],
       "categories": [
@@ -4896,7 +5000,7 @@
       "url": "https://precursorapp.com/",
       "tags": [
         "prototyping",
-        "layout"
+        "ui"
       ],
       "categories": [
         "designers"
@@ -4932,6 +5036,24 @@
         "teams"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "Proto.io",
+      "files": [
+        "protoio.svg"
+      ],
+      "shortname": "protoio",
+      "url": "https://proto.io/",
+      "tags": [
+        "mobile",
+        "prototyping",
+        "ui"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04",
+      "converted": true
     },
     {
       "name": "Puppet",
@@ -5518,6 +5640,24 @@
       "added": "2015-07-04"
     },
     {
+      "name": "Sketch",
+      "files": [
+        "sketchapp.svg"
+      ],
+      "shortname": "sketchapp",
+      "url": "http://bohemiancoding.com/sketch/",
+      "tags": [
+        "desktop app",
+        "prototyping",
+        "ui"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-04",
+      "converted": true
+    },
+    {
       "name": "slack",
       "files": [
         "slack.svg"
@@ -5866,6 +6006,24 @@
         "geeks"
       ],
       "added": "2015-07-26"
+    },
+    {
+      "name": "Susy",
+      "files": [
+        "susy.svg"
+      ],
+      "shortname": "susy",
+      "url": "http://susy.oddbird.net/",
+      "tags": [
+        "sass",
+        "grid",
+        "framework",
+        "ui"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-04"
     },
     {
       "name": "SVG",
