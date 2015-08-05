@@ -9,10 +9,9 @@
   "license": "CC0-1.0",
   "homepage": "http://gilbarbara.github.io/logos/",
   "dependencies": {
-    "lodash": "^3.10.0",
-    "lowdb": "^0.10.2",
+    "lodash": "^3.10",
     "react": "^0.13",
-    "react-inlinesvg": "^0.4.2"
+    "react-inlinesvg": "^0.4"
   },
   "devDependencies": {
     "babelify": "^6.1",
@@ -40,7 +39,7 @@
     "gulp-rename": "^1.2",
     "gulp-sass": "^2.0",
     "gulp-size": "^1.2",
-    "gulp-svg-sprite": "^1.2.6",
+    "gulp-svg-sprite": "^1.2",
     "gulp-tap": "^0.1",
     "gulp-uglify": "^1.2",
     "gulp-useref": "^1.2",

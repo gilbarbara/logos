@@ -2,7 +2,7 @@ var gulp               = require('gulp'),
     $                  = require('gulp-load-plugins')(),
     browserify         = require('browserify'),
     buffer             = require('vinyl-buffer'),
-    browserSync        = require('browser-sync'),
+    browserSync        = require('browser-sync').create(),
     del                = require('del'),
     exec               = require('child_process').exec,
     fs                 = require('fs'),
@@ -94,7 +94,8 @@ gulp.task('styles', function () {
         .pipe($.autoprefixer({
             browsers: ['last 4 versions']
         }))
-        .pipe(gulp.dest('.tmp/assets'));
+        .pipe(gulp.dest('.tmp/assets'))
+        .pipe(browserSync.stream());
 });
 
 gulp.task('media', function () {
@@ -257,10 +258,9 @@ gulp.task('deploy-master', function (cb) {
 });
 
 gulp.task('serve', ['assets'], function () {
-    browserSync({
+    browserSync.init({
         notify: true,
         logPrefix: 'logos',
-        files: ['app/*.html', '.tmp/assets/**/*.*', 'app/media/**/*', 'app/logos.json'],
         server: {
             baseDir: ['.tmp', 'app', './'],
             middleware: [middleware],
@@ -277,6 +277,9 @@ gulp.task('serve', ['assets'], function () {
     });
 
     gulp.watch('app/logos.json', ['readme']);
+    gulp.watch(['app/*.html', '.tmp/assets/app.js', 'app/media/**/*', 'app/logos.json']).on('change', function () {
+        browserSync.reload();
+    });
 });
 
 gulp.task('build', function (cb) {
