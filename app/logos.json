@@ -4261,7 +4261,10 @@
       "shortname": "nativescript",
       "url": "https://www.nativescript.org/",
       "tags": [
-        
+        "javascript",
+        "mobile",
+        "mobile app framework",
+        "cli"
       ],
       "categories": [
         "developers"

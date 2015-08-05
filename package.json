@@ -9,9 +9,10 @@
   "license": "CC0-1.0",
   "homepage": "http://gilbarbara.github.io/logos/",
   "dependencies": {
+    "lodash": "^3.10.0",
+    "lowdb": "^0.10.2",
     "react": "^0.13",
-    "react-inlinesvg": "^0.4.2",
-    "lodash": "^3.10.0"
+    "react-inlinesvg": "^0.4.2"
   },
   "devDependencies": {
     "babelify": "^6.1",
