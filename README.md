@@ -671,7 +671,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://keymetrics.io/" target="_blank">Keymetrics</a> *
 ![keymetrics](http://svgporn.com/logos/keymetrics.svg)
 
-## <a href="https://www.khanacademy.org/" target="_blank">khan_academy</a>
+## <a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>
 ![khan_academy](http://svgporn.com/logos/khan_academy.svg)
 
 ## <a href="http://www.kinvey.com/" target="_blank">Kinvey</a>
@@ -746,7 +746,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://lucenenet.apache.org/" target="_blank">Lucene.net</a>
 ![lucene.net](http://svgporn.com/logos/lucene.net.svg)
 
-## <a href="http://www.lynda.com/" target="_blank">lynda</a>
+## <a href="http://www.lynda.com/" target="_blank">lynda.com</a>
 ![lynda](http://svgporn.com/logos/lynda.svg)
 
 ## <a href="http://www.apple.com/osx/" target="_blank">Mac OS X</a>
@@ -1246,7 +1246,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.ubuntu.com/" target="_blank">ubuntu</a>
 ![ubuntu](http://svgporn.com/logos/ubuntu.svg)
 
-## <a href="https://www.udemy.com/" target="_blank">udemy</a>
+## <a href="https://www.udemy.com/" target="_blank">Udemy</a>
 ![udemy](http://svgporn.com/logos/udemy.svg)
 
 ## <a href="http://getuikit.com/" target="_blank">uikit</a>
