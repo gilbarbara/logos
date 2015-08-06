@@ -3457,7 +3457,7 @@
       "converted": true
     },
     {
-      "name": "khan_academy",
+      "name": "Khan Academy",
       "files": [
         "khan_academy.svg"
       ],
@@ -3861,7 +3861,7 @@
       "added": "2015-07-09"
     },
     {
-      "name": "lynda",
+      "name": "lynda.com",
       "files": [
         "lynda.svg"
       ],
@@ -6522,7 +6522,7 @@
       "added": "2015-07-26"
     },
     {
-      "name": "udemy",
+      "name": "Udemy",
       "files": [
         "udemy.svg"
       ],
