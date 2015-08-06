@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "name": "Aerospike",
+      "files": [
+        "aerospike.svg"
+      ],
+      "shortname": "aerospike",
+      "url": "http://www.aerospike.com/",
+      "tags": [
+        "database",
+        "nosql"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-05"
+    },
+    {
       "name": "Airbrake",
       "files": [
         "airbrake.svg"
@@ -1030,6 +1046,22 @@
       "added": "2015-07-09"
     },
     {
+      "name": "codecademy",
+      "files": [
+        "codecademy.svg"
+      ],
+      "shortname": "codecademy",
+      "url": "https://www.codecademy.com/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-05"
+    },
+    {
       "name": "Codecov",
       "files": [
         "codecov.svg"
@@ -1239,6 +1271,24 @@
         "developers"
       ],
       "added": "2015-06-14"
+    },
+    {
+      "name": "coursera",
+      "files": [
+        "coursera.svg"
+      ],
+      "shortname": "coursera",
+      "url": "https://www.coursera.org/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "business",
+        "designers",
+        "developers"
+      ],
+      "added": "2015-08-05"
     },
     {
       "name": "Coveralls",
@@ -1535,6 +1585,22 @@
       "added": "2015-06-25"
     },
     {
+      "name": "Disqus",
+      "files": [
+        "disqus.svg"
+      ],
+      "shortname": "disqus",
+      "url": "https://disqus.com/",
+      "tags": [
+        "comment system"
+      ],
+      "categories": [
+        "business",
+        "publishers"
+      ],
+      "added": "2015-08-05"
+    },
+    {
       "name": "distelli",
       "files": [
         "distelli.svg"
@@ -1684,6 +1750,22 @@
       ],
       "added": "2015-07-09",
       "converted": true
+    },
+    {
+      "name": "Dropbox",
+      "files": [
+        "dropbox.svg"
+      ],
+      "shortname": "dropbox",
+      "url": "https://www.dropbox.com/",
+      "tags": [
+        "cloud storage"
+      ],
+      "categories": [
+        "business",
+        "geeks"
+      ],
+      "added": "2015-08-05"
     },
     {
       "name": "Dropzone",
@@ -2430,6 +2512,22 @@
         "developers"
       ],
       "added": "2015-06-14"
+    },
+    {
+      "name": "Google Drive",
+      "files": [
+        "google-drive.svg"
+      ],
+      "shortname": "google-drive",
+      "url": "https://www.google.com/drive/",
+      "tags": [
+        "cloud storage"
+      ],
+      "categories": [
+        "business",
+        "geeks"
+      ],
+      "added": "2015-08-05"
     },
     {
       "name": "Go",
@@ -3359,6 +3457,24 @@
       "converted": true
     },
     {
+      "name": "khan_academy",
+      "files": [
+        "khan_academy.svg"
+      ],
+      "shortname": "khan_academy",
+      "url": "https://www.khanacademy.org/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "business",
+        "designers",
+        "developers"
+      ],
+      "added": "2015-08-05"
+    },
+    {
       "name": "Kinvey",
       "files": [
         "kinvey.svg"
@@ -3743,6 +3859,24 @@
         "developers"
       ],
       "added": "2015-07-09"
+    },
+    {
+      "name": "lynda",
+      "files": [
+        "lynda.svg"
+      ],
+      "shortname": "lynda",
+      "url": "http://www.lynda.com/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "business",
+        "designers",
+        "developers"
+      ],
+      "added": "2015-08-05"
     },
     {
       "name": "Mac OS X",
@@ -6239,6 +6373,23 @@
       "added": "2015-06-24"
     },
     {
+      "name": "treehouse",
+      "files": [
+        "treehouse.svg"
+      ],
+      "shortname": "treehouse",
+      "url": "https://teamtreehouse.com/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "designers",
+        "developers"
+      ],
+      "added": "2015-08-05"
+    },
+    {
       "name": "Trello",
       "files": [
         "trello.svg"
@@ -6271,6 +6422,24 @@
         "sharing"
       ],
       "added": "2015-07-24"
+    },
+    {
+      "name": "tuts+",
+      "files": [
+        "tutsplus.svg"
+      ],
+      "shortname": "tutsplus",
+      "url": "http://tutsplus.com/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "business",
+        "designers",
+        "developers"
+      ],
+      "added": "2015-08-05"
     },
     {
       "name": "Tux",
@@ -6351,6 +6520,24 @@
         "geeks"
       ],
       "added": "2015-07-26"
+    },
+    {
+      "name": "udemy",
+      "files": [
+        "udemy.svg"
+      ],
+      "shortname": "udemy",
+      "url": "https://www.udemy.com/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "business",
+        "designers",
+        "developers"
+      ],
+      "added": "2015-08-05"
     },
     {
       "name": "uikit",
