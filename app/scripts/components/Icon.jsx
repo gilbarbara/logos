@@ -1,6 +1,7 @@
-var React = require('react');
+var React    = require('react/addons');
 
 var Icon = React.createClass({
+    mixins: [React.addons.PureRenderMixin],
 
     propTypes: {
         id: React.PropTypes.string.isRequired

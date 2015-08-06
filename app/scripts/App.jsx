@@ -1,14 +1,17 @@
-var React   = require('react'),
+var React   = require('react/addons'),
     Isvg    = require('react-inlinesvg'),
-    Storage = require('./utils/Storage'),
+    _       = require('lodash'),
     Header  = require('./components/Header'),
     Footer  = require('./components/Footer'),
     Loader  = require('./components/Loader'),
     Logo    = require('./components/Logo'),
     Icon    = require('./components/Icon'),
+    Storage = require('./utils/Storage'),
     json    = require('../logos.json');
 
 var App = React.createClass({
+    mixins: [React.addons.PureRenderMixin],
+
     getInitialState () {
         return {
             category: 'everybody',
@@ -188,10 +191,15 @@ var App = React.createClass({
     render () {
         var state   = this.state,
             hidden,
+            db = state.logos,
             logos   = [],
             visible = 0;
 
-        state.logos.forEach(function (d, i) {
+        if (location.hash === '#latest') {
+            db = _.chain(json.items).sortByOrder(['added', 'name'], ['desc', 'asc']).value();
+        }
+
+        db.forEach(function (d, i) {
             if (state.search) {
                 hidden = d.name.toLowerCase().indexOf(state.search) === -1;
             }

@@ -1,5 +1,4 @@
 var React    = require('react/addons'),
-    lodash   = require('lodash'),
     Colors   = require('../utils/Colors'),
     ScaleLog = require('../utils/ScaleLog'),
     config   = require('../config'),

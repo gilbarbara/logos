@@ -6,13 +6,13 @@ SVG Logos
 The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc).
 Some were recreated from rastered images.
 
-## Tips for working with SVGs
-• Always convert borders to paths. They use a fixed size and behave strangely when resized.
-• Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
-
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
 Please add your requests in the issues preferably with links to the vector files.
+
+## Tips for working with SVGs
+• Always convert borders to paths. They use a fixed size and behave strangely when resized.
+• Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
 
 *All logos appearing on the site are the property of their respective owners.*
 
@@ -182,12 +182,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.centos.org/" target="_blank">CentOS</a>
 ![centos](http://svgporn.com/logos/centos.svg)
 
-## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
-![codeclimate](http://svgporn.com/logos/codeclimate.svg)
-
-## <a href="http://codecov.io/" target="_blank">Codecov</a>
-![codecov](http://svgporn.com/logos/codecov.svg)
-
 ## <a href="http://chaijs.com/" target="_blank">Chai</a> *
 ![chai](http://svgporn.com/logos/chai.svg)
 
@@ -215,8 +209,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://cocoapods.org/" target="_blank">CocoaPods</a>
 ![cocoapods](http://svgporn.com/logos/cocoapods.svg)
 
+## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
+![codeclimate](http://svgporn.com/logos/codeclimate.svg)
+
 ## <a href="https://www.codebasehq.com/" target="_blank">Codebase</a>
 ![codebase](http://svgporn.com/logos/codebase.svg)
+
+## <a href="http://codecov.io/" target="_blank">Codecov</a>
+![codecov](http://svgporn.com/logos/codecov.svg)
 
 ## <a href="http://www.codeigniter.com/" target="_blank">CodeIgniter</a>
 ![codeigniter](http://svgporn.com/logos/codeigniter.svg)
