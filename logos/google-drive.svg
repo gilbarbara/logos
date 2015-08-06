@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="222px" viewBox="0 0 256 222" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6C338" offset="0%"></stop>
+            <stop stop-color="#FFD351" offset="52.2782398%"></stop>
+            <stop stop-color="#F6C338" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#286EE6" offset="0%"></stop>
+            <stop stop-color="#4286FB" offset="52.1046125%"></stop>
+            <stop stop-color="#286EE6" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.2893066%" y1="0%" x2="35.9954834%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#069B5A" offset="0%"></stop>
+            <stop stop-color="#11AA62" offset="53.1031222%"></stop>
+            <stop stop-color="#069B5A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+	<g>
+		<path d="M83.3,0 L172.3,0 L256,144.3 L166.8,144.3 L83.3,0 Z" fill="url(#linearGradient-1)"></path>
+		<path d="M256,144.3 L211.4,221.4 L44.4,221.4 L89.1,144.3 L256,144.3 Z" fill="url(#linearGradient-2)"></path>
+		<path d="M44.4,221.4 L0,144.3 L83.3,0 L128,77.3 L44.4,221.4 Z" fill="url(#linearGradient-3)"></path>
+		<path d="M44.4,221.4 L127.5,144.3 L89.1,144.3 L44.4,221.4 Z" opacity="0.1" fill="#000000"></path>
+		<path d="M256,144.3 L166.9,144.3 L147.3,110.5 L256,144.3 Z" opacity="0.1" fill="#000000"></path>
+		<path d="M83.3,0 L109,110 L128,77.3 L83.3,0 Z" opacity="0.1" fill="#000000"></path>
+	</g>
+</svg>

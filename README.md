@@ -6,17 +6,20 @@ SVG Logos
 The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc).
 Some were recreated from rastered images.
 
-## Tips for working with SVGs
-• Always convert borders to paths. They use a fixed size and behave strangely when resized.
-• Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
-
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
 Please add your requests in the issues preferably with links to the vector files.
 
+## Tips for working with SVGs
+• Always convert borders to paths. They use a fixed size and behave strangely when resized.
+• Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
+
 *All logos appearing on the site are the property of their respective owners.*
 
 ---
+
+## <a href="http://www.aerospike.com/" target="_blank">Aerospike</a>
+![aerospike](http://svgporn.com/logos/aerospike.svg)
 
 ## <a href="https://airbrake.io/" target="_blank">Airbrake</a>
 ![airbrake](http://svgporn.com/logos/airbrake.svg)
@@ -182,12 +185,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.centos.org/" target="_blank">CentOS</a>
 ![centos](http://svgporn.com/logos/centos.svg)
 
-## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
-![codeclimate](http://svgporn.com/logos/codeclimate.svg)
-
-## <a href="http://codecov.io/" target="_blank">Codecov</a>
-![codecov](http://svgporn.com/logos/codecov.svg)
-
 ## <a href="http://chaijs.com/" target="_blank">Chai</a> *
 ![chai](http://svgporn.com/logos/chai.svg)
 
@@ -215,8 +212,17 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://cocoapods.org/" target="_blank">CocoaPods</a>
 ![cocoapods](http://svgporn.com/logos/cocoapods.svg)
 
+## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
+![codeclimate](http://svgporn.com/logos/codeclimate.svg)
+
 ## <a href="https://www.codebasehq.com/" target="_blank">Codebase</a>
 ![codebase](http://svgporn.com/logos/codebase.svg)
+
+## <a href="https://www.codecademy.com/" target="_blank">codecademy</a>
+![codecademy](http://svgporn.com/logos/codecademy.svg)
+
+## <a href="http://codecov.io/" target="_blank">Codecov</a>
+![codecov](http://svgporn.com/logos/codecov.svg)
 
 ## <a href="http://www.codeigniter.com/" target="_blank">CodeIgniter</a>
 ![codeigniter](http://svgporn.com/logos/codeigniter.svg)
@@ -252,6 +258,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
 ![couchdb](http://svgporn.com/logos/couchdb.svg)
+
+## <a href="https://www.coursera.org/" target="_blank">coursera</a>
+![coursera](http://svgporn.com/logos/coursera.svg)
 
 ## <a href="https://coveralls.io/" target="_blank">Coveralls</a>
 ![coveralls](http://svgporn.com/logos/coveralls.svg)
@@ -309,6 +318,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
 ![digitalocean](http://svgporn.com/logos/digitalocean.svg)
 
+## <a href="https://disqus.com/" target="_blank">Disqus</a>
+![disqus](http://svgporn.com/logos/disqus.svg)
+
 ## <a href="http://distelli.com/" target="_blank">distelli</a> *
 ![distelli](http://svgporn.com/logos/distelli.svg)
 
@@ -337,6 +349,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://drone.io/" target="_blank">Drone</a> *
 ![drone](http://svgporn.com/logos/drone.svg)
+
+## <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>
+![dropbox](http://svgporn.com/logos/dropbox.svg)
 
 ## <a href="http://www.dropzonejs.com/" target="_blank">Dropzone</a>
 ![dropzone](http://svgporn.com/logos/dropzone.svg)
@@ -482,6 +497,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://developers.google.com/" target="_blank">Google Developers</a>
 ![google-developers](http://svgporn.com/logos/google-developers.svg)
+
+## <a href="https://www.google.com/drive/" target="_blank">Google Drive</a>
+![google-drive](http://svgporn.com/logos/google-drive.svg)
 
 ## <a href="https://golang.org/" target="_blank">Go</a>
 ![go](http://svgporn.com/logos/gopher.svg)
@@ -653,6 +671,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://keymetrics.io/" target="_blank">Keymetrics</a> *
 ![keymetrics](http://svgporn.com/logos/keymetrics.svg)
 
+## <a href="https://www.khanacademy.org/" target="_blank">khan_academy</a>
+![khan_academy](http://svgporn.com/logos/khan_academy.svg)
+
 ## <a href="http://www.kinvey.com/" target="_blank">Kinvey</a>
 ![kinvey](http://svgporn.com/logos/kinvey.svg)
 
@@ -724,6 +745,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://lucenenet.apache.org/" target="_blank">Lucene.net</a>
 ![lucene.net](http://svgporn.com/logos/lucene.net.svg)
+
+## <a href="http://www.lynda.com/" target="_blank">lynda</a>
+![lynda](http://svgporn.com/logos/lynda.svg)
 
 ## <a href="http://www.apple.com/osx/" target="_blank">Mac OS X</a>
 ![macosx](http://svgporn.com/logos/macosx.svg)
@@ -1193,6 +1217,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://travis-ci.org/" target="_blank">Travis CI</a>
 ![travis-ci](http://svgporn.com/logos/travis-ci.svg)
 
+## <a href="https://teamtreehouse.com/" target="_blank">treehouse</a>
+![treehouse](http://svgporn.com/logos/treehouse.svg)
+
 ## <a href="https://trello.com/" target="_blank">Trello</a>
 ![trello](http://svgporn.com/logos/trello.svg)
 
@@ -1200,6 +1227,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![tumblr](http://svgporn.com/logos/tumblr-icon.svg)
 
 ![tumblr](http://svgporn.com/logos/tumblr.svg)
+
+## <a href="http://tutsplus.com/" target="_blank">tuts+</a>
+![tutsplus](http://svgporn.com/logos/tutsplus.svg)
 
 ## <a href="https://en.wikipedia.org/wiki/Tux" target="_blank">Tux</a>
 ![tux](http://svgporn.com/logos/tux.svg)
@@ -1215,6 +1245,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.ubuntu.com/" target="_blank">ubuntu</a>
 ![ubuntu](http://svgporn.com/logos/ubuntu.svg)
+
+## <a href="https://www.udemy.com/" target="_blank">udemy</a>
+![udemy](http://svgporn.com/logos/udemy.svg)
 
 ## <a href="http://getuikit.com/" target="_blank">uikit</a>
 ![uikit](http://svgporn.com/logos/uikit.svg)
