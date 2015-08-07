@@ -690,6 +690,40 @@
       "added": "2015-06-30"
     },
     {
+      "name": "Browsersync",
+      "files": [
+        "browsersync.svg"
+      ],
+      "shortname": "browsersync",
+      "url": "http://www.browsersync.io/",
+      "tags": [
+        "live reloading"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-06"
+    },
+    {
+      "name": "Buck",
+      "files": [
+        "buck.svg"
+      ],
+      "shortname": "buck",
+      "url": "https://buckbuild.com/",
+      "tags": [
+        "mobile",
+        "android",
+        "build tool",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-06",
+      "converted": true
+    },
+    {
       "name": "BugHerd",
       "files": [
         "bugherd.svg"
@@ -1220,6 +1254,43 @@
       "converted": true
     },
     {
+      "name": "ComponentKit",
+      "files": [
+        "componentkit.svg"
+      ],
+      "shortname": "componentkit",
+      "url": "http://componentkit.org/",
+      "tags": [
+        "mobile",
+        "mobile framework",
+        "ios",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-06",
+      "converted": true
+    },
+    {
+      "name": "concrete5",
+      "files": [
+        "concrete5.svg"
+      ],
+      "shortname": "concrete5",
+      "url": "http://www.concrete5.org/",
+      "tags": [
+        "content manager",
+        "php",
+        "mysql"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-06",
+      "converted": true
+    },
+    {
       "name": "Cordova",
       "files": [
         "cordova.svg"
@@ -1502,6 +1573,21 @@
         "geeks"
       ],
       "added": "2015-07-26"
+    },
+    {
+      "name": "Delicious",
+      "files": [
+        "delicious.svg"
+      ],
+      "shortname": "delicious",
+      "url": "https://delicious.com/",
+      "tags": [
+        "bookmark manager"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-06"
     },
     {
       "name": "DeliciousDB",
@@ -4153,6 +4239,21 @@
       "added": "2015-07-05"
     },
     {
+      "name": "Mesos",
+      "files": [
+        "mesos.svg"
+      ],
+      "shortname": "mesos",
+      "url": "http://mesos.apache.org/",
+      "tags": [
+        "distributed computing"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-06"
+    },
+    {
       "name": "Meteor",
       "files": [
         "meteor-icon.svg",
@@ -4655,6 +4756,22 @@
       "added": "2015-07-01"
     },
     {
+      "name": "OCaml",
+      "files": [
+        "ocaml.svg"
+      ],
+      "shortname": "ocaml",
+      "url": "https://ocaml.org/",
+      "tags": [
+        "language",
+        "dialect"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-06"
+    },
+    {
       "name": "Open Graph",
       "files": [
         "open-graph.svg"
@@ -4717,6 +4834,23 @@
         "developers"
       ],
       "added": "2015-07-02"
+    },
+    {
+      "name": "OpenShift",
+      "files": [
+        "openshift.svg"
+      ],
+      "shortname": "openshift",
+      "url": "https://www.openshift.com/",
+      "tags": [
+        "cloud computing",
+        "PaaS"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-06",
+      "converted": true
     },
     {
       "name": "openstack",
@@ -7079,7 +7213,8 @@
       "shortname": "zendesk",
       "url": "https://www.zendesk.com/",
       "tags": [
-        "customer support"
+        "customer support",
+        "help desk"
       ],
       "categories": [
         "business",
@@ -7104,6 +7239,24 @@
         "teams"
       ],
       "added": "2015-07-15"
+    },
+    {
+      "name": "Zoho",
+      "files": [
+        "zoho.svg"
+      ],
+      "shortname": "zoho",
+      "url": "http://www.zoho.com/",
+      "tags": [
+        "crm",
+        "project manager",
+        "help desk"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-06",
+      "converted": true
     }
   ]
 }
