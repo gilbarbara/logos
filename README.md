@@ -152,6 +152,12 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.browserstack.com/" target="_blank">BrowserStack</a>
 ![browserstack](http://svgporn.com/logos/browserstack.svg)
 
+## <a href="http://www.browsersync.io/" target="_blank">Browsersync</a>
+![browsersync](http://svgporn.com/logos/browsersync.svg)
+
+## <a href="https://buckbuild.com/" target="_blank">Buck</a> *
+![buck](http://svgporn.com/logos/buck.svg)
+
 ## <a href="http://bugherd.com/" target="_blank">BugHerd</a>
 ![bugherd](http://svgporn.com/logos/bugherd.svg)
 
@@ -250,6 +256,12 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/componentjs/component" target="_blank">Component</a> *
 ![component](http://svgporn.com/logos/component.svg)
 
+## <a href="http://componentkit.org/" target="_blank">ComponentKit</a> *
+![componentkit](http://svgporn.com/logos/componentkit.svg)
+
+## <a href="http://www.concrete5.org/" target="_blank">concrete5</a> *
+![concrete5](http://svgporn.com/logos/concrete5.svg)
+
 ## <a href="https://cordova.apache.org/" target="_blank">Cordova</a> *
 ![cordova](http://svgporn.com/logos/cordova.svg)
 
@@ -302,6 +314,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.debian.org/" target="_blank">debian</a>
 ![debian](http://svgporn.com/logos/debian.svg)
+
+## <a href="https://delicious.com/" target="_blank">Delicious</a>
+![delicious](http://svgporn.com/logos/delicious.svg)
 
 ## <a href="http://deliciousdb.com/" target="_blank">DeliciousDB</a>
 ![deliciousdb](http://svgporn.com/logos/delicious-burger.svg)
@@ -804,6 +819,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://mercurial.selenic.com/" target="_blank">Mercurial</a>
 ![mercurial](http://svgporn.com/logos/mercurial.svg)
 
+## <a href="http://mesos.apache.org/" target="_blank">Mesos</a>
+![mesos](http://svgporn.com/logos/mesos.svg)
+
 ## <a href="https://www.meteor.com/" target="_blank">Meteor</a>
 ![meteor](http://svgporn.com/logos/meteor-icon.svg)
 
@@ -900,6 +918,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://oauth.net/" target="_blank">OAuth</a>
 ![oauth](http://svgporn.com/logos/oauth.svg)
 
+## <a href="https://ocaml.org/" target="_blank">OCaml</a>
+![ocaml](http://svgporn.com/logos/ocaml.svg)
+
 ## <a href="http://ogp.me/" target="_blank">Open Graph</a>
 ![open-graph](http://svgporn.com/logos/open-graph.svg)
 
@@ -911,6 +932,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://openlayers.org/" target="_blank">OpenLayers</a>
 ![openlayers](http://svgporn.com/logos/openlayers.svg)
+
+## <a href="https://www.openshift.com/" target="_blank">OpenShift</a> *
+![openshift](http://svgporn.com/logos/openshift.svg)
 
 ## <a href="https://www.openstack.org/" target="_blank">openstack</a> *
 ![openstack](http://svgporn.com/logos/openstack.svg)
@@ -1354,6 +1378,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.zenhub.io/" target="_blank">Zenhub</a>
 ![zenhub](http://svgporn.com/logos/zenhub.svg)
+
+## <a href="http://www.zoho.com/" target="_blank">Zoho</a> *
+![zoho](http://svgporn.com/logos/zoho.svg)
 
 
 ---
