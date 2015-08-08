@@ -44,7 +44,7 @@ var Header = React.createClass({
                 });
             });
 
-            categories = [{ key: 'categories', value: 0 }].concat(this._sortObject(categories, 'value'));
+            categories = this._sortObject(categories, 'value');
         }
 
         if (config.features.tags) {
@@ -83,6 +83,7 @@ var Header = React.createClass({
             if (obj.hasOwnProperty(prop)) {
                 arr.push({
                     key: prop,
+                    title: prop,
                     value: obj[prop]
                 });
             }
@@ -128,7 +129,7 @@ var Header = React.createClass({
     render () {
         var props      = this.props,
             state      = this.state,
-            categories = props.state.category,
+            categories = state.categories,
             output     = {},
             style,
             classes;
@@ -138,7 +139,8 @@ var Header = React.createClass({
                 output.tagsMenu = (
                     <li className="menu__tags">
                         <a href="#" className={props.state.tag ? ' tagged' : ''}
-                           onClick={props.onClickShowTagCloud}>{!props.state.tag ? <span><Icon id="cloud"/>Tags</span> : <span>#{props.state.tag}<Icon id="times-circle"/></span>}</a>
+                           onClick={props.onClickShowTagCloud}>{!props.state.tag ? <span><Icon id="cloud"/>Tags</span> :
+                            <span>#{props.state.tag}<Icon id="times-circle"/></span>}</a>
                     </li>
                 );
                 output.tagCloud = (
@@ -149,33 +151,40 @@ var Header = React.createClass({
                                     fontSize: state.fontScale.value(d.value)
                                 };
                                 switch (Math.min(Math.ceil(d.value < 5 ? 0 : d.value / 10), 5)) {
-                                    case 5: {
+                                    case 5:
+                                    {
                                         classes = 'tag-size-5';
                                         break;
                                     }
-                                    case 4: {
+                                    case 4:
+                                    {
                                         classes = 'tag-size-4';
                                         break;
                                     }
-                                    case 3: {
+                                    case 3:
+                                    {
                                         classes = 'tag-size-3';
                                         break;
                                     }
-                                    case 2: {
+                                    case 2:
+                                    {
                                         classes = 'tag-size-2';
                                         break;
                                     }
-                                    case 1: {
+                                    case 1:
+                                    {
                                         classes = 'tag-size-1';
                                         break;
                                     }
-                                    default: {
+                                    default:
+                                    {
                                         classes = 'tag-size-0';
                                         break;
                                     }
                                 }
 
-                                return (<a key={i} href="#" className={classes} data-tag={d.key} onClick={this._onClickTag}>#{d.key + ' (' + d.value + ')'}</a>
+                                return (<a key={i} href="#" className={classes} data-tag={d.key}
+                                           onClick={this._onClickTag}>#{d.key + ' (' + d.value + ')'}</a>
                                 );
                             })}
                         </div>
@@ -184,14 +193,26 @@ var Header = React.createClass({
             }
 
             if (config.features.categories) {
+                if (props.state.category !== 'categories') {
+                    categories = [{
+                        key: 'categories',
+                        title: <Icon id="level-up"/>,
+                        value: 0
+                    }].concat(categories);
+                }
+
                 categories = (
                     <span className="categories">
                     <a href="#" className="categories__toggle"
                        onClick={this._onClickShowCategories}><Icon id="navicon"/>{props.state.category}</a>
                     <ul className="categories__menu">
-                        {state.categories.map((d, i) => {
+                        {categories.map((d, i) => {
                             return (
-                                <li key={i} className={d.key === props.state.category ? 'active' : ''}><a href="#" onClick={this._onClickChangeCategory} data-value={d.key}>{d.key + (d.value > 0 ? ' (' + d.value + ')' : '')}</a></li>);
+                                <li key={i}
+                                    className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
+                                    <a href="#" onClick={this._onClickChangeCategory}
+                                       data-value={d.key}>{d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}</a>
+                                </li>);
                         })}
                     </ul>
                 </span>
@@ -220,7 +241,10 @@ var Header = React.createClass({
                     </li>
                     <li className="menu__search">
                         <div className="search-box">
-                            <input type="text" name="search" value={props.state.search} onChange={props.onSearch}/><span className="input-icon">{props.state.search ? <a href="#" onClick={props.onSearch}><Icon id="times-circle"/></a> : <Icon id="search"/>}</span>
+                            <input type="text" name="search" value={props.state.search} onChange={props.onSearch}/><span
+                            className="input-icon">{props.state.search ?
+                            <a href="#" onClick={props.onSearch}><Icon id="times-circle"/></a> :
+                            <Icon id="search"/>}</span>
                         </div>
                     </li>
                 </ul>

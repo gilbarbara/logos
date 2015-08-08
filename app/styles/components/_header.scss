@@ -113,22 +113,18 @@ header {
           padding: 5px 8px;
           text-align: left;
           text-decoration: none;
-
-          svg {
-            margin-top: 2px;
-
-            @include md {
-              margin-top: 5px;
-            }
-          }
-        }
-
-        &:nth-of-type(1) a {
-          text-decoration: line-through;
         }
 
         &.active a {
           background-color: darken($link-color, 15);
+        }
+
+        &.faded a {
+          color: lighten($link-color, 20);
+
+          .icon {
+            fill: lighten($link-color, 20);
+          }
         }
       }
     }

@@ -241,7 +241,7 @@ var App = React.createClass({
                             onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
                         />
                     <main>
-                        {latest ? <h3 className="latest">Latest Logos</h3> : ''}
+                        {latest ? <h3 className="latest">Latest 50 Logos</h3> : ''}
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
                         </ul>
