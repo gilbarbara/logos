@@ -46,10 +46,10 @@ header {
     &__toggle {
       align-items: center;
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-end;
+      min-width: 100px;
       padding: 0 8px;
       position: relative;
-      text-align: right;
       text-decoration: none;
 
       &:focus,

@@ -14,7 +14,7 @@ var App = React.createClass({
 
     getInitialState () {
         return {
-            category: 'everybody',
+            category: undefined,
             categoryMenuVisible: false,
             columns: 3,
             logos: json.items,
@@ -130,7 +130,7 @@ var App = React.createClass({
         this.setState({
             tag,
             tagCloudVisible: false,
-            category: 'everybody',
+            category: '',
             search: undefined
         });
     },
@@ -155,7 +155,7 @@ var App = React.createClass({
         }
 
         this.setState({
-            category: 'everybody',
+            category: '',
             search: search || undefined,
             tag: undefined
         });
@@ -190,13 +190,13 @@ var App = React.createClass({
 
     render () {
         var state   = this.state,
-            hidden,
+            hidden = false,
             db = state.logos,
             logos   = [],
             visible = 0;
 
-        if (location.hash === '#latest') {
-            db = _.chain(json.items).sortByOrder(['added', 'name'], ['desc', 'asc']).value();
+        if (location.hash === '#latest' || !state.category) {
+            db = _.chain(json.items).sortByOrder(['added', 'name'], ['desc', 'asc']).take(50).value();
         }
 
         db.forEach(function (d, i) {
@@ -206,8 +206,8 @@ var App = React.createClass({
             else if (state.tag) {
                 hidden = d.tags.indexOf(state.tag) === -1;
             }
-            else {
-                hidden = state.category !== 'everybody' && d.categories.indexOf(state.category) === -1;
+            else if (state.category && state.category !== 'everybody') {
+                hidden = d.categories.indexOf(state.category) === -1;
             }
 
             d.files.forEach(function (f, j) {
