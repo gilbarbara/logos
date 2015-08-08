@@ -123,6 +123,7 @@ gulp.task('icons', function () {
                 }
             }
         }))
+        .pipe($.replace(/ fill=".*?"/g, ''))
         .pipe(gulp.dest('app/media'));
 });
 

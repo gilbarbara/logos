@@ -41,16 +41,20 @@ header {
 
   .categories {
     display: inline-block;
+    font-size: 1.8rem;
     position: relative;
 
     &__toggle {
       align-items: center;
       display: flex;
-      justify-content: flex-end;
-      min-width: 100px;
+      justify-content: space-between;
       padding: 0 8px;
       position: relative;
       text-decoration: none;
+
+      &.empty {
+        text-decoration: line-through;
+      }
 
       &:focus,
       &:active {
@@ -69,7 +73,14 @@ header {
 
       .icon {
         fill: $link-color;
-        margin-left: 5px;
+
+        &:nth-of-type(1) {
+          margin-right: 5px;
+        }
+
+        &:nth-of-type(2) {
+          margin-left: 5px;
+        }
       }
     }
 
@@ -77,6 +88,7 @@ header {
       left: 0;
       list-style: none;
       margin: 0;
+      min-width: 160px;
       opacity: 0;
       padding: 0;
       position: absolute;
@@ -109,6 +121,14 @@ header {
               margin-top: 5px;
             }
           }
+        }
+
+        &:nth-of-type(1) a {
+          text-decoration: line-through;
+        }
+
+        &.active a {
+          background-color: darken($link-color, 15);
         }
       }
     }

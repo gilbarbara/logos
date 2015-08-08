@@ -14,7 +14,7 @@ var App = React.createClass({
 
     getInitialState () {
         return {
-            category: undefined,
+            category: 'categories',
             categoryMenuVisible: false,
             columns: 3,
             logos: json.items,
@@ -130,7 +130,7 @@ var App = React.createClass({
         this.setState({
             tag,
             tagCloudVisible: false,
-            category: '',
+            category: 'categories',
             search: undefined
         });
     },
@@ -155,7 +155,7 @@ var App = React.createClass({
         }
 
         this.setState({
-            category: '',
+            category: 'categories',
             search: search || undefined,
             tag: undefined
         });
@@ -192,10 +192,11 @@ var App = React.createClass({
         var state   = this.state,
             hidden = false,
             db = state.logos,
+            latest = (state.category === 'categories' && !state.tag && !state.search),
             logos   = [],
             visible = 0;
 
-        if (location.hash === '#latest' || !state.category) {
+        if (location.hash === '#latest' || latest) {
             db = _.chain(json.items).sortByOrder(['added', 'name'], ['desc', 'asc']).take(50).value();
         }
 
@@ -206,7 +207,7 @@ var App = React.createClass({
             else if (state.tag) {
                 hidden = d.tags.indexOf(state.tag) === -1;
             }
-            else if (state.category && state.category !== 'everybody') {
+            else if (state.category !== 'categories') {
                 hidden = d.categories.indexOf(state.category) === -1;
             }
 
@@ -240,6 +241,7 @@ var App = React.createClass({
                             onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
                         />
                     <main>
+                        {latest ? <h3 className="latest">Latest Logos</h3> : ''}
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
                         </ul>

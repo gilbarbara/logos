@@ -44,7 +44,7 @@ var Header = React.createClass({
                 });
             });
 
-            categories = [{ key: 'everybody', value: 0 }].concat(this._sortObject(categories, 'value'));
+            categories = [{ key: 'categories', value: 0 }].concat(this._sortObject(categories, 'value'));
         }
 
         if (config.features.tags) {
@@ -187,12 +187,11 @@ var Header = React.createClass({
                 categories = (
                     <span className="categories">
                     <a href="#" className="categories__toggle"
-                       onClick={this._onClickShowCategories}>{props.state.category}<Icon id="caret-down"/></a>
+                       onClick={this._onClickShowCategories}><Icon id="navicon"/>{props.state.category}</a>
                     <ul className="categories__menu">
                         {state.categories.map((d, i) => {
                             return (
-                                <li key={i}><a href="#" onClick={this._onClickChangeCategory} data-value={d.key}>{d.key}
-                                    {d.key === props.state.category ? <Icon id="check"/> : ''}</a></li>);
+                                <li key={i} className={d.key === props.state.category ? 'active' : ''}><a href="#" onClick={this._onClickChangeCategory} data-value={d.key}>{d.key + (d.value > 0 ? ' (' + d.value + ')' : '')}</a></li>);
                         })}
                     </ul>
                 </span>
@@ -205,7 +204,8 @@ var Header = React.createClass({
                 className={[props.state.categoryMenuVisible ? 'show-menu' : '', props.state.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
                 <img src="media/svg-porn.svg" className="logo"/>
 
-                <h3>A collection of {props.visible} svg logos for {categories}</h3>
+                <h3>A collection of {props.state.logos.length} svg logos</h3>
+                {categories}
 
                 <ul className="menu">
                     {output.tagsMenu}
