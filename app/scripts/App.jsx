@@ -29,7 +29,7 @@ var App = React.createClass({
             columns  = Storage.getItem('columns');
 
         this.setState({
-            category: category && this.state.category !== category ? category : this.state.category,
+            category: category && category !== 'everybody' && this.state.category !== category ? category : this.state.category,
             columns: columns && this.state.columns !== columns ? columns : this.state.columns
         });
     },
