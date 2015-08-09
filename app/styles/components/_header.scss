@@ -19,76 +19,58 @@ header {
   }
 
   h3 {
-    font-size: 1.8rem;
-    margin: 1.5rem 2rem 0.5rem;
+    font-size: 2rem;
+    margin: 1rem 2rem 0;
 
     @include sm {
-      font-size: 2rem;
+      font-size: 2.4rem;
       margin-left: auto;
       margin-right: auto;
     }
 
     @include md {
-      font-size: 2.2rem;
-      margin-top: 2rem;
+      font-size: 2.8rem;
+      margin-top: 1rem;
       max-width: 70%;
     }
 
     @include lg {
+      font-size: 3rem;
       max-width: 50%;
     }
   }
 
-  .categories {
-    display: inline-block;
-    font-size: 1.8rem;
+  .categories__menu {
+    display: inline-flex;
+    font-size: 2rem;
     position: relative;
 
-    &__toggle {
-      align-items: center;
-      display: flex;
-      justify-content: space-between;
-      padding: 0 8px;
-      position: relative;
-      text-decoration: none;
+    @include sm {
+      font-size: 2.4rem;
+    }
 
-      &.empty {
-        text-decoration: line-through;
-      }
+    @include md {
+      font-size: 2.8rem;
+    }
 
-      &:focus,
-      &:active {
-        outline: none;
-      }
+    @include lg {
+      font-size: 3rem;
+    }
 
-      &:before {
-        border-top: 1px dashed $link-color;
-        bottom: -5px;
-        content: '';
-        height: 2px;
-        left: 0;
-        position: absolute;
-        width: 100%;
-      }
+    [data-category='categories'] {
+      color: lighten($link-color, 20);
+      min-width: 110px;
 
       .icon {
-        fill: $link-color;
-
-        &:nth-of-type(1) {
-          margin-right: 5px;
-        }
-
-        &:nth-of-type(2) {
-          margin-left: 5px;
-        }
+        fill: lighten($link-color, 20);
       }
     }
 
-    &__menu {
+    ul {
       left: 0;
       list-style: none;
       margin: 0;
-      min-width: 160px;
+      min-width: 180px;
       opacity: 0;
       padding: 0;
       position: absolute;
@@ -109,6 +91,7 @@ header {
           background-color: $link-color;
           color: #fff;
           display: flex;
+          font-size: 2rem;
           justify-content: space-between;
           padding: 5px 8px;
           text-align: left;
@@ -130,11 +113,44 @@ header {
     }
   }
 
+  .categories__toggle {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 8px;
+    position: relative;
+    text-decoration: none;
+
+    &.empty {
+      text-decoration: line-through;
+    }
+
+    &:focus,
+    &:active {
+      outline: none;
+    }
+
+    &:before {
+      border-top: 1px dashed $link-color;
+      bottom: -5px;
+      content: '';
+      height: 2px;
+      left: 0;
+      position: absolute;
+      width: 100%;
+    }
+
+    .icon {
+      fill: $link-color;
+      margin-left: 5px;
+    }
+  }
+
   .menu {
     display: flex;
     justify-content: space-around;
     list-style: none;
-    margin: 2rem auto 0;
+    margin: 3rem auto 0;
     padding: 0;
     width: 100%;
 
@@ -380,7 +396,7 @@ header {
   }
 
   &.show-menu {
-    .categories__menu {
+    .categories__menu ul {
       display: block;
       opacity: 1;
       transform: translateY(0) scaleY(1);

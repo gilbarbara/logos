@@ -42,6 +42,15 @@
       }
     }
 
+    &.nothing {
+      display: none;
+      font-family: "Varela Round", sans-serif;
+      font-size: 4rem;
+      padding: 8rem 0;
+      text-align: center;
+      width: 100% !important;
+    }
+
     a {
       color: $bg-color;
       outline: none;
@@ -110,6 +119,8 @@
         width: 100% !important;
       }
     }
+
+
   }
 
   &.col-1 {
@@ -188,15 +199,6 @@
         padding: 6vh 5vh 12vh;
       }
     }
-  }
-
-  > li.nothing {
-    display: none;
-    font-family: "Varela Round", sans-serif;
-    font-size: 4rem;
-    padding: 8rem 0;
-    text-align: center;
-    width: 100% !important;
   }
 
   &.empty > li.nothing {

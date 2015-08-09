@@ -78,13 +78,23 @@ var App = React.createClass({
         this._changeColumns(this.state.columns + col);
     },
 
+    _changeColumns (num) {
+        this.setState({
+            columns: num
+        });
+        Storage.setItem('columns', num);
+    },
+
     _changeCategory (value) {
         this.setState({
             category: value,
             tag: undefined,
             search: undefined
         });
-        Storage.setItem('category', value);
+
+        if (value !== 'everybody') {
+            Storage.setItem('category', value);
+        }
     },
 
     _toggleCategoryMenuVisibility  () {
@@ -134,13 +144,6 @@ var App = React.createClass({
             category: 'categories',
             search: undefined
         });
-    },
-
-    _changeColumns (num) {
-        this.setState({
-            columns: num
-        });
-        Storage.setItem('columns', num);
     },
 
     _searchLogos (e) {
@@ -208,17 +211,17 @@ var App = React.createClass({
             else if (state.tag) {
                 hidden = d.tags.indexOf(state.tag) === -1;
             }
-            else if (state.category !== 'categories') {
+            else if (state.category !== 'categories' && state.category !== 'everybody') {
                 hidden = d.categories.indexOf(state.category) === -1;
             }
 
             d.files.forEach(function (f, j) {
                 logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}/>);
-
-                if (!hidden) {
-                    visible++;
-                }
             }, this);
+
+            if (!hidden) {
+                visible++;
+            }
         }, this);
 
         logos.push(<li key="nothing" className="nothing">Nothing Found</li>);
@@ -242,7 +245,7 @@ var App = React.createClass({
                             onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
                         />
                     <main>
-                        {latest ? <h3 className="latest">Latest 50 Logos</h3> : ''}
+                        {latest ? <h3 className="latest">Latest additions</h3> : ''}
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
                         </ul>

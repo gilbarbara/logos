@@ -44,7 +44,11 @@ var Header = React.createClass({
                 });
             });
 
-            categories = this._sortObject(categories, 'value');
+            categories = this._sortObject(categories, 'value').concat({
+                key: 'everybody',
+                title: 'everybody',
+                value: this.props.state.logos.length
+            });
         }
 
         if (config.features.tags) {
@@ -202,20 +206,20 @@ var Header = React.createClass({
                 }
 
                 categories = (
-                    <span className="categories">
-                    <a href="#" className="categories__toggle"
-                       onClick={this._onClickShowCategories}><Icon id="navicon"/>{props.state.category}</a>
-                    <ul className="categories__menu">
-                        {categories.map((d, i) => {
-                            return (
-                                <li key={i}
-                                    className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
-                                    <a href="#" onClick={this._onClickChangeCategory}
-                                       data-value={d.key}>{d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}</a>
-                                </li>);
-                        })}
-                    </ul>
-                </span>
+                    <span className="categories__menu">
+                        for<a href="#" className="categories__toggle" data-category={props.state.category}
+                           onClick={this._onClickShowCategories}>{props.state.category !== 'categories' ? props.state.category : ''}<Icon id="navicon"/></a>
+                        <ul>
+                            {categories.map((d, i) => {
+                                return (
+                                    <li key={i}
+                                        className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
+                                        <a href="#" onClick={this._onClickChangeCategory}
+                                           data-value={d.key}>{d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}</a>
+                                    </li>);
+                            })}
+                        </ul>
+                    </span>
                 );
             }
         }
@@ -225,7 +229,7 @@ var Header = React.createClass({
                 className={[props.state.categoryMenuVisible ? 'show-menu' : '', props.state.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
                 <img src="media/svg-porn.svg" className="logo"/>
 
-                <h3>A collection of {props.state.logos.length} svg logos</h3>
+                <h3>{props.state.category === 'categories' ? props.state.logos.length : props.visible} high quality svg logos</h3>
                 {categories}
 
                 <ul className="menu">
