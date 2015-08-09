@@ -455,6 +455,21 @@
       "added": "2015-06-24"
     },
     {
+      "name": "Bing",
+      "files": [
+        "bing.svg"
+      ],
+      "shortname": "bing",
+      "url": "https://www.bing.com/",
+      "tags": [
+        "search engine"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-09"
+    },
+    {
       "name": "Bitbucket",
       "files": [
         "bitbucket.svg"
@@ -1289,6 +1304,22 @@
       ],
       "added": "2015-08-06",
       "converted": true
+    },
+    {
+      "name": "Copyleft",
+      "files": [
+        "copyleft.svg",
+        "copyleft-pirate.svg"
+      ],
+      "shortname": "copyleft",
+      "url": "https://copyleft.org/",
+      "tags": [
+        "licensing"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-09"
     },
     {
       "name": "Cordova",
@@ -2437,6 +2468,21 @@
       "added": "2015-07-17"
     },
     {
+      "name": "Free Cultural Works",
+      "files": [
+        "freedomdefined.svg"
+      ],
+      "shortname": "freedomdefined",
+      "url": "http://freedomdefined.org/",
+      "tags": [
+        "licensing"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-09"
+    },
+    {
       "name": "Ghost",
       "files": [
         "ghost.svg"
@@ -2537,6 +2583,21 @@
       "added": "2015-07-25"
     },
     {
+      "name": "Google +",
+      "files": [
+        "google-plus.svg"
+      ],
+      "shortname": "googleplus",
+      "url": "https://plus.google.com/",
+      "tags": [
+        "social network"
+      ],
+      "categories": [
+        "sharing"
+      ],
+      "added": "2015-07-24"
+    },
+    {
       "name": "Google Analytics",
       "files": [
         "google-analytics.svg"
@@ -2552,21 +2613,6 @@
       ],
       "added": "2015-07-25",
       "converted": true
-    },
-    {
-      "name": "Google +",
-      "files": [
-        "google-plus.svg"
-      ],
-      "shortname": "googleplus",
-      "url": "https://plus.google.com/",
-      "tags": [
-        "social network"
-      ],
-      "categories": [
-        "sharing"
-      ],
-      "added": "2015-07-24"
     },
     {
       "name": "Google Cloud",
@@ -4289,6 +4335,21 @@
       "added": "2015-07-26"
     },
     {
+      "name": "Microsoft Edge",
+      "files": [
+        "microsoft-edge.svg"
+      ],
+      "shortname": "microsoft-edge",
+      "url": "https://www.microsoft.com/en-us/windows/microsoft-edge",
+      "tags": [
+        "browser"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-09"
+    },
+    {
       "name": "Mithril",
       "files": [
         "mithril.svg"
@@ -4867,6 +4928,22 @@
         "DevOps"
       ],
       "added": "2015-07-11",
+      "converted": true
+    },
+    {
+      "name": "Opera",
+      "files": [
+        "opera.svg"
+      ],
+      "shortname": "opera",
+      "url": "http://www.opera.com/",
+      "tags": [
+        "browser"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-09",
       "converted": true
     },
     {
@@ -7106,6 +7183,21 @@
       ],
       "added": "2015-07-28",
       "converted": true
+    },
+    {
+      "name": "Yahoo!",
+      "files": [
+        "yahoo.svg"
+      ],
+      "shortname": "yahoo",
+      "url": "https://search.yahoo.com/",
+      "tags": [
+        "search engine"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-09"
     },
     {
       "name": "YCombinator",

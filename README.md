@@ -108,6 +108,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://en.bem.info/" target="_blank">Bem</a>
 ![bem](http://svgporn.com/logos/bem.svg)
 
+## <a href="https://www.bing.com/" target="_blank">Bing</a>
+![bing](http://svgporn.com/logos/bing.svg)
+
 ## <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>
 ![bitbucket](http://svgporn.com/logos/bitbucket.svg)
 
@@ -261,6 +264,11 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.concrete5.org/" target="_blank">concrete5</a> *
 ![concrete5](http://svgporn.com/logos/concrete5.svg)
+
+## <a href="https://copyleft.org/" target="_blank">Copyleft</a>
+![copyleft](http://svgporn.com/logos/copyleft.svg)
+
+![copyleft](http://svgporn.com/logos/copyleft-pirate.svg)
 
 ## <a href="https://cordova.apache.org/" target="_blank">Cordova</a> *
 ![cordova](http://svgporn.com/logos/cordova.svg)
@@ -477,6 +485,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://freedcamp.com/" target="_blank">freedcamp</a>
 ![freedcamp](http://svgporn.com/logos/freedcamp.svg)
 
+## <a href="http://freedomdefined.org/" target="_blank">Free Cultural Works</a>
+![freedomdefined](http://svgporn.com/logos/freedomdefined.svg)
+
 ## <a href="https://ghost.org/" target="_blank">Ghost</a>
 ![ghost](http://svgporn.com/logos/ghost.svg)
 
@@ -501,11 +512,11 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.google.com/" target="_blank">Google</a>
 ![google](http://svgporn.com/logos/google.svg)
 
-## <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a> *
-![google-analytics](http://svgporn.com/logos/google-analytics.svg)
-
 ## <a href="https://plus.google.com/" target="_blank">Google +</a>
 ![googleplus](http://svgporn.com/logos/google-plus.svg)
+
+## <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a> *
+![google-analytics](http://svgporn.com/logos/google-analytics.svg)
 
 ## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a>
 ![google-cloud](http://svgporn.com/logos/google-cloud.svg)
@@ -830,6 +841,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.microsoft.com/" target="_blank">Microsoft</a>
 ![microsoft](http://svgporn.com/logos/microsoft.svg)
 
+## <a href="https://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank">Microsoft Edge</a>
+![microsoft-edge](http://svgporn.com/logos/microsoft-edge.svg)
+
 ## <a href="https://lhorie.github.io/mithril/" target="_blank">Mithril</a> *
 ![mithril](http://svgporn.com/logos/mithril.svg)
 
@@ -938,6 +952,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.openstack.org/" target="_blank">openstack</a> *
 ![openstack](http://svgporn.com/logos/openstack.svg)
+
+## <a href="http://www.opera.com/" target="_blank">Opera</a> *
+![opera](http://svgporn.com/logos/opera.svg)
 
 ## <a href="https://opsmatic.com/" target="_blank">Opsmatic</a>
 ![opsmatic](http://svgporn.com/logos/opsmatic.svg)
@@ -1354,6 +1371,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.wufoo.com/" target="_blank">Wufoo</a> *
 ![wufoo](http://svgporn.com/logos/wufoo.svg)
+
+## <a href="https://search.yahoo.com/" target="_blank">Yahoo!</a>
+![yahoo](http://svgporn.com/logos/yahoo.svg)
 
 ## <a href="http://www.ycombinator.com/" target="_blank">YCombinator</a>
 ![ycombinator](http://svgporn.com/logos/ycombinator.svg)
