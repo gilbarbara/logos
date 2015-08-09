@@ -6,6 +6,7 @@ var React   = require('react/addons'),
     Loader  = require('./components/Loader'),
     Logo    = require('./components/Logo'),
     Icon    = require('./components/Icon'),
+    Colors  = require('./utils/Colors'),
     Storage = require('./utils/Storage'),
     json    = require('../logos.json');
 
@@ -190,9 +191,9 @@ var App = React.createClass({
 
     render () {
         var state   = this.state,
-            hidden = false,
-            db = state.logos,
-            latest = (state.category === 'categories' && !state.tag && !state.search),
+            hidden  = false,
+            db      = state.logos,
+            latest  = (state.category === 'categories' && !state.tag && !state.search),
             logos   = [],
             visible = 0;
 

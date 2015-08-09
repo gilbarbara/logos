@@ -1,55 +1,18 @@
 var _    = require('lodash'),
     math = require('./Math');
 
-/*
- Color
- =====
-
- SassMe - an Arc90 Lab Project
-
- The MIT License (MIT)
- Copyright © 2012 Arc90 | http://arc90.com
-
- Permission is hereby granted, free of charge, to any person obtaining a copy of
- this software and associated documentation files (the “Software”), to deal in
- the Software without restriction, including without limitation the rights to
- use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
- the Software, and to permit persons to whom the Software is furnished to do so,
- subject to the following conditions:
-
- The above copyright notice and this permission notice shall be included in all
- copies or substantial portions of the Software.
-
- THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
- IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
- FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
- COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
- IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
- CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
- Authors:
- --------
-
- Jim Nielsen
- Darren Newton
- Robert Petro
- Matt Quintanilla
- Jesse Reiner
-
- Color algorithms:
- -----------------
- RGB/HSL Algorithms adapted from: http://mjijackson.com/2008/02/rgb-to-hsl-and-
- rgb-to-hsv-color-model-conversion-algorithms-in-javascript
-
- Syntactically Awesome Stylesheets:
- ----------------------------------
- The overall structure of the SASS conversions is based on the Ruby
- SASS project:
- https://github.com/nex3/sass/blob/stable/lib/sass/script/color.rb
- Copyright (c) 2006-2009 Hampton Catlin, Nathan Weizenbaum, and Chris Eppstein
+/**
+ * Colors
+ * @class
+ * @classdesc RGB/HSL Algorithms adapted from: http://mjijackson.com/2008/02/rgb-to-hsl-and-rgb-to-hsv-color-model-conversion-algorithms-in-javascript
+ * @version 1.0
  */
-
-class Colors {
+export default class Colors {
+    /**
+     * @constructs Colors
+     * @param {string} color
+     * @returns {Colors}
+     */
     constructor (color) {
         this.hex = color.charAt(0) === '#' ? color : '#' + color;
 
@@ -64,20 +27,32 @@ class Colors {
         return this;
     }
 
-    hex2rgb (color) {
+    /**
+     * Convert a hex string to RGB object
+     * @instance
+     * @param {string} color
+     * @returns {object} {r: Number, g: Number, b: Number}
+     */
+    hex2rgb (color = this.hex) {
         if (color.charAt(0) === '#') {
             color = color.substr(1);
         }
 
         return {
-            r: parseInt(color.charAt(0) + '' + color.charAt(1), 16),
-            g: parseInt(color.charAt(2) + '' + color.charAt(3), 16),
-            b: parseInt(color.charAt(4) + '' + color.charAt(5), 16)
+            r: parseInt(String(color.charAt(0)) + color.charAt(1), 16),
+            g: parseInt(String(color.charAt(2)) + color.charAt(3), 16),
+            b: parseInt(String(color.charAt(4)) + color.charAt(5), 16)
         };
     }
 
-    rgb2hsl (rgb) {
-        var b, d, g, h, hsl, l, max, min, r, s, _ref;
+    /**
+     * Convert a RGB object to HSL
+     * @instance
+     * @param {object} rgb
+     * @returns {object} {h: number, s: number, l: number}
+     */
+    rgb2hsl (rgb = this.rgb) {
+        var r, g, b, h, s, l, d, max, min, _ref;
         _ref = [rgb.r, rgb.g, rgb.b];
         r = _ref[0];
         g = _ref[1];
@@ -115,11 +90,67 @@ class Colors {
         };
     }
 
-    rgb2hex (rgb) {
+    /**
+     * Convert a RGA object to hex
+     * @public
+     * @param {object} rgb
+     * @returns {string} #ffffff
+     */
+    rgb2hex (rgb = this.rgb) {
         return '#' + ((1 << 24) + (rgb.r << 16) + (rgb.g << 8) + rgb.b).toString(16).slice(1);
     }
 
-    hue2rgb (p, q, t) {
+    /**
+     * Convert a HSL object to RGB
+     * @instance
+     * @param {object} hsl
+     * @returns {object} {r: number, g: number, b: number}
+     */
+    hsl2rgb (hsl = this.hsl) {
+        var b, g, h, l, p, q, r, s, _ref;
+        _ref = [parseFloat(hsl.h).toFixed(5) / 360,
+                parseFloat(hsl.s).toFixed(5) / 100,
+                parseFloat(hsl.l).toFixed(5) / 100];
+        h = _ref[0];
+        s = _ref[1];
+        l = _ref[2];
+
+        if (s === 0) {
+            r = g = b = l;
+        }
+        else {
+            q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+            p = 2 * l - q;
+            r = this.constructor.hue2rgb(p, q, h + 1 / 3);
+            g = this.constructor.hue2rgb(p, q, h);
+            b = this.constructor.hue2rgb(p, q, h - 1 / 3);
+        }
+
+        return {
+            r: Math.round(r * 255),
+            g: Math.round(g * 255),
+            b: Math.round(b * 255)
+        };
+    }
+
+    /**
+     * hsl2hex
+     * @param {object} hsl
+     * @returns {string}
+     */
+    hsl2hex (hsl = this.hsl) {
+        return this.rgb2hex(this.hsl2rgb(hsl));
+    }
+
+    /**
+     * hue2rgb
+     * @static
+     * @param {number} p
+     * @param {number} q
+     * @param {number} t
+     * @returns {*}
+     */
+    static hue2rgb (p, q, t) {
         if (t < 0) {
             t += 1;
         }
@@ -138,36 +169,12 @@ class Colors {
         return p;
     }
 
-    hsl2rgb (hsl) {
-        var b, g, h, l, p, q, r, s, _ref;
-        _ref = [parseFloat(hsl.h).toFixed(5) / 360,
-                parseFloat(hsl.s).toFixed(5) / 100,
-                parseFloat(hsl.l).toFixed(5) / 100];
-        h = _ref[0];
-        s = _ref[1];
-        l = _ref[2];
-
-        if (s === 0) {
-            r = g = b = l;
-        }
-        else {
-            q = l < 0.5 ? l * (1 + s) : l + s - l * s;
-            p = 2 * l - q;
-            r = this.hue2rgb(p, q, h + 1 / 3);
-            g = this.hue2rgb(p, q, h);
-            b = this.hue2rgb(p, q, h - 1 / 3);
-        }
-        return {
-            r: Math.round(r * 255),
-            g: Math.round(g * 255),
-            b: Math.round(b * 255)
-        };
-    }
-
-    hsl2hex (hsl) {
-        return this.rgb2hex(this.hsl2rgb(hsl));
-    }
-
+    /**
+     * mod
+     * @instance
+     * @param {object} attr
+     * @returns {*}
+     */
     mod (attr) {
         var hsl, out, rgb, type;
         if ((_.intersection(_.keys(attr), ['h', 's', 'l']).length > 0) &&
@@ -216,6 +223,15 @@ class Colors {
         return out;
     }
 
+    /**
+     * constrain
+     * @static
+     * @param {number} attr
+     * @param {number} amount
+     * @param {Array} limit
+     * @param {string} direction
+     * @returns {number}
+     */
     static constrain (attr, amount, limit, direction) {
         var val  = math.expr(attr + direction + amount),
             test = (limit[1] >= val && val >= limit[0]);
@@ -232,6 +248,13 @@ class Colors {
         return Math.abs(val);
     }
 
+    /**
+     * constrain_degrees
+     * @static
+     * @param {number} attr
+     * @param {number} amount
+     * @returns {number}
+     */
     static constrain_degrees (attr, amount) {
         var val;
         val = attr + amount;
@@ -244,69 +267,128 @@ class Colors {
         return Math.abs(val);
     }
 
-    red () {
+    /**
+     * Get Red
+     * @member
+     * @returns {number}
+     */
+    get red () {
         return this.rgb.r;
     }
 
-    green () {
+    /**
+     * Get Green
+     * @member
+     * @returns {number}
+     */
+    get green () {
         return this.rgb.g;
     }
 
-    blue () {
+    /**
+     * Get Blue
+     * @member
+     * @returns {number}
+     */
+    get blue () {
         return this.rgb.b;
     }
 
-    hue () {
+    /**
+     * Get Hue
+     * @instance
+     * @returns {number}
+     */
+    get hue () {
         return +this.hsl.h;
     }
 
-    saturation () {
+    /**
+     * Get Saturation
+     * @member
+     * @returns {number}
+     */
+    get saturation () {
         return +this.hsl.s;
     }
 
-    lightness () {
+    /**
+     * Get Lightness
+     * @member
+     * @returns {number}
+     */
+    get lightness () {
         return +this.hsl.l;
     }
 
+    /**
+     * Make the color lighter
+     * @instance
+     * @param {number} percentage
+     * @returns {string}
+     */
     lighten (percentage) {
         var hsl;
         hsl = this.mod({
-            l: this.constructor.constrain(this.lightness(), percentage, [0, 100], '+')
+            l: this.constructor.constrain(this.lightness, percentage, [0, 100], '+')
         });
         return this.rgb2hex(this.hsl2rgb(hsl));
     }
 
+    /**
+     * Make the color darker
+     * @instance
+     * @param {number} percentage
+     * @returns {string}
+     */
     darken (percentage) {
         var hsl;
         hsl = this.mod({
-            l: this.constructor.constrain(this.lightness(), percentage, [0, 100], '-')
+            l: this.constructor.constrain(this.lightness, percentage, [0, 100], '-')
         });
         return this.rgb2hex(this.hsl2rgb(hsl));
     }
 
+    /**
+     * Increase saturation
+     * @instance
+     * @param {number} percentage
+     * @returns {string}
+     */
     saturate (percentage) {
         var hsl;
         hsl = this.mod({
-            s: this.constructor.constrain(this.saturation(), percentage, [0, 100], '+')
+            s: this.constructor.constrain(this.saturation, percentage, [0, 100], '+')
         });
         return this.rgb2hex(this.hsl2rgb(hsl));
     }
 
+    /**
+     * Descrease saturation
+     * @instance
+     * @param {number} percentage
+     * @returns {string}
+     */
     desaturate (percentage) {
         var hsl;
         hsl = this.mod({
-            s: this.constructor.constrain(this.saturation(), percentage, [0, 100], '-')
+            s: this.constructor.constrain(this.saturation, percentage, [0, 100], '-')
         });
         return this.rgb2hex(this.hsl2rgb(hsl));
     }
 
+    /**
+     * Adjust the color hue
+     * @instance
+     * @param {number} degrees
+     * @returns {string}
+     */
     adjust_hue (degrees) {
         var hsl = this.mod({
-            h: this.constructor.constrain_degrees(this.hue(), degrees)
+            h: this.constructor.constrain_degrees(this.hue, degrees)
         });
 
         return this.rgb2hex(this.hsl2rgb(hsl));
     }
 }
 
-module.exports = Colors;
