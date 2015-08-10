@@ -455,6 +455,21 @@
       "added": "2015-06-24"
     },
     {
+      "name": "bigpanda",
+      "files": [
+        "bigpanda.svg"
+      ],
+      "shortname": "bigpanda",
+      "url": "https://bigpanda.io/",
+      "tags": [
+        "monitoring aggregation"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-10"
+    },
+    {
       "name": "Bing",
       "files": [
         "bing.svg"
@@ -581,7 +596,8 @@
       "shortname": "bosun",
       "url": "https://bosun.org/",
       "tags": [
-        "server monitoring"
+        "server monitoring",
+        "open source"
       ],
       "categories": [
         "DevOps"
@@ -993,6 +1009,21 @@
         "developers"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "ClickDeploy",
+      "files": [
+        "clickdeploy.svg"
+      ],
+      "shortname": "clickdeploy",
+      "url": "https://clickdeploy.co/",
+      "tags": [
+        "code deployment"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-10"
     },
     {
       "name": "Clojure",
@@ -1555,6 +1586,22 @@
         "developers"
       ],
       "added": "2015-07-04"
+    },
+    {
+      "name": "Customer.io",
+      "files": [
+        "customerio.svg"
+      ],
+      "shortname": "customerio",
+      "url": "http://customer.io/",
+      "tags": [
+        "email marketing",
+        "lifecycle marketing"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-10"
     },
     {
       "name": "D3",
@@ -2427,7 +2474,7 @@
       "shortname": "framed.svg",
       "url": "http://framed.io/",
       "tags": [
-        "customer data analytics",
+        "customer analytics",
         "vectorized"
       ],
       "categories": [
@@ -2481,6 +2528,22 @@
         "geeks"
       ],
       "added": "2015-08-09"
+    },
+    {
+      "name": "Get Satisfaction",
+      "files": [
+        "get-satisfaction.svg"
+      ],
+      "shortname": "get-satisfaction",
+      "url": "https://getsatisfaction.com/",
+      "tags": [
+        "customer support",
+        "user feedback"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-10"
     },
     {
       "name": "Ghost",
@@ -2605,7 +2668,7 @@
       "shortname": "google-analytics",
       "url": "http://www.google.com/analytics/",
       "tags": [
-        "customer data analytics",
+        "analytics",
         "vectorized"
       ],
       "categories": [
@@ -2660,6 +2723,21 @@
         "geeks"
       ],
       "added": "2015-08-05"
+    },
+    {
+      "name": "Google Photos",
+      "files": [
+        "google-photos.svg"
+      ],
+      "shortname": "google-photos",
+      "url": "https://photos.google.com/",
+      "tags": [
+        "image organizer"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-10"
     },
     {
       "name": "Go",
@@ -2937,7 +3015,7 @@
       "shortname": "heap",
       "url": "https://heapanalytics.com/",
       "tags": [
-        "customer data analytics"
+        "funnel analytics"
       ],
       "categories": [
         "business"
@@ -3152,7 +3230,7 @@
       "tags": [
         "customer support",
         "email marketing",
-        "crm"
+        "lifecycle marketing"
       ],
       "categories": [
         "business"
@@ -3562,7 +3640,7 @@
       "shortname": "keen",
       "url": "http://keen.io/",
       "tags": [
-        "customer data analytics",
+        "custom analytics",
         "service integration"
       ],
       "categories": [
@@ -3629,7 +3707,7 @@
       "shortname": "kissmetrics",
       "url": "https://kissmetrics.com/",
       "tags": [
-        "customer data analytics"
+        "funnel analytics"
       ],
       "categories": [
         "business"
@@ -4376,7 +4454,7 @@
       "shortname": "mixpanel",
       "url": "https://mixpanel.com/",
       "tags": [
-        "customer data analytics",
+        "funnel analytics",
         "SaaS"
       ],
       "categories": [
@@ -5356,6 +5434,23 @@
       "added": "2015-07-07"
     },
     {
+      "name": "Presto",
+      "files": [
+        "presto.svg"
+      ],
+      "shortname": "presto",
+      "url": "https://prestodb.io/",
+      "tags": [
+        "distributed computing",
+        "query engine",
+        "sql"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-10"
+    },
+    {
       "name": "Product Hunt",
       "files": [
         "producthunt.svg"
@@ -5879,8 +5974,7 @@
       "shortname": "segment",
       "url": "https://segment.com/",
       "tags": [
-        "customer data analytics",
-        "service integration"
+        "analytics integration"
       ],
       "categories": [
         "business"
@@ -5939,6 +6033,22 @@
         "business"
       ],
       "added": "2015-07-27"
+    },
+    {
+      "name": "sensu",
+      "files": [
+        "sensu.svg"
+      ],
+      "shortname": "sensu",
+      "url": "https://sensuapp.org/",
+      "tags": [
+        "server monitoring",
+        "open source"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-10"
     },
     {
       "name": "Sentry",
@@ -6805,6 +6915,22 @@
       "added": "2015-07-06"
     },
     {
+      "name": "UserTesting",
+      "files": [
+        "user-testing.svg"
+      ],
+      "shortname": "user-testing",
+      "url": "http://www.usertesting.com/",
+      "tags": [
+        "testing",
+        "ux testing"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-10"
+    },
+    {
       "name": "V8",
       "files": [
         "v8.svg"
@@ -7146,6 +7272,21 @@
         "publishers"
       ],
       "added": "2015-07-26"
+    },
+    {
+      "name": "Woopra",
+      "files": [
+        "woopra.svg"
+      ],
+      "shortname": "woopra",
+      "url": "https://www.woopra.com/",
+      "tags": [
+        "customer analytics"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-10"
     },
     {
       "name": "Wordpress",

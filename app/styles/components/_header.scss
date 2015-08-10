@@ -141,8 +141,22 @@ header {
     }
 
     .icon {
+      align-self: flex-end;
       fill: $link-color;
+      margin-bottom: 2px;
       margin-left: 5px;
+
+      @include sm {
+        margin-bottom: 3px;
+      }
+
+      @include md {
+        margin-bottom: 5px;
+      }
+
+      @include lg {
+        margin-bottom: 6px;
+      }
     }
   }
 

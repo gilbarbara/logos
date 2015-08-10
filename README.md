@@ -108,6 +108,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://en.bem.info/" target="_blank">Bem</a>
 ![bem](http://svgporn.com/logos/bem.svg)
 
+## <a href="https://bigpanda.io/" target="_blank">bigpanda</a>
+![bigpanda](http://svgporn.com/logos/bigpanda.svg)
+
 ## <a href="https://www.bing.com/" target="_blank">Bing</a>
 ![bing](http://svgporn.com/logos/bing.svg)
 
@@ -208,6 +211,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://circleci.com/" target="_blank">CircleCI</a>
 ![circleci](http://svgporn.com/logos/circleci.svg)
+
+## <a href="https://clickdeploy.co/" target="_blank">ClickDeploy</a>
+![clickdeploy](http://svgporn.com/logos/clickdeploy.svg)
 
 ## <a href="http://clojure.org/" target="_blank">Clojure</a>
 ![clojure](http://svgporn.com/logos/clojure.svg)
@@ -313,6 +319,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://cssnext.io/" target="_blank">cssnext</a>
 ![cssnext](http://svgporn.com/logos/cssnext.svg)
+
+## <a href="http://customer.io/" target="_blank">Customer.io</a>
+![customerio](http://svgporn.com/logos/customerio.svg)
 
 ## <a href="http://d3js.org/" target="_blank">D3</a>
 ![d3](http://svgporn.com/logos/d3.svg)
@@ -488,6 +497,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://freedomdefined.org/" target="_blank">Free Cultural Works</a>
 ![freedomdefined](http://svgporn.com/logos/freedomdefined.svg)
 
+## <a href="https://getsatisfaction.com/" target="_blank">Get Satisfaction</a>
+![get-satisfaction](http://svgporn.com/logos/get-satisfaction.svg)
+
 ## <a href="https://ghost.org/" target="_blank">Ghost</a>
 ![ghost](http://svgporn.com/logos/ghost.svg)
 
@@ -526,6 +538,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.google.com/drive/" target="_blank">Google Drive</a>
 ![google-drive](http://svgporn.com/logos/google-drive.svg)
+
+## <a href="https://photos.google.com/" target="_blank">Google Photos</a>
+![google-photos](http://svgporn.com/logos/google-photos.svg)
 
 ## <a href="https://golang.org/" target="_blank">Go</a>
 ![go](http://svgporn.com/logos/gopher.svg)
@@ -1033,6 +1048,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://precursorapp.com/" target="_blank">Precursor</a>
 ![precursor](http://svgporn.com/logos/precursor.svg)
 
+## <a href="https://prestodb.io/" target="_blank">Presto</a>
+![presto](http://svgporn.com/logos/presto.svg)
+
 ## <a href="http://www.producthunt.com/" target="_blank">Product Hunt</a>
 ![producthunt](http://svgporn.com/logos/producthunt.svg)
 
@@ -1140,6 +1158,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://sendgrid.com/" target="_blank">SendGrid</a>
 ![sendgrid](http://svgporn.com/logos/sendgrid.svg)
+
+## <a href="https://sensuapp.org/" target="_blank">sensu</a>
+![sensu](http://svgporn.com/logos/sensu.svg)
 
 ## <a href="https://getsentry.com/welcome/" target="_blank">Sentry</a>
 ![sentry](http://svgporn.com/logos/sentry.svg)
@@ -1299,6 +1320,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://unity3d.com/" target="_blank">Unity</a>
 ![unity](http://svgporn.com/logos/unity.svg)
 
+## <a href="http://www.usertesting.com/" target="_blank">UserTesting</a>
+![user-testing](http://svgporn.com/logos/user-testing.svg)
+
 ## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
 ![v8](http://svgporn.com/logos/v8.svg)
 
@@ -1363,6 +1387,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.wix.com/" target="_blank">Wix</a>
 ![wix](http://svgporn.com/logos/wix.svg)
+
+## <a href="https://www.woopra.com/" target="_blank">Woopra</a>
+![woopra](http://svgporn.com/logos/woopra.svg)
 
 ## <a href="https://wordpress.org/" target="_blank">Wordpress</a>
 ![wordpress](http://svgporn.com/logos/wordpress-icon.svg)
