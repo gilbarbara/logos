@@ -19,6 +19,7 @@ header {
   }
 
   h3 {
+    color: $link-color;
     font-size: 2rem;
     margin: 1rem 2rem 0;
 
@@ -41,6 +42,7 @@ header {
   }
 
   .categories__menu {
+    color: $link-color;
     display: inline-flex;
     font-size: 2rem;
     position: relative;
@@ -58,12 +60,7 @@ header {
     }
 
     [data-category='categories'] {
-      color: lighten($link-color, 20);
       min-width: 110px;
-
-      .icon {
-        fill: lighten($link-color, 20);
-      }
     }
 
     ul {
@@ -115,6 +112,7 @@ header {
 
   .categories__toggle {
     align-items: center;
+    color: darken($link-color, 20);
     display: flex;
     justify-content: space-between;
     padding: 0 8px;
@@ -131,7 +129,7 @@ header {
     }
 
     &:before {
-      border-top: 1px dashed $link-color;
+      border-top: 1px dashed darken($link-color, 20);
       bottom: -5px;
       content: '';
       height: 2px;
@@ -142,7 +140,7 @@ header {
 
     .icon {
       align-self: flex-end;
-      fill: $link-color;
+      fill: darken($link-color, 20);
       margin-bottom: 2px;
       margin-left: 5px;
 
