@@ -59,7 +59,10 @@ var App = React.createClass({
                 action = 'escape';
             }
 
-            heap.track('keyboard', { action: action });
+            if (action) {
+                heap.track('keyboard', { action: action });
+            }
+
         }.bind(this));
 
         window.addEventListener('scroll', function (e) {
