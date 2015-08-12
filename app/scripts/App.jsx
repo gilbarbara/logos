@@ -60,25 +60,33 @@ var App = React.createClass({
             }
 
             if (action) {
-                heap.track('keyboard', { action: action });
+                this._heapTrack('keyboard', { action: action });
             }
 
         }.bind(this));
 
         window.addEventListener('scroll', function (e) {
             if ((document.body.scrollTop >= 1000 && document.body.clientHeight > 4000) && !this.state.tagCloudVisible && !this.state.scrollable) {
-                heap.track('scroll', { type: 'down' });
+                this._heapTrack('scroll', { type: 'down' });
                 this.setState({
                     scrollable: true
                 });
             }
             else if (e.target.body.scrollTop < 1000 && this.state.scrollable) {
-                heap.track('scroll', { type: 'up' });
+                this._heapTrack('scroll', { type: 'up' });
                 this.setState({
                     scrollable: false
                 });
             }
         }.bind(this));
+    },
+
+    _heapTrack (event, data) {
+        data = data || {};
+
+        if (location.hostname === 'svgporn.com') {
+            heap.track(event, data);
+        }
     },
 
     _onClickChangeColumns (e) {
@@ -170,7 +178,7 @@ var App = React.createClass({
         }
 
         if (search && search.length > 1) {
-            heap.track('search', { query: search });
+            this._heapTrack('search', { query: search });
         }
 
         this.setState({
