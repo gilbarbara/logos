@@ -170,6 +170,7 @@
       "shortname": "appsignal",
       "url": "https://appsignal.com/",
       "tags": [
+        "analytics",
         "software analytics"
       ],
       "categories": [
@@ -2474,6 +2475,7 @@
       "shortname": "framed.svg",
       "url": "http://framed.io/",
       "tags": [
+        "analytics",
         "customer analytics",
         "vectorized"
       ],
@@ -3015,6 +3017,7 @@
       "shortname": "heap",
       "url": "https://heapanalytics.com/",
       "tags": [
+        "analytics",
         "funnel analytics"
       ],
       "categories": [
@@ -3640,6 +3643,7 @@
       "shortname": "keen",
       "url": "http://keen.io/",
       "tags": [
+        "analytics",
         "custom analytics",
         "service integration"
       ],
@@ -3707,6 +3711,7 @@
       "shortname": "kissmetrics",
       "url": "https://kissmetrics.com/",
       "tags": [
+        "analytics",
         "funnel analytics"
       ],
       "categories": [
@@ -4454,6 +4459,7 @@
       "shortname": "mixpanel",
       "url": "https://mixpanel.com/",
       "tags": [
+        "analytics",
         "funnel analytics",
         "SaaS"
       ],
@@ -4718,6 +4724,7 @@
       "shortname": "new-relic",
       "url": "http://newrelic.com/",
       "tags": [
+        "analytics",
         "software analytics",
         "SaaS"
       ],
@@ -5032,6 +5039,7 @@
       "shortname": "opsmatic",
       "url": "https://opsmatic.com/",
       "tags": [
+        "analytics",
         "software analytics"
       ],
       "categories": [
@@ -5974,7 +5982,8 @@
       "shortname": "segment",
       "url": "https://segment.com/",
       "tags": [
-        "analytics integration"
+        "analytics",
+        "service integration"
       ],
       "categories": [
         "business"
@@ -7281,6 +7290,7 @@
       "shortname": "woopra",
       "url": "https://www.woopra.com/",
       "tags": [
+        "analytics",
         "customer analytics"
       ],
       "categories": [
