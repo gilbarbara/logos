@@ -36,14 +36,17 @@ var App = React.createClass({
 
     componentDidMount: function () {
         document.body.addEventListener('keydown', function (e) {
-            var intKey = (window.Event) ? e.which : e.keyCode;
+            var intKey = (window.Event) ? e.which : e.keyCode,
+                action;
 
             if ((intKey === 189 || intKey === 109) && this.state.columns > 1) {
                 this._changeColumns(this.state.columns - 1);
+                action = 'column-down';
             }
 
             if ((intKey === 187 || intKey === 107) && this.state.columns < 5) {
                 this._changeColumns(this.state.columns + 1);
+                action = 'column-up';
             }
             if (intKey === 27) {
                 if (this.state.tagCloudVisible) {
@@ -53,16 +56,21 @@ var App = React.createClass({
                 if (this.state.categoryMenuVisible) {
                     this._toggleCategoryMenuVisibility();
                 }
+                action = 'escape';
             }
+
+            heap.track('keyboard', { action: action });
         }.bind(this));
 
         window.addEventListener('scroll', function (e) {
             if ((document.body.scrollTop >= 1000 && document.body.clientHeight > 4000) && !this.state.tagCloudVisible && !this.state.scrollable) {
+                heap.track('scroll-down', { scroll: true });
                 this.setState({
                     scrollable: true
                 });
             }
             else if (e.target.body.scrollTop < 1000 && this.state.scrollable) {
+                heap.track('scroll-up', { scroll: true });
                 this.setState({
                     scrollable: false
                 });

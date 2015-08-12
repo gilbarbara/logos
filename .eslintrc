@@ -25,7 +25,7 @@
     "$": true,
     "d3": true,
     "Modernizr": false,
-    "module": false
+    "heap": true
   },
   "plugins": [
     "react"
