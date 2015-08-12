@@ -67,13 +67,13 @@ var App = React.createClass({
 
         window.addEventListener('scroll', function (e) {
             if ((document.body.scrollTop >= 1000 && document.body.clientHeight > 4000) && !this.state.tagCloudVisible && !this.state.scrollable) {
-                heap.track('scroll-down', { scroll: true });
+                heap.track('scroll', { type: 'down' });
                 this.setState({
                     scrollable: true
                 });
             }
             else if (e.target.body.scrollTop < 1000 && this.state.scrollable) {
-                heap.track('scroll-up', { scroll: true });
+                heap.track('scroll', { type: 'up' });
                 this.setState({
                     scrollable: false
                 });
@@ -167,6 +167,10 @@ var App = React.createClass({
             else if (e.type === 'input') {
                 search = e.target.value;
             }
+        }
+
+        if (search && search.length > 1) {
+            heap.track('search', { query: search });
         }
 
         this.setState({
