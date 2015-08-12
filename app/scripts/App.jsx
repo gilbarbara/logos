@@ -10,6 +10,8 @@ var React   = require('react/addons'),
     Storage = require('./utils/Storage'),
     json    = require('../logos.json');
 
+var searchTimeout;
+
 var App = React.createClass({
     mixins: [React.addons.PureRenderMixin],
 
@@ -178,7 +180,11 @@ var App = React.createClass({
         }
 
         if (search && search.length > 1) {
-            this._heapTrack('search', { query: search });
+            clearTimeout(searchTimeout);
+
+            searchTimeout = setTimeout(function () {
+                this._heapTrack('search', { query: search });
+            }.bind(this), 500);
         }
 
         this.setState({
