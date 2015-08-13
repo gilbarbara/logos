@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "name": "AdRoll",
+      "files": [
+        "adroll.svg"
+      ],
+      "shortname": "adroll",
+      "url": "https://www.adroll.com/",
+      "tags": [
+        "ads",
+        "ad retargeting"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-12"
+    },
+    {
       "name": "Aerospike",
       "files": [
         "aerospike.svg"
@@ -25,6 +41,7 @@
       "url": "https://airbrake.io/",
       "tags": [
         "log manager",
+        "monitoring",
         "server monitoring"
       ],
       "categories": [
@@ -147,6 +164,22 @@
       "added": "2015-07-18"
     },
     {
+      "name": "AppDynamics",
+      "files": [
+        "appdynamics.svg"
+      ],
+      "shortname": "appdynamics",
+      "url": "http://www.appdynamics.com/",
+      "tags": [
+        "monitoring",
+        "performance monitoring"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-12"
+    },
+    {
       "name": "Apple",
       "files": [
         "apple.svg"
@@ -170,8 +203,9 @@
       "shortname": "appsignal",
       "url": "https://appsignal.com/",
       "tags": [
-        "analytics",
-        "software analytics"
+        "monitoring",
+        "performance monitoring",
+        "ruby"
       ],
       "categories": [
         "DevOps"
@@ -463,6 +497,7 @@
       "shortname": "bigpanda",
       "url": "https://bigpanda.io/",
       "tags": [
+        "monitoring",
         "monitoring aggregation"
       ],
       "categories": [
@@ -484,6 +519,22 @@
         "geeks"
       ],
       "added": "2015-08-09"
+    },
+    {
+      "name": "BitBalloon",
+      "files": [
+        "bitballoon.svg"
+      ],
+      "shortname": "bitballoon",
+      "url": "https://www.bitballoon.com/",
+      "tags": [
+        "code hosting"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-12",
+      "converted": true
     },
     {
       "name": "Bitbucket",
@@ -597,6 +648,7 @@
       "shortname": "bosun",
       "url": "https://bosun.org/",
       "tags": [
+        "monitoring",
         "server monitoring",
         "open source"
       ],
@@ -747,12 +799,30 @@
         "mobile",
         "android",
         "build tool",
+        "facebook",
         "vectorized"
       ],
       "categories": [
         "developers"
       ],
       "added": "2015-08-06",
+      "converted": true
+    },
+    {
+      "name": "Buffer",
+      "files": [
+        "buffer.svg"
+      ],
+      "shortname": "buffer",
+      "url": "https://buffer.com/",
+      "tags": [
+        "social media tools",
+        "vectorized"
+      ],
+      "categories": [
+        "socia media aggregation"
+      ],
+      "added": "2015-08-12",
       "converted": true
     },
     {
@@ -1108,6 +1178,22 @@
       "added": "2015-07-15"
     },
     {
+      "name": "Code School",
+      "files": [
+        "codeschool.svg"
+      ],
+      "shortname": "codeschool",
+      "url": "https://www.codeschool.com/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-12"
+    },
+    {
       "name": "Codebase",
       "files": [
         "codebase.svg"
@@ -1311,6 +1397,7 @@
         "mobile",
         "mobile framework",
         "ios",
+        "facebook",
         "vectorized"
       ],
       "categories": [
@@ -2185,6 +2272,7 @@
       "url": "http://www.eventsentry.com/",
       "tags": [
         "log manager",
+        "monitoring",
         "server monitoring",
         "vectorized"
       ],
@@ -2407,6 +2495,7 @@
         "static type checker",
         "javascript",
         "cli",
+        "facebook",
         "vectorized"
       ],
       "categories": [
@@ -2424,7 +2513,8 @@
       "url": "https://facebook.github.io/flux/",
       "tags": [
         "javascript",
-        "architecture"
+        "architecture",
+        "facebook"
       ],
       "categories": [
         "developers"
@@ -2888,6 +2978,7 @@
       "tags": [
         "language",
         "php",
+        "facebook",
         "vectorized"
       ],
       "categories": [
@@ -3070,6 +3161,7 @@
         "php",
         "hack",
         "virtual machine",
+        "facebook",
         "vectorized"
       ],
       "categories": [
@@ -3197,7 +3289,7 @@
         "static analysis",
         "java",
         "objective c",
-        "c",
+        "facebook",
         "vectorized"
       ],
       "categories": [
@@ -3661,6 +3753,7 @@
       "url": "https://keymetrics.io/",
       "tags": [
         "node.js",
+        "monitoring",
         "performance monitoring",
         "vectorized"
       ],
@@ -4488,6 +4581,24 @@
       "converted": true
     },
     {
+      "name": "Mockflow",
+      "files": [
+        "mockflow.svg"
+      ],
+      "shortname": "mockflow",
+      "url": "http://www.mockflow.com/",
+      "tags": [
+        "prototyping",
+        "ui",
+        "vectorized"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "added": "2015-08-12",
+      "converted": true
+    },
+    {
       "name": "Modernizr",
       "files": [
         "modernizr.svg"
@@ -4724,8 +4835,8 @@
       "shortname": "new-relic",
       "url": "http://newrelic.com/",
       "tags": [
-        "analytics",
-        "software analytics",
+        "monitoring",
+        "performance monitoring",
         "SaaS"
       ],
       "categories": [
@@ -4861,6 +4972,7 @@
       "tags": [
         "code editor",
         "IDE",
+        "facebook",
         "vectorized"
       ],
       "categories": [
@@ -5039,8 +5151,8 @@
       "shortname": "opsmatic",
       "url": "https://opsmatic.com/",
       "tags": [
-        "analytics",
-        "software analytics"
+        "monitoring",
+        "performance monitoring"
       ],
       "categories": [
         "DevOps"
@@ -5074,6 +5186,7 @@
         "mobile",
         "prototyping",
         "ui",
+        "facebook",
         "vectorized"
       ],
       "categories": [
@@ -5081,6 +5194,25 @@
         "designers"
       ],
       "added": "2015-08-03",
+      "converted": true
+    },
+    {
+      "name": "osquery",
+      "files": [
+        "osquery.svg"
+      ],
+      "shortname": "osquery",
+      "url": "https://osquery.io/",
+      "tags": [
+        "instrumentation framework",
+        "sql",
+        "facebook",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-12",
       "converted": true
     },
     {
@@ -5145,6 +5277,21 @@
         "developers"
       ],
       "added": "2015-06-24"
+    },
+    {
+      "name": "PayPal",
+      "files": [
+        "paypal.svg"
+      ],
+      "shortname": "paypal",
+      "url": "https://www.paypal.com/",
+      "tags": [
+        "payment service"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-12"
     },
     {
       "name": "Perl",
@@ -5254,6 +5401,7 @@
       "shortname": "pingdom",
       "url": "https://www.pingdom.com/",
       "tags": [
+        "monitoring",
         "server monitoring"
       ],
       "categories": [
@@ -5645,7 +5793,8 @@
       "tags": [
         "javascript",
         "library",
-        "front-end"
+        "front-end",
+        "facebook"
       ],
       "categories": [
         "developers"
@@ -5759,6 +5908,7 @@
       "shortname": "rollbar",
       "url": "https://rollbar.com/",
       "tags": [
+        "monitoring",
         "server monitoring"
       ],
       "categories": [
@@ -5840,6 +5990,7 @@
       "shortname": "runscope",
       "url": "https://www.runscope.com/",
       "tags": [
+        "monitoring",
         "api monitoring"
       ],
       "categories": [
@@ -6051,6 +6202,7 @@
       "shortname": "sensu",
       "url": "https://sensuapp.org/",
       "tags": [
+        "monitoring",
         "server monitoring",
         "open source"
       ],
@@ -6122,6 +6274,24 @@
         "designers"
       ],
       "added": "2015-08-04",
+      "converted": true
+    },
+    {
+      "name": "Skylight",
+      "files": [
+        "skylight.svg"
+      ],
+      "shortname": "skylight",
+      "url": "https://www.skylight.io/",
+      "tags": [
+        "monitoring",
+        "performance monitoring",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-12",
       "converted": true
     },
     {
