@@ -18,6 +18,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ---
 
+## <a href="https://www.adroll.com/" target="_blank">AdRoll</a>
+![adroll](http://svgporn.com/logos/adroll.svg)
+
 ## <a href="http://www.aerospike.com/" target="_blank">Aerospike</a>
 ![aerospike](http://svgporn.com/logos/aerospike.svg)
 
@@ -48,6 +51,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.appcelerator.com/" target="_blank">Appcelerator</a>
 ![appcelerator](http://svgporn.com/logos/appcelerator.svg)
+
+## <a href="http://www.appdynamics.com/" target="_blank">AppDynamics</a>
+![appdynamics](http://svgporn.com/logos/appdynamics.svg)
 
 ## <a href="http://www.apple.com/" target="_blank">Apple</a>
 ![apple](http://svgporn.com/logos/apple.svg)
@@ -114,6 +120,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.bing.com/" target="_blank">Bing</a>
 ![bing](http://svgporn.com/logos/bing.svg)
 
+## <a href="https://www.bitballoon.com/" target="_blank">BitBalloon</a> *
+![bitballoon](http://svgporn.com/logos/bitballoon.svg)
+
 ## <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>
 ![bitbucket](http://svgporn.com/logos/bitbucket.svg)
 
@@ -163,6 +172,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://buckbuild.com/" target="_blank">Buck</a> *
 ![buck](http://svgporn.com/logos/buck.svg)
+
+## <a href="https://buffer.com/" target="_blank">Buffer</a> *
+![buffer](http://svgporn.com/logos/buffer.svg)
 
 ## <a href="http://bugherd.com/" target="_blank">BugHerd</a>
 ![bugherd](http://svgporn.com/logos/bugherd.svg)
@@ -229,6 +241,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
 ![codeclimate](http://svgporn.com/logos/codeclimate.svg)
+
+## <a href="https://www.codeschool.com/" target="_blank">Code School</a>
+![codeschool](http://svgporn.com/logos/codeschool.svg)
 
 ## <a href="https://www.codebasehq.com/" target="_blank">Codebase</a>
 ![codebase](http://svgporn.com/logos/codebase.svg)
@@ -868,6 +883,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://mochajs.org/" target="_blank">Mocha</a> *
 ![mocha](http://svgporn.com/logos/mocha.svg)
 
+## <a href="http://www.mockflow.com/" target="_blank">Mockflow</a> *
+![mockflow](http://svgporn.com/logos/mockflow.svg)
+
 ## <a href="http://modernizr.com/" target="_blank">Modernizr</a>
 ![modernizr](http://svgporn.com/logos/modernizr.svg)
 
@@ -980,6 +998,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://facebook.github.io/origami/" target="_blank">Origami</a> *
 ![origami](http://svgporn.com/logos/origami.svg)
 
+## <a href="https://osquery.io/" target="_blank">osquery</a> *
+![osquery](http://svgporn.com/logos/osquery.svg)
+
 ## <a href="http://usepanda.com/" target="_blank">Panda</a>
 ![panda](http://svgporn.com/logos/panda.svg)
 
@@ -991,6 +1012,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://passportjs.org/" target="_blank">Passport</a>
 ![passport](http://svgporn.com/logos/passport.svg)
+
+## <a href="https://www.paypal.com/" target="_blank">PayPal</a>
+![paypal](http://svgporn.com/logos/paypal.svg)
 
 ## <a href="https://www.perl.org/" target="_blank">Perl</a>
 ![perl](http://svgporn.com/logos/perl.svg)
@@ -1173,6 +1197,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://bohemiancoding.com/sketch/" target="_blank">Sketch</a> *
 ![sketchapp](http://svgporn.com/logos/sketchapp.svg)
+
+## <a href="https://www.skylight.io/" target="_blank">Skylight</a> *
+![skylight](http://svgporn.com/logos/skylight.svg)
 
 ## <a href="https://slack.com/" target="_blank">slack</a>
 ![slack](http://svgporn.com/logos/slack.svg)
