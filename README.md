@@ -1136,7 +1136,7 @@ Please add your requests in the issues preferably with links to the vector files
 ![redis](http://svgporn.com/logos/redis.svg)
 
 ## <a href="https://facebook.github.io/relay/" target="_blank">Relay</a>
-![netlify](http://svgporn.com/logos/netlify.svg)
+![relay](http://svgporn.com/logos/relay.svg)
 
 ## <a href="http://requirejs.org/" target="_blank">RequireJS</a>
 ![require](http://svgporn.com/logos/require.svg)
