@@ -7,12 +7,17 @@ var Logo = React.createClass({
         hidden: React.PropTypes.bool.isRequired,
         image: React.PropTypes.string.isRequired,
         info: React.PropTypes.object.isRequired,
-        onClickTag: React.PropTypes.func.isRequired
+        onClickTag: React.PropTypes.func.isRequired,
+        trackEvent: React.PropTypes.func.isRequired
     },
 
     toggleInfo (e) {
         var el = e.currentTarget;
         el.classList.toggle('show-info');
+    },
+
+    _onClickLogo (e) {
+        this.props.trackEvent('logo', e.currentTarget.dataset.shortname);
     },
 
     render () {
@@ -21,7 +26,7 @@ var Logo = React.createClass({
 
         return (
             <li className={props.hidden ? 'hidden' : ''} onMouseEnter={this.toggleInfo} onMouseLeave={this.toggleInfo} data-added={info.added}>
-                <a href={info.url} target="_blank" className="logo-item">
+                <a href={info.url} target="_blank" className="logo-item" data-shortname={info.shortname} onClick={this._onClickLogo}>
                     <img src={'../logos/' + this.props.image} alt={info.name} className={info.shotname}/>
                 </a>
 

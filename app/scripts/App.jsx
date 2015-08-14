@@ -62,20 +62,20 @@ var App = React.createClass({
             }
 
             if (action) {
-                this._heapTrack('keyboard', { action: action });
+                this._trackEvent('keyboard', action);
             }
 
         }.bind(this));
 
         window.addEventListener('scroll', function (e) {
             if ((document.body.scrollTop >= 1000 && document.body.clientHeight > 4000) && !this.state.tagCloudVisible && !this.state.scrollable) {
-                this._heapTrack('scroll', { type: 'down' });
+                this._trackEvent('scroll', 'down');
                 this.setState({
                     scrollable: true
                 });
             }
             else if (e.target.body.scrollTop < 1000 && this.state.scrollable) {
-                this._heapTrack('scroll', { type: 'up' });
+                this._trackEvent('scroll', 'up');
                 this.setState({
                     scrollable: false
                 });
@@ -83,12 +83,12 @@ var App = React.createClass({
         }.bind(this));
     },
 
-    _heapTrack (event, data) {
-        data = data || {};
-
+    _trackEvent (category, type, label) {
         if (location.hostname === 'svgporn.com') {
-            heap.track(event, data);
+            heap.track(category, { [type]: value });
         }
+
+        ga('send', 'event', { eventCategory: category, eventAction: type, eventLabel: label });
     },
 
     _onClickChangeColumns (e) {
@@ -97,6 +97,7 @@ var App = React.createClass({
             col = +el.dataset.column;
 
         this._changeColumns(this.state.columns + col);
+        this._trackEvent('switch', el.dataset.column ? 'up' : 'down');
     },
 
     _changeColumns (num) {
@@ -131,6 +132,7 @@ var App = React.createClass({
 
         document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
         this._changeTag(tag);
+        this._trackEvent('tags', tag, 'logo');
     },
 
     _onClickShowTags (e) {
@@ -142,9 +144,11 @@ var App = React.createClass({
             this.setState({
                 tag: undefined
             });
+            this._trackEvent('tag-cloud', 'clean');
         }
         else {
             this._toggleTagCloudVisibility();
+            this._trackEvent('tag-cloud', 'show');
         }
     },
 
@@ -183,7 +187,7 @@ var App = React.createClass({
             clearTimeout(searchTimeout);
 
             searchTimeout = setTimeout(function () {
-                this._heapTrack('search', { query: search });
+                this._trackEvent('search', search);
             }.bind(this), 500);
         }
 
@@ -245,7 +249,7 @@ var App = React.createClass({
             }
 
             d.files.forEach(function (f, j) {
-                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}/>);
+                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag} trackEvent={this._trackEvent}/>);
             }, this);
 
             if (!hidden) {
@@ -272,6 +276,7 @@ var App = React.createClass({
                             onSearch={this._searchLogos} changeCategory={this._changeCategory}
                             toggleCategoryMenu={this._toggleCategoryMenuVisibility}
                             onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
+                            trackEvent={this._trackEvent}
                         />
                     <main>
                         {latest ? <h3 className="latest">Latest additions</h3> : ''}

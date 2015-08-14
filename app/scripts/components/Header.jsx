@@ -15,6 +15,7 @@ var Header = React.createClass({
         onSearch: React.PropTypes.func.isRequired,
         state: React.PropTypes.object.isRequired,
         toggleCategoryMenu: React.PropTypes.func.isRequired,
+        trackEvent: React.PropTypes.func.isRequired,
         visible: React.PropTypes.number.isRequired
     },
 
@@ -110,24 +111,29 @@ var Header = React.createClass({
         e.preventDefault();
 
         this.props.toggleCategoryMenu();
+        this.props.trackEvent('categories', 'toggle');
     },
 
     _onClickChangeCategory (e) {
         e.preventDefault();
 
-        var el = e.currentTarget;
+        var category = e.currentTarget.dataset.value;
 
-        this.props.changeCategory(el.dataset.value);
+        this.props.changeCategory(category);
         this.props.toggleCategoryMenu();
+        this.props.trackEvent('category', category);
     },
 
     _onClickTag (e) {
         e.preventDefault();
-        this.props.changeTag(e.currentTarget.dataset.tag);
+        var tag = e.currentTarget.dataset.tag;
+
+        this.props.changeTag(tag);
 
         this.setState({
             showTagCloud: false
         });
+        this.props.trackEvent('tags', tag);
     },
 
     render () {

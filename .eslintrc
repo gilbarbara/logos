@@ -1,4 +1,3 @@
-
 {
   "ecmaFeatures": {
     "arrowFunctions": true,
@@ -25,7 +24,8 @@
     "$": true,
     "d3": true,
     "Modernizr": false,
-    "heap": true
+    "heap": true,
+    "ga": false
   },
   "plugins": [
     "react"
