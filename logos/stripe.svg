@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="100%" y1="58.3557129%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#2697D4" offset="0%"></stop>
+            <stop stop-color="#207BCB" offset="50%"></stop>
+            <stop stop-color="#2285CE" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.185125113 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+	<g>
+		<rect fill="url(#linearGradient-1)" x="0" y="0" width="256" height="256"></rect>
+		<path d="M139.6875,111.000664 C126.760859,106.219414 119.676641,102.500664 119.676641,96.6569141 C119.676641,91.6976953 123.75,88.8648047 131.010859,88.8648047 C144.292109,88.8648047 157.926641,94.0006641 167.3125,98.6039453 L172.625,65.8444141 C165.1875,62.3023047 149.957891,56.4585547 128.885859,56.4585547 C114.010859,56.4585547 101.614141,60.3539453 92.7608594,67.6148047 C83.5516406,75.2289453 78.7703906,86.2085547 78.7703906,99.4898047 C78.7703906,123.572695 93.46875,133.844414 117.375,142.521055 C132.78125,148.010195 137.917109,151.906914 137.917109,157.927305 C137.917109,163.771055 132.957891,167.135195 123.926641,167.135195 C112.770391,167.135195 94.3546094,161.646055 82.3125,154.563164 L77,187.677305 C87.2703906,193.521055 106.395391,199.541445 126.229609,199.541445 C141.989141,199.541445 155.09375,195.822695 163.948359,188.739805 C173.864141,180.947695 179,169.438164 179,154.563164 C179,129.947695 163.948359,119.677305 139.6875,111.000664 L139.6875,111.000664 Z" fill="#FFFFFF" filter="url(#filter-2)"></path>
+	</g>
+</svg>
