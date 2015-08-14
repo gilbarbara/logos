@@ -620,6 +620,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.hipchat.com/" target="_blank">HipChat</a>
 ![hipchat](http://svgporn.com/logos/hipchat.svg)
 
+## <a href="https://www.hostedgraphite.com/" target="_blank">Hosted Graphite</a> *
+![hosted-graphite](http://svgporn.com/logos/hosted-graphite.svg)
+
 ## <a href="http://www.w3.org/TR/html5/" target="_blank">HTML5</a>
 ![html-5](http://svgporn.com/logos/html-5.svg)
 
@@ -640,6 +643,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://fbinfer.com/" target="_blank">Infer</a> *
 ![infer](http://svgporn.com/logos/infer.svg)
+
+## <a href="https://influxdb.com/" target="_blank">InfluxDB</a>
+![influxdb](http://svgporn.com/logos/influxdb.svg)
 
 ## <a href="https://instagram.com/" target="_blank">Instagram</a>
 ![instagram](http://svgporn.com/logos/instagram-icon.svg)
@@ -768,6 +774,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://leveldb.org/" target="_blank">LevelDB</a>
 ![leveldb](http://svgporn.com/logos/leveldb.svg)
+
+## <a href="https://www.librato.com/" target="_blank">Librato</a>
+![librato](http://svgporn.com/logos/librato.svg)
 
 ## <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
 ![linkedin](http://svgporn.com/logos/linkedin.svg)
@@ -928,6 +937,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://netbeans.org/" target="_blank">Netbeans</a>
 ![netbeans](http://svgporn.com/logos/netbeans.svg)
 
+## <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+![netlify](http://svgporn.com/logos/netlify.svg)
+
 ## <a href="http://newrelic.com/" target="_blank">New Relic</a>
 ![new-relic](http://svgporn.com/logos/new-relic.svg)
 
@@ -988,6 +1000,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.opera.com/" target="_blank">Opera</a> *
 ![opera](http://svgporn.com/logos/opera.svg)
+
+## <a href="https://www.opsgenie.com/" target="_blank">OpsGenie</a> *
+![opsgenie](http://svgporn.com/logos/opsgenie.svg)
 
 ## <a href="https://opsmatic.com/" target="_blank">Opsmatic</a>
 ![opsmatic](http://svgporn.com/logos/opsmatic.svg)
@@ -1081,6 +1096,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.producteev.com/" target="_blank">Producteev</a>
 ![producteev](http://svgporn.com/logos/producteev.svg)
 
+## <a href="http://prometheus.io/" target="_blank">Prometheus</a>
+![prometheus](http://svgporn.com/logos/prometheus.svg)
+
 ## <a href="https://proto.io/" target="_blank">Proto.io</a> *
 ![protoio](http://svgporn.com/logos/protoio.svg)
 
@@ -1116,6 +1134,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://redis.io/" target="_blank">Redis</a>
 ![redis](http://svgporn.com/logos/redis.svg)
+
+## <a href="https://facebook.github.io/relay/" target="_blank">Relay</a>
+![netlify](http://svgporn.com/logos/netlify.svg)
 
 ## <a href="http://requirejs.org/" target="_blank">RequireJS</a>
 ![require](http://svgporn.com/logos/require.svg)
@@ -1243,6 +1264,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.appgyver.com/steroids" target="_blank">Steroids</a>
 ![steroids](http://svgporn.com/logos/steroids.svg)
 
+## <a href="https://stripe.com/" target="_blank">Stripe</a>
+![stripe](http://svgporn.com/logos/stripe.svg)
+
 ## <a href="https://strongloop.com/" target="_blank">StrongLoop</a> *
 ![strongloop](http://svgporn.com/logos/strongloop.svg)
 
@@ -1358,6 +1382,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a> *
 ![vagrant](http://svgporn.com/logos/vagrant.svg)
+
+## <a href="https://victorops.com/" target="_blank">VictorOps</a>
+![victorops](http://svgporn.com/logos/victorops.svg)
 
 ## <a href="http://www.vim.org/" target="_blank">Vim</a>
 ![vim](http://svgporn.com/logos/vim.svg)
