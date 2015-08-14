@@ -5937,9 +5937,9 @@
     {
       "name": "Relay",
       "files": [
-        "netlify.svg"
+        "relay.svg"
       ],
-      "shortname": "netlify",
+      "shortname": "relay",
       "url": "https://facebook.github.io/relay/",
       "tags": [
         "react",
