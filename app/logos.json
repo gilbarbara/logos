@@ -83,6 +83,7 @@
         "developers"
       ],
       "added": "2015-06-11",
+      "favorite": true,
       "converted": true
     },
     {
@@ -146,7 +147,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-07-05"
+      "added": "2015-07-05",
+      "favorite": true
     },
     {
       "name": "Appcelerator",
@@ -374,7 +376,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-13"
+      "added": "2015-06-13",
+      "favorite": true
     },
     {
       "name": "Backbone",
@@ -487,7 +490,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-24"
+      "added": "2015-06-24",
+      "favorite": true
     },
     {
       "name": "bigpanda",
@@ -671,7 +675,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-04"
+      "added": "2015-07-04",
+      "favorite": true
     },
     {
       "name": "Bower",
@@ -689,7 +694,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Brackets",
@@ -771,7 +777,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-30"
+      "added": "2015-06-30",
+      "favorite": true
     },
     {
       "name": "Browsersync",
@@ -786,7 +793,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-08-06"
+      "added": "2015-08-06",
+      "favorite": true
     },
     {
       "name": "Buck",
@@ -947,7 +955,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-06-24"
+      "added": "2015-06-24",
+      "favorite": true
     },
     {
       "name": "Cassandra",
@@ -1064,7 +1073,8 @@
       "categories": [
         "geeks"
       ],
-      "added": "2015-06-13"
+      "added": "2015-06-13",
+      "favorite": true
     },
     {
       "name": "CircleCI",
@@ -1257,7 +1267,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-05"
+      "added": "2015-07-05",
+      "favorite": true
     },
     {
       "name": "Codepen",
@@ -1311,6 +1322,7 @@
         "DevOps"
       ],
       "added": "2015-06-24",
+      "favorite": true,
       "converted": true
     },
     {
@@ -1404,6 +1416,7 @@
         "developers"
       ],
       "added": "2015-08-06",
+      "favorite": true,
       "converted": true
     },
     {
@@ -1458,6 +1471,7 @@
         "developers"
       ],
       "added": "2015-07-11",
+      "favorite": true,
       "converted": true
     },
     {
@@ -1491,7 +1505,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-14"
+      "added": "2015-06-14",
+      "favorite": true
     },
     {
       "name": "coursera",
@@ -1707,7 +1722,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Dart",
@@ -1834,7 +1850,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-06-25"
+      "added": "2015-06-25",
+      "favorite": true
     },
     {
       "name": "Disqus",
@@ -1884,7 +1901,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-09"
+      "added": "2015-07-09",
+      "favorite": true
     },
     {
       "name": "Django",
@@ -1918,7 +1936,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-06-24"
+      "added": "2015-06-24",
+      "favorite": true
     },
     {
       "name": "Dojo Toolkit",
@@ -2033,7 +2052,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-11"
+      "added": "2015-07-11",
+      "favorite": true
     },
     {
       "name": "Drupal",
@@ -2261,7 +2281,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "EventSentry",
@@ -2502,6 +2523,7 @@
         "developers"
       ],
       "added": "2015-06-30",
+      "favorite": true,
       "converted": true
     },
     {
@@ -2555,7 +2577,8 @@
         "developers",
         "designers"
       ],
-      "added": "2015-07-18"
+      "added": "2015-07-18",
+      "favorite": true
     },
     {
       "name": "Framed",
@@ -2619,7 +2642,8 @@
       "categories": [
         "geeks"
       ],
-      "added": "2015-08-09"
+      "added": "2015-08-09",
+      "favorite": true
     },
     {
       "name": "Get Satisfaction",
@@ -2668,7 +2692,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Github",
@@ -2688,7 +2713,8 @@
         "developers",
         "teams"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Gitlab",
@@ -2705,7 +2731,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-24"
+      "added": "2015-06-24",
+      "favorite": true
     },
     {
       "name": "Glint",
@@ -2720,7 +2747,8 @@
       "categories": [
         "business"
       ],
-      "added": "2015-07-23"
+      "added": "2015-07-23",
+      "favorite": true
     },
     {
       "name": "Google",
@@ -2767,6 +2795,7 @@
         "business"
       ],
       "added": "2015-07-25",
+      "favorite": true,
       "converted": true
     },
     {
@@ -2931,7 +2960,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Gulp",
@@ -2966,7 +2996,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-11"
+      "added": "2015-07-11",
+      "favorite": true
     },
     {
       "name": "hack",
