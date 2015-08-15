@@ -69,13 +69,11 @@ var App = React.createClass({
 
         window.addEventListener('scroll', function (e) {
             if ((document.body.scrollTop >= 1000 && document.body.clientHeight > 4000) && !this.state.tagCloudVisible && !this.state.scrollable) {
-                this._trackEvent('scroll', 'down');
                 this.setState({
                     scrollable: true
                 });
             }
             else if (e.target.body.scrollTop < 1000 && this.state.scrollable) {
-                this._trackEvent('scroll', 'up');
                 this.setState({
                     scrollable: false
                 });
@@ -222,6 +220,7 @@ var App = React.createClass({
         e.preventDefault();
 
         this._scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
+        this._trackEvent('scroll', 'click');
     },
 
     render () {
