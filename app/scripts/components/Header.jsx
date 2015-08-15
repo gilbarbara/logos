@@ -109,9 +109,10 @@ var Header = React.createClass({
 
     _onClickShowCategories (e) {
         e.preventDefault();
+        var category = e.currentTarget.dataset.category;
 
         this.props.toggleCategoryMenu();
-        this.props.trackEvent('categories', 'toggle');
+        this.props.trackEvent('categories', 'toggle', category !== 'categories' ? category : undefined);
     },
 
     _onClickChangeCategory (e) {
@@ -121,7 +122,7 @@ var Header = React.createClass({
 
         this.props.changeCategory(category);
         this.props.toggleCategoryMenu();
-        this.props.trackEvent('category', category);
+        this.props.trackEvent('category', 'click', category);
     },
 
     _onClickTag (e) {
@@ -133,7 +134,7 @@ var Header = React.createClass({
         this.setState({
             showTagCloud: false
         });
-        this.props.trackEvent('tags', tag);
+        this.props.trackEvent('tag', 'cloud', tag);
     },
 
     render () {

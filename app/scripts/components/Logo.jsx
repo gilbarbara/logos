@@ -17,7 +17,7 @@ var Logo = React.createClass({
     },
 
     _onClickLogo (e) {
-        this.props.trackEvent('logo', e.currentTarget.dataset.shortname);
+        this.props.trackEvent('logo', 'click', e.currentTarget.dataset.shortname);
     },
 
     render () {

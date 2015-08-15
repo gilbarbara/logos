@@ -1,14 +1,14 @@
-var React   = require('react/addons'),
-    Isvg    = require('react-inlinesvg'),
-    _       = require('lodash'),
-    Header  = require('./components/Header'),
-    Footer  = require('./components/Footer'),
-    Loader  = require('./components/Loader'),
-    Logo    = require('./components/Logo'),
-    Icon    = require('./components/Icon'),
-    Colors  = require('./utils/Colors'),
+var React = require('react/addons'),
+    Isvg = require('react-inlinesvg'),
+    _ = require('lodash'),
+    Header = require('./components/Header'),
+    Footer = require('./components/Footer'),
+    Loader = require('./components/Loader'),
+    Logo = require('./components/Logo'),
+    Icon = require('./components/Icon'),
+    Colors = require('./utils/Colors'),
     Storage = require('./utils/Storage'),
-    json    = require('../logos.json');
+    json = require('../logos.json');
 
 var searchTimeout;
 
@@ -28,7 +28,7 @@ var App = React.createClass({
 
     componentWillMount: function () {
         var category = Storage.getItem('category'),
-            columns  = Storage.getItem('columns');
+            columns = Storage.getItem('columns');
 
         this.setState({
             category: category && category !== 'everybody' && this.state.category !== category ? category : this.state.category,
@@ -62,7 +62,7 @@ var App = React.createClass({
             }
 
             if (action) {
-                this._trackEvent('keyboard', action);
+                this._trackEvent('keyboard', 'press', action);
             }
 
         }.bind(this));
@@ -84,20 +84,19 @@ var App = React.createClass({
     },
 
     _trackEvent (category, type, label) {
-        if (location.hostname === 'svgporn.com') {
-            heap.track(category, { [type]: value });
-        }
+        //heap.track(category, {[type]: label});
 
         ga('send', 'event', { eventCategory: category, eventAction: type, eventLabel: label });
     },
 
     _onClickChangeColumns (e) {
         e.preventDefault();
-        var el  = e.currentTarget,
+        var el = e.currentTarget,
             col = +el.dataset.column;
 
         this._changeColumns(this.state.columns + col);
-        this._trackEvent('switch', el.dataset.column ? 'up' : 'down');
+
+        this._trackEvent('switch', 'click', col > 0 ? 'up' : 'down');
     },
 
     _changeColumns (num) {
@@ -132,7 +131,7 @@ var App = React.createClass({
 
         document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
         this._changeTag(tag);
-        this._trackEvent('tags', tag, 'logo');
+        this._trackEvent('tag', 'info', tag);
     },
 
     _onClickShowTags (e) {
@@ -144,7 +143,7 @@ var App = React.createClass({
             this.setState({
                 tag: undefined
             });
-            this._trackEvent('tag-cloud', 'clean');
+            this._trackEvent('tag-cloud', 'hide', this.state.tag);
         }
         else {
             this._toggleTagCloudVisibility();
@@ -187,7 +186,7 @@ var App = React.createClass({
             clearTimeout(searchTimeout);
 
             searchTimeout = setTimeout(function () {
-                this._trackEvent('search', search);
+                this._trackEvent('search', 'submit', search);
             }.bind(this), 500);
         }
 
@@ -202,7 +201,7 @@ var App = React.createClass({
         duration = duration / 10 < 500 ? duration : 500;
 
         var difference = to - element.scrollTop,
-            perTick    = difference / duration * 10,
+            perTick = difference / duration * 10,
             timeout;
 
         if (duration < 0) {
@@ -226,11 +225,11 @@ var App = React.createClass({
     },
 
     render () {
-        var state   = this.state,
-            hidden  = false,
-            db      = state.logos,
-            latest  = (state.category === 'categories' && !state.tag && !state.search),
-            logos   = [],
+        var state = this.state,
+            hidden = false,
+            db = state.logos,
+            latest = (state.category === 'categories' && !state.tag && !state.search),
+            logos = [],
             visible = 0;
 
         if (location.hash === '#latest' || latest) {
@@ -249,7 +248,8 @@ var App = React.createClass({
             }
 
             d.files.forEach(function (f, j) {
-                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag} trackEvent={this._trackEvent}/>);
+                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}
+                                 trackEvent={this._trackEvent}/>);
             }, this);
 
             if (!hidden) {
