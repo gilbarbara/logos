@@ -83,8 +83,16 @@ var App = React.createClass({
 
     _trackEvent (category, type, label) {
         //heap.track(category, {[type]: label});
+        var options = {
+            eventCategory: category,
+            eventAction: type
+        };
 
-        ga('send', 'event', { eventCategory: category, eventAction: type, eventLabel: label });
+        if (label) {
+            options.eventLabel = label;
+        }
+
+        ga('send', 'event', options);
     },
 
     _onClickChangeColumns (e) {
@@ -93,7 +101,6 @@ var App = React.createClass({
             col = +el.dataset.column;
 
         this._changeColumns(this.state.columns + col);
-
         this._trackEvent('switch', 'click', col > 0 ? 'up' : 'down');
     },
 
@@ -108,6 +115,7 @@ var App = React.createClass({
         e.preventDefault();
 
         this._changeCategory('everybody');
+        this._trackEvent('view-all', 'click');
     },
 
     _changeCategory (value) {
