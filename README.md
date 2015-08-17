@@ -623,6 +623,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.hostedgraphite.com/" target="_blank">Hosted Graphite</a> *
 ![hosted-graphite](http://svgporn.com/logos/hosted-graphite.svg)
 
+## <a href="https://houndci.com/" target="_blank">Hound</a>
+![houndci](http://svgporn.com/logos/houndci.svg)
+
 ## <a href="http://www.w3.org/TR/html5/" target="_blank">HTML5</a>
 ![html-5](http://svgporn.com/logos/html-5.svg)
 
@@ -735,6 +738,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>
 ![khan_academy](http://svgporn.com/logos/khan_academy.svg)
+
+## <a href="https://www.kickstarter.com/" target="_blank">Kickstarter</a>
+![kickstarter](http://svgporn.com/logos/kickstarter.svg)
 
 ## <a href="http://www.kinvey.com/" target="_blank">Kinvey</a>
 ![kinvey](http://svgporn.com/logos/kinvey.svg)
@@ -922,6 +928,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.myth.io/" target="_blank">Myth</a>
 ![myth](http://svgporn.com/logos/myth.svg)
 
+## <a href="https://www.namecheap.com/" target="_blank">Namecheap</a>
+![namecheap](http://svgporn.com/logos/namecheap.svg)
+
 ## <a href="https://www.nativescript.org/" target="_blank">NativeScript</a>
 ![nativescript](http://svgporn.com/logos/nativescript.svg)
 
@@ -1087,6 +1096,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://precursorapp.com/" target="_blank">Precursor</a>
 ![precursor](http://svgporn.com/logos/precursor.svg)
 
+## <a href="https://www.prestashop.com/" target="_blank">PrestaShop</a> *
+![prestashop](http://svgporn.com/logos/prestashop.svg)
+
 ## <a href="https://prestodb.io/" target="_blank">Presto</a>
 ![presto](http://svgporn.com/logos/presto.svg)
 
@@ -1110,6 +1122,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://github.com/kriskowal/q" target="_blank">Q</a>
 ![q](http://svgporn.com/logos/q.svg)
+
+## <a href="http://www.rabbitmq.com/" target="_blank">RabbitMQ</a> *
+![rabbitmq](http://svgporn.com/logos/rabbitmq.svg)
 
 ## <a href="http://www.rackspace.com/" target="_blank">Rackspace</a>
 ![rackspace](http://svgporn.com/logos/rackspace.svg)
@@ -1213,6 +1228,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://shields.io/" target="_blank">Shields.io</a> *
 ![shields](http://svgporn.com/logos/shields.svg)
 
+## <a href="http://shopify.com/" target="_blank">Shopify</a>
+![shopify](http://svgporn.com/logos/shopify.svg)
+
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
 ![sinatra](http://svgporn.com/logos/sinatra.svg)
 
@@ -1221,6 +1239,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.skylight.io/" target="_blank">Skylight</a> *
 ![skylight](http://svgporn.com/logos/skylight.svg)
+
+## <a href="http://www.skype.com/" target="_blank">Skype</a>
+![skype](http://svgporn.com/logos/skype.svg)
 
 ## <a href="https://slack.com/" target="_blank">slack</a>
 ![slack](http://svgporn.com/logos/slack.svg)
@@ -1296,6 +1317,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://developer.apple.com/swift/" target="_blank">Swift</a>
 ![swift](http://svgporn.com/logos/swift.svg)
+
+## <a href="https://swiftype.com/" target="_blank">Swiftype</a> *
+![swiftype](http://svgporn.com/logos/swiftype.svg)
 
 ## <a href="https://symfony.com/" target="_blank">Symfony</a>
 ![symfony](http://svgporn.com/logos/symfony.svg)
@@ -1441,6 +1465,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.wix.com/" target="_blank">Wix</a>
 ![wix](http://svgporn.com/logos/wix.svg)
+
+## <a href="http://www.woothemes.com/woocommerce/" target="_blank">WooCommerce</a>
+![woocommerce](http://svgporn.com/logos/woocommerce.svg)
 
 ## <a href="https://www.woopra.com/" target="_blank">Woopra</a>
 ![woopra](http://svgporn.com/logos/woopra.svg)
