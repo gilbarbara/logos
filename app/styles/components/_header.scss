@@ -21,7 +21,7 @@ header {
   h3 {
     color: $link-color;
     font-size: 2rem;
-    margin: 1rem 2rem 0;
+    margin: 1rem 2rem 0.5rem;
 
     @include sm {
       font-size: 2.4rem;

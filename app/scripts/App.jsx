@@ -104,6 +104,12 @@ var App = React.createClass({
         Storage.setItem('columns', num);
     },
 
+    _onClickViewAll (e) {
+        e.preventDefault();
+
+        this._changeCategory('everybody');
+    },
+
     _changeCategory (value) {
         this.setState({
             category: value,
@@ -228,13 +234,15 @@ var App = React.createClass({
             hidden = false,
             db = state.logos,
             latest = (state.category === 'categories' && !state.tag && !state.search),
+            favorites = (location.hash === '#fav' && state.category === 'categories' && !state.tag && !state.search),
+            heading = favorites ? 'Favorites' : (latest ? 'Latest additions' : ''),
             logos = [],
             visible = 0;
 
-        if (location.hash === '#fav') {
+        if (favorites) {
             db = _.filter(json.items, 'favorite', true);
         }
-        else if (location.hash === '#latest' || latest) {
+        else if (latest) {
             db = _.chain(json.items).sortByOrder(['added', 'name'], ['desc', 'asc']).take(50).value();
         }
 
@@ -281,7 +289,7 @@ var App = React.createClass({
                             trackEvent={this._trackEvent}
                         />
                     <main>
-                        {latest ? <h3 className="latest">Latest additions</h3> : ''}
+                        {heading ? <h3 className="heading">{heading}<br/><a href="#" onClick={this._onClickViewAll}>View All</a></h3> : ''}
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
                         </ul>
