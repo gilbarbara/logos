@@ -244,7 +244,8 @@
       "categories": [
         "hackers"
       ],
-      "added": "2015-07-04"
+      "added": "2015-07-04",
+      "favorite": true
     },
     {
       "name": "Asana",
@@ -3066,7 +3067,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "hapi",
@@ -3129,7 +3131,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-07"
+      "added": "2015-07-07",
+      "favorite": true
     },
     {
       "name": "Heap",
@@ -3309,7 +3312,8 @@
       "categories": [
         "geeks"
       ],
-      "added": "2015-07-18"
+      "added": "2015-07-18",
+      "favorite": true
     },
     {
       "name": "imagemin",
@@ -3412,7 +3416,8 @@
       "categories": [
         "business"
       ],
-      "added": "2015-08-03"
+      "added": "2015-08-03",
+      "favorite": true
     },
     {
       "name": "Interner Explorer",
@@ -3722,7 +3727,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-04"
+      "added": "2015-07-04",
+      "favorite": true
     },
     {
       "name": "JSCS",
@@ -3861,7 +3867,8 @@
         "designers",
         "developers"
       ],
-      "added": "2015-08-05"
+      "added": "2015-08-05",
+      "favorite": true
     },
     {
       "name": "Kickstarter",
@@ -4428,7 +4435,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Markdown",
@@ -4493,7 +4501,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-23"
+      "added": "2015-06-23",
+      "favorite": true
     },
     {
       "name": "Medium",
@@ -4606,7 +4615,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Microsoft",
@@ -4871,7 +4881,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-08-17"
+      "added": "2015-08-17",
+      "favorite": true
     },
     {
       "name": "NativeScript",
@@ -4987,7 +4998,8 @@
       "categories": [
         "DevOps"
       ],
-      "added": "2015-07-05"
+      "added": "2015-07-05",
+      "favorite": true
     },
     {
       "name": "NGINX",
@@ -5037,7 +5049,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "NodeBots",
@@ -5357,6 +5370,7 @@
         "designers"
       ],
       "added": "2015-08-03",
+      "favorite": true,
       "edited": true
     },
     {
@@ -5422,7 +5436,8 @@
         "developers",
         "geeks"
       ],
-      "added": "2015-07-28"
+      "added": "2015-07-28",
+      "favorite": true
     },
     {
       "name": "Passport",
@@ -5486,7 +5501,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-29"
+      "added": "2015-07-29",
+      "favorite": true
     },
     {
       "name": "Phoenix",
@@ -5505,6 +5521,7 @@
         "developers"
       ],
       "added": "2015-07-27",
+      "favorite": true,
       "edited": true
     },
     {
@@ -5683,7 +5700,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "PostCSS",
@@ -5898,7 +5916,9 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-23"
+      "added": "2015-06-23",
+      "favorite": true,
+      "edited": true
     },
     {
       "name": "RabbitMQ",
@@ -5995,7 +6015,8 @@
       "categories": [
         "hackers"
       ],
-      "added": "2015-07-08"
+      "added": "2015-07-08",
+      "favorite": true
     },
     {
       "name": "React",
@@ -6177,7 +6198,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "RubyGems",
@@ -6259,6 +6281,7 @@
         "geeks"
       ],
       "added": "2015-07-25",
+      "favorite": true,
       "edited": true
     },
     {
@@ -6322,7 +6345,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "Scala",
@@ -6538,6 +6562,7 @@
         "DevOps"
       ],
       "added": "2015-08-12",
+      "favorite": true,
       "edited": true
     },
     {
@@ -6568,7 +6593,8 @@
       "categories": [
         "teams"
       ],
-      "added": "2015-07-15"
+      "added": "2015-07-15",
+      "favorite": true
     },
     {
       "name": "Snap.svg",
@@ -6585,7 +6611,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-24"
+      "added": "2015-06-24",
+      "favorite": true
     },
     {
       "name": "Socket.io",
@@ -6700,7 +6727,8 @@
       "categories": [
         "publishers"
       ],
-      "added": "2015-07-24"
+      "added": "2015-07-24",
+      "favorite": true
     },
     {
       "name": "Stack Overflow",
@@ -6824,6 +6852,7 @@
         "DevOps"
       ],
       "added": "2015-08-03",
+      "favorite": true,
       "edited": true
     },
     {
@@ -6904,7 +6933,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-21"
+      "added": "2015-07-21",
+      "favorite": true
     },
     {
       "name": "Suse",
@@ -7020,7 +7050,8 @@
       "categories": [
         "teams"
       ],
-      "added": "2015-07-21"
+      "added": "2015-07-21",
+      "favorite": true
     },
     {
       "name": "Taiga",
@@ -7055,6 +7086,7 @@
         "developers"
       ],
       "added": "2015-07-11",
+      "favorite": true,
       "edited": true
     },
     {
@@ -7181,7 +7213,8 @@
         "designers",
         "developers"
       ],
-      "added": "2015-08-05"
+      "added": "2015-08-05",
+      "favorite": true
     },
     {
       "name": "Trello",
@@ -7452,6 +7485,7 @@
         "DevOps"
       ],
       "added": "2015-06-29",
+      "favorite": true,
       "edited": true
     },
     {
@@ -7546,7 +7580,8 @@
       "categories": [
         "business"
       ],
-      "added": "2015-07-05"
+      "added": "2015-07-05",
+      "favorite": true
     },
     {
       "name": "Void",
@@ -7581,6 +7616,7 @@
         "developers"
       ],
       "added": "2015-07-01",
+      "favorite": true,
       "edited": true
     },
     {
@@ -7643,7 +7679,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-23"
+      "added": "2015-07-23",
+      "favorite": true
     },
     {
       "name": "webpack",
@@ -7680,6 +7717,7 @@
         "developers"
       ],
       "added": "2015-06-11",
+      "favorite": true,
       "edited": true
     },
     {
@@ -7877,7 +7915,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-06-11"
+      "added": "2015-06-11",
+      "favorite": true
     },
     {
       "name": "YouTrack",

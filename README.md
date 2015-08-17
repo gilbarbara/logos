@@ -1120,7 +1120,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.python.org/" target="_blank">Python</a>
 ![python](http://svgporn.com/logos/python.svg)
 
-## <a href="https://github.com/kriskowal/q" target="_blank">Q</a>
+## <a href="https://github.com/kriskowal/q" target="_blank">Q</a> *
 ![q](http://svgporn.com/logos/q.svg)
 
 ## <a href="http://www.rabbitmq.com/" target="_blank">RabbitMQ</a> *
