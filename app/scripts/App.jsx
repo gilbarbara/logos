@@ -231,7 +231,10 @@ var App = React.createClass({
             logos = [],
             visible = 0;
 
-        if (location.hash === '#latest' || latest) {
+        if (location.hash === '#fav') {
+            db = _.filter(json.items, 'favorite', true);
+        }
+        else if (location.hash === '#latest' || latest) {
             db = _.chain(json.items).sortByOrder(['added', 'name'], ['desc', 'asc']).take(50).value();
         }
 
