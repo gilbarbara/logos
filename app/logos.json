@@ -84,7 +84,7 @@
       ],
       "added": "2015-06-11",
       "favorite": true,
-      "converted": true
+      "edited": true
     },
     {
       "name": "Ansible",
@@ -293,7 +293,7 @@
         "designers"
       ],
       "added": "2015-08-04",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Auth0",
@@ -538,7 +538,7 @@
         "developers"
       ],
       "added": "2015-08-12",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Bitbucket",
@@ -590,7 +590,7 @@
         "designers"
       ],
       "added": "2015-07-02",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Blogger",
@@ -642,7 +642,7 @@
         "designers"
       ],
       "added": "2015-06-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Bosun",
@@ -814,7 +814,7 @@
         "developers"
       ],
       "added": "2015-08-06",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Buffer",
@@ -831,7 +831,7 @@
         "business"
       ],
       "added": "2015-08-12",
-      "converted": true
+      "edited": true
     },
     {
       "name": "BugHerd",
@@ -1025,7 +1025,7 @@
         "developers"
       ],
       "added": "2015-06-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Chalk",
@@ -1323,7 +1323,7 @@
       ],
       "added": "2015-06-24",
       "favorite": true,
-      "converted": true
+      "edited": true
     },
     {
       "name": "Codrops",
@@ -1343,7 +1343,7 @@
         "designers"
       ],
       "added": "2015-07-07",
-      "converted": true
+      "edited": true
     },
     {
       "name": "CoffeeScript",
@@ -1378,7 +1378,7 @@
         "developers"
       ],
       "added": "2015-06-24",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Component",
@@ -1396,7 +1396,7 @@
         "developers"
       ],
       "added": "2015-07-06",
-      "converted": true
+      "edited": true
     },
     {
       "name": "ComponentKit",
@@ -1417,7 +1417,7 @@
       ],
       "added": "2015-08-06",
       "favorite": true,
-      "converted": true
+      "edited": true
     },
     {
       "name": "concrete5",
@@ -1435,7 +1435,7 @@
         "developers"
       ],
       "added": "2015-08-06",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Copyleft",
@@ -1472,7 +1472,7 @@
       ],
       "added": "2015-07-11",
       "favorite": true,
-      "converted": true
+      "edited": true
     },
     {
       "name": "CoreOS",
@@ -1591,7 +1591,7 @@
         "DevOps"
       ],
       "added": "2015-07-27",
-      "converted": true
+      "edited": true
     },
     {
       "name": "CreateJS",
@@ -1884,7 +1884,7 @@
         "developers"
       ],
       "added": "2015-07-15",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Divshot",
@@ -1954,7 +1954,7 @@
         "developers"
       ],
       "added": "2015-07-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "dotCloud",
@@ -2020,7 +2020,7 @@
         "developers"
       ],
       "added": "2015-07-09",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Dropbox",
@@ -2234,7 +2234,7 @@
         "developers"
       ],
       "added": "2015-07-13",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Erlang",
@@ -2301,7 +2301,7 @@
         "DevOps"
       ],
       "added": "2015-07-15",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Express",
@@ -2351,7 +2351,7 @@
         "DevOps"
       ],
       "added": "2015-08-03",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Facebook",
@@ -2417,7 +2417,7 @@
         "developers"
       ],
       "added": "2015-06-13",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Firefox",
@@ -2484,7 +2484,7 @@
         "sharing"
       ],
       "added": "2015-07-24",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Flight",
@@ -2503,7 +2503,7 @@
         "developers"
       ],
       "added": "2015-07-13",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Flow",
@@ -2524,7 +2524,7 @@
       ],
       "added": "2015-06-30",
       "favorite": true,
-      "converted": true
+      "edited": true
     },
     {
       "name": "Flux",
@@ -2596,7 +2596,7 @@
         "business"
       ],
       "added": "2015-07-17",
-      "converted": true
+      "edited": true
     },
     {
       "name": "FreeBSD",
@@ -2796,7 +2796,7 @@
       ],
       "added": "2015-07-25",
       "favorite": true,
-      "converted": true
+      "edited": true
     },
     {
       "name": "Google Cloud",
@@ -2908,7 +2908,7 @@
         "developers"
       ],
       "added": "2015-07-20",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Grails",
@@ -2942,7 +2942,7 @@
         "teams"
       ],
       "added": "2015-07-28",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Grunt",
@@ -3016,7 +3016,7 @@
         "developers"
       ],
       "added": "2015-07-13",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Hadoop",
@@ -3199,7 +3199,7 @@
         "developers"
       ],
       "added": "2015-07-17",
-      "converted": true
+      "edited": true
     },
     {
       "name": "HipChat",
@@ -3232,7 +3232,23 @@
         "DevOps"
       ],
       "added": "2015-08-13",
-      "converted": true
+      "edited": true
+    },
+    {
+      "name": "Hound",
+      "files": [
+        "houndci.svg"
+      ],
+      "shortname": "houndci",
+      "url": "https://houndci.com/",
+      "tags": [
+        "github",
+        "code review"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-17"
     },
     {
       "name": "HTML5",
@@ -3345,7 +3361,7 @@
         "developers"
       ],
       "added": "2015-07-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "InfluxDB",
@@ -3447,7 +3463,7 @@
         "developers"
       ],
       "added": "2015-06-14",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Ionic",
@@ -3576,7 +3592,7 @@
         "developers"
       ],
       "added": "2015-07-24",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Jenkins",
@@ -3774,7 +3790,7 @@
         "developers"
       ],
       "added": "2015-06-25",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Karma",
@@ -3827,7 +3843,7 @@
         "DevOps"
       ],
       "added": "2015-07-31",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Khan Academy",
@@ -3846,6 +3862,21 @@
         "developers"
       ],
       "added": "2015-08-05"
+    },
+    {
+      "name": "Kickstarter",
+      "files": [
+        "kickstarter.svg"
+      ],
+      "shortname": "kickstarter",
+      "url": "https://www.kickstarter.com/",
+      "tags": [
+        "crowdfunding"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-17"
     },
     {
       "name": "Kinvey",
@@ -3894,7 +3925,7 @@
         "DevOps"
       ],
       "added": "2015-07-07",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Knex.js",
@@ -3913,7 +3944,7 @@
         "developers"
       ],
       "added": "2015-08-03",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Kraken",
@@ -4140,7 +4171,7 @@
         "developers"
       ],
       "added": "2015-06-24",
-      "converted": true
+      "edited": true
     },
     {
       "name": "logentries",
@@ -4311,6 +4342,7 @@
         "e-commerce"
       ],
       "categories": [
+        "business",
         "developers"
       ],
       "added": "2015-07-11"
@@ -4429,7 +4461,7 @@
         "designers"
       ],
       "added": "2015-08-04",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Material UI",
@@ -4494,7 +4526,7 @@
         "developers"
       ],
       "added": "2015-07-31",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Memcached",
@@ -4624,7 +4656,7 @@
         "developers"
       ],
       "added": "2015-07-13",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Mixpanel",
@@ -4660,7 +4692,7 @@
         "developers"
       ],
       "added": "2015-06-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Mockflow",
@@ -4678,7 +4710,7 @@
         "designers"
       ],
       "added": "2015-08-12",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Modernizr",
@@ -4825,6 +4857,21 @@
         "developers"
       ],
       "added": "2015-07-07"
+    },
+    {
+      "name": "Namecheap",
+      "files": [
+        "namecheap.svg"
+      ],
+      "shortname": "namecheap",
+      "url": "https://www.namecheap.com/",
+      "tags": [
+        "domain registration"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-17"
     },
     {
       "name": "NativeScript",
@@ -5077,7 +5124,7 @@
         "developers"
       ],
       "added": "2015-07-01",
-      "converted": true
+      "edited": true
     },
     {
       "name": "NW.js a.k.a. Nodewebkit",
@@ -5206,7 +5253,7 @@
         "developers"
       ],
       "added": "2015-08-06",
-      "converted": true
+      "edited": true
     },
     {
       "name": "openstack",
@@ -5223,7 +5270,7 @@
         "DevOps"
       ],
       "added": "2015-07-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Opera",
@@ -5239,7 +5286,7 @@
         "geeks"
       ],
       "added": "2015-08-09",
-      "converted": true
+      "edited": true
     },
     {
       "name": "OpsGenie",
@@ -5257,7 +5304,7 @@
         "DevOps"
       ],
       "added": "2015-08-13",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Opsmatic",
@@ -5310,7 +5357,7 @@
         "designers"
       ],
       "added": "2015-08-03",
-      "converted": true
+      "edited": true
     },
     {
       "name": "osquery",
@@ -5329,7 +5376,7 @@
         "DevOps"
       ],
       "added": "2015-08-12",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Panda",
@@ -5458,7 +5505,7 @@
         "developers"
       ],
       "added": "2015-07-27",
-      "converted": true
+      "edited": true
     },
     {
       "name": "PhoneGap",
@@ -5605,7 +5652,7 @@
         "DevOps"
       ],
       "added": "2015-07-31",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Podio",
@@ -5670,7 +5717,7 @@
         "developers"
       ],
       "added": "2015-06-24",
-      "converted": true
+      "edited": true
     },
     {
       "name": "PouchDB",
@@ -5704,6 +5751,24 @@
         "designers"
       ],
       "added": "2015-07-07"
+    },
+    {
+      "name": "PrestaShop",
+      "files": [
+        "prestashop.svg"
+      ],
+      "shortname": "prestashop",
+      "url": "https://www.prestashop.com/",
+      "tags": [
+        "php",
+        "e-commerce"
+      ],
+      "categories": [
+        "business",
+        "developers"
+      ],
+      "added": "2015-08-17",
+      "edited": true
     },
     {
       "name": "Presto",
@@ -5784,7 +5849,7 @@
         "designers"
       ],
       "added": "2015-08-04",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Puppet",
@@ -5802,7 +5867,7 @@
         "DevOps"
       ],
       "added": "2015-06-24",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Python",
@@ -5834,6 +5899,23 @@
         "developers"
       ],
       "added": "2015-06-23"
+    },
+    {
+      "name": "RabbitMQ",
+      "files": [
+        "rabbitmq.svg"
+      ],
+      "shortname": "rabbitmq",
+      "url": "http://www.rabbitmq.com/",
+      "tags": [
+        "message queue",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-17",
+      "edited": true
     },
     {
       "name": "Rackspace",
@@ -6030,7 +6112,7 @@
         "developers"
       ],
       "added": "2015-08-03",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Riak",
@@ -6177,7 +6259,7 @@
         "geeks"
       ],
       "added": "2015-07-25",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Sails",
@@ -6272,7 +6354,7 @@
         "developers"
       ],
       "added": "2015-07-30",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Segment",
@@ -6309,7 +6391,7 @@
         "designers"
       ],
       "added": "2015-08-03",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Semaphore",
@@ -6389,7 +6471,22 @@
         "developers"
       ],
       "added": "2015-07-14",
-      "converted": true
+      "edited": true
+    },
+    {
+      "name": "Shopify",
+      "files": [
+        "shopify.svg"
+      ],
+      "shortname": "shopify",
+      "url": "http://shopify.com/",
+      "tags": [
+        "ecommerce"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-17"
     },
     {
       "name": "Sinatra",
@@ -6423,7 +6520,7 @@
         "designers"
       ],
       "added": "2015-08-04",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Skylight",
@@ -6441,7 +6538,22 @@
         "DevOps"
       ],
       "added": "2015-08-12",
-      "converted": true
+      "edited": true
+    },
+    {
+      "name": "Skype",
+      "files": [
+        "skype.svg"
+      ],
+      "shortname": "skype",
+      "url": "http://www.skype.com/",
+      "tags": [
+        "video conference"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-17"
     },
     {
       "name": "slack",
@@ -6555,7 +6667,7 @@
         "developers"
       ],
       "added": "2015-07-05",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Square",
@@ -6572,7 +6684,7 @@
         "business"
       ],
       "added": "2015-08-03",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Squarespace",
@@ -6623,7 +6735,7 @@
         "business"
       ],
       "added": "2015-07-27",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Stash",
@@ -6658,7 +6770,7 @@
         "DevOps"
       ],
       "added": "2015-07-20",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Steroids",
@@ -6712,7 +6824,7 @@
         "DevOps"
       ],
       "added": "2015-08-03",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Struts",
@@ -6861,6 +6973,22 @@
       "added": "2015-06-11"
     },
     {
+      "name": "Swiftype",
+      "files": [
+        "swiftype.svg"
+      ],
+      "shortname": "swiftype",
+      "url": "https://swiftype.com/",
+      "tags": [
+        "search engine"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-17",
+      "edited": true
+    },
+    {
       "name": "Symfony",
       "files": [
         "symfony.svg"
@@ -6927,7 +7055,7 @@
         "developers"
       ],
       "added": "2015-07-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "teamwork",
@@ -7242,7 +7370,7 @@
         "developers"
       ],
       "added": "2015-07-20",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Unity",
@@ -7324,7 +7452,7 @@
         "DevOps"
       ],
       "added": "2015-06-29",
-      "converted": true
+      "edited": true
     },
     {
       "name": "VictorOps",
@@ -7453,7 +7581,7 @@
         "developers"
       ],
       "added": "2015-07-01",
-      "converted": true
+      "edited": true
     },
     {
       "name": "W3C",
@@ -7535,7 +7663,7 @@
         "developers"
       ],
       "added": "2015-06-24",
-      "converted": true
+      "edited": true
     },
     {
       "name": "WebPlatform",
@@ -7552,7 +7680,7 @@
         "developers"
       ],
       "added": "2015-06-11",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Weebly",
@@ -7635,6 +7763,24 @@
       "added": "2015-07-26"
     },
     {
+      "name": "WooCommerce",
+      "files": [
+        "woocommerce.svg"
+      ],
+      "shortname": "woocommerce",
+      "url": "http://www.woothemes.com/woocommerce/",
+      "tags": [
+        "php",
+        "wordpress",
+        "ecommerce"
+      ],
+      "categories": [
+        "business",
+        "developers"
+      ],
+      "added": "2015-08-17"
+    },
+    {
       "name": "Woopra",
       "files": [
         "woopra.svg"
@@ -7685,7 +7831,7 @@
         "business"
       ],
       "added": "2015-07-28",
-      "converted": true
+      "edited": true
     },
     {
       "name": "Yahoo!",
@@ -7851,7 +7997,7 @@
         "business"
       ],
       "added": "2015-08-06",
-      "converted": true
+      "edited": true
     }
   ]
 }
