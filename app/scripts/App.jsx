@@ -1,14 +1,14 @@
-var React = require('react/addons'),
-    Isvg = require('react-inlinesvg'),
-    _ = require('lodash'),
-    Header = require('./components/Header'),
-    Footer = require('./components/Footer'),
-    Loader = require('./components/Loader'),
-    Logo = require('./components/Logo'),
-    Icon = require('./components/Icon'),
-    Colors = require('./utils/Colors'),
+var React   = require('react/addons'),
+    Isvg    = require('react-inlinesvg'),
+    _       = require('lodash'),
+    Header  = require('./components/Header'),
+    Footer  = require('./components/Footer'),
+    Loader  = require('./components/Loader'),
+    Logo    = require('./components/Logo'),
+    Icon    = require('./components/Icon'),
+    Colors  = require('./utils/Colors'),
     Storage = require('./utils/Storage'),
-    json = require('../logos.json');
+    json    = require('../logos.json');
 
 var searchTimeout;
 
@@ -20,6 +20,7 @@ var App = React.createClass({
             category: 'categories',
             categoryMenuVisible: false,
             columns: 3,
+            favorites: false,
             logos: json.items,
             tag: undefined,
             tagCloudVisible: false
@@ -28,12 +29,18 @@ var App = React.createClass({
 
     componentWillMount: function () {
         var category = Storage.getItem('category'),
-            columns = Storage.getItem('columns');
+            columns  = Storage.getItem('columns');
 
         this.setState({
             category: category && category !== 'everybody' && this.state.category !== category ? category : this.state.category,
             columns: columns && this.state.columns !== columns ? columns : this.state.columns
         });
+
+        if (location.hash === '#fav') {
+            this.setState({
+                favorites: true
+            });
+        }
     },
 
     componentDidMount: function () {
@@ -97,7 +104,7 @@ var App = React.createClass({
 
     _onClickChangeColumns (e) {
         e.preventDefault();
-        var el = e.currentTarget,
+        var el  = e.currentTarget,
             col = +el.dataset.column;
 
         this._changeColumns(this.state.columns + col);
@@ -111,11 +118,16 @@ var App = React.createClass({
         Storage.setItem('columns', num);
     },
 
-    _onClickViewAll (e) {
+    _onClickChangeView (e) {
         e.preventDefault();
+        var type = e.currentTarget.dataset.value;
 
-        this._changeCategory('everybody');
-        this._trackEvent('view-all', 'click');
+        this._changeCategory(type === 'all' ? 'everybody' : 'categories');
+        this.setState({
+            favorites: type === 'favorites'
+        });
+
+        this._trackEvent('view', 'click', type);
     },
 
     _changeCategory (value) {
@@ -213,7 +225,7 @@ var App = React.createClass({
         duration = duration / 10 < 500 ? duration : 500;
 
         var difference = to - element.scrollTop,
-            perTick = difference / duration * 10,
+            perTick    = difference / duration * 10,
             timeout;
 
         if (duration < 0) {
@@ -238,14 +250,14 @@ var App = React.createClass({
     },
 
     render () {
-        var state = this.state,
-            hidden = false,
-            db = state.logos,
-            latest = (state.category === 'categories' && !state.tag && !state.search),
-            favorites = (location.hash === '#fav' && state.category === 'categories' && !state.tag && !state.search),
-            heading = favorites ? 'Favorites' : (latest ? 'Latest additions' : ''),
-            logos = [],
-            visible = 0;
+        var state     = this.state,
+            hidden    = false,
+            db        = state.logos,
+            latest    = (state.category === 'categories' && !state.tag && !state.search),
+            favorites = (state.favorites && state.category === 'categories' && !state.tag && !state.search),
+            heading   = favorites ? 'Favorites' : (latest ? 'Latest additions' : ''),
+            logos     = [],
+            visible   = 0;
 
         if (favorites) {
             db = _.filter(json.items, 'favorite', true);
@@ -266,8 +278,8 @@ var App = React.createClass({
             }
 
             d.files.forEach(function (f, j) {
-                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden} onClickTag={this._onClickTag}
-                                 trackEvent={this._trackEvent}/>);
+                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden}
+                                 onClickTag={this._onClickTag} trackEvent={this._trackEvent}/>);
             }, this);
 
             if (!hidden) {
@@ -297,7 +309,11 @@ var App = React.createClass({
                             trackEvent={this._trackEvent}
                         />
                     <main>
-                        {heading ? <h3 className="heading">{heading}<br/><a href="#" onClick={this._onClickViewAll}>View All</a></h3> : ''}
+                        {heading ? <h3 className="heading">{heading}<br/>
+                            <a href="#" data-value="all" onClick={this._onClickChangeView}>View All</a>
+                            <a href="#" data-value={favorites ? 'latest' : 'favorites'}
+                               onClick={this._onClickChangeView}>{favorites ? 'Latest' : 'Favorites'}</a>
+                        </h3> : ''}
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
                         </ul>
