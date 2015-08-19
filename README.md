@@ -88,6 +88,39 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://aws.amazon.com/" target="_blank">AWS</a>
 ![aws](http://svgporn.com/logos/aws.svg)
 
+## <a href="http://aws.amazon.com/cloudformation/" target="_blank">AWS CloudFormation</a> *
+![aws-cloudformation](http://svgporn.com/logos/aws-cloudformation.svg)
+
+## <a href="http://aws.amazon.com/codedeploy/" target="_blank">AWS CodeDeploy</a> *
+![aws-codedeploy](http://svgporn.com/logos/aws-codedeploy.svg)
+
+## <a href="http://aws.amazon.com/cognito/" target="_blank">AWS Cognito</a> *
+![aws-cognito](http://svgporn.com/logos/aws-cognito.svg)
+
+## <a href="http://aws.amazon.com/dynamodb/" target="_blank">AWS DynamoDB</a> *
+![aws-dynamodb](http://svgporn.com/logos/aws-dynamodb.svg)
+
+## <a href="http://aws.amazon.com/ec2/" target="_blank">AWS EC2 (Elastic Compute Cloud)</a> *
+![aws-ec2](http://svgporn.com/logos/aws-ec2.svg)
+
+## <a href="http://aws.amazon.com/glacier/" target="_blank">AWS Glacier</a> *
+![aws-glacier](http://svgporn.com/logos/aws-glacier.svg)
+
+## <a href="http://aws.amazon.com/lambda/" target="_blank">AWS Lambda</a> *
+![aws-lambda](http://svgporn.com/logos/aws-lambda.svg)
+
+## <a href="http://aws.amazon.com/rds/" target="_blank">AWS RDS (Relational Database Service)</a> *
+![aws-rds](http://svgporn.com/logos/aws-rds.svg)
+
+## <a href="http://aws.amazon.com/route53/" target="_blank">AWS Route 53</a> *
+![aws-route53](http://svgporn.com/logos/aws-route53.svg)
+
+## <a href="http://aws.amazon.com/s3/" target="_blank">AWS S3 (Simple Storage Service)</a> *
+![aws-s3](http://svgporn.com/logos/aws-s3.svg)
+
+## <a href="http://aws.amazon.com/sqs/" target="_blank">AWS SQS (Simple Queue Service)</a> *
+![aws-sqs](http://svgporn.com/logos/aws-sqs.svg)
+
 ## <a href="https://babeljs.io/" target="_blank">Babel</a>
 ![babel](http://svgporn.com/logos/babel.svg)
 
@@ -286,6 +319,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.concrete5.org/" target="_blank">concrete5</a> *
 ![concrete5](http://svgporn.com/logos/concrete5.svg)
 
+## <a href="http://convox.com/" target="_blank">Convox</a> *
+![convox](http://svgporn.com/logos/convox.svg)
+
 ## <a href="https://copyleft.org/" target="_blank">Copyleft</a>
 ![copyleft](http://svgporn.com/logos/copyleft.svg)
 
@@ -421,6 +457,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://elementary.io/" target="_blank">elementary OS</a>
 ![elementary](http://svgporn.com/logos/elementary.svg)
 
+## <a href="http://embed.ly/" target="_blank">Embedly</a> *
+![embedly](http://svgporn.com/logos/embedly.svg)
+
 ## <a href="http://emberjs.com/" target="_blank">Ember</a>
 ![ember](http://svgporn.com/logos/ember-tomster.svg)
 
@@ -493,6 +532,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://facebook.github.io/flux/" target="_blank">Flux</a>
 ![flux](http://svgporn.com/logos/flux.svg)
+
+## <a href="https://github.com/flyjs/fly" target="_blank">Fly</a> *
+![flyjs](http://svgporn.com/logos/flyjs.svg)
 
 ## <a href="https://github.com/foreverjs/forever" target="_blank">Forever</a>
 ![forever](http://svgporn.com/logos/forever.svg)
@@ -726,6 +768,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://jspm.io/" target="_blank">JSPM</a> *
 ![jspm](http://svgporn.com/logos/jspm.svg)
+
+## <a href="http://kafka.apache.org/" target="_blank">Kafka</a> *
+![kafka](http://svgporn.com/logos/kafka.svg)
 
 ## <a href="http://karma-runner.github.io/" target="_blank">Karma</a>
 ![karma](http://svgporn.com/logos/karma.svg)
@@ -1117,6 +1162,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a> *
 ![puppet](http://svgporn.com/logos/puppet.svg)
 
+## <a href="https://pusher.com/" target="_blank">Pusher</a> *
+![pusher](http://svgporn.com/logos/pusher.svg)
+
 ## <a href="https://www.python.org/" target="_blank">Python</a>
 ![python](http://svgporn.com/logos/python.svg)
 
@@ -1204,6 +1252,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.scala-lang.org/" target="_blank">Scala</a>
 ![scala](http://svgporn.com/logos/scala.svg)
 
+## <a href="https://www.section.io/" target="_blank">section.io</a> *
+![sectionio](http://svgporn.com/logos/sectionio.svg)
+
 ## <a href="https://www.sencha.com/" target="_blank">Sencha Touch</a> *
 ![sencha](http://svgporn.com/logos/sencha.svg)
 
@@ -1284,6 +1335,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.appgyver.com/steroids" target="_blank">Steroids</a>
 ![steroids](http://svgporn.com/logos/steroids.svg)
+
+## <a href="https://stormpath.com/" target="_blank">Stormpath</a> *
+![stormpath](http://svgporn.com/logos/stormpath.svg)
 
 ## <a href="https://stripe.com/" target="_blank">Stripe</a>
 ![stripe](http://svgporn.com/logos/stripe.svg)

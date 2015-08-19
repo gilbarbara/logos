@@ -20,7 +20,7 @@ header {
 
   h3 {
     color: $link-color;
-    font-size: 2rem;
+    font-size: 1.8rem;
     margin: 1rem 2rem 0.5rem;
 
     @include sm {
@@ -44,7 +44,7 @@ header {
   .categories__menu {
     color: $link-color;
     display: inline-flex;
-    font-size: 2rem;
+    font-size: 1.8rem;
     position: relative;
 
     @include sm {
@@ -88,7 +88,7 @@ header {
           background-color: $link-color;
           color: #fff;
           display: flex;
-          font-size: 2rem;
+          font-size: 1.8rem;
           justify-content: space-between;
           padding: 5px 8px;
           text-align: left;

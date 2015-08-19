@@ -362,6 +362,196 @@
       "added": "2015-06-11"
     },
     {
+      "name": "AWS CloudFormation",
+      "files": [
+        "aws-cloudformation.svg"
+      ],
+      "shortname": "aws-cloudformation",
+      "url": "http://aws.amazon.com/cloudformation/",
+      "tags": [
+        "cloud management",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS CodeDeploy",
+      "files": [
+        "aws-codedeploy.svg"
+      ],
+      "shortname": "aws-codedeploy",
+      "url": "http://aws.amazon.com/codedeploy/",
+      "tags": [
+        "code deployment",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS Cognito",
+      "files": [
+        "aws-cognito.svg"
+      ],
+      "shortname": "aws-cognito",
+      "url": "http://aws.amazon.com/cognito/",
+      "tags": [
+        "user management",
+        "authentication",
+        "BaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS DynamoDB",
+      "files": [
+        "aws-dynamodb.svg"
+      ],
+      "shortname": "aws-dynamodb",
+      "url": "http://aws.amazon.com/dynamodb/",
+      "tags": [
+        "database",
+        "nosql",
+        "DBaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS EC2 (Elastic Compute Cloud)",
+      "files": [
+        "aws-ec2.svg"
+      ],
+      "shortname": "aws-ec2",
+      "url": "http://aws.amazon.com/ec2/",
+      "tags": [
+        "cloud computing",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS Glacier",
+      "files": [
+        "aws-glacier.svg"
+      ],
+      "shortname": "aws-glacier",
+      "url": "http://aws.amazon.com/glacier/",
+      "tags": [
+        "data backup",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS Lambda",
+      "files": [
+        "aws-lambda.svg"
+      ],
+      "shortname": "aws-lambda",
+      "url": "http://aws.amazon.com/lambda/",
+      "tags": [
+        "task processor",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS RDS (Relational Database Service)",
+      "files": [
+        "aws-rds.svg"
+      ],
+      "shortname": "aws-rds",
+      "url": "http://aws.amazon.com/rds/",
+      "tags": [
+        "database",
+        "sql",
+        "DBaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS Route 53",
+      "files": [
+        "aws-route53.svg"
+      ],
+      "shortname": "aws-route53",
+      "url": "http://aws.amazon.com/route53/",
+      "tags": [
+        "dns",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS S3 (Simple Storage Service)",
+      "files": [
+        "aws-s3.svg"
+      ],
+      "shortname": "aws-s3",
+      "url": "http://aws.amazon.com/s3/",
+      "tags": [
+        "sloud storage",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS SQS (Simple Queue Service)",
+      "files": [
+        "aws-sqs.svg"
+      ],
+      "shortname": "aws-sqs",
+      "url": "http://aws.amazon.com/sqs/",
+      "tags": [
+        "message queue",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
       "name": "Babel",
       "files": [
         "babel.svg"
@@ -1439,6 +1629,26 @@
       "edited": true
     },
     {
+      "name": "Convox",
+      "files": [
+        "convox.svg"
+      ],
+      "shortname": "convox",
+      "url": "http://convox.com/",
+      "tags": [
+        "cloud computing",
+        "PaaS",
+        "cli",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
       "name": "Copyleft",
       "files": [
         "copyleft.svg",
@@ -2151,6 +2361,23 @@
       "added": "2015-07-28"
     },
     {
+      "name": "Embedly",
+      "files": [
+        "embedly.svg"
+      ],
+      "shortname": "embedly",
+      "url": "http://embed.ly/",
+      "tags": [
+        "embeding",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
       "name": "Ember",
       "files": [
         "ember-tomster.svg",
@@ -2543,6 +2770,26 @@
         "developers"
       ],
       "added": "2015-06-28"
+    },
+    {
+      "name": "Fly",
+      "files": [
+        "flyjs.svg"
+      ],
+      "shortname": "flyjs",
+      "url": "https://github.com/flyjs/fly",
+      "tags": [
+        "javascript",
+        "node.js",
+        "build tool",
+        "cli",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-18",
+      "edited": true
     },
     {
       "name": "Forever",
@@ -3799,6 +4046,23 @@
       "edited": true
     },
     {
+      "name": "Kafka",
+      "files": [
+        "kafka.svg"
+      ],
+      "shortname": "kafka",
+      "url": "http://kafka.apache.org/",
+      "tags": [
+        "message queue",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
       "name": "Karma",
       "files": [
         "karma.svg"
@@ -4219,7 +4483,7 @@
       "url": "http://loopback.io/",
       "tags": [
         "node.js",
-        "API framework"
+        "api framework"
       ],
       "categories": [
         "developers"
@@ -5888,6 +6152,26 @@
       "edited": true
     },
     {
+      "name": "Pusher",
+      "files": [
+        "pusher.svg"
+      ],
+      "shortname": "pusher",
+      "url": "https://pusher.com/",
+      "tags": [
+        "cloud computing",
+        "api",
+        "realtime",
+        "database",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
       "name": "Python",
       "files": [
         "python.svg"
@@ -6364,6 +6648,24 @@
       "added": "2015-07-02"
     },
     {
+      "name": "section.io",
+      "files": [
+        "sectionio.svg"
+      ],
+      "shortname": "sectionio",
+      "url": "https://www.section.io/",
+      "tags": [
+        "web cache",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
+      ],
+      "added": "2015-08-18",
+      "edited": true
+    },
+    {
       "name": "Sencha Touch",
       "files": [
         "sencha.svg"
@@ -6817,6 +7119,25 @@
         "developers"
       ],
       "added": "2015-07-21"
+    },
+    {
+      "name": "Stormpath",
+      "files": [
+        "stormpath.svg"
+      ],
+      "shortname": "stormpath",
+      "url": "https://stormpath.com/",
+      "tags": [
+        "user management",
+        "authentication",
+        "BaaS",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-18",
+      "edited": true
     },
     {
       "name": "Stripe",
