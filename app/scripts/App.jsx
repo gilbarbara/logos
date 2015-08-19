@@ -133,6 +133,7 @@ var App = React.createClass({
     _changeCategory (value) {
         this.setState({
             category: value,
+            favorites: false,
             tag: undefined,
             search: undefined
         });
@@ -187,10 +188,11 @@ var App = React.createClass({
         this._scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
 
         this.setState({
-            tag,
-            tagCloudVisible: false,
             category: 'categories',
-            search: undefined
+            favorites: false,
+            search: undefined,
+            tag,
+            tagCloudVisible: false
         });
     },
 
@@ -216,6 +218,7 @@ var App = React.createClass({
 
         this.setState({
             category: 'categories',
+            favorites: false,
             search: search || undefined,
             tag: undefined
         });
@@ -299,6 +302,8 @@ var App = React.createClass({
                         category: state.category,
                         categoryMenuVisible: state.categoryMenuVisible,
                         columns: state.columns,
+                        favorites: favorites,
+                        heading: heading,
                         search: state.search,
                         tag: state.tag,
                         tagCloudVisible: state.tagCloudVisible
@@ -306,14 +311,9 @@ var App = React.createClass({
                             onSearch={this._searchLogos} changeCategory={this._changeCategory}
                             toggleCategoryMenu={this._toggleCategoryMenuVisibility}
                             onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
-                            trackEvent={this._trackEvent}
+                            trackEvent={this._trackEvent} onClickChangeView={this._onClickChangeView}
                         />
                     <main>
-                        {heading ? <h3 className="heading">{heading}<br/>
-                            <a href="#" data-value="all" onClick={this._onClickChangeView}>View All</a>
-                            <a href="#" data-value={favorites ? 'latest' : 'favorites'}
-                               onClick={this._onClickChangeView}>{favorites ? 'Latest' : 'Favorites'}</a>
-                        </h3> : ''}
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
                         </ul>

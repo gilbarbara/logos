@@ -87,23 +87,6 @@ footer {
   padding: 1.5rem;
 }
 
-.heading {
-  color: $link-color;
-  font-size: 2.8rem;
-  line-height: 1;
-  margin-bottom: 0;
-  margin-top: 4rem;
-  text-align: center;
-
-  a {
-    font-size: 1.6rem;
-
-    + a {
-      margin-left: 10px;
-    }
-  }
-}
-
 .isvg {
   display: none;
 }

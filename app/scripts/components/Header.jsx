@@ -11,6 +11,7 @@ var Header = React.createClass({
         changeCategory: React.PropTypes.func.isRequired,
         changeTag: React.PropTypes.func.isRequired,
         onClickChangeColumns: React.PropTypes.func.isRequired,
+        onClickChangeView: React.PropTypes.func.isRequired,
         onClickShowTagCloud: React.PropTypes.func.isRequired,
         onSearch: React.PropTypes.func.isRequired,
         state: React.PropTypes.object.isRequired,
@@ -234,7 +235,7 @@ var Header = React.createClass({
         return (
             <header
                 className={[props.state.categoryMenuVisible ? 'show-menu' : '', props.state.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
-                <img src="media/svg-porn.svg" className="logo"/>
+                <a href="#" data-value="logo" onClick={props.onClickChangeView}><img src="media/svg-porn.svg" className="logo"/></a>
 
                 <h3>{props.state.category === 'categories' ? props.state.logos.length : props.visible} high quality svg logos</h3>
                 {categories}
@@ -261,6 +262,11 @@ var Header = React.createClass({
                 </ul>
                 {output.tagCloud}
                 <div className="overlay" onClick={props.toggleCategoryMenu}></div>
+                {props.state.heading ? <h3 className="heading">{props.state.heading}<br/>
+                    <a href="#" data-value="all" onClick={props.onClickChangeView}>View All</a>
+                    <a href="#" data-value={props.state.favorites ? 'latest' : 'favorites'}
+                       onClick={props.onClickChangeView}>{props.state.favorites ? 'Latest' : 'Favorites'}</a>
+                </h3> : ''}
             </header>
         );
     }
