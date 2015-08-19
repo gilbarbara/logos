@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="4" dy="4" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feComposite in="shadowBlurInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.55 0" in="shadowInnerInner1" type="matrix" result="shadowMatrixInner1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+                <feMergeNode in="shadowMatrixInner1"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+	<g>
+		<path d="M256,128 C256,198.692 198.692,256 128,256 C57.308,256 0,198.692 0,128 C0,57.308 57.308,0 128,0 C198.692,0 256,57.308 256,128" fill="#8CAFC4"></path>
+		<path d="M243.2,128 C243.2,191.623 191.623,243.2 128,243.2 C64.377,243.2 12.8,191.623 12.8,128 C12.8,64.377 64.377,12.8 128,12.8 C191.623,12.8 243.2,64.377 243.2,128" fill="#1777BB"></path>
+		<path d="M178.286,128 C178.286,155.772 155.772,178.286 128,178.286 C100.228,178.286 77.714,155.772 77.714,128 C77.714,100.228 100.228,77.714 128,77.714 C155.772,77.714 178.286,100.228 178.286,128" fill="#EB9B23" filter="url(#filter-1)"></path>
+	</g>
+</svg>
