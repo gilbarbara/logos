@@ -7770,7 +7770,8 @@
       "categories": [
         "developers"
       ],
-      "added": "2015-07-30"
+      "added": "2015-07-30",
+      "favorite": true
     },
     {
       "name": "Vaadin",
