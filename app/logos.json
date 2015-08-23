@@ -320,7 +320,7 @@
       "url": "https://github.com/postcss/autoprefixer",
       "tags": [
         "css",
-        "postprocessor"
+        "transformer"
       ],
       "categories": [
         "developers"
@@ -524,7 +524,7 @@
       "shortname": "aws-s3",
       "url": "http://aws.amazon.com/s3/",
       "tags": [
-        "sloud storage",
+        "cloud storage",
         "IaaS"
       ],
       "categories": [
@@ -560,7 +560,7 @@
       "tags": [
         "javascript",
         "compiler",
-        "postprocessor",
+        "transformer",
         "cli"
       ],
       "categories": [
@@ -1486,7 +1486,7 @@
       "shortname": "coderwall",
       "url": "https://coderwall.com/",
       "tags": [
-        "collaborative",
+        "community",
         "reference",
         "teams",
         "professional networking"
@@ -2140,7 +2140,7 @@
       "url": "https://www.docker.com/",
       "tags": [
         "code deployment",
-        "container",
+        "containers",
         "IaaS"
       ],
       "categories": [
@@ -2402,7 +2402,7 @@
       "shortname": "emmet",
       "url": "http://emmet.io/",
       "tags": [
-        "content assist",
+        "snippets",
         "html",
         "css"
       ],
@@ -3689,7 +3689,7 @@
       "url": "http://www.invisionapp.com/",
       "tags": [
         "prototyping",
-        "collaboration platform"
+        "ui"
       ],
       "categories": [
         "designers",
@@ -6409,7 +6409,6 @@
       "tags": [
         "database",
         "realtime",
-        "json",
         "vectorized"
       ],
       "categories": [
@@ -7039,7 +7038,7 @@
       "shortname": "stackoverflow",
       "url": "http://stackoverflow.com/",
       "tags": [
-        "collaborative",
+        "community",
         "reference"
       ],
       "categories": [
@@ -7628,7 +7627,7 @@
       "shortname": "twitter",
       "url": "https://twitter.com/",
       "tags": [
-        "blogging",
+        "microblog",
         "social network"
       ],
       "categories": [
@@ -8230,6 +8229,7 @@
       "shortname": "yeoman",
       "url": "http://yeoman.io/",
       "tags": [
+        "boilerplate",
         "scaffolding",
         "cli"
       ],
