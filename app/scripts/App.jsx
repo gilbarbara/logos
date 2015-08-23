@@ -294,7 +294,7 @@ var App = React.createClass({
 
         return (
             <div className="app">
-                <Isvg src="../media/icons.svg" uniquifyIDs={false}/>
+                <Isvg src="media/icons.svg" uniquifyIDs={false}/>
 
                 <div className="container">
                     <Header state={{
