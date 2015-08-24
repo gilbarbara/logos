@@ -11,6 +11,12 @@ var Logo = React.createClass({
         trackEvent: React.PropTypes.func.isRequired
     },
 
+    getInitialState () {
+        return {
+            path: location.hostname === 'localhost' ?  '../logos/' : 'http://svgporn.com/logos/'
+        };
+    },
+
     toggleInfo (e) {
         var el = e.currentTarget;
         el.classList.toggle('show-info');
@@ -27,7 +33,7 @@ var Logo = React.createClass({
         return (
             <li className={props.hidden ? 'hidden' : ''} onMouseEnter={this.toggleInfo} onMouseLeave={this.toggleInfo} data-added={info.added}>
                 <a href={info.url} target="_blank" className="logo-item" data-shortname={info.shortname} onClick={this._onClickLogo}>
-                    <img src={'http://svgporn.com/logos/' + this.props.image} alt={info.name} className={info.shortname}/>
+                    <img src={this.state.path + this.props.image} alt={info.name} className={info.shortname}/>
                 </a>
 
                 <div className="info">

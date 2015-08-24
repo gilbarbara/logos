@@ -482,6 +482,24 @@
       "edited": true
     },
     {
+      "name": "AWS Opworks",
+      "files": [
+        "aws-opsworks.svg"
+      ],
+      "shortname": "aws-opsworks",
+      "url": "http://aws.amazon.com/opsworks/",
+      "tags": [
+        "configuration manager",
+        "chef",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-24",
+      "edited": true
+    },
+    {
       "name": "AWS RDS (Relational Database Service)",
       "files": [
         "aws-rds.svg"
@@ -586,6 +604,21 @@
         "developers"
       ],
       "added": "2015-06-11"
+    },
+    {
+      "name": "BackerKit",
+      "files": [
+        "backerkit.svg"
+      ],
+      "shortname": "backerkit",
+      "url": "https://www.backerkit.com/",
+      "tags": [
+        "crowdfunding"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-24"
     },
     {
       "name": "Base",
@@ -1700,6 +1733,23 @@
         "DevOps"
       ],
       "added": "2015-07-31"
+    },
+    {
+      "name": "Couchbase",
+      "files": [
+        "couchbase.svg"
+      ],
+      "shortname": "couchbase",
+      "url": "http://www.couchbase.com/",
+      "tags": [
+        "database",
+        "nosql",
+        "DBaaS"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-24"
     },
     {
       "name": "CouchDB",
@@ -3174,6 +3224,22 @@
       "added": "2015-07-05"
     },
     {
+      "name": "Groove",
+      "files": [
+        "groovehq.svg"
+      ],
+      "shortname": "groovehq",
+      "url": "https://www.groovehq.com/",
+      "tags": [
+        "help desk",
+        "customer support"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-24"
+    },
+    {
       "name": "Grove",
       "files": [
         "grove.svg"
@@ -3395,6 +3461,22 @@
         "business"
       ],
       "added": "2015-07-29"
+    },
+    {
+      "name": "Help Scout",
+      "files": [
+        "helpscout.svg"
+      ],
+      "shortname": "helpscout",
+      "url": "https://www.helpscout.net/",
+      "tags": [
+        "help desk",
+        "customer support"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-24"
     },
     {
       "name": "Heroku",
@@ -4913,6 +4995,21 @@
       "added": "2015-08-09"
     },
     {
+      "name": "Middleman",
+      "files": [
+        "middleman.svg"
+      ],
+      "shortname": "middleman",
+      "url": "https://middlemanapp.com/",
+      "tags": [
+        "static site generator"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-24"
+    },
+    {
       "name": "Mithril",
       "files": [
         "mithril.svg"
@@ -5653,6 +5750,23 @@
         "DevOps"
       ],
       "added": "2015-08-12",
+      "edited": true
+    },
+    {
+      "name": "pagekite",
+      "files": [
+        "pagekite.svg"
+      ],
+      "shortname": "pagekite",
+      "url": "http://pagekite.net/",
+      "tags": [
+        "localhost tools",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-24",
       "edited": true
     },
     {
@@ -6433,6 +6547,24 @@
         "developers"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "RocksDB",
+      "files": [
+        "rocksdb.svg"
+      ],
+      "shortname": "rocksdb",
+      "url": "http://rocksdb.org/",
+      "tags": [
+        "database",
+        "storage",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-24",
+      "edited": true
     },
     {
       "name": "Rollbar",
@@ -7754,6 +7886,23 @@
         "business"
       ],
       "added": "2015-08-10"
+    },
+    {
+      "name": "uservoice",
+      "files": [
+        "uservoice.svg"
+      ],
+      "shortname": "uservoice",
+      "url": "https://www.uservoice.com/",
+      "tags": [
+        "product manager",
+        "help desk",
+        "customer support"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-08-24"
     },
     {
       "name": "V8",
