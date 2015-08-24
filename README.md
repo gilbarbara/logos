@@ -109,6 +109,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://aws.amazon.com/lambda/" target="_blank">AWS Lambda</a> *
 ![aws-lambda](http://svgporn.com/logos/aws-lambda.svg)
 
+## <a href="http://aws.amazon.com/opsworks/" target="_blank">AWS Opworks</a> *
+![aws-opsworks](http://svgporn.com/logos/aws-opsworks.svg)
+
 ## <a href="http://aws.amazon.com/rds/" target="_blank">AWS RDS (Relational Database Service)</a> *
 ![aws-rds](http://svgporn.com/logos/aws-rds.svg)
 
@@ -128,6 +131,9 @@ Please add your requests in the issues preferably with links to the vector files
 ![backbone](http://svgporn.com/logos/backbone-icon.svg)
 
 ![backbone](http://svgporn.com/logos/backbone.svg)
+
+## <a href="https://www.backerkit.com/" target="_blank">BackerKit</a>
+![backerkit](http://svgporn.com/logos/backerkit.svg)
 
 ## <a href="https://getbase.com/" target="_blank">Base</a>
 ![base](http://svgporn.com/logos/base.svg)
@@ -332,6 +338,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://coreos.com/" target="_blank">CoreOS</a>
 ![coreos](http://svgporn.com/logos/coreos.svg)
+
+## <a href="http://www.couchbase.com/" target="_blank">Couchbase</a>
+![couchbase](http://svgporn.com/logos/couchbase.svg)
 
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
 ![couchdb](http://svgporn.com/logos/couchdb.svg)
@@ -611,6 +620,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://grails.org/" target="_blank">Grails</a>
 ![grails](http://svgporn.com/logos/grails.svg)
 
+## <a href="https://www.groovehq.com/" target="_blank">Groove</a>
+![groovehq](http://svgporn.com/logos/groovehq.svg)
+
 ## <a href="https://grove.io/" target="_blank">Grove</a> *
 ![grove](http://svgporn.com/logos/grove.svg)
 
@@ -649,6 +661,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://heapanalytics.com/" target="_blank">Heap</a>
 ![heap](http://svgporn.com/logos/heap.svg)
+
+## <a href="https://www.helpscout.net/" target="_blank">Help Scout</a>
+![helpscout](http://svgporn.com/logos/helpscout.svg)
 
 ## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
 ![heroku](http://svgporn.com/logos/heroku.svg)
@@ -934,6 +949,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank">Microsoft Edge</a>
 ![microsoft-edge](http://svgporn.com/logos/microsoft-edge.svg)
 
+## <a href="https://middlemanapp.com/" target="_blank">Middleman</a>
+![middleman](http://svgporn.com/logos/middleman.svg)
+
 ## <a href="https://lhorie.github.io/mithril/" target="_blank">Mithril</a> *
 ![mithril](http://svgporn.com/logos/mithril.svg)
 
@@ -1069,6 +1087,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://osquery.io/" target="_blank">osquery</a> *
 ![osquery](http://svgporn.com/logos/osquery.svg)
+
+## <a href="http://pagekite.net/" target="_blank">pagekite</a> *
+![pagekite](http://svgporn.com/logos/pagekite.svg)
 
 ## <a href="http://usepanda.com/" target="_blank">Panda</a>
 ![panda](http://svgporn.com/logos/panda.svg)
@@ -1212,6 +1233,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://basho.com/products/#riak" target="_blank">Riak</a>
 ![riak](http://svgporn.com/logos/riak.svg)
+
+## <a href="http://rocksdb.org/" target="_blank">RocksDB</a> *
+![rocksdb](http://svgporn.com/logos/rocksdb.svg)
 
 ## <a href="https://rollbar.com/" target="_blank">Rollbar</a>
 ![rollbar](http://svgporn.com/logos/rollbar.svg)
@@ -1451,6 +1475,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.usertesting.com/" target="_blank">UserTesting</a>
 ![user-testing](http://svgporn.com/logos/user-testing.svg)
+
+## <a href="https://www.uservoice.com/" target="_blank">uservoice</a>
+![uservoice](http://svgporn.com/logos/uservoice.svg)
 
 ## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
 ![v8](http://svgporn.com/logos/v8.svg)
