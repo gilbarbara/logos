@@ -11,6 +11,7 @@ var gulp               = require('gulp'),
     path               = require('path'),
     runSequence        = require('run-sequence'),
     source             = require('vinyl-source-stream'),
+    vinylPaths         = require('vinyl-paths'),
     watchify           = require('watchify');
 
 var isProduction = function () {
@@ -170,7 +171,7 @@ gulp.task('bundle', function () {
         }));
 
     extras = gulp.src([
-        'app/CNAME',
+        'app/files/CNAME',
         'app/favicon.ico'
     ])
         .pipe(gulp.dest('dist'))
@@ -227,18 +228,33 @@ gulp.task('get-commit', function (cb) {
 });
 
 gulp.task('gh-pages', function () {
-    return gulp.src(['dist/**/*'], {
+    var clean,
+        push;
+
+    clean = gulp.src('.publish/.DS_Store')
+        .pipe(vinylPaths(del));
+
+    push = gulp.src(['dist/!**!/!*'], {
         dot: true
     })
         .pipe($.ghPages({
             force: true,
             message: commitMessage
         }));
+
+    return merge(clean, push);
 });
 
 gulp.task('gh-master', function () {
-    return gulp.src([
-        'logos/**/*.svg',
+
+    var clean,
+        push;
+
+    clean = gulp.src('.master/.DS_Store')
+        .pipe(vinylPaths(del));
+
+    push = gulp.src([
+        'logos/!**!/!*.svg',
         'README.md',
         'LICENSE.txt'
     ], { base: './' })
@@ -248,6 +264,8 @@ gulp.task('gh-master', function () {
             message: commitMessage,
             force: true
         }));
+
+    return merge(clean, push);
 });
 
 gulp.task('deploy-pages', function (cb) {
