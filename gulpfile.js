@@ -171,7 +171,6 @@ gulp.task('bundle', function () {
         }));
 
     extras = gulp.src([
-        'app/files/CNAME',
         'app/favicon.ico'
     ])
         .pipe(gulp.dest('dist'))
@@ -227,24 +226,6 @@ gulp.task('get-commit', function (cb) {
     });
 });
 
-gulp.task('gh-pages', function () {
-    var clean,
-        push;
-
-    clean = gulp.src('.publish/.DS_Store')
-        .pipe(vinylPaths(del));
-
-    push = gulp.src(['dist/!**!/!*'], {
-        dot: true
-    })
-        .pipe($.ghPages({
-            force: true,
-            message: commitMessage
-        }));
-
-    return merge(clean, push);
-});
-
 gulp.task('gh-master', function () {
 
     var clean,
@@ -268,8 +249,12 @@ gulp.task('gh-master', function () {
     return merge(clean, push);
 });
 
-gulp.task('deploy-pages', function (cb) {
-    runSequence(['get-commit', 'build'], 'gh-pages', cb);
+gulp.task('deploy-site', ['build'], function (cb) {
+    exec('rsync -rvpa --progress --delete --exclude=.DS_Store -e "ssh -q -t" dist/* svgporn@svgporn.com:/home/svgporn/public_html', function (err, stdout) {
+        console.log(stdout);
+
+        cb(err);
+    });
 });
 
 gulp.task('deploy-master', function (cb) {
