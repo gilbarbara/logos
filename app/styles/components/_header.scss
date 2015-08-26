@@ -162,21 +162,11 @@ header {
     display: flex;
     justify-content: space-around;
     list-style: none;
-    margin: 3rem auto 0;
+    margin-top: 3rem;
     padding: 0;
-    width: 100%;
-
-    @include sm {
-      width: 90%;
-    }
-
-    @include md {
-      width: 70%;
-    }
 
     @include lg {
       margin-top: 4rem;
-      width: 50%;
     }
 
     > li {
@@ -421,6 +411,34 @@ header {
       + a {
         margin-left: 10px;
       }
+    }
+  }
+
+  .social {
+    margin-top: 1rem;
+    text-align: center;
+
+    @include md {
+      text-align: right;
+    }
+  }
+
+  .menu,
+  .social {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+
+    @include sm {
+      width: 90%;
+    }
+
+    @include md {
+      width: 70%;
+    }
+
+    @include lg {
+      width: 50%;
     }
   }
 

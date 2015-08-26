@@ -97,3 +97,20 @@ footer {
   width: 16px;
 }
 
+.github-ribbon {
+  position: absolute;
+  right: 0;
+  top: 0;
+
+  img {
+    width: 80px;
+
+    @include sm {
+      width: 120px;
+    }
+
+    @include md {
+      width: auto;
+    }
+  }
+}

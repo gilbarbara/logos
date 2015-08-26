@@ -29,6 +29,7 @@ var Header = React.createClass({
     componentDidMount () {
         let tags       = {},
             categories = {},
+            vars       = {},
             fScale     = {
                 min: 1,
                 max: 0,
@@ -74,6 +75,12 @@ var Header = React.createClass({
                 }
             });
         }
+
+        vars.button = React.findDOMNode(this.refs.twitterButton);
+        vars.js = document.createElement('script');
+        vars.js.id = 'twitter-wjs';
+        vars.js.src = (/^http:/.test(document.location) ? 'http' : 'https') + '://platform.twitter.com/widgets.js';
+        vars.button.parentNode.appendChild(vars.js);
 
         this.setState({
             categories,
@@ -216,7 +223,8 @@ var Header = React.createClass({
                 categories = (
                     <span className="categories__menu">
                         for<a href="#" className="categories__toggle" data-category={props.state.category}
-                           onClick={this._onClickShowCategories}>{props.state.category !== 'categories' ? props.state.category : ''}<Icon id="navicon"/></a>
+                              onClick={this._onClickShowCategories}>{props.state.category !== 'categories' ? props.state.category : ''}<Icon
+                        id="navicon"/></a>
                         <ul>
                             {categories.map((d, i) => {
                                 return (
@@ -235,11 +243,11 @@ var Header = React.createClass({
         return (
             <header
                 className={[props.state.categoryMenuVisible ? 'show-menu' : '', props.state.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
-                <a href="#" data-value="logo" onClick={props.onClickChangeView}><img src="media/svg-porn.svg" className="logo"/></a>
+                <a href="#" data-value="logo" onClick={props.onClickChangeView}><img src="media/svg-porn.svg"
+                                                                                     className="logo"/></a>
 
                 <h3>{props.state.category === 'categories' ? props.state.logos.length : props.visible} high quality svg logos</h3>
                 {categories}
-
                 <ul className="menu">
                     {output.tagsMenu}
                     <li className="menu__columns">
@@ -253,13 +261,18 @@ var Header = React.createClass({
                     </li>
                     <li className="menu__search">
                         <div className="search-box">
-                            <input type="text" name="search" value={props.state.search} onChange={props.onSearch}/><span
-                            className="input-icon">{props.state.search ?
-                            <a href="#" onClick={props.onSearch}><Icon id="times-circle"/></a> :
-                            <Icon id="search"/>}</span>
+                            <input type="text" name="search" value={props.state.search} onChange={props.onSearch}/>
+                            <span className="input-icon">{props.state.search ?
+                                <a href="#" onClick={props.onSearch}><Icon id="times-circle"/></a> :
+                                <Icon id="search"/>}
+                            </span>
                         </div>
                     </li>
                 </ul>
+                <div className="social">
+                    <a href="https://twitter.com/svgporn" className="twitter-follow-button" data-show-count="false"
+                       ref="twitterButton">Follow @svgporn</a>
+                </div>
                 {output.tagCloud}
                 <div className="overlay" onClick={props.toggleCategoryMenu}></div>
                 {props.state.heading ? <h3 className="heading">{props.state.heading}<br/>
