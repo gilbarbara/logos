@@ -52,6 +52,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://apiary.io/" target="_blank">Apiary</a>
 ![apiary](http://svgporn.com/logos/apiary.svg)
 
+## <a href="https://www.apitools.com/" target="_blank">APItools</a> *
+![apitools](http://svgporn.com/logos/apitools.svg)
+
 ## <a href="http://www.appcelerator.com/" target="_blank">Appcelerator</a>
 ![appcelerator](http://svgporn.com/logos/appcelerator.svg)
 
@@ -531,6 +534,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.fastly.com/" target="_blank">Fastly</a>
 ![fastly](http://svgporn.com/logos/fastly.svg)
 
+## <a href="http://feathersjs.com/" target="_blank">feathersjs</a> *
+![feathersjs](http://svgporn.com/logos/feathersjs.svg)
+
 ## <a href="https://getfedora.org/" target="_blank">fedora</a>
 ![fedora](http://svgporn.com/logos/fedora.svg)
 
@@ -871,6 +877,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.linuxmint.com/" target="_blank">Linux Mint</a>
 ![linux-mint](http://svgporn.com/logos/linux-mint.svg)
 
+## <a href="http://litmus.com/" target="_blank">Litmus</a> *
+![litmus](http://svgporn.com/logos/litmus.svg)
+
 ## <a href="https://loader.io/" target="_blank">loader</a>
 ![loader](http://svgporn.com/logos/loader.svg)
 
@@ -1106,6 +1115,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
 ![optimizely](http://svgporn.com/logos/optimizely.svg)
 
+## <a href="https://www.oracle.com/database/" target="_blank">Oracle</a>
+![oracle](http://svgporn.com/logos/oracle.svg)
+
 ## <a href="http://facebook.github.io/origami/" target="_blank">Origami</a> *
 ![origami](http://svgporn.com/logos/origami.svg)
 
@@ -1158,6 +1170,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.pipedrive.com/" target="_blank">pipedrive</a>
 ![pipedrive](http://svgporn.com/logos/pipedrive.svg)
+
+## <a href="http://www.pivotaltracker.com/" target="_blank">Pivotal Tracker</a>
+![pivotal_tracker](http://svgporn.com/logos/pivotal_tracker.svg)
 
 ## <a href="https://www.pixelapse.com/" target="_blank">Pixelapse</a>
 ![pixelapse](http://svgporn.com/logos/pixelapse.svg)
@@ -1330,6 +1345,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://shopify.com/" target="_blank">Shopify</a>
 ![shopify](http://svgporn.com/logos/shopify.svg)
 
+## <a href="http://sidekiq.org/" target="_blank">Sidekiq</a>
+![sidekiq](http://svgporn.com/logos/sidekiq.svg)
+
 ## <a href="http://www.sinatrarb.com/" target="_blank">Sinatra</a>
 ![sinatra](http://svgporn.com/logos/sinatra.svg)
 
@@ -1362,6 +1380,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://spring.io/" target="_blank">Spring</a> *
 ![spring](http://svgporn.com/logos/spring.svg)
+
+## <a href="http://www.sqlite.org/" target="_blank">SQLite</a>
+![sqlite](http://svgporn.com/logos/sqlite.svg)
 
 ## <a href="https://squareup.com/" target="_blank">Square</a> *
 ![square](http://svgporn.com/logos/square.svg)
