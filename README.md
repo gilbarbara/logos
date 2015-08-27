@@ -27,6 +27,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://airbrake.io/" target="_blank">Airbrake</a>
 ![airbrake](http://svgporn.com/logos/airbrake.svg)
 
+## <a href="https://www.akamai.com/" target="_blank">Akamai</a> *
+![akamai](http://svgporn.com/logos/akamai.svg)
+
 ## <a href="https://www.android.com/" target="_blank">Android</a>
 ![android](http://svgporn.com/logos/android-icon.svg)
 
@@ -90,6 +93,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://aws.amazon.com/cloudformation/" target="_blank">AWS CloudFormation</a> *
 ![aws-cloudformation](http://svgporn.com/logos/aws-cloudformation.svg)
+
+## <a href="http://aws.amazon.com/cloudfront/" target="_blank">AWS CloudFront</a> *
+![aws-cloudfront](http://svgporn.com/logos/aws-cloudfront.svg)
 
 ## <a href="http://aws.amazon.com/codedeploy/" target="_blank">AWS CodeDeploy</a> *
 ![aws-codedeploy](http://svgporn.com/logos/aws-codedeploy.svg)
@@ -189,6 +195,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://bower.io/" target="_blank">Bower</a>
 ![bower](http://svgporn.com/logos/bower.svg)
 
+## <a href="https://www.box.com/" target="_blank">box</a>
+![box](http://svgporn.com/logos/box.svg)
+
 ## <a href="http://brackets.io/" target="_blank">Brackets</a>
 ![brackets](http://svgporn.com/logos/brackets.svg)
 
@@ -274,6 +283,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://close.io/" target="_blank">Close</a>
 ![close](http://svgporn.com/logos/close.svg)
+
+## <a href="https://www.cloudflare.com/" target="_blank">CloudFlare</a>
+![cloudflare](http://svgporn.com/logos/cloudflare.svg)
 
 ## <a href="https://cocoapods.org/" target="_blank">CocoaPods</a>
 ![cocoapods](http://svgporn.com/logos/cocoapods.svg)
@@ -510,8 +522,14 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.facebook.com/" target="_blank">Facebook</a>
 ![facebook](http://svgporn.com/logos/facebook.svg)
 
+## <a href="http://netflix.github.io/falcor/" target="_blank">Falcor</a> *
+![falcor](http://svgporn.com/logos/falcor.svg)
+
 ## <a href="http://famous.org/" target="_blank">Famo.us</a>
 ![famous](http://svgporn.com/logos/famous.svg)
+
+## <a href="https://www.fastly.com/" target="_blank">Fastly</a>
+![fastly](http://svgporn.com/logos/fastly.svg)
 
 ## <a href="https://getfedora.org/" target="_blank">fedora</a>
 ![fedora](http://svgporn.com/logos/fedora.svg)
@@ -814,6 +832,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://knexjs.org/" target="_blank">Knex.js</a> *
 ![knex](http://svgporn.com/logos/knex.svg)
 
+## <a href="http://netflix.github.io/falcor/" target="_blank">Kong</a> *
+![kong](http://svgporn.com/logos/kong.svg)
+
 ## <a href="https://kraken.io/" target="_blank">Kraken</a>
 ![kraken](http://svgporn.com/logos/kraken.svg)
 
@@ -913,6 +934,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://marvelapp.com/" target="_blank">Marvel</a> *
 ![marvel](http://svgporn.com/logos/marvel.svg)
+
+## <a href="https://www.maxcdn.com/" target="_blank">MaxCDN</a>
+![maxcdn](http://svgporn.com/logos/maxcdn.svg)
 
 ## <a href="http://material-ui.com/" target="_blank">Material UI</a>
 ![material-ui](http://svgporn.com/logos/material-ui.svg)

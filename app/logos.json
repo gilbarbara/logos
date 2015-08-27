@@ -50,6 +50,23 @@
       "added": "2015-07-21"
     },
     {
+      "name": "Akamai",
+      "files": [
+        "akamai.svg"
+      ],
+      "shortname": "akamai",
+      "url": "https://www.akamai.com/",
+      "tags": [
+        "CDN",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-26",
+      "edited": true
+    },
+    {
       "name": "Android",
       "files": [
         "android-icon.svg",
@@ -141,7 +158,7 @@
       "url": "https://apiary.io/",
       "tags": [
         "documentation",
-        "api"
+        "api tools"
       ],
       "categories": [
         "DevOps"
@@ -375,6 +392,23 @@
         "DevOps"
       ],
       "added": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS CloudFront",
+      "files": [
+        "aws-cloudfront.svg"
+      ],
+      "shortname": "aws-cloudfront",
+      "url": "http://aws.amazon.com/cloudfront/",
+      "tags": [
+        "CDN",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-26",
       "edited": true
     },
     {
@@ -921,6 +955,21 @@
       "favorite": true
     },
     {
+      "name": "box",
+      "files": [
+        "box.svg"
+      ],
+      "shortname": "box",
+      "url": "https://www.box.com/",
+      "tags": [
+        "cloud storage"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "added": "2015-08-26"
+    },
+    {
       "name": "Brackets",
       "files": [
         "brackets.svg"
@@ -1375,6 +1424,22 @@
         "business"
       ],
       "added": "2015-07-29"
+    },
+    {
+      "name": "CloudFlare",
+      "files": [
+        "cloudflare.svg"
+      ],
+      "shortname": "cloudflare",
+      "url": "https://www.cloudflare.com/",
+      "tags": [
+        "CDN",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-26"
     },
     {
       "name": "CocoaPods",
@@ -2646,6 +2711,24 @@
       "added": "2015-07-24"
     },
     {
+      "name": "Falcor",
+      "files": [
+        "falcor.svg"
+      ],
+      "shortname": "falcor",
+      "url": "http://netflix.github.io/falcor/",
+      "tags": [
+        "api tools",
+        "data fetch",
+        "javascript"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-26",
+      "edited": true
+    },
+    {
       "name": "Famo.us",
       "files": [
         "famous.svg"
@@ -2661,6 +2744,22 @@
         "developers"
       ],
       "added": "2015-07-05"
+    },
+    {
+      "name": "Fastly",
+      "files": [
+        "fastly.svg"
+      ],
+      "shortname": "fastly",
+      "url": "https://www.fastly.com/",
+      "tags": [
+        "CDN",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-26"
     },
     {
       "name": "fedora",
@@ -4299,6 +4398,24 @@
       "edited": true
     },
     {
+      "name": "Kong",
+      "files": [
+        "kong.svg"
+      ],
+      "shortname": "kong",
+      "url": "http://netflix.github.io/falcor/",
+      "tags": [
+        "api tools",
+        "api manager",
+        "javascript"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-26",
+      "edited": true
+    },
+    {
       "name": "Kraken",
       "files": [
         "kraken.svg"
@@ -4815,6 +4932,22 @@
       ],
       "added": "2015-08-04",
       "edited": true
+    },
+    {
+      "name": "MaxCDN",
+      "files": [
+        "maxcdn.svg"
+      ],
+      "shortname": "maxcdn",
+      "url": "https://www.maxcdn.com/",
+      "tags": [
+        "CDN",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-26"
     },
     {
       "name": "Material UI",
@@ -6658,7 +6791,8 @@
       "url": "https://www.runscope.com/",
       "tags": [
         "monitoring",
-        "api monitoring"
+        "api monitoring",
+        "api tools"
       ],
       "categories": [
         "DevOps"
