@@ -235,7 +235,7 @@ gulp.task('gh-master', function () {
         .pipe(vinylPaths(del));
 
     push = gulp.src([
-        'logos/!**!/!*.svg',
+        'logos/**/*.svg',
         'README.md',
         'LICENSE.txt'
     ], { base: './' })

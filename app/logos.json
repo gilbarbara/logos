@@ -167,6 +167,24 @@
       "favorite": true
     },
     {
+      "name": "APItools",
+      "files": [
+        "apitools.svg"
+      ],
+      "shortname": "apitools",
+      "url": "https://www.apitools.com/",
+      "tags": [
+        "api tools",
+        "api monitoring",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-08-27",
+      "edited": true
+    },
+    {
       "name": "Appcelerator",
       "files": [
         "appcelerator.svg"
@@ -2762,6 +2780,24 @@
       "added": "2015-08-26"
     },
     {
+      "name": "feathersjs",
+      "files": [
+        "feathersjs.svg"
+      ],
+      "shortname": "feathersjs",
+      "url": "http://feathersjs.com/",
+      "tags": [
+        "node.js",
+        "web application framework",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-27",
+      "edited": true
+    },
+    {
       "name": "fedora",
       "files": [
         "fedora.svg"
@@ -4610,6 +4646,24 @@
       "added": "2015-07-26"
     },
     {
+      "name": "Litmus",
+      "files": [
+        "litmus.svg"
+      ],
+      "shortname": "litmus",
+      "url": "http://litmus.com/",
+      "tags": [
+        "email testing",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "business"
+      ],
+      "added": "2015-08-27",
+      "edited": true
+    },
+    {
       "name": "loader",
       "files": [
         "loader.svg"
@@ -5845,6 +5899,22 @@
       "added": "2015-07-02"
     },
     {
+      "name": "Oracle",
+      "files": [
+        "oracle.svg"
+      ],
+      "shortname": "oracle",
+      "url": "https://www.oracle.com/database/",
+      "tags": [
+        "database",
+        "sql"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-27"
+    },
+    {
       "name": "Origami",
       "files": [
         "origami.svg"
@@ -6128,6 +6198,22 @@
         "business"
       ],
       "added": "2015-07-29"
+    },
+    {
+      "name": "Pivotal Tracker",
+      "files": [
+        "pivotal_tracker.svg"
+      ],
+      "shortname": "pivotal_tracker",
+      "url": "http://www.pivotaltracker.com/",
+      "tags": [
+        "project manager",
+        "agile"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-27"
     },
     {
       "name": "Pixelapse",
@@ -7079,6 +7165,22 @@
       "added": "2015-08-17"
     },
     {
+      "name": "Sidekiq",
+      "files": [
+        "sidekiq.svg"
+      ],
+      "shortname": "sidekiq",
+      "url": "http://sidekiq.org/",
+      "tags": [
+        "background processing",
+        "ruby"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-27"
+    },
+    {
       "name": "Sinatra",
       "files": [
         "sinatra.svg"
@@ -7261,6 +7363,23 @@
       ],
       "added": "2015-07-05",
       "edited": true
+    },
+    {
+      "name": "SQLite",
+      "files": [
+        "sqlite.svg"
+      ],
+      "shortname": "sqlite",
+      "url": "http://www.sqlite.org/",
+      "tags": [
+        "database",
+        "sql",
+        "embedded"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-08-27"
     },
     {
       "name": "Square",
