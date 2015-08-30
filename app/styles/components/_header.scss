@@ -1,4 +1,4 @@
-header {
+.main-header {
   padding-top: 3rem;
   text-align: center;
 
@@ -7,6 +7,11 @@ header {
   }
 
   .logo {
+    display: inline-block;
+    height: 0;
+    margin: 0 auto;
+    padding-bottom: percentage(133/704) / 2;
+    position: relative;
     width: 95%;
 
     @include md {
@@ -15,6 +20,10 @@ header {
 
     @include lg {
       width: 50%;
+    }
+
+    img {
+      width: 100%;
     }
   }
 

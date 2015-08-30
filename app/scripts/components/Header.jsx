@@ -242,10 +242,10 @@ var Header = React.createClass({
 
         return (
             <header
-                className={[props.state.categoryMenuVisible ? 'show-menu' : '', props.state.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
-                <a href="#" data-value="logo" onClick={props.onClickChangeView}><img src="media/svg-porn.svg"
-                                                                                     className="logo"/></a>
-
+                className={['main-header', props.state.categoryMenuVisible ? 'show-menu' : '', props.state.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
+                <a href="#" className="logo" data-value="logo" onClick={props.onClickChangeView}>
+                    <img src="media/svg-porn.svg"/>
+                </a>
                 <h3>{props.state.category === 'categories' ? props.state.logos.length : props.visible} high quality svg logos</h3>
                 {categories}
                 <ul className="menu">
