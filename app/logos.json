@@ -289,6 +289,7 @@
       "shortname": "asana",
       "url": "https://asana.com/",
       "tags": [
+        "project manager",
         "team collaboration"
       ],
       "categories": [
@@ -695,7 +696,8 @@
       "shortname": "basecamp",
       "url": "https://basecamp.com/",
       "tags": [
-        "project manager"
+        "project manager",
+        "team collaboration"
       ],
       "categories": [
         "developers"
@@ -1207,6 +1209,7 @@
       "shortname": "campfire",
       "url": "https://campfirenow.com/",
       "tags": [
+        "project manager",
         "team collaboration"
       ],
       "categories": [
@@ -2382,6 +2385,23 @@
       "added": "2015-08-05"
     },
     {
+      "name": "dropmark",
+      "files": [
+        "dropmark.svg"
+      ],
+      "shortname": "dropmark",
+      "url": "http://www.dropmark.com/",
+      "tags": [
+        "cloud storage",
+        "team collaboration"
+      ],
+      "categories": [
+        "geeks",
+        "designers"
+      ],
+      "added": "2015-31-08"
+    },
+    {
       "name": "Dropzone",
       "files": [
         "dropzone.svg"
@@ -3165,6 +3185,23 @@
       ],
       "added": "2015-06-24",
       "favorite": true
+    },
+    {
+      "name": "Gleam",
+      "files": [
+        "gleam.svg"
+      ],
+      "shortname": "gleam",
+      "url": "https://gleam.io/",
+      "tags": [
+        "business growth",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-31-08",
+      "edited": true
     },
     {
       "name": "Glint",
@@ -4413,6 +4450,22 @@
       ],
       "added": "2015-07-07",
       "edited": true
+    },
+    {
+      "name": "Kloudless",
+      "files": [
+        "kloudless.svg"
+      ],
+      "shortname": "kloudless",
+      "url": "https://developers.kloudless.com/",
+      "tags": [
+        "cloud storage",
+        "api tools"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-31-08"
     },
     {
       "name": "Knex.js",
@@ -5735,6 +5788,22 @@
       "added": "2015-08-06"
     },
     {
+      "name": "Olark",
+      "files": [
+        "olark.svg"
+      ],
+      "shortname": "olark",
+      "url": "https://www.olark.com/",
+      "tags": [
+        "customer support",
+        "live chat"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-31-08"
+    },
+    {
       "name": "Open Graph",
       "files": [
         "open-graph.svg"
@@ -6534,6 +6603,23 @@
       ],
       "added": "2015-06-23",
       "favorite": true,
+      "edited": true
+    },
+    {
+      "name": "R",
+      "files": [
+        "r-lang.svg"
+      ],
+      "shortname": "r-lang",
+      "url": "https://www.r-project.org/",
+      "tags": [
+        "language",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "added": "2015-31-08",
       "edited": true
     },
     {
@@ -7641,6 +7727,25 @@
       "favorite": true
     },
     {
+      "name": "supportkit",
+      "files": [
+        "supportkit.svg"
+      ],
+      "shortname": "supportkit",
+      "url": "https://supportkit.io/",
+      "tags": [
+        "customer support",
+        "live chat",
+        "mobile",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "added": "2015-31-08",
+      "edited": true
+    },
+    {
       "name": "Suse",
       "files": [
         "suse.svg"
@@ -7856,6 +7961,23 @@
         "developers"
       ],
       "added": "2015-07-08"
+    },
+    {
+      "name": "Apache Tomcat",
+      "files": [
+        "tomcat.svg"
+      ],
+      "shortname": "tomcat",
+      "url": "http://tomcat.apache.org/",
+      "tags": [
+        "web framework",
+        "java"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "added": "2015-31-08",
+      "edited": true
     },
     {
       "name": "Traackr",
