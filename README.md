@@ -460,6 +460,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>
 ![dropbox](http://svgporn.com/logos/dropbox.svg)
 
+## <a href="http://www.dropmark.com/" target="_blank">dropmark</a>
+![dropmark](http://svgporn.com/logos/dropmark.svg)
+
 ## <a href="http://www.dropzonejs.com/" target="_blank">Dropzone</a>
 ![dropzone](http://svgporn.com/logos/dropzone.svg)
 
@@ -607,6 +610,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://about.gitlab.com/" target="_blank">Gitlab</a>
 ![gitlab](http://svgporn.com/logos/gitlab.svg)
+
+## <a href="https://gleam.io/" target="_blank">Gleam</a> *
+![gleam](http://svgporn.com/logos/gleam.svg)
 
 ## <a href="http://www.glintinc.com/" target="_blank">Glint</a>
 ![glint](http://svgporn.com/logos/glint.svg)
@@ -834,6 +840,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://kitematic.com/" target="_blank">Kitematic</a> *
 ![kitematic](http://svgporn.com/logos/kitematic.svg)
+
+## <a href="https://developers.kloudless.com/" target="_blank">Kloudless</a>
+![kloudless](http://svgporn.com/logos/kloudless.svg)
 
 ## <a href="http://knexjs.org/" target="_blank">Knex.js</a> *
 ![knex](http://svgporn.com/logos/knex.svg)
@@ -1085,6 +1094,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://ocaml.org/" target="_blank">OCaml</a>
 ![ocaml](http://svgporn.com/logos/ocaml.svg)
 
+## <a href="https://www.olark.com/" target="_blank">Olark</a>
+![olark](http://svgporn.com/logos/olark.svg)
+
 ## <a href="http://ogp.me/" target="_blank">Open Graph</a>
 ![open-graph](http://svgporn.com/logos/open-graph.svg)
 
@@ -1230,6 +1242,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://github.com/kriskowal/q" target="_blank">Q</a> *
 ![q](http://svgporn.com/logos/q.svg)
+
+## <a href="https://www.r-project.org/" target="_blank">R</a> *
+![r-lang](http://svgporn.com/logos/r-lang.svg)
 
 ## <a href="http://www.rabbitmq.com/" target="_blank">RabbitMQ</a> *
 ![rabbitmq](http://svgporn.com/logos/rabbitmq.svg)
@@ -1429,6 +1444,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.appgyver.com/supersonic" target="_blank">Supersonic</a>
 ![supersonic](http://svgporn.com/logos/supersonic.svg)
 
+## <a href="https://supportkit.io/" target="_blank">supportkit</a> *
+![supportkit](http://svgporn.com/logos/supportkit.svg)
+
 ## <a href="https://www.suse.com/" target="_blank">Suse</a>
 ![suse](http://svgporn.com/logos/suse.svg)
 
@@ -1467,6 +1485,9 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://todomvc.com/" target="_blank">TodoMVC</a>
 ![todomvc](http://svgporn.com/logos/todomvc.svg)
+
+## <a href="http://tomcat.apache.org/" target="_blank">Apache Tomcat</a> *
+![tomcat](http://svgporn.com/logos/tomcat.svg)
 
 ## <a href="http://traackr.com/" target="_blank">Traackr</a>
 ![traackr](http://svgporn.com/logos/traackr.svg)
