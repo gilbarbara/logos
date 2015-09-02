@@ -129,10 +129,15 @@ gulp.task('icons', function () {
 });
 
 gulp.task('readme', function () {
-    var json = JSON.parse(fs.readFileSync('./app/logos.json'));
+    var json  = JSON.parse(fs.readFileSync('./app/logos.json')),
+        logos = json.items.sort(function (a, b) {
+            a = new Date(a.updated);
+            b = new Date(b.updated);
+            return a > b ? -1 : a < b ? 1 : 0;
+        }).slice(0, 50);
 
     return gulp.src('app/templates/README.handlebars')
-        .pipe($.compileHandlebars(json.items, {
+        .pipe($.compileHandlebars(logos, {
             batch: ['./app/templates']
         }))
         .pipe($.rename('README.md'))

@@ -7,7 +7,7 @@
     "url": "https://github.com/gilbarbara/logos"
   },
   "license": "CC0-1.0",
-  "homepage": "http://gilbarbara.github.io/logos/",
+  "homepage": "http://svgporn.com",
   "dependencies": {
     "lodash": "^3.10",
     "react": "^0.13",

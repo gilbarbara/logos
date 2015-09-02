@@ -266,7 +266,7 @@ var App = React.createClass({
             db = _.filter(json.items, 'favorite', true);
         }
         else if (latest) {
-            db = _.chain(json.items).sortByOrder(['added', 'name'], ['desc', 'asc']).take(50).value();
+            db = _.chain(json.items).sortByOrder(['updated', 'name'], ['desc', 'asc']).take(50).value();
         }
 
         db.forEach(function (d, i) {
