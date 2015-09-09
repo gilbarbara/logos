@@ -10,11 +10,12 @@
     display: inline-block;
     height: 0;
     margin: 0 auto;
-    padding-bottom: percentage(133/704) / 2;
+    padding-bottom: 18%;
     position: relative;
     width: 95%;
 
     @include md {
+      padding-bottom: 14%;
       width: 70%;
     }
 
@@ -30,7 +31,7 @@
   h3 {
     color: $link-color;
     font-size: 1.8rem;
-    margin: 1rem 2rem 0.5rem;
+    margin: 1rem 1.5rem 0.5rem;
 
     @include sm {
       font-size: 2.4rem;
