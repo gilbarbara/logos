@@ -19,20 +19,32 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://liftweb.net/" target="_blank">Lift</a>
+![liftweb](http://svgporn.com/logos/liftweb.svg)
+
+## <a href="http://batsov.com/rubocop/" target="_blank">RuboCop</a>
+![rubocop](http://svgporn.com/logos/rubocop.svg)
+
+## <a href="https://delighted.com/" target="_blank">Delighted</a> *
+![delighted](http://svgporn.com/logos/delighted.svg)
+
+## <a href="http://www.w3.org/2001/sw/wiki/REST" target="_blank">Rest</a>
+![rest](http://svgporn.com/logos/rest.svg)
+
+## <a href="https://plus.google.com/" target="_blank">Google +</a>
+![googleplus](http://svgporn.com/logos/google-plus.svg)
+
+## <a href="http://gmail.com/" target="_blank">Google Gmail</a> *
+![google-gmail](http://svgporn.com/logos/google-gmail.svg)
+
+## <a href="http://cakephp.org/" target="_blank">CakePHP</a> *
+![cakephp](http://svgporn.com/logos/cakephp.svg)
+
+## <a href="https://rocket.chat/" target="_blank">RocketChat</a>
+![rocket-chat](http://svgporn.com/logos/rocket-chat.svg)
+
 ## <a href="http://aws.amazon.com/ses/" target="_blank">AWS SES (Simple Email Service)</a> *
 ![aws-ses](http://svgporn.com/logos/aws-ses.svg)
-
-## <a href="https://promisesaplus.com/" target="_blank">Promises/A+</a>
-![promises](http://svgporn.com/logos/promises.svg)
-
-## <a href="https://gitter.im/" target="_blank">Gitter</a> *
-![gitter](http://svgporn.com/logos/gitter.svg)
-
-## <a href="http://knockoutjs.com/" target="_blank">Knockout</a>
-![knockout](http://svgporn.com/logos/knockout.svg)
-
-## <a href="http://www.desk.com/" target="_blank">Desk.com</a>
-![desk](http://svgporn.com/logos/desk.svg)
 
 ## <a href="http://www.google.com/" target="_blank">Google</a>
 ![google](http://svgporn.com/logos/google-icon.svg)
@@ -41,35 +53,41 @@ Please add your requests in the issues preferably with links to the vector files
 
 ![google](http://svgporn.com/logos/google-2014.svg)
 
-## <a href="https://rocket.chat/" target="_blank">RocketChat</a>
-![rocket-chat](http://svgporn.com/logos/rocket-chat.svg)
+## <a href="https://gitter.im/" target="_blank">Gitter</a> *
+![gitter](http://svgporn.com/logos/gitter.svg)
 
-## <a href="https://www.r-project.org/" target="_blank">R</a> *
-![r-lang](http://svgporn.com/logos/r-lang.svg)
+## <a href="https://promisesaplus.com/" target="_blank">Promises/A+</a>
+![promises](http://svgporn.com/logos/promises.svg)
 
-## <a href="http://www.dropmark.com/" target="_blank">dropmark</a>
-![dropmark](http://svgporn.com/logos/dropmark.svg)
+## <a href="http://www.desk.com/" target="_blank">Desk.com</a>
+![desk](http://svgporn.com/logos/desk.svg)
 
-## <a href="http://tomcat.apache.org/" target="_blank">Apache Tomcat</a> *
-![tomcat](http://svgporn.com/logos/tomcat.svg)
-
-## <a href="https://supportkit.io/" target="_blank">supportkit</a> *
-![supportkit](http://svgporn.com/logos/supportkit.svg)
-
-## <a href="https://developers.kloudless.com/" target="_blank">Kloudless</a>
-![kloudless](http://svgporn.com/logos/kloudless.svg)
+## <a href="http://knockoutjs.com/" target="_blank">Knockout</a>
+![knockout](http://svgporn.com/logos/knockout.svg)
 
 ## <a href="https://www.olark.com/" target="_blank">Olark</a>
 ![olark](http://svgporn.com/logos/olark.svg)
 
+## <a href="http://www.dropmark.com/" target="_blank">dropmark</a>
+![dropmark](http://svgporn.com/logos/dropmark.svg)
+
+## <a href="https://supportkit.io/" target="_blank">supportkit</a> *
+![supportkit](http://svgporn.com/logos/supportkit.svg)
+
 ## <a href="https://gleam.io/" target="_blank">Gleam</a> *
 ![gleam](http://svgporn.com/logos/gleam.svg)
 
+## <a href="https://developers.kloudless.com/" target="_blank">Kloudless</a>
+![kloudless](http://svgporn.com/logos/kloudless.svg)
+
+## <a href="http://tomcat.apache.org/" target="_blank">Apache Tomcat</a> *
+![tomcat](http://svgporn.com/logos/tomcat.svg)
+
+## <a href="https://www.r-project.org/" target="_blank">R</a> *
+![r-lang](http://svgporn.com/logos/r-lang.svg)
+
 ## <a href="http://sidekiq.org/" target="_blank">Sidekiq</a>
 ![sidekiq](http://svgporn.com/logos/sidekiq.svg)
-
-## <a href="http://www.sqlite.org/" target="_blank">SQLite</a>
-![sqlite](http://svgporn.com/logos/sqlite.svg)
 
 ## <a href="http://litmus.com/" target="_blank">Litmus</a> *
 ![litmus](http://svgporn.com/logos/litmus.svg)
@@ -83,17 +101,20 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.pivotaltracker.com/" target="_blank">Pivotal Tracker</a>
 ![pivotal_tracker](http://svgporn.com/logos/pivotal_tracker.svg)
 
+## <a href="http://www.sqlite.org/" target="_blank">SQLite</a>
+![sqlite](http://svgporn.com/logos/sqlite.svg)
+
 ## <a href="https://www.apitools.com/" target="_blank">APItools</a> *
 ![apitools](http://svgporn.com/logos/apitools.svg)
 
 ## <a href="https://www.akamai.com/" target="_blank">Akamai</a> *
 ![akamai](http://svgporn.com/logos/akamai.svg)
 
-## <a href="http://aws.amazon.com/cloudfront/" target="_blank">AWS CloudFront</a> *
-![aws-cloudfront](http://svgporn.com/logos/aws-cloudfront.svg)
-
 ## <a href="https://www.maxcdn.com/" target="_blank">MaxCDN</a>
 ![maxcdn](http://svgporn.com/logos/maxcdn.svg)
+
+## <a href="http://aws.amazon.com/cloudfront/" target="_blank">AWS CloudFront</a> *
+![aws-cloudfront](http://svgporn.com/logos/aws-cloudfront.svg)
 
 ## <a href="https://www.fastly.com/" target="_blank">Fastly</a>
 ![fastly](http://svgporn.com/logos/fastly.svg)
@@ -101,77 +122,56 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.cloudflare.com/" target="_blank">CloudFlare</a>
 ![cloudflare](http://svgporn.com/logos/cloudflare.svg)
 
-## <a href="https://www.box.com/" target="_blank">box</a>
-![box](http://svgporn.com/logos/box.svg)
-
 ## <a href="http://netflix.github.io/falcor/" target="_blank">Kong</a> *
 ![kong](http://svgporn.com/logos/kong.svg)
 
 ## <a href="http://netflix.github.io/falcor/" target="_blank">Falcor</a> *
 ![falcor](http://svgporn.com/logos/falcor.svg)
 
-## <a href="http://aws.amazon.com/opsworks/" target="_blank">AWS Opworks</a> *
-![aws-opsworks](http://svgporn.com/logos/aws-opsworks.svg)
-
-## <a href="https://www.backerkit.com/" target="_blank">BackerKit</a>
-![backerkit](http://svgporn.com/logos/backerkit.svg)
-
-## <a href="http://www.couchbase.com/" target="_blank">Couchbase</a>
-![couchbase](http://svgporn.com/logos/couchbase.svg)
-
-## <a href="https://www.uservoice.com/" target="_blank">uservoice</a>
-![uservoice](http://svgporn.com/logos/uservoice.svg)
-
-## <a href="https://www.groovehq.com/" target="_blank">Groove</a>
-![groovehq](http://svgporn.com/logos/groovehq.svg)
-
-## <a href="https://www.helpscout.net/" target="_blank">Help Scout</a>
-![helpscout](http://svgporn.com/logos/helpscout.svg)
-
-## <a href="http://rocksdb.org/" target="_blank">RocksDB</a> *
-![rocksdb](http://svgporn.com/logos/rocksdb.svg)
-
-## <a href="https://middlemanapp.com/" target="_blank">Middleman</a>
-![middleman](http://svgporn.com/logos/middleman.svg)
+## <a href="https://www.box.com/" target="_blank">box</a>
+![box](http://svgporn.com/logos/box.svg)
 
 ## <a href="http://pagekite.net/" target="_blank">pagekite</a> *
 ![pagekite](http://svgporn.com/logos/pagekite.svg)
 
+## <a href="http://www.couchbase.com/" target="_blank">Couchbase</a>
+![couchbase](http://svgporn.com/logos/couchbase.svg)
+
+## <a href="https://middlemanapp.com/" target="_blank">Middleman</a>
+![middleman](http://svgporn.com/logos/middleman.svg)
+
+## <a href="http://aws.amazon.com/opsworks/" target="_blank">AWS Opworks</a> *
+![aws-opsworks](http://svgporn.com/logos/aws-opsworks.svg)
+
+## <a href="https://www.uservoice.com/" target="_blank">uservoice</a>
+![uservoice](http://svgporn.com/logos/uservoice.svg)
+
+## <a href="https://www.backerkit.com/" target="_blank">BackerKit</a>
+![backerkit](http://svgporn.com/logos/backerkit.svg)
+
+## <a href="https://www.helpscout.net/" target="_blank">Help Scout</a>
+![helpscout](http://svgporn.com/logos/helpscout.svg)
+
+## <a href="https://www.groovehq.com/" target="_blank">Groove</a>
+![groovehq](http://svgporn.com/logos/groovehq.svg)
+
+## <a href="http://rocksdb.org/" target="_blank">RocksDB</a> *
+![rocksdb](http://svgporn.com/logos/rocksdb.svg)
+
 ## <a href="http://aws.amazon.com/ec2/" target="_blank">AWS EC2 (Elastic Compute Cloud)</a> *
 ![aws-ec2](http://svgporn.com/logos/aws-ec2.svg)
-
-## <a href="http://convox.com/" target="_blank">Convox</a> *
-![convox](http://svgporn.com/logos/convox.svg)
-
-## <a href="http://aws.amazon.com/cognito/" target="_blank">AWS Cognito</a> *
-![aws-cognito](http://svgporn.com/logos/aws-cognito.svg)
-
-## <a href="http://aws.amazon.com/glacier/" target="_blank">AWS Glacier</a> *
-![aws-glacier](http://svgporn.com/logos/aws-glacier.svg)
-
-## <a href="http://aws.amazon.com/codedeploy/" target="_blank">AWS CodeDeploy</a> *
-![aws-codedeploy](http://svgporn.com/logos/aws-codedeploy.svg)
-
-## <a href="http://aws.amazon.com/cloudformation/" target="_blank">AWS CloudFormation</a> *
-![aws-cloudformation](http://svgporn.com/logos/aws-cloudformation.svg)
-
-## <a href="http://aws.amazon.com/rds/" target="_blank">AWS RDS (Relational Database Service)</a> *
-![aws-rds](http://svgporn.com/logos/aws-rds.svg)
-
-## <a href="https://pusher.com/" target="_blank">Pusher</a> *
-![pusher](http://svgporn.com/logos/pusher.svg)
 
 ## <a href="http://kafka.apache.org/" target="_blank">Kafka</a> *
 ![kafka](http://svgporn.com/logos/kafka.svg)
 
-## <a href="http://aws.amazon.com/dynamodb/" target="_blank">AWS DynamoDB</a> *
-![aws-dynamodb](http://svgporn.com/logos/aws-dynamodb.svg)
-
-## <a href="http://aws.amazon.com/sqs/" target="_blank">AWS SQS (Simple Queue Service)</a> *
-![aws-sqs](http://svgporn.com/logos/aws-sqs.svg)
-
 ## <a href="http://aws.amazon.com/lambda/" target="_blank">AWS Lambda</a> *
 ![aws-lambda](http://svgporn.com/logos/aws-lambda.svg)
+
+## <a href="http://aws.amazon.com/glacier/" target="_blank">AWS Glacier</a> *
+![aws-glacier](http://svgporn.com/logos/aws-glacier.svg)
+
+## <a href="https://pusher.com/" target="_blank">Pusher</a> *
+![pusher](http://svgporn.com/logos/pusher.svg)
 
 
 ---
