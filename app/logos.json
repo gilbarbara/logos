@@ -1166,7 +1166,8 @@
       "shortname": "c",
       "url": "https://en.wikipedia.org/wiki/C_(programming_language)",
       "tags": [
-        "language"
+        "language",
+        "vectorized"
       ],
       "categories": [
         "developers"
@@ -1202,6 +1203,24 @@
         "DevOps"
       ],
       "updated": "2015-07-31"
+    },
+    {
+      "name": "CakePHP",
+      "files": [
+        "cakephp.svg"
+      ],
+      "shortname": "cakephp",
+      "url": "http://cakephp.org/",
+      "tags": [
+        "framework",
+        "php",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-08",
+      "edited": true
     },
     {
       "name": "Campaign Monitor",
@@ -2150,6 +2169,24 @@
         "developers"
       ],
       "updated": "2015-07-06"
+    },
+    {
+      "name": "Delighted",
+      "files": [
+        "delighted.svg"
+      ],
+      "shortname": "delighted",
+      "url": "https://delighted.com/",
+      "tags": [
+        "customer support",
+        "user feedback",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-09-08",
+      "edited": true
     },
     {
       "name": "Deploy",
@@ -3300,7 +3337,7 @@
       "categories": [
         "sharing"
       ],
-      "updated": "2015-07-24"
+      "updated": "2015-09-08"
     },
     {
       "name": "Google Analytics",
@@ -3366,6 +3403,23 @@
         "geeks"
       ],
       "updated": "2015-08-05"
+    },
+    {
+      "name": "Google Gmail",
+      "files": [
+        "google-gmail.svg"
+      ],
+      "shortname": "google-gmail",
+      "url": "http://gmail.com/",
+      "tags": [
+        "email service",
+        "vectorized"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-08",
+      "edited": true
     },
     {
       "name": "Google Photos",
@@ -4734,6 +4788,23 @@
         "DevOps"
       ],
       "updated": "2015-08-13"
+    },
+    {
+      "name": "Lift",
+      "files": [
+        "liftweb.svg"
+      ],
+      "shortname": "liftweb",
+      "url": "http://liftweb.net/",
+      "tags": [
+        "framework",
+        "java",
+        "scala"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-08"
     },
     {
       "name": "LinkedIn",
@@ -6901,7 +6972,7 @@
       "categories": [
         "developers"
       ],
-      "updated": "2015-06-11"
+      "updated": "2015-09-08"
     },
     {
       "name": "RethinkDB",
@@ -7003,6 +7074,22 @@
         "hackers"
       ],
       "updated": "2015-07-14"
+    },
+    {
+      "name": "RuboCop",
+      "files": [
+        "rubocop.svg"
+      ],
+      "shortname": "rubocop",
+      "url": "http://batsov.com/rubocop/",
+      "tags": [
+        "static analysis",
+        "ruby"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-08"
     },
     {
       "name": "Ruby",
