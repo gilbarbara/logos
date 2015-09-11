@@ -150,6 +150,23 @@
       "updated": "2015-07-14"
     },
     {
+      "name": "Apache Tomcat",
+      "files": [
+        "tomcat.svg"
+      ],
+      "shortname": "tomcat",
+      "url": "http://tomcat.apache.org/",
+      "tags": [
+        "web framework",
+        "java"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-08-31",
+      "edited": true
+    },
+    {
       "name": "Apiary",
       "files": [
         "apiary.svg"
@@ -515,6 +532,24 @@
         "DevOps"
       ],
       "updated": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS IAM (Identity and Access Management)",
+      "files": [
+        "aws-iam.svg"
+      ],
+      "shortname": "aws-iam",
+      "url": "http://aws.amazon.com/iam/",
+      "tags": [
+        "user management",
+        "authentication",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-11",
       "edited": true
     },
     {
@@ -2953,6 +2988,22 @@
       "updated": "2015-06-29"
     },
     {
+      "name": "Fleep",
+      "files": [
+        "fleep.svg"
+      ],
+      "shortname": "fleep",
+      "url": "https://fleep.io/",
+      "tags": [
+        "group chat",
+        "team collaboration"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "updated": "2015-09-11"
+    },
+    {
       "name": "flexible.gs",
       "files": [
         "flexible-gs.svg"
@@ -4625,6 +4676,24 @@
         "developers"
       ],
       "updated": "2015-08-26",
+      "edited": true
+    },
+    {
+      "name": "Kore",
+      "files": [
+        "kore.svg"
+      ],
+      "shortname": "kore",
+      "url": "https://kore.io/",
+      "tags": [
+        "web server",
+        "c",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-11",
       "edited": true
     },
     {
@@ -6828,6 +6897,22 @@
       "updated": "2015-06-24"
     },
     {
+      "name": "Rancher",
+      "files": [
+        "rancher.svg"
+      ],
+      "shortname": "rancher",
+      "url": "http://rancher.com/",
+      "tags": [
+        "cloud computing",
+        "docker"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-11"
+    },
+    {
       "name": "randomColor",
       "files": [
         "randomcolor.svg"
@@ -7124,6 +7209,24 @@
       "updated": "2015-06-29"
     },
     {
+      "name": "RunAbove",
+      "files": [
+        "run-above.svg"
+      ],
+      "shortname": "run-above",
+      "url": "https://www.runabove.com/",
+      "tags": [
+        "cloud computing",
+        "cloud storage",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-11",
+      "edited": true
+    },
+    {
       "name": "Rum",
       "files": [
         "rum.svg"
@@ -7405,6 +7508,26 @@
         "DevOps"
       ],
       "updated": "2015-07-06"
+    },
+    {
+      "name": "Sequelize",
+      "files": [
+        "sequelize.svg"
+      ],
+      "shortname": "sequelize",
+      "url": "http://sequelizejs.com/",
+      "tags": [
+        "ORM",
+        "database",
+        "sql",
+        "node.js",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-11",
+      "edited": true
     },
     {
       "name": "Shields.io",
@@ -8150,23 +8273,6 @@
       "updated": "2015-07-08"
     },
     {
-      "name": "Apache Tomcat",
-      "files": [
-        "tomcat.svg"
-      ],
-      "shortname": "tomcat",
-      "url": "http://tomcat.apache.org/",
-      "tags": [
-        "web framework",
-        "java"
-      ],
-      "categories": [
-        "DevOps"
-      ],
-      "updated": "2015-08-31",
-      "edited": true
-    },
-    {
       "name": "Traackr",
       "files": [
         "traackr.svg"
@@ -8651,6 +8757,24 @@
       "edited": true
     },
     {
+      "name": "Xamarin",
+      "files": [
+        "xamarin.svg"
+      ],
+      "shortname": "xamarin",
+      "url": "http://xamarin.com/",
+      "tags": [
+        "mobile",
+        "mobile app framework",
+        "c#",
+        "IDE"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-11"
+    },
+    {
       "name": "W3C",
       "files": [
         "w3c.svg"
@@ -8949,6 +9073,23 @@
       ],
       "updated": "2015-06-11",
       "favorite": true
+    },
+    {
+      "name": "Yii",
+      "files": [
+        "yii.svg"
+      ],
+      "shortname": "yii",
+      "url": "http://www.yiiframework.com/",
+      "tags": [
+        "framework",
+        "php"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-11",
+      "edited": true
     },
     {
       "name": "YouTrack",
