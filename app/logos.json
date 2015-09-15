@@ -773,6 +773,24 @@
       "updated": "2015-07-26"
     },
     {
+      "name": "batch",
+      "files": [
+        "batch.svg"
+      ],
+      "shortname": "batch",
+      "url": "https://batch.com/",
+      "tags": [
+        "mobile",
+        "push notifications",
+        "ads"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "updated": "2015-09-14",
+      "edited": true
+    },
+    {
       "name": "Bash",
       "files": [
         "bash.svg"
@@ -2011,6 +2029,24 @@
       "edited": true
     },
     {
+      "name": "CrateIO",
+      "files": [
+        "crateio.svg"
+      ],
+      "shortname": "crateio",
+      "url": "https://crate.io/",
+      "tags": [
+        "database",
+        "storage",
+        "docker"
+      ],
+      "categories": [
+        "marketing"
+      ],
+      "updated": "2015-09-14",
+      "edited": true
+    },
+    {
       "name": "CreateJS",
       "files": [
         "createjs.svg"
@@ -2131,9 +2167,9 @@
       "shortname": "d3",
       "url": "http://d3js.org/",
       "tags": [
+        "data visualization",
         "javascript",
         "library",
-        "data visualization",
         "svg"
       ],
       "categories": [
@@ -3863,6 +3899,24 @@
       "edited": true
     },
     {
+      "name": "Highcharts",
+      "files": [
+        "highcharts.svg"
+      ],
+      "shortname": "highcharts",
+      "url": "http://www.highcharts.com/",
+      "tags": [
+        "charts",
+        "javascript",
+        "library"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-14",
+      "edited": true
+    },
+    {
       "name": "HipChat",
       "files": [
         "hipchat.svg"
@@ -4406,6 +4460,25 @@
       "updated": "2015-07-08"
     },
     {
+      "name": "jsDelivr",
+      "files": [
+        "jsdelivr.svg"
+      ],
+      "shortname": "jsdelivr",
+      "url": "http://www.jsdelivr.com/",
+      "tags": [
+        "open source",
+        "CDN",
+        "javascript",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-14",
+      "edited": true
+    },
+    {
       "name": "JSFiddle",
       "files": [
         "jsfiddle.svg"
@@ -4524,6 +4597,24 @@
         "DevOps"
       ],
       "updated": "2015-07-31",
+      "edited": true
+    },
+    {
+      "name": "KeystoneJS",
+      "files": [
+        "keystonejs.svg"
+      ],
+      "shortname": "keystonejs",
+      "url": "http://keystonejs.com/",
+      "tags": [
+        "content manager",
+        "framework",
+        "node.js"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-14",
       "edited": true
     },
     {
@@ -8806,6 +8897,24 @@
       "updated": "2015-07-15"
     },
     {
+      "name": "Wagtail",
+      "files": [
+        "wagtail.svg"
+      ],
+      "shortname": "wagtail",
+      "url": "https://wagtail.io/",
+      "tags": [
+        "content manager",
+        "django",
+        "python"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-14",
+      "edited": true
+    },
+    {
       "name": "WebComponents",
       "files": [
         "webcomponents.svg"
@@ -9024,6 +9133,26 @@
         "business"
       ],
       "updated": "2015-07-28",
+      "edited": true
+    },
+    {
+      "name": "Xplenty",
+      "files": [
+        "xplenty.svg"
+      ],
+      "shortname": "xplenty",
+      "url": "https://www.xplenty.com/",
+      "tags": [
+        "service integration",
+        "data transformation",
+        "BDaS",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
+      ],
+      "updated": "2015-09-14",
       "edited": true
     },
     {
