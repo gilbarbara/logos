@@ -217,6 +217,23 @@
       "updated": "2015-07-18"
     },
     {
+      "name": "AppCode",
+      "files": [
+        "appcode.svg"
+      ],
+      "shortname": "appcode",
+      "url": "https://www.jetbrains.com/objc/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "objective c"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
+    },
+    {
       "name": "AppDynamics",
       "files": [
         "appdynamics.svg"
@@ -1487,6 +1504,24 @@
         "DevOps"
       ],
       "updated": "2015-08-10"
+    },
+    {
+      "name": "CLion",
+      "files": [
+        "clion.svg"
+      ],
+      "shortname": "clion",
+      "url": "https://www.jetbrains.com/clion/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "c",
+        "c++"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
     },
     {
       "name": "Clojure",
@@ -4114,6 +4149,23 @@
       "updated": "2015-07-24"
     },
     {
+      "name": "IntelliJ IDEA",
+      "files": [
+        "intellij-idea.svg"
+      ],
+      "shortname": "intellij-idea",
+      "url": "https://www.jetbrains.com/idea/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "java"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
+    },
+    {
       "name": "Intercom",
       "files": [
         "intercom.svg"
@@ -4786,6 +4838,22 @@
       ],
       "updated": "2015-09-11",
       "edited": true
+    },
+    {
+      "name": "Kotlin",
+      "files": [
+        "kotlin.svg"
+      ],
+      "shortname": "kotlin",
+      "url": "http://kotlinlang.org/",
+      "tags": [
+        "language",
+        "java"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
     },
     {
       "name": "Kraken",
@@ -6508,6 +6576,23 @@
       "updated": "2015-06-11"
     },
     {
+      "name": "PhpStorm",
+      "files": [
+        "phpstorm.svg"
+      ],
+      "shortname": "phpstorm",
+      "url": "https://www.jetbrains.com/phpstorm/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "php"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
+    },
+    {
       "name": "Picasa",
       "files": [
         "picasa.svg"
@@ -6887,6 +6972,23 @@
       ],
       "updated": "2015-08-18",
       "edited": true
+    },
+    {
+      "name": "PyCharm",
+      "files": [
+        "pycharm.svg"
+      ],
+      "shortname": "pycharm",
+      "url": "https://www.jetbrains.com/pycharm/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "python"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
     },
     {
       "name": "Python",
@@ -7298,6 +7400,23 @@
         "developers"
       ],
       "updated": "2015-06-29"
+    },
+    {
+      "name": "RubyMine",
+      "files": [
+        "rubymine.svg"
+      ],
+      "shortname": "rubymine",
+      "url": "https://www.jetbrains.com/ruby/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "ruby"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
     },
     {
       "name": "RunAbove",
@@ -8983,6 +9102,24 @@
       "updated": "2015-06-11",
       "favorite": true,
       "edited": true
+    },
+    {
+      "name": "WebStorm",
+      "files": [
+        "webstorm.svg"
+      ],
+      "shortname": "webstorm",
+      "url": "https://www.jetbrains.com/webstorm/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "javascript",
+        "node.js"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-17"
     },
     {
       "name": "Weebly",
