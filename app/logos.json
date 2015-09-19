@@ -33,6 +33,22 @@
       "updated": "2015-08-05"
     },
     {
+      "name": "Airbnb",
+      "files": [
+        "airbnb.svg"
+      ],
+      "shortname": "airbnb",
+      "url": "https://www.airbnb.com/",
+      "tags": [
+        "lodging",
+        "marketplace"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-21"
+    },
+    {
       "name": "Airbrake",
       "files": [
         "airbrake.svg"
@@ -1853,6 +1869,25 @@
       "edited": true
     },
     {
+      "name": "Compose",
+      "files": [
+        "compose.svg"
+      ],
+      "shortname": "compose",
+      "url": "https://www.compose.io/",
+      "tags": [
+        "database",
+        "DBaaS",
+        "mongoDB",
+        "redis",
+        "rethinkdb"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-21"
+    },
+    {
       "name": "concrete5",
       "files": [
         "concrete5.svg"
@@ -2510,6 +2545,21 @@
       "updated": "2015-07-05"
     },
     {
+      "name": "DreamHost",
+      "files": [
+        "dreamhost.svg"
+      ],
+      "shortname": "dreamhost",
+      "url": "https://www.dreamhost.com/",
+      "tags": [
+        "web hosting"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-21"
+    },
+    {
       "name": "dribbble",
       "files": [
         "dribbble-icon.svg",
@@ -2671,6 +2721,23 @@
         "developers"
       ],
       "updated": "2015-07-05"
+    },
+    {
+      "name": "Elemental UI",
+      "files": [
+        "elemental-ui.svg"
+      ],
+      "shortname": "elemental-ui",
+      "url": "http://elemental-ui.com/",
+      "tags": [
+        "ui",
+        "framework",
+        "react"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-21"
     },
     {
       "name": "elementary OS",
@@ -3967,6 +4034,21 @@
       "updated": "2015-07-20"
     },
     {
+      "name": "HostGator",
+      "files": [
+        "hostgator.svg"
+      ],
+      "shortname": "hostgator",
+      "url": "https://www.hostgator.com/",
+      "tags": [
+        "web hosting"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-21"
+    },
+    {
       "name": "Hosted Graphite",
       "files": [
         "hosted-graphite.svg"
@@ -4934,6 +5016,23 @@
         "sharing"
       ],
       "updated": "2015-07-26"
+    },
+    {
+      "name": "Lateral",
+      "files": [
+        "lateral.svg"
+      ],
+      "shortname": "lateral",
+      "url": "https://lateral.io/",
+      "tags": [
+        "recommendation",
+        "api",
+        "MLaaS"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-21"
     },
     {
       "name": "Leafjet",
@@ -8833,6 +8932,24 @@
       ],
       "updated": "2015-06-29",
       "favorite": true,
+      "edited": true
+    },
+    {
+      "name": "VerneMQ",
+      "files": [
+        "vernemq.svg"
+      ],
+      "shortname": "vernemq",
+      "url": "https://verne.mq/",
+      "tags": [
+        "message queue",
+        "MQTT",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-21",
       "edited": true
     },
     {
