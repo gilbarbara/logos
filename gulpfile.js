@@ -176,24 +176,24 @@ gulp.task('bundle', function () {
         }));
 
     extras = gulp.src([
-        'app/favicon.ico'
-    ])
+            'app/favicon.ico'
+        ])
         .pipe(gulp.dest('dist'))
         .pipe($.size({
             title: 'Extras'
         }));
 
     media = gulp.src([
-        'app/media/*.svg'
-    ])
+            'app/media/*.svg'
+        ])
         .pipe(gulp.dest('dist/media'))
         .pipe($.size({
             title: 'Media'
         }));
 
     logos = gulp.src([
-        'logos/*.svg'
-    ])
+            'logos/*.svg'
+        ])
         .pipe(gulp.dest('dist/logos'))
         .pipe($.size({
             title: 'Logos'
@@ -215,7 +215,7 @@ gulp.task('assets', function (cb) {
 });
 
 gulp.task('clean', function (cb) {
-    del([target() + '/*'], cb);
+    return del([target() + '/*'], cb);
 });
 
 gulp.task('get-commit', function (cb) {
@@ -240,10 +240,10 @@ gulp.task('gh-master', function () {
         .pipe(vinylPaths(del));
 
     push = gulp.src([
-        'logos/**/*.svg',
-        'README.md',
-        'LICENSE.txt'
-    ], { base: './' })
+            'logos/**/*.svg',
+            'README.md',
+            'LICENSE.txt'
+        ], { base: './' })
         .pipe($.ghPages({
             branch: 'master',
             cacheDir: '.master',

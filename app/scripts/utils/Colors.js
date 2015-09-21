@@ -16,11 +16,11 @@ export default class Colors {
     constructor (color) {
         this.hex = color.charAt(0) === '#' ? color : '#' + color;
 
-        if (color != null) {
+        if (color !== null) {
             this.rgb = this.hex2rgb(this.hex);
         }
 
-        if (this.rgb != null) {
+        if (this.rgb !== null) {
             this.hsl = this.rgb2hsl(this.rgb);
         }
 

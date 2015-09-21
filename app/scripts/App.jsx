@@ -281,8 +281,10 @@ var App = React.createClass({
             }
 
             d.files.forEach(function (f, j) {
-                logos.push(<Logo key={i + '-' + j} info={d} image={f} hidden={hidden}
-                                 onClickTag={this._onClickTag} trackEvent={this._trackEvent}/>);
+                logos.push(
+                    <Logo key={i + '-' + j} info={d} image={f} hidden={hidden}
+                          onClickTag={this._onClickTag} trackEvent={this._trackEvent} />
+                );
             }, this);
 
             if (!hidden) {
@@ -294,7 +296,7 @@ var App = React.createClass({
 
         return (
             <div className="app">
-                <Isvg src="media/icons.svg" uniquifyIDs={false}/>
+                <Isvg src="media/icons.svg" uniquifyIDs={false} />
 
                 <div className="container">
                     <Header state={{
@@ -311,8 +313,7 @@ var App = React.createClass({
                             onSearch={this._searchLogos} changeCategory={this._changeCategory}
                             toggleCategoryMenu={this._toggleCategoryMenuVisibility}
                             onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
-                            trackEvent={this._trackEvent} onClickChangeView={this._onClickChangeView}
-                        />
+                            trackEvent={this._trackEvent} onClickChangeView={this._onClickChangeView} />
                     <main>
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
@@ -321,7 +322,7 @@ var App = React.createClass({
                     <Footer />
                 </div>
                 <a href="#" onClick={this._scrollTop}
-                   className={'scroll-top' + (state.scrollable ? ' visible' : '')}><Icon id="caret-up"/></a>
+                   className={'scroll-top' + (state.scrollable ? ' visible' : '')}><Icon id="caret-up" /></a>
             </div>
         );
     }
