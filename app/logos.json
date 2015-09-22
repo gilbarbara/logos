@@ -46,7 +46,7 @@
       "categories": [
         "geeks"
       ],
-      "updated": "2015-09-21"
+      "updated": "2015-09-19"
     },
     {
       "name": "Airbrake",
@@ -1476,6 +1476,21 @@
       "updated": "2015-06-24"
     },
     {
+      "name": "chevereto",
+      "files": [
+        "chevereto.svg"
+      ],
+      "shortname": "chevereto",
+      "url": "https://chevereto.com/",
+      "tags": [
+        "image hosting"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-22"
+    },
+    {
       "name": "Chrome",
       "files": [
         "chrome.svg"
@@ -1885,7 +1900,7 @@
       "categories": [
         "DevOps"
       ],
-      "updated": "2015-09-21"
+      "updated": "2015-09-19"
     },
     {
       "name": "concrete5",
@@ -2557,7 +2572,7 @@
       "categories": [
         "developers"
       ],
-      "updated": "2015-09-21"
+      "updated": "2015-09-19"
     },
     {
       "name": "dribbble",
@@ -2737,7 +2752,7 @@
       "categories": [
         "developers"
       ],
-      "updated": "2015-09-21"
+      "updated": "2015-09-19"
     },
     {
       "name": "elementary OS",
@@ -2839,6 +2854,25 @@
         "designers"
       ],
       "updated": "2015-07-31"
+    },
+    {
+      "name": "Envoyer",
+      "files": [
+        "envoyer.svg"
+      ],
+      "shortname": "envoyer",
+      "url": "https://envoyer.io/",
+      "tags": [
+        "cloud computing",
+        "PaaS",
+        "laravel",
+        "php"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-22",
+      "edited": true
     },
     {
       "name": "Enyo",
@@ -3195,6 +3229,23 @@
       ],
       "updated": "2015-07-13",
       "edited": true
+    },
+    {
+      "name": "Flocker",
+      "files": [
+        "flocker.svg"
+      ],
+      "shortname": "flocker",
+      "url": "https://clusterhq.com/flocker/",
+      "tags": [
+        "database",
+        "docker",
+        "content delivery"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-22"
     },
     {
       "name": "Flow",
@@ -4046,7 +4097,7 @@
       "categories": [
         "developers"
       ],
-      "updated": "2015-09-21"
+      "updated": "2015-09-19"
     },
     {
       "name": "Hosted Graphite",
@@ -4906,9 +4957,9 @@
     {
       "name": "Kore",
       "files": [
-        "kore.svg"
+        "koreio.svg"
       ],
-      "shortname": "kore",
+      "shortname": "koreio",
       "url": "https://kore.io/",
       "tags": [
         "web server",
@@ -4920,6 +4971,21 @@
       ],
       "updated": "2015-09-11",
       "edited": true
+    },
+    {
+      "name": "kore",
+      "files": [
+        "kore.svg"
+      ],
+      "shortname": "kore",
+      "url": "https://www.kore.com/",
+      "tags": [
+        "team collaboration"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "updated": "2015-09-22"
     },
     {
       "name": "Kotlin",
@@ -5032,7 +5098,7 @@
       "categories": [
         "developers"
       ],
-      "updated": "2015-09-21"
+      "updated": "2015-09-19"
     },
     {
       "name": "Leafjet",
@@ -8463,6 +8529,24 @@
       "updated": "2015-07-05"
     },
     {
+      "name": "T3",
+      "files": [
+        "t3.svg"
+      ],
+      "shortname": "t3",
+      "url": "http://t3js.org/",
+      "tags": [
+        "framework",
+        "javascript",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-22",
+      "edited": true
+    },
+    {
       "name": "TargetProcess",
       "files": [
         "targetprocess.svg"
@@ -8949,7 +9033,7 @@
       "categories": [
         "developers"
       ],
-      "updated": "2015-09-21",
+      "updated": "2015-09-19",
       "edited": true
     },
     {
@@ -9151,6 +9235,23 @@
       "edited": true
     },
     {
+      "name": "Weave",
+      "files": [
+        "weave.svg"
+      ],
+      "shortname": "weave",
+      "url": "http://weave.works/",
+      "tags": [
+        "docker",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-22",
+      "edited": true
+    },
+    {
       "name": "WebComponents",
       "files": [
         "webcomponents.svg"
@@ -9301,6 +9402,22 @@
         "geeks"
       ],
       "updated": "2015-07-26"
+    },
+    {
+      "name": "WiredTree",
+      "files": [
+        "wiredtree.svg"
+      ],
+      "shortname": "wiredtree",
+      "url": "https://www.wiredtree.com/",
+      "tags": [
+        "web hosting"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-22",
+      "edited": true
     },
     {
       "name": "Wix",
