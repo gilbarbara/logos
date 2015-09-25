@@ -232,7 +232,6 @@ gulp.task('get-commit', function (cb) {
 });
 
 gulp.task('gh-master', function () {
-
     var clean,
         push;
 

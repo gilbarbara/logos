@@ -744,6 +744,23 @@
       "updated": "2015-06-11"
     },
     {
+      "name": "Baker Street",
+      "files": [
+        "baker-street.svg"
+      ],
+      "shortname": "baker-street",
+      "url": "http://bakerstreet.io/",
+      "tags": [
+        "load balancer",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-24",
+      "edited": true
+    },
+    {
       "name": "BackerKit",
       "files": [
         "backerkit.svg"
@@ -2691,6 +2708,22 @@
       "updated": "2015-07-24"
     },
     {
+      "name": "Eager",
+      "files": [
+        "eager.svg"
+      ],
+      "shortname": "eager",
+      "url": "https://eager.io/",
+      "tags": [
+        "app store",
+        "javascript"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-24"
+    },
+    {
       "name": "Eclipse",
       "files": [
         "eclipse.svg"
@@ -4212,6 +4245,24 @@
       "updated": "2015-07-08"
     },
     {
+      "name": "Immutable",
+      "files": [
+        "immutable.svg"
+      ],
+      "shortname": "immutable",
+      "url": "https://facebook.github.io/immutable-js/",
+      "tags": [
+        "immutable object",
+        "react",
+        "javascript",
+        "facebook"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-24"
+    },
+    {
       "name": "import.io",
       "files": [
         "importio.svg"
@@ -5504,6 +5555,23 @@
         "business"
       ],
       "updated": "2015-07-05"
+    },
+    {
+      "name": "manifoldJS",
+      "files": [
+        "manifoldjs.svg"
+      ],
+      "shortname": "manifoldjs",
+      "url": "http://www.manifoldjs.com/",
+      "tags": [
+        "mobile",
+        "mobile app framework",
+        "cordova"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-24"
     },
     {
       "name": "MariaDB",
@@ -7217,7 +7285,7 @@
         "vectorized"
       ],
       "categories": [
-        "developers"
+        "DevOps"
       ],
       "updated": "2015-08-17",
       "edited": true
@@ -7336,6 +7404,24 @@
         "developers"
       ],
       "updated": "2015-06-11"
+    },
+    {
+      "name": "React/Router",
+      "files": [
+        "react-router.svg"
+      ],
+      "shortname": "react-router",
+      "url": "https://github.com/rackt/react-router",
+      "tags": [
+        "router",
+        "react",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-24",
+      "edited": true
     },
     {
       "name": "Reddit",
@@ -7517,6 +7603,24 @@
         "hackers"
       ],
       "updated": "2015-07-14"
+    },
+    {
+      "name": "RSMQ",
+      "files": [
+        "rsmq.svg"
+      ],
+      "shortname": "rsmq",
+      "url": "http://smrchy.github.io/rsmq/",
+      "tags": [
+        "message queue",
+        "redis",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-09-24",
+      "edited": true
     },
     {
       "name": "RuboCop",
@@ -8275,6 +8379,26 @@
       "updated": "2015-07-21"
     },
     {
+      "name": "Stetho",
+      "files": [
+        "stetho.svg"
+      ],
+      "shortname": "stetho",
+      "url": "http://facebook.github.io/stetho/",
+      "tags": [
+        "mobile",
+        "debug",
+        "android",
+        "facebook",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-24",
+      "edited": true
+    },
+    {
       "name": "Stormpath",
       "files": [
         "stormpath.svg"
@@ -9031,7 +9155,7 @@
         "vectorized"
       ],
       "categories": [
-        "developers"
+        "DevOps"
       ],
       "updated": "2015-09-19",
       "edited": true
