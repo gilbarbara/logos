@@ -938,6 +938,21 @@
       "edited": true
     },
     {
+      "name": "Bitcoin",
+      "files": [
+        "bitcoin.svg"
+      ],
+      "shortname": "bitcoin",
+      "url": "https://bitcoin.org/",
+      "tags": [
+        "virtual currency"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-26"
+    },
+    {
       "name": "Bitbucket",
       "files": [
         "bitbucket.svg"
@@ -1473,6 +1488,23 @@
         "developers"
       ],
       "updated": "2015-06-24"
+    },
+    {
+      "name": "ChangeTip",
+      "files": [
+        "changetip.svg"
+      ],
+      "shortname": "changetip",
+      "url": "https://www.changetip.com/",
+      "tags": [
+        "micropayment",
+        "bitcoin",
+        "donation"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-26"
     },
     {
       "name": "Chef",
@@ -2804,6 +2836,21 @@
       "updated": "2015-07-28"
     },
     {
+      "name": "ello",
+      "files": [
+        "ello.svg"
+      ],
+      "shortname": "ello",
+      "url": "https://ello.co/",
+      "tags": [
+        "social network"
+      ],
+      "categories": [
+        "sharing"
+      ],
+      "updated": "2015-09-26"
+    },
+    {
       "name": "Embedly",
       "files": [
         "embedly.svg"
@@ -3191,6 +3238,22 @@
         "developers"
       ],
       "updated": "2015-06-29"
+    },
+    {
+      "name": "Flattr",
+      "files": [
+        "flattr.svg"
+      ],
+      "shortname": "flattr",
+      "url": "https://flattr.com/",
+      "tags": [
+        "micropayment",
+        "donation"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-26"
     },
     {
       "name": "Fleep",
@@ -3774,6 +3837,22 @@
         "developers"
       ],
       "updated": "2015-07-05"
+    },
+    {
+      "name": "Gratipay",
+      "files": [
+        "gratipay.svg"
+      ],
+      "shortname": "gratipay",
+      "url": "https://gratipay.com/",
+      "tags": [
+        "micropayment",
+        "donation"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-26"
     },
     {
       "name": "Groove",
@@ -6707,6 +6786,21 @@
       "updated": "2015-06-24"
     },
     {
+      "name": "Patreon",
+      "files": [
+        "patreon.svg"
+      ],
+      "shortname": "patreon",
+      "url": "https://www.patreon.com/",
+      "tags": [
+        "crowdfunding"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-09-26"
+    },
+    {
       "name": "PayPal",
       "files": [
         "paypal.svg"
@@ -8138,6 +8232,22 @@
       ],
       "updated": "2015-07-15",
       "favorite": true
+    },
+    {
+      "name": "slides",
+      "files": [
+        "slides.svg"
+      ],
+      "shortname": "slides",
+      "url": "https://slides.com/",
+      "tags": [
+        "presentation"
+      ],
+      "categories": [
+        "geeks",
+        "business"
+      ],
+      "updated": "2015-09-26"
     },
     {
       "name": "Snap.svg",
