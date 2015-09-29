@@ -1,5 +1,6 @@
 var gulp               = require('gulp'),
     $                  = require('gulp-load-plugins')(),
+    _                  = require('lodash'),
     browserify         = require('browserify'),
     buffer             = require('vinyl-buffer'),
     browserSync        = require('browser-sync').create(),
@@ -130,11 +131,7 @@ gulp.task('icons', function () {
 
 gulp.task('readme', function () {
     var json  = JSON.parse(fs.readFileSync('./app/logos.json')),
-        logos = json.items.sort(function (a, b) {
-            a = new Date(a.updated);
-            b = new Date(b.updated);
-            return a > b ? -1 : a < b ? 1 : 0;
-        }).slice(0, 50);
+        logos = _.chain(json.items).sortByOrder(['updated', 'name'], ['desc', 'asc']).take(50).value();
 
     return gulp.src('app/templates/README.handlebars')
         .pipe($.compileHandlebars(logos, {
