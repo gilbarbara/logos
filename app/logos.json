@@ -832,10 +832,11 @@
       "tags": [
         "mobile",
         "push notifications",
-        "ads"
+        "ads",
+        "marketing"
       ],
       "categories": [
-        "marketing"
+        "business"
       ],
       "updated": "2015-09-14",
       "edited": true
@@ -864,7 +865,7 @@
       "shortname": "behance",
       "url": "https://www.behance.net/",
       "tags": [
-        "social",
+        "social network",
         "portfolio",
         "showcase"
       ],
@@ -1224,6 +1225,23 @@
       "favorite": true
     },
     {
+      "name": "Brunch",
+      "files": [
+        "brunch.svg"
+      ],
+      "shortname": "brunch",
+      "url": "http://brunch.io/",
+      "tags": [
+        "build tool",
+        "cli"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-28",
+      "edited": true
+    },
+    {
       "name": "Buck",
       "files": [
         "buck.svg"
@@ -1348,7 +1366,8 @@
       "shortname": "campaignmonitor",
       "url": "https://www.campaignmonitor.com/",
       "tags": [
-        "email marketing"
+        "email marketing",
+        "marketing"
       ],
       "categories": [
         "business"
@@ -2175,7 +2194,7 @@
         "docker"
       ],
       "categories": [
-        "marketing"
+        "DevOps"
       ],
       "updated": "2015-09-14",
       "edited": true
@@ -2286,7 +2305,8 @@
       "url": "http://customer.io/",
       "tags": [
         "email marketing",
-        "lifecycle marketing"
+        "lifecycle marketing",
+        "marketing"
       ],
       "categories": [
         "business"
@@ -2448,7 +2468,7 @@
       "shortname": "deviantart",
       "url": "http://www.deviantart.com/",
       "tags": [
-        "social",
+        "social network",
         "portfolio",
         "showcase"
       ],
@@ -2632,7 +2652,7 @@
       "shortname": "dribbble",
       "url": "https://www.dribbble.com/",
       "tags": [
-        "social",
+        "social network",
         "portfolio",
         "showcase"
       ],
@@ -2640,6 +2660,23 @@
         "designers"
       ],
       "updated": "2015-08-04"
+    },
+    {
+      "name": "Drip",
+      "files": [
+        "drip.svg"
+      ],
+      "shortname": "drip",
+      "url": "https://www.getdrip.com/",
+      "tags": [
+        "email marketing",
+        "lifecycle marketing",
+        "marketing"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-09-28"
     },
     {
       "name": "Drone",
@@ -3915,9 +3952,9 @@
       "shortname": "gulp",
       "url": "http://gulpjs.com/",
       "tags": [
+        "build tool",
         "javascript",
         "node.js",
-        "build tool",
         "cli"
       ],
       "categories": [
@@ -4128,6 +4165,23 @@
       "updated": "2015-06-24"
     },
     {
+      "name": "Hexo",
+      "files": [
+        "hexo.svg"
+      ],
+      "shortname": "hexo",
+      "url": "https://hexo.io/",
+      "tags": [
+        "blog framework",
+        "static site generator",
+        "node.js"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-28"
+    },
+    {
       "name": "Hoodie",
       "files": [
         "hoodie.svg"
@@ -4284,7 +4338,8 @@
       "shortname": "hubspot",
       "url": "http://www.hubspot.com/",
       "tags": [
-        "inbound marketing"
+        "inbound marketing",
+        "marketing"
       ],
       "categories": [
         "business"
@@ -4438,7 +4493,8 @@
       "tags": [
         "customer support",
         "email marketing",
-        "lifecycle marketing"
+        "lifecycle marketing",
+        "marketing"
       ],
       "categories": [
         "business"
@@ -4641,6 +4697,23 @@
         "developers"
       ],
       "updated": "2015-07-04"
+    },
+    {
+      "name": "Jest",
+      "files": [
+        "jest.svg"
+      ],
+      "shortname": "jest",
+      "url": "http://facebook.github.io/jest/",
+      "tags": [
+        "unit testing",
+        "testing"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-28",
+      "edited": true
     },
     {
       "name": "JetBrains",
@@ -4980,6 +5053,23 @@
         "DevOps"
       ],
       "updated": "2015-07-18"
+    },
+    {
+      "name": "kirby",
+      "files": [
+        "kirby.svg"
+      ],
+      "shortname": "kirby",
+      "url": "http://getkirby.com/",
+      "tags": [
+        "cotent manager",
+        "file based",
+        "php"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-28"
     },
     {
       "name": "kissmetrics",
@@ -5595,7 +5685,8 @@
       "shortname": "mailchimp",
       "url": "http://mailchimp.com/",
       "tags": [
-        "email marketing"
+        "email marketing",
+        "marketing"
       ],
       "categories": [
         "business"
@@ -6484,6 +6575,22 @@
       "updated": "2015-08-31"
     },
     {
+      "name": "OneSignal",
+      "files": [
+        "onesignal.svg"
+      ],
+      "shortname": "onesignal",
+      "url": "https://onesignal.com/",
+      "tags": [
+        "push notification",
+        "mobile"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-28"
+    },
+    {
       "name": "Open Graph",
       "files": [
         "open-graph.svg"
@@ -6594,7 +6701,7 @@
       "categories": [
         "geeks"
       ],
-      "updated": "2015-08-09",
+      "updated": "2015-09-28",
       "edited": true
     },
     {
@@ -8425,7 +8532,6 @@
       "url": "http://stackshare.io/",
       "tags": [
         "developer stack",
-        "social",
         "vectorized"
       ],
       "categories": [
@@ -8868,6 +8974,23 @@
       "updated": "2015-07-31"
     },
     {
+      "name": "Thimble",
+      "files": [
+        "thimble.svg"
+      ],
+      "shortname": "thimble",
+      "url": "https://thimble.mozilla.org/",
+      "tags": [
+        "code editor",
+        "service"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-09-28",
+      "edited": true
+    },
+    {
       "name": "Todoist",
       "files": [
         "todoist.svg"
@@ -8907,7 +9030,8 @@
       "shortname": "traackr",
       "url": "http://traackr.com/",
       "tags": [
-        "social marketing"
+        "influencer manager",
+        "marketing"
       ],
       "categories": [
         "business"
