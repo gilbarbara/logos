@@ -1269,7 +1269,7 @@
       "shortname": "buffer",
       "url": "https://buffer.com/",
       "tags": [
-        "socia media aggregation",
+        "socia media tools",
         "vectorized"
       ],
       "categories": [
@@ -2348,6 +2348,24 @@
       "updated": "2015-07-06"
     },
     {
+      "name": "Database Labs",
+      "files": [
+        "database-labs.svg"
+      ],
+      "shortname": "database-labs",
+      "url": "https://www.databaselabs.io/",
+      "tags": [
+        "database",
+        "postgres",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-01",
+      "edited": true
+    },
+    {
       "name": "debian",
       "files": [
         "debian.svg"
@@ -3261,6 +3279,23 @@
       "updated": "2015-06-13"
     },
     {
+      "name": "Flarum",
+      "files": [
+        "flarum.svg"
+      ],
+      "shortname": "flarum",
+      "url": "http://flarum.org/",
+      "tags": [
+        "forum",
+        "php"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-01",
+      "edited": true
+    },
+    {
       "name": "Flask",
       "files": [
         "flask.svg"
@@ -3417,6 +3452,24 @@
         "developers"
       ],
       "updated": "2015-06-28"
+    },
+    {
+      "name": "Fluxxor",
+      "files": [
+        "fluxxor.svg"
+      ],
+      "shortname": "fluxxor",
+      "url": "http://fluxxor.com/",
+      "tags": [
+        "flux",
+        "react",
+        "javascript"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-01",
+      "edited": true
     },
     {
       "name": "Fly",
@@ -4113,6 +4166,24 @@
       ],
       "updated": "2015-07-07",
       "favorite": true
+    },
+    {
+      "name": "HBase",
+      "files": [
+        "hbase.svg"
+      ],
+      "shortname": "hbase",
+      "url": "http://hbase.apache.org/",
+      "tags": [
+        "database",
+        "hadoop",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-01",
+      "edited": true
     },
     {
       "name": "Heap",
@@ -5861,21 +5932,6 @@
       "favorite": true
     },
     {
-      "name": "Medium",
-      "files": [
-        "medium.svg"
-      ],
-      "shortname": "medium",
-      "url": "https://medium.com/",
-      "tags": [
-        "blog platform"
-      ],
-      "categories": [
-        "bloggers"
-      ],
-      "updated": "2015-07-24"
-    },
-    {
       "name": "Mean",
       "files": [
         "meanio.svg"
@@ -5892,6 +5948,21 @@
       ],
       "updated": "2015-07-31",
       "edited": true
+    },
+    {
+      "name": "Medium",
+      "files": [
+        "medium.svg"
+      ],
+      "shortname": "medium",
+      "url": "https://medium.com/",
+      "tags": [
+        "blog platform"
+      ],
+      "categories": [
+        "bloggers"
+      ],
+      "updated": "2015-07-24"
     },
     {
       "name": "Memcached",
@@ -5923,6 +5994,21 @@
         "developers"
       ],
       "updated": "2015-07-31"
+    },
+    {
+      "name": "mention",
+      "files": [
+        "mention.svg"
+      ],
+      "shortname": "mention",
+      "url": "https://mention.com/",
+      "tags": [
+        "social media tools"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-10-01"
     },
     {
       "name": "Mercurial",
@@ -8039,6 +8125,22 @@
       "favorite": true
     },
     {
+      "name": "SassDoc",
+      "files": [
+        "sass-doc.svg"
+      ],
+      "shortname": "sass-doc",
+      "url": "http://sassdoc.com/",
+      "tags": [
+        "sass",
+        "documentation"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-01"
+    },
+    {
       "name": "Scala",
       "files": [
         "scala.svg"
@@ -8382,8 +8484,8 @@
       "shortname": "socket.io",
       "url": "http://socket.io/",
       "tags": [
-        "javascript",
-        "real-time communication"
+        "real-time communication",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -9678,6 +9780,22 @@
       "updated": "2015-06-11",
       "favorite": true,
       "edited": true
+    },
+    {
+      "name": "WebRTC",
+      "files": [
+        "webrtc.svg"
+      ],
+      "shortname": "webrtc",
+      "url": "http://www.webrtc.org/",
+      "tags": [
+        "real-time communication",
+        "w3c"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-01"
     },
     {
       "name": "WebStorm",
