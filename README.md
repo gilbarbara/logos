@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.databaselabs.io/" target="_blank">Database Labs</a> *
+![database-labs](http://svgporn.com/logos/database-labs.svg)
+
+## <a href="http://flarum.org/" target="_blank">Flarum</a> *
+![flarum](http://svgporn.com/logos/flarum.svg)
+
+## <a href="http://fluxxor.com/" target="_blank">Fluxxor</a> *
+![fluxxor](http://svgporn.com/logos/fluxxor.svg)
+
+## <a href="http://hbase.apache.org/" target="_blank">HBase</a> *
+![hbase](http://svgporn.com/logos/hbase.svg)
+
+## <a href="http://sassdoc.com/" target="_blank">SassDoc</a>
+![sass-doc](http://svgporn.com/logos/sass-doc.svg)
+
+## <a href="http://www.webrtc.org/" target="_blank">WebRTC</a>
+![webrtc](http://svgporn.com/logos/webrtc.svg)
+
+## <a href="https://mention.com/" target="_blank">mention</a>
+![mention](http://svgporn.com/logos/mention.svg)
+
 ## <a href="http://brunch.io/" target="_blank">Brunch</a> *
 ![brunch](http://svgporn.com/logos/brunch.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>
 ![rubymine](http://svgporn.com/logos/rubymine.svg)
-
-## <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
-![webstorm](http://svgporn.com/logos/webstorm.svg)
-
-## <a href="https://crate.io/" target="_blank">CrateIO</a> *
-![crateio](http://svgporn.com/logos/crateio.svg)
-
-## <a href="http://www.highcharts.com/" target="_blank">Highcharts</a> *
-![highcharts](http://svgporn.com/logos/highcharts.svg)
-
-## <a href="http://keystonejs.com/" target="_blank">KeystoneJS</a> *
-![keystonejs](http://svgporn.com/logos/keystonejs.svg)
-
-## <a href="https://wagtail.io/" target="_blank">Wagtail</a> *
-![wagtail](http://svgporn.com/logos/wagtail.svg)
-
-## <a href="https://www.xplenty.com/" target="_blank">Xplenty</a> *
-![xplenty](http://svgporn.com/logos/xplenty.svg)
-
-## <a href="https://batch.com/" target="_blank">batch</a> *
-![batch](http://svgporn.com/logos/batch.svg)
 
 
 ---
