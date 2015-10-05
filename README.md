@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.google.com/adsense/" target="_blank">Google AdSense</a> *
+![google-adsense](http://svgporn.com/logos/google-adsense.svg)
+
+## <a href="http://www.google.com/adwords/" target="_blank">Google AdWords</a> *
+![google-adwords](http://svgporn.com/logos/google-adwords.svg)
+
+## <a href="https://www.ieee.org/" target="_blank">IEEE</a>
+![ieee](http://svgporn.com/logos/ieee.svg)
+
+## <a href="http://www.qt.io/" target="_blank">Qt</a>
+![qt](http://svgporn.com/logos/qt.svg)
+
+## <a href="https://en.wikipedia.org/wiki/Terminal_emulator" target="_blank">Terminal</a>
+![terminal](http://svgporn.com/logos/terminal.svg)
+
+## <a href="https://vivaldi.com/" target="_blank">Vivaldi</a>
+![vivaldi](http://svgporn.com/logos/vivaldi.svg)
+
+## <a href="https://whatwg.org/" target="_blank">WHATWG</a>
+![whatwg](http://svgporn.com/logos/whatwg.svg)
+
 ## <a href="https://www.databaselabs.io/" target="_blank">Database Labs</a> *
 ![database-labs](http://svgporn.com/logos/database-labs.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://verne.mq/" target="_blank">VerneMQ</a> *
 ![vernemq](http://svgporn.com/logos/vernemq.svg)
-
-## <a href="https://www.jetbrains.com/objc/" target="_blank">AppCode</a>
-![appcode](http://svgporn.com/logos/appcode.svg)
-
-## <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a>
-![clion](http://svgporn.com/logos/clion.svg)
-
-## <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a>
-![intellij-idea](http://svgporn.com/logos/intellij-idea.svg)
-
-## <a href="http://kotlinlang.org/" target="_blank">Kotlin</a>
-![kotlin](http://svgporn.com/logos/kotlin.svg)
-
-## <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PhpStorm</a>
-![phpstorm](http://svgporn.com/logos/phpstorm.svg)
-
-## <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>
-![pycharm](http://svgporn.com/logos/pycharm.svg)
-
-## <a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>
-![rubymine](http://svgporn.com/logos/rubymine.svg)
 
 
 ---
