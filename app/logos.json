@@ -3766,6 +3766,40 @@
       "updated": "2015-09-08"
     },
     {
+      "name": "Google AdSense",
+      "files": [
+        "google-adsense.svg"
+      ],
+      "shortname": "google-adsense",
+      "url": "http://www.google.com/adsense/",
+      "tags": [
+        "ads",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-10-05",
+      "edited": true
+    },
+    {
+      "name": "Google AdWords",
+      "files": [
+        "google-adwords.svg"
+      ],
+      "shortname": "google-adwords",
+      "url": "http://www.google.com/adwords/",
+      "tags": [
+        "ads",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-10-05",
+      "edited": true
+    },
+    {
       "name": "Google Analytics",
       "files": [
         "google-analytics.svg"
@@ -4416,6 +4450,21 @@
         "business"
       ],
       "updated": "2015-07-13"
+    },
+    {
+      "name": "IEEE",
+      "files": [
+        "ieee.svg"
+      ],
+      "shortname": "ieee",
+      "url": "https://www.ieee.org/",
+      "tags": [
+        "association"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-10-05"
     },
     {
       "name": "IFTTT",
@@ -7544,6 +7593,22 @@
       "edited": true
     },
     {
+      "name": "Qt",
+      "files": [
+        "qt.svg"
+      ],
+      "shortname": "qt",
+      "url": "http://www.qt.io/",
+      "tags": [
+        "application framework",
+        "c++"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-05"
+    },
+    {
       "name": "R",
       "files": [
         "r-lang.svg"
@@ -9076,6 +9141,21 @@
       "updated": "2015-07-31"
     },
     {
+      "name": "Terminal",
+      "files": [
+        "terminal.svg"
+      ],
+      "shortname": "terminal",
+      "url": "https://en.wikipedia.org/wiki/Terminal_emulator",
+      "tags": [
+        "interface"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-10-05"
+    },
+    {
       "name": "Thimble",
       "files": [
         "thimble.svg"
@@ -9592,6 +9672,21 @@
       "favorite": true
     },
     {
+      "name": "Vivaldi",
+      "files": [
+        "vivaldi.svg"
+      ],
+      "shortname": "vivaldi",
+      "url": "https://vivaldi.com/",
+      "tags": [
+        "browser"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-10-05"
+    },
+    {
       "name": "Void",
       "files": [
         "void.svg"
@@ -9847,6 +9942,22 @@
         "DevOps"
       ],
       "updated": "2015-06-25"
+    },
+    {
+      "name": "WHATWG",
+      "files": [
+        "whatwg.svg"
+      ],
+      "shortname": "whatwg",
+      "url": "https://whatwg.org/",
+      "tags": [
+        "community",
+        "reference"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-05"
     },
     {
       "name": "Wicket",
