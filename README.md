@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://aurora.apache.org/" target="_blank">Aurora</a>
+![aurora](http://svgporn.com/logos/aurora.svg)
+
+## <a href="https://mapzen.com/" target="_blank">Mapzen</a>
+![mapzen](http://svgporn.com/logos/mapzen.svg)
+
+## <a href="https://www.nomadproject.io/" target="_blank">Nomad</a> *
+![nomad](http://svgporn.com/logos/nomad.svg)
+
+## <a href="http://www.pixate.com/" target="_blank">Pixate</a>
+![pixate](http://svgporn.com/logos/pixate.svg)
+
+## <a href="http://puppylinux.org/" target="_blank">Puppy Linux</a> *
+![puppy-linux](http://svgporn.com/logos/puppy-linux.svg)
+
+## <a href="http://www.sparkcentral.com/" target="_blank">Sparkcentral</a>
+![sparkcentral](http://svgporn.com/logos/sparkcentral.svg)
+
+## <a href="http://surge.sh/" target="_blank">Surge</a>
+![surge](http://svgporn.com/logos/surge.svg)
+
 ## <a href="http://www.google.com/adsense/" target="_blank">Google AdSense</a> *
 ![google-adsense](http://svgporn.com/logos/google-adsense.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.kore.com/" target="_blank">kore</a>
 ![kore](http://svgporn.com/logos/kore.svg)
-
-## <a href="https://www.airbnb.com/" target="_blank">Airbnb</a>
-![airbnb](http://svgporn.com/logos/airbnb.svg)
-
-## <a href="https://www.compose.io/" target="_blank">Compose</a>
-![compose](http://svgporn.com/logos/compose.svg)
-
-## <a href="https://www.dreamhost.com/" target="_blank">DreamHost</a>
-![dreamhost](http://svgporn.com/logos/dreamhost.svg)
-
-## <a href="http://elemental-ui.com/" target="_blank">Elemental UI</a>
-![elemental-ui](http://svgporn.com/logos/elemental-ui.svg)
-
-## <a href="https://www.hostgator.com/" target="_blank">HostGator</a>
-![hostgator](http://svgporn.com/logos/hostgator.svg)
-
-## <a href="https://lateral.io/" target="_blank">Lateral</a>
-![lateral](http://svgporn.com/logos/lateral.svg)
-
-## <a href="https://verne.mq/" target="_blank">VerneMQ</a> *
-![vernemq](http://svgporn.com/logos/vernemq.svg)
 
 
 ---
