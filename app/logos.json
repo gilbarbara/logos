@@ -382,6 +382,23 @@
       "edited": true
     },
     {
+      "name": "Aurora",
+      "files": [
+        "aurora.svg"
+      ],
+      "shortname": "aurora",
+      "url": "http://aurora.apache.org/",
+      "tags": [
+        "server management",
+        "framework",
+        "mesos"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-08"
+    },
+    {
       "name": "Auth0",
       "files": [
         "auth0.svg"
@@ -5864,6 +5881,22 @@
       "updated": "2015-09-24"
     },
     {
+      "name": "Mapzen",
+      "files": [
+        "mapzen.svg"
+      ],
+      "shortname": "mapzen",
+      "url": "https://mapzen.com/",
+      "tags": [
+        "maps",
+        "mapping api"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-08"
+    },
+    {
       "name": "MariaDB",
       "files": [
         "mariadb.svg"
@@ -6082,7 +6115,8 @@
       "shortname": "mesos",
       "url": "http://mesos.apache.org/",
       "tags": [
-        "distributed computing"
+        "distributed computing",
+        "server management"
       ],
       "categories": [
         "DevOps"
@@ -6606,6 +6640,24 @@
         "developers"
       ],
       "updated": "2015-07-14"
+    },
+    {
+      "name": "Nomad",
+      "files": [
+        "nomad.svg"
+      ],
+      "shortname": "nomad",
+      "url": "https://www.nomadproject.io/",
+      "tags": [
+        "cluster manager",
+        "docker",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-08",
+      "edited": true
     },
     {
       "name": "NPM",
@@ -7239,6 +7291,23 @@
       "updated": "2015-08-27"
     },
     {
+      "name": "Pixate",
+      "files": [
+        "pixate.svg"
+      ],
+      "shortname": "pixate",
+      "url": "http://www.pixate.com/",
+      "tags": [
+        "prototyping",
+        "ui",
+        "desktop app"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "updated": "2015-10-08"
+    },
+    {
       "name": "Pixelapse",
       "files": [
         "pixelapse.svg"
@@ -7520,6 +7589,23 @@
         "DevOps"
       ],
       "updated": "2015-06-24",
+      "edited": true
+    },
+    {
+      "name": "Puppy Linux",
+      "files": [
+        "puppy-linux.svg"
+      ],
+      "shortname": "puppy-linux",
+      "url": "http://puppylinux.org/",
+      "tags": [
+        "operational system",
+        "linux"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-10-08",
       "edited": true
     },
     {
@@ -8606,6 +8692,22 @@
       "updated": "2015-07-30"
     },
     {
+      "name": "Sparkcentral",
+      "files": [
+        "sparkcentral.svg"
+      ],
+      "shortname": "sparkcentral",
+      "url": "http://www.sparkcentral.com/",
+      "tags": [
+        "social media tools",
+        "help desk"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-10-08"
+    },
+    {
       "name": "Spring",
       "files": [
         "spring.svg"
@@ -8936,6 +9038,22 @@
       ],
       "updated": "2015-08-31",
       "edited": true
+    },
+    {
+      "name": "Surge",
+      "files": [
+        "surge.svg"
+      ],
+      "shortname": "surge",
+      "url": "http://surge.sh/",
+      "tags": [
+        "code hosting",
+        "code deployment"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-08"
     },
     {
       "name": "Suse",
