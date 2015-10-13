@@ -705,6 +705,24 @@
       "edited": true
     },
     {
+      "name": "AWS SNS (Simple Notification Service)",
+      "files": [
+        "aws-sns.svg"
+      ],
+      "shortname": "aws-sns",
+      "url": "http://aws.amazon.com/sns/",
+      "tags": [
+        "push notification",
+        "mobile",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-13",
+      "edited": true
+    },
+    {
       "name": "AWS SQS (Simple Queue Service)",
       "files": [
         "aws-sqs.svg"
@@ -1986,6 +2004,23 @@
       "updated": "2015-09-19"
     },
     {
+      "name": "Composer",
+      "files": [
+        "composer.svg"
+      ],
+      "shortname": "composer",
+      "url": "https://getcomposer.org/",
+      "tags": [
+        "package manager",
+        "php"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-13",
+      "edited": true
+    },
+    {
       "name": "concrete5",
       "files": [
         "concrete5.svg"
@@ -2460,6 +2495,24 @@
         "DevOps"
       ],
       "updated": "2015-07-09"
+    },
+    {
+      "name": "Derby",
+      "files": [
+        "derby.svg"
+      ],
+      "shortname": "derby",
+      "url": "http://derbyjs.com/",
+      "tags": [
+        "mvc framework",
+        "javascript",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-13",
+      "edited": true
     },
     {
       "name": "Designer News",
@@ -5893,6 +5946,25 @@
       "updated": "2015-09-24"
     },
     {
+      "name": "MAPS.ME",
+      "files": [
+        "maps-me.svg"
+      ],
+      "shortname": "maps-me",
+      "url": "http://maps.me/",
+      "tags": [
+        "mapping api",
+        "OpenStreetMap",
+        "mobile",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-13",
+      "edited": true
+    },
+    {
       "name": "Mapzen",
       "files": [
         "mapzen.svg"
@@ -9299,6 +9371,23 @@
       "updated": "2015-10-05"
     },
     {
+      "name": "Testmunk",
+      "files": [
+        "testmunk.svg"
+      ],
+      "shortname": "testmunk",
+      "url": "https://testmunk.com/",
+      "tags": [
+        "mobile test automation",
+        "mobile"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-13",
+      "edited": true
+    },
+    {
       "name": "Thimble",
       "files": [
         "thimble.svg"
@@ -10437,6 +10526,24 @@
       ],
       "updated": "2015-08-06",
       "edited": true
-    }
+    },
+    {
+      "name": "Zulip",
+      "files": [
+        "zulip.svg"
+      ],
+      "shortname": "zulip",
+      "url": "https://zulip.com/",
+      "tags": [
+        "group chat",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "teams"
+      ],
+      "updated": "2015-10-13",
+      "edited": true
+    },
   ]
 }

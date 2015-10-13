@@ -19,6 +19,15 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://aws.amazon.com/sns/" target="_blank">AWS SNS (Simple Notification Service)</a> *
+![aws-sns](http://svgporn.com/logos/aws-sns.svg)
+
+## <a href="https://getcomposer.org/" target="_blank">Composer</a> *
+![composer](http://svgporn.com/logos/composer.svg)
+
+## <a href="http://derbyjs.com/" target="_blank">Derby</a> *
+![derby](http://svgporn.com/logos/derby.svg)
+
 ## <a href="http://aurora.apache.org/" target="_blank">Aurora</a>
 ![aurora](http://svgporn.com/logos/aurora.svg)
 
@@ -159,15 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://weave.works/" target="_blank">Weave</a> *
 ![weave](http://svgporn.com/logos/weave.svg)
-
-## <a href="https://www.wiredtree.com/" target="_blank">WiredTree</a> *
-![wiredtree](http://svgporn.com/logos/wiredtree.svg)
-
-## <a href="https://chevereto.com/" target="_blank">chevereto</a>
-![chevereto](http://svgporn.com/logos/chevereto.svg)
-
-## <a href="https://www.kore.com/" target="_blank">kore</a>
-![kore](http://svgporn.com/logos/kore.svg)
 
 
 ---
