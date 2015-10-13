@@ -108,9 +108,8 @@
       "shortname": "angular",
       "url": "https://angular.io/",
       "tags": [
-        "javascript",
-        "framework",
-        "front-end"
+        "mvc framework",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -173,7 +172,7 @@
       "shortname": "tomcat",
       "url": "http://tomcat.apache.org/",
       "tags": [
-        "web framework",
+        "web server",
         "java"
       ],
       "categories": [
@@ -371,9 +370,9 @@
       "shortname": "atomic",
       "url": "https://atomic.io/",
       "tags": [
-        "mobile",
         "prototyping",
-        "ui"
+        "ui",
+        "mobile"
       ],
       "categories": [
         "designers"
@@ -390,7 +389,6 @@
       "url": "http://aurora.apache.org/",
       "tags": [
         "server management",
-        "framework",
         "mesos"
       ],
       "categories": [
@@ -751,9 +749,8 @@
       "shortname": "backbone",
       "url": "http://backbonejs.org/",
       "tags": [
-        "javascript",
-        "framework",
-        "front-end"
+        "mvc framework",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -847,10 +844,10 @@
       "shortname": "batch",
       "url": "https://batch.com/",
       "tags": [
-        "mobile",
         "push notifications",
         "ads",
-        "marketing"
+        "marketing",
+        "mobile"
       ],
       "categories": [
         "business"
@@ -1061,9 +1058,9 @@
       "shortname": "bootstrap",
       "url": "http://getbootstrap.com/",
       "tags": [
+        "front-end framework",
         "css",
         "sass",
-        "framework",
         "ui",
         "vectorized"
       ],
@@ -1118,8 +1115,7 @@
       "tags": [
         "package manager",
         "javascript",
-        "css",
-        "front-end"
+        "css"
       ],
       "categories": [
         "developers"
@@ -1180,8 +1176,8 @@
       "shortname": "broccoli",
       "url": "https://github.com/broccolijs/broccoli",
       "tags": [
-        "node.js",
         "build tool",
+        "node.js",
         "cli"
       ],
       "categories": [
@@ -1198,9 +1194,10 @@
       "shortname": "browserify",
       "url": "http://browserify.org/",
       "tags": [
+        "front-end",
+        "compiler",
         "javascript",
         "node.js",
-        "front-end",
         "cli"
       ],
       "categories": [
@@ -1217,7 +1214,7 @@
       "url": "https://www.browserstack.com/",
       "tags": [
         "cross browser testing",
-        "testing"
+        "mobile"
       ],
       "categories": [
         "developers"
@@ -1266,9 +1263,9 @@
       "shortname": "buck",
       "url": "https://buckbuild.com/",
       "tags": [
-        "mobile",
-        "android",
         "build tool",
+        "android",
+        "mobile",
         "facebook",
         "vectorized"
       ],
@@ -1365,7 +1362,7 @@
       "shortname": "cakephp",
       "url": "http://cakephp.org/",
       "tags": [
-        "framework",
+        "full-stack framework",
         "php",
         "vectorized"
       ],
@@ -1400,6 +1397,7 @@
       "url": "https://campfirenow.com/",
       "tags": [
         "project manager",
+        "group chat",
         "team collaboration"
       ],
       "categories": [
@@ -1415,9 +1413,8 @@
       "shortname": "canjs",
       "url": "http://canjs.com/",
       "tags": [
-        "javascript",
-        "framework",
-        "front-end"
+        "mvc framework",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -1466,8 +1463,8 @@
       "shortname": "celluloid",
       "url": "https://celluloid.io/",
       "tags": [
-        "ruby",
-        "framework"
+        "framework",
+        "ruby"
       ],
       "categories": [
         "developers"
@@ -1498,10 +1495,11 @@
       "shortname": "chai",
       "url": "http://chaijs.com/",
       "tags": [
+        "assertion library",
         "bdd",
         "tdd",
         "testing",
-        "mocha",
+        "javascript",
         "vectorized"
       ],
       "categories": [
@@ -1810,8 +1808,8 @@
       "shortname": "codeigniter",
       "url": "http://www.codeigniter.com/",
       "tags": [
-        "php",
-        "framework"
+        "full-stack framework",
+        "php"
       ],
       "categories": [
         "developers"
@@ -1918,9 +1916,9 @@
       "shortname": "compass",
       "url": "http://compass-style.org/",
       "tags": [
+        "front-end framework",
         "css",
         "sass",
-        "framework",
         "vectorized"
       ],
       "categories": [
@@ -1955,8 +1953,8 @@
       "shortname": "componentkit",
       "url": "http://componentkit.org/",
       "tags": [
-        "mobile",
         "mobile framework",
+        "mobile",
         "ios",
         "facebook",
         "vectorized"
@@ -2049,9 +2047,10 @@
       "shortname": "cordova",
       "url": "https://cordova.apache.org/",
       "tags": [
-        "javascript",
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework",
+        "javascript",
         "cli",
         "vectorized"
       ],
@@ -2188,8 +2187,8 @@
       "shortname": "crashlytics",
       "url": "https://try.crashlytics.com/",
       "tags": [
-        "mobile",
         "mobile crash reporter",
+        "mobile",
         "vectorized"
       ],
       "categories": [
@@ -2240,8 +2239,8 @@
       "shortname": "crittercism",
       "url": "https://www.crittercism.com/",
       "tags": [
-        "mobile",
-        "mobile crash reporter"
+        "mobile crash reporter",
+        "mobile"
       ],
       "categories": [
         "DevOps"
@@ -2256,8 +2255,7 @@
       "shortname": "crossbrowsertesting",
       "url": "http://crossbrowsertesting.com/",
       "tags": [
-        "cross browser testing",
-        "testing"
+        "cross browser testing"
       ],
       "categories": [
         "developers"
@@ -2588,9 +2586,8 @@
       "shortname": "django",
       "url": "https://www.djangoproject.com/",
       "tags": [
-        "python",
-        "framework",
-        "web application framework"
+        "full-stack framework",
+        "python"
       ],
       "categories": [
         "developers"
@@ -2656,6 +2653,7 @@
       "shortname": ".net",
       "url": "http://www.microsoft.com/net",
       "tags": [
+        "full-stack framework",
         "framework"
       ],
       "categories": [
@@ -2867,7 +2865,10 @@
       "shortname": "electron",
       "url": "http://electron.atom.io/",
       "tags": [
-        "desktop app framework"
+        "cross-platform",
+        "application framework",
+        "desktop app",
+        "framework"
       ],
       "categories": [
         "developers"
@@ -2882,8 +2883,9 @@
       "shortname": "elemental-ui",
       "url": "http://elemental-ui.com/",
       "tags": [
+        "front-end framework",
+        "css",
         "ui",
-        "framework",
         "react"
       ],
       "categories": [
@@ -2948,9 +2950,8 @@
       "shortname": "ember",
       "url": "http://emberjs.com/",
       "tags": [
-        "javascript",
-        "framework",
-        "front-end"
+        "mvc framework",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -3034,9 +3035,8 @@
       "shortname": "enyo",
       "url": "http://enyojs.com/",
       "tags": [
+        "mvc framework",
         "javascript",
-        "framework",
-        "front-end",
         "vectorized"
       ],
       "categories": [
@@ -3120,8 +3120,9 @@
       "shortname": "express",
       "url": "http://expressjs.com/",
       "tags": [
-        "node.js",
-        "web server"
+        "web app framework",
+        "microframework",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -3236,8 +3237,9 @@
       "shortname": "feathersjs",
       "url": "http://feathersjs.com/",
       "tags": [
+        "web app framework",
+        "microframework",
         "node.js",
-        "web application framework",
         "vectorized"
       ],
       "categories": [
@@ -3320,8 +3322,9 @@
       "shortname": "flask",
       "url": "http://flask.pocoo.org/",
       "tags": [
-        "python",
-        "web framework"
+        "web framework",
+        "microframework",
+        "python"
       ],
       "categories": [
         "developers"
@@ -3368,9 +3371,9 @@
       "shortname": "flexible-gs",
       "url": "http://flexible.gs/",
       "tags": [
+        "front-end framework",
         "css",
         "grid",
-        "framework",
         "ui"
       ],
       "categories": [
@@ -3404,9 +3407,8 @@
       "shortname": "flight",
       "url": "https://flightjs.github.io/",
       "tags": [
+        "mvc framework",
         "javascript",
-        "framework",
-        "front-end",
         "vectorized"
       ],
       "categories": [
@@ -3496,10 +3498,9 @@
       "shortname": "flyjs",
       "url": "https://github.com/flyjs/fly",
       "tags": [
-        "javascript",
-        "node.js",
         "build tool",
         "cli",
+        "node.js",
         "vectorized"
       ],
       "categories": [
@@ -3516,9 +3517,9 @@
       "shortname": "forever",
       "url": "https://github.com/foreverjs/forever",
       "tags": [
-        "node.js",
         "script runner",
-        "cli"
+        "cli",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -3533,9 +3534,9 @@
       "shortname": "foundation",
       "url": "http://foundation.zurb.com/",
       "tags": [
+        "front-end framework",
         "css",
         "sass",
-        "framework",
         "ui"
       ],
       "categories": [
@@ -3971,8 +3972,8 @@
       "shortname": "grails",
       "url": "https://grails.org/",
       "tags": [
-        "java",
-        "framework"
+        "full-stack framework",
+        "java"
       ],
       "categories": [
         "developers"
@@ -4019,6 +4020,7 @@
       "shortname": "grove",
       "url": "https://grove.io/",
       "tags": [
+        "group chat",
         "team collaboration",
         "IRC server",
         "vectorized"
@@ -4037,10 +4039,9 @@
       "shortname": "grunt",
       "url": "http://gruntjs.com/",
       "tags": [
-        "javascript",
-        "node.js",
         "build tool",
-        "cli"
+        "cli",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -4057,9 +4058,8 @@
       "url": "http://gulpjs.com/",
       "tags": [
         "build tool",
-        "javascript",
-        "node.js",
-        "cli"
+        "cli",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -4074,8 +4074,8 @@
       "shortname": "gwt",
       "url": "http://www.gwtproject.org/",
       "tags": [
+        "development toolkit",
         "java",
-        "framework",
         "javascript"
       ],
       "categories": [
@@ -4111,9 +4111,10 @@
       "shortname": "hadoop",
       "url": "http://hadoop.apache.org/",
       "tags": [
-        "java",
-        "framework",
-        "storage"
+        "distributed computing",
+        "distributed storage",
+        "database",
+        "java"
       ],
       "categories": [
         "developers"
@@ -4162,8 +4163,9 @@
       "shortname": "hapi",
       "url": "http://hapijs.com/",
       "tags": [
-        "node.js",
-        "web application framework"
+        "web app framework",
+        "microframework",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -4210,7 +4212,8 @@
       "url": "http://haxe.org/",
       "tags": [
         "language",
-        "toolkit"
+        "cross-platform",
+        "application framework"
       ],
       "categories": [
         "developers"
@@ -4311,8 +4314,8 @@
       "shortname": "hoodie",
       "url": "http://hood.ie/",
       "tags": [
-        "javascript",
-        "web application framework"
+        "full-stack framework",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -4365,6 +4368,7 @@
       "shortname": "hipchat",
       "url": "https://www.hipchat.com/",
       "tags": [
+        "group chat",
         "team collaboration"
       ],
       "categories": [
@@ -4577,9 +4581,9 @@
       "shortname": "influxdb",
       "url": "https://influxdb.com/",
       "tags": [
-        "database",
+        "distributed computing",
         "time series",
-        "distributed computing"
+        "database"
       ],
       "categories": [
         "DevOps"
@@ -4679,9 +4683,10 @@
       "shortname": "io",
       "url": "https://iojs.org/",
       "tags": [
+        "full-stack framework",
         "javascript",
         "node.js",
-        "back-end",
+        "cli",
         "vectorized"
       ],
       "categories": [
@@ -4698,9 +4703,10 @@
       "shortname": "ionic",
       "url": "http://ionicframework.com/",
       "tags": [
-        "javascript",
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework",
+        "javascript",
         "cli"
       ],
       "categories": [
@@ -4764,9 +4770,10 @@
       "shortname": "jasmine",
       "url": "http://jasmine.github.io/",
       "tags": [
+        "testing framework",
+        "unit testing",
         "bdd",
-        "testing",
-        "framework"
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -4843,8 +4850,10 @@
       "shortname": "jest",
       "url": "http://facebook.github.io/jest/",
       "tags": [
-        "unit testing",
-        "testing"
+        "testing framework",
+        "react",
+        "javascript",
+        "unit testing"
       ],
       "categories": [
         "developers"
@@ -5043,8 +5052,8 @@
       "shortname": "jspm",
       "url": "http://jspm.io/",
       "tags": [
-        "javascript",
         "package manager",
+        "javascript",
         "cli",
         "vectorized"
       ],
@@ -5079,8 +5088,10 @@
       "shortname": "karma",
       "url": "http://karma-runner.github.io/",
       "tags": [
+        "testing framework",
+        "unit testing",
         "tdd",
-        "testing",
+        "angular",
         "javascript"
       ],
       "categories": [
@@ -5113,9 +5124,9 @@
       "shortname": "keymetrics",
       "url": "https://keymetrics.io/",
       "tags": [
-        "node.js",
-        "monitoring",
         "performance monitoring",
+        "monitoring",
+        "node.js",
         "vectorized"
       ],
       "categories": [
@@ -5133,7 +5144,7 @@
       "url": "http://keystonejs.com/",
       "tags": [
         "content manager",
-        "framework",
+        "web app framework",
         "node.js"
       ],
       "categories": [
@@ -5285,8 +5296,8 @@
       "shortname": "knockout",
       "url": "http://knockoutjs.com/",
       "tags": [
-        "javascript",
-        "framework"
+        "mvc framework",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -5383,9 +5394,9 @@
       "shortname": "krakenjs",
       "url": "http://krakenjs.com/",
       "tags": [
-        "node.js",
         "express",
-        "library"
+        "library",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -5417,8 +5428,8 @@
       "shortname": "laravel",
       "url": "http://laravel.com/",
       "tags": [
-        "php",
-        "framework"
+        "full-stack framework",
+        "php"
       ],
       "categories": [
         "developers"
@@ -5547,7 +5558,7 @@
       "shortname": "liftweb",
       "url": "http://liftweb.net/",
       "tags": [
-        "framework",
+        "full-stack framework",
         "java",
         "scala"
       ],
@@ -5677,8 +5688,8 @@
       "shortname": "loopback",
       "url": "http://loopback.io/",
       "tags": [
-        "node.js",
-        "api framework"
+        "api framework",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -5693,8 +5704,8 @@
       "shortname": "lotus",
       "url": "http://lotusrb.org/",
       "tags": [
-        "ruby",
-        "web framework"
+        "web framework",
+        "ruby"
       ],
       "categories": [
         "developers"
@@ -5871,8 +5882,9 @@
       "shortname": "manifoldjs",
       "url": "http://www.manifoldjs.com/",
       "tags": [
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework",
         "cordova"
       ],
       "categories": [
@@ -5921,9 +5933,9 @@
       "shortname": "marionette",
       "url": "http://marionettejs.com/",
       "tags": [
-        "javascript",
+        "mvc framework",
         "backbone",
-        "framework"
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -5954,9 +5966,9 @@
       "shortname": "marvel",
       "url": "https://marvelapp.com/",
       "tags": [
-        "mobile",
         "prototyping",
-        "ui"
+        "ui",
+        "mobile"
       ],
       "categories": [
         "designers"
@@ -5988,12 +6000,15 @@
       "shortname": "material-ui",
       "url": "http://material-ui.com/",
       "tags": [
+        "front-end framework",
         "ui",
-        "framework"
+        "css",
+        "javascript",
+        "react"
+
       ],
       "categories": [
-        "developers",
-        "designers"
+        "developers"
       ],
       "updated": "2015-07-01"
     },
@@ -6021,8 +6036,8 @@
       "shortname": "meanio",
       "url": "http://mean.io/",
       "tags": [
+        "full-stack framework",
         "javascript",
-        "fullstack framework",
         "vectorized"
       ],
       "categories": [
@@ -6044,7 +6059,7 @@
       "categories": [
         "bloggers"
       ],
-      "updated": "2015-07-24"
+      "updated": "2015-10-13"
     },
     {
       "name": "Memcached",
@@ -6132,9 +6147,8 @@
       "shortname": "meteor",
       "url": "https://www.meteor.com/",
       "tags": [
+        "full-stack framework",
         "javascript",
-        "framework",
-        "front-end",
         "cli"
       ],
       "categories": [
@@ -6197,9 +6211,8 @@
       "shortname": "mithril",
       "url": "https://lhorie.github.io/mithril/",
       "tags": [
+        "mvc framework",
         "javascript",
-        "framework",
-        "front-end",
         "vectorized"
       ],
       "categories": [
@@ -6233,9 +6246,11 @@
       "shortname": "mocha",
       "url": "http://mochajs.org/",
       "tags": [
+        "testing framework",
+        "unit testing",
         "bdd",
         "tdd",
-        "testing",
+        "javascript",
         "vectorized"
       ],
       "categories": [
@@ -6367,8 +6382,9 @@
       "shortname": "mono",
       "url": "http://www.mono-project.com/",
       "tags": [
-        ".net",
-        "framework"
+        "cross-platform",
+        "application framework",
+        ".net"
       ],
       "categories": [
         "developers"
@@ -6432,9 +6448,10 @@
       "shortname": "nativescript",
       "url": "https://www.nativescript.org/",
       "tags": [
-        "javascript",
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework",
+        "javascript",
         "cli"
       ],
       "categories": [
@@ -6582,8 +6599,8 @@
       "shortname": "nodejs",
       "url": "https://nodejs.org/",
       "tags": [
+        "full-stack framework",
         "javascript",
-        "back-end",
         "cli"
       ],
       "categories": [
@@ -6600,8 +6617,8 @@
       "shortname": "nodebots",
       "url": "http://nodebots.io/",
       "tags": [
-        "node.js",
-        "hardware controller"
+        "hardware controller",
+        "node.js"
       ],
       "categories": [
         "geeks"
@@ -6616,8 +6633,8 @@
       "shortname": "nodemon",
       "url": "http://nodemon.io/",
       "tags": [
-        "node.js",
-        "script runner"
+        "script runner",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -6668,9 +6685,9 @@
       "shortname": "npm",
       "url": "https://www.npmjs.com/",
       "tags": [
+        "package manager",
         "javascript",
         "node.js",
-        "package manager",
         "cli"
       ],
       "categories": [
@@ -6933,8 +6950,7 @@
       "shortname": "optimizely",
       "url": "https://www.optimizely.com/",
       "tags": [
-        "a/b testing",
-        "testing"
+        "a/b testing"
       ],
       "categories": [
         "business"
@@ -6965,9 +6981,9 @@
       "shortname": "origami",
       "url": "http://facebook.github.io/origami/",
       "tags": [
-        "mobile",
         "prototyping",
         "ui",
+        "mobile",
         "facebook",
         "vectorized"
       ],
@@ -7070,9 +7086,9 @@
       "shortname": "passport",
       "url": "http://passportjs.org/",
       "tags": [
-        "node.js",
         "authentication",
-        "security"
+        "security",
+        "node.js",
       ],
       "categories": [
         "developers"
@@ -7132,9 +7148,9 @@
       "shortname": "phalcon",
       "url": "https://phalconphp.com/",
       "tags": [
+        "full-stack framework",
         "php",
-        "c",
-        "web framework"
+        "c"
       ],
       "categories": [
         "developers"
@@ -7150,9 +7166,9 @@
       "shortname": "phoenix",
       "url": "http://www.phoenixframework.org/",
       "tags": [
+        "full-stack framework",
         "elixir",
         "erlang",
-        "web framework",
         "vectorized"
       ],
       "categories": [
@@ -7171,9 +7187,10 @@
       "shortname": "phonegap",
       "url": "http://phonegap.com/",
       "tags": [
-        "javascript",
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework",
+        "javascript",
         "cli"
       ],
       "categories": [
@@ -7332,8 +7349,8 @@
       "shortname": "play",
       "url": "https://www.playframework.com/",
       "tags": [
-        "java",
-        "framework"
+        "full-stack framework",
+        "java"
       ],
       "categories": [
         "developers"
@@ -7348,9 +7365,9 @@
       "shortname": "pm2",
       "url": "https://github.com/Unitech/pm2",
       "tags": [
-        "node.js",
         "process manager",
         "cli",
+        "node.js",
         "vectorized"
       ],
       "categories": [
@@ -7382,6 +7399,7 @@
       "shortname": "polymer",
       "url": "https://www.polymer-project.org/1.0/",
       "tags": [
+        "front-end",
         "components",
         "polyfill"
       ],
@@ -7563,9 +7581,9 @@
       "shortname": "protoio",
       "url": "https://proto.io/",
       "tags": [
-        "mobile",
         "prototyping",
-        "ui"
+        "ui",
+        "mobile"
       ],
       "categories": [
         "designers"
@@ -7668,8 +7686,8 @@
       "shortname": "q",
       "url": "https://github.com/kriskowal/q",
       "tags": [
-        "node.js",
-        "promises"
+        "promises",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -7686,6 +7704,7 @@
       "shortname": "qt",
       "url": "http://www.qt.io/",
       "tags": [
+        "cross-platform",
         "application framework",
         "c++"
       ],
@@ -7752,8 +7771,8 @@
       "shortname": "rails",
       "url": "http://rubyonrails.org/",
       "tags": [
-        "ruby",
-        "framework"
+        "full-stack framework",
+        "ruby"
       ],
       "categories": [
         "developers"
@@ -7833,9 +7852,8 @@
       "shortname": "react",
       "url": "https://facebook.github.io/react/",
       "tags": [
+        "mvc framework",
         "javascript",
-        "library",
-        "front-end",
         "facebook"
       ],
       "categories": [
@@ -7901,9 +7919,9 @@
       "shortname": "relay",
       "url": "https://facebook.github.io/relay/",
       "tags": [
+        "graphql framework",
         "react",
-        "framework",
-        "graphql"
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -8018,6 +8036,7 @@
       "shortname": "rocket-chat",
       "url": "https://rocket.chat/",
       "tags": [
+        "group chat",
         "team collaboration"
       ],
       "categories": [
@@ -8100,8 +8119,8 @@
       "shortname": "rubygems",
       "url": "https://rubygems.org/",
       "tags": [
-        "ruby",
-        "package manager"
+        "package manager",
+        "ruby"
       ],
       "categories": [
         "developers"
@@ -8151,10 +8170,9 @@
       "shortname": "rum",
       "url": "https://github.com/tonsky/rum",
       "tags": [
+        "ClojureScript framework",
         "clojure",
-        "clojureScript",
-        "react",
-        "framework"
+        "react"
       ],
       "categories": [
         "developers"
@@ -8219,8 +8237,9 @@
       "shortname": "sails",
       "url": "http://sailsjs.org/",
       "tags": [
-        "node.js",
-        "web application framework"
+        "web app framework",
+        "microframework",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -8332,8 +8351,10 @@
       "shortname": "sencha",
       "url": "https://www.sencha.com/",
       "tags": [
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework"
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -8365,9 +8386,9 @@
       "shortname": "semantic-ui",
       "url": "http://semantic-ui.com/",
       "tags": [
+        "front-end framework",
         "css",
         "less",
-        "framework",
         "ui",
         "vectorized"
       ],
@@ -8517,8 +8538,9 @@
       "shortname": "sinatra",
       "url": "http://www.sinatrarb.com/",
       "tags": [
-        "ruby",
-        "web framework"
+        "web framework",
+        "microframework",
+        "ruby"
       ],
       "categories": [
         "developers"
@@ -8585,6 +8607,7 @@
       "shortname": "slack",
       "url": "https://slack.com/",
       "tags": [
+        "group chat",
         "team collaboration"
       ],
       "categories": [
@@ -8715,8 +8738,8 @@
       "shortname": "spring",
       "url": "https://spring.io/",
       "tags": [
+        "full-stack framework",
         "java",
-        "framework",
         "vectorized"
       ],
       "categories": [
@@ -8853,8 +8876,9 @@
       "shortname": "steroids",
       "url": "http://www.appgyver.com/steroids",
       "tags": [
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework",
         "ionic",
         "cordova"
       ],
@@ -8871,9 +8895,9 @@
       "shortname": "stetho",
       "url": "http://facebook.github.io/stetho/",
       "tags": [
-        "mobile",
         "debug",
         "android",
+        "mobile",
         "facebook",
         "vectorized"
       ],
@@ -8926,10 +8950,10 @@
       "shortname": "strongloop",
       "url": "https://strongloop.com/",
       "tags": [
-        "node.js",
         "library",
         "cli",
         "mBaaS",
+        "node.js",
         "vectorized"
       ],
       "categories": [
@@ -8947,8 +8971,8 @@
       "shortname": "struts",
       "url": "https://struts.apache.org/",
       "tags": [
-        "java",
-        "framework"
+        "mvc framework",
+        "java"
       ],
       "categories": [
         "developers"
@@ -9012,7 +9036,8 @@
       "url": "http://www.appgyver.com/supersonic",
       "tags": [
         "ui framework",
-        "angular"
+        "angular",
+        "javascript"
       ],
       "categories": [
         "developers"
@@ -9079,9 +9104,9 @@
       "shortname": "susy",
       "url": "http://susy.oddbird.net/",
       "tags": [
+        "front-end framework",
         "sass",
         "grid",
-        "framework",
         "ui"
       ],
       "categories": [
@@ -9145,8 +9170,8 @@
       "shortname": "symfony",
       "url": "https://symfony.com/",
       "tags": [
-        "php",
-        "framework"
+        "full-stack framework",
+        "php"
       ],
       "categories": [
         "developers"
@@ -9161,7 +9186,7 @@
       "shortname": "t3",
       "url": "http://t3js.org/",
       "tags": [
-        "framework",
+        "ui framework",
         "javascript",
         "vectorized"
       ],
@@ -9544,9 +9569,9 @@
       "shortname": "uikit",
       "url": "http://getuikit.com/",
       "tags": [
+        "front-end framework",
         "css",
         "less",
-        "framework",
         "ui"
       ],
       "categories": [
@@ -9563,10 +9588,10 @@
       "shortname": "unitjs",
       "url": "http://unitjs.com/",
       "tags": [
+        "testing framework",
+        "unit testing",
         "bdd",
         "tdd",
-        "testing",
-        "unit testing",
         "vectorized"
       ],
       "categories": [
@@ -9598,7 +9623,6 @@
       "shortname": "user-testing",
       "url": "http://www.usertesting.com/",
       "tags": [
-        "testing",
         "ux testing"
       ],
       "categories": [
@@ -9648,8 +9672,8 @@
       "shortname": "vaadin",
       "url": "https://vaadin.com/",
       "tags": [
-        "java",
-        "framework"
+        "web app framework",
+        "java"
       ],
       "categories": [
         "developers"
@@ -9780,8 +9804,7 @@
       "shortname": "visual_website_optimizer",
       "url": "https://vwo.com/",
       "tags": [
-        "a/b testing",
-        "testing"
+        "a/b testing"
       ],
       "categories": [
         "business"
@@ -9828,9 +9851,8 @@
       "shortname": "vue",
       "url": "http://vuejs.org/",
       "tags": [
+        "mvc framework",
         "javascript",
-        "library",
-        "front-end",
         "vectorized"
       ],
       "categories": [
@@ -9848,8 +9870,9 @@
       "shortname": "xamarin",
       "url": "http://xamarin.com/",
       "tags": [
+        "cross-platform",
+        "application framework",
         "mobile",
-        "mobile app framework",
         "c#",
         "IDE"
       ],
@@ -9964,10 +9987,9 @@
       "shortname": "webpack",
       "url": "http://webpack.github.io/",
       "tags": [
-        "javascript",
-        "node.js",
         "build tool",
         "cli",
+        "node.js",
         "vectorized"
       ],
       "categories": [
@@ -10085,8 +10107,8 @@
       "shortname": "wicket",
       "url": "https://wicket.apache.org/",
       "tags": [
-        "java",
-        "framework"
+        "web app framework",
+        "java"
       ],
       "categories": [
         "developers"
@@ -10287,7 +10309,7 @@
       "shortname": "yii",
       "url": "http://www.yiiframework.com/",
       "tags": [
-        "framework",
+        "full-stack framework",
         "php"
       ],
       "categories": [
@@ -10355,8 +10377,8 @@
       "shortname": "zend-framework",
       "url": "http://framework.zend.com/",
       "tags": [
-        "php",
-        "framework"
+        "full-stack framework",
+        "php"
       ],
       "categories": [
         "developers"
