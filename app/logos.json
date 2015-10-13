@@ -7160,7 +7160,7 @@
       "tags": [
         "authentication",
         "security",
-        "node.js",
+        "node.js"
       ],
       "categories": [
         "developers"
@@ -10544,6 +10544,6 @@
       ],
       "updated": "2015-10-13",
       "edited": true
-    },
+    }
   ]
 }
