@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://aws.amazon.com/sns/" target="_blank">AWS SNS (Simple Notification Service)</a> *
+![aws-sns](http://svgporn.com/logos/aws-sns.svg)
+
+## <a href="https://getcomposer.org/" target="_blank">Composer</a> *
+![composer](http://svgporn.com/logos/composer.svg)
+
+## <a href="http://derbyjs.com/" target="_blank">Derby</a> *
+![derby](http://svgporn.com/logos/derby.svg)
+
+## <a href="http://maps.me/" target="_blank">MAPS.ME</a> *
+![maps-me](http://svgporn.com/logos/maps-me.svg)
+
+## <a href="https://medium.com/" target="_blank">Medium</a>
+![medium](http://svgporn.com/logos/medium.svg)
+
+## <a href="https://testmunk.com/" target="_blank">Testmunk</a> *
+![testmunk](http://svgporn.com/logos/testmunk.svg)
+
+## <a href="https://zulip.com/" target="_blank">Zulip</a> *
+![zulip](http://svgporn.com/logos/zulip.svg)
+
 ## <a href="http://aurora.apache.org/" target="_blank">Aurora</a>
 ![aurora](http://svgporn.com/logos/aurora.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.manifoldjs.com/" target="_blank">manifoldJS</a>
 ![manifoldjs](http://svgporn.com/logos/manifoldjs.svg)
-
-## <a href="https://envoyer.io/" target="_blank">Envoyer</a> *
-![envoyer](http://svgporn.com/logos/envoyer.svg)
-
-## <a href="https://clusterhq.com/flocker/" target="_blank">Flocker</a>
-![flocker](http://svgporn.com/logos/flocker.svg)
-
-## <a href="http://t3js.org/" target="_blank">T3</a> *
-![t3](http://svgporn.com/logos/t3.svg)
-
-## <a href="http://weave.works/" target="_blank">Weave</a> *
-![weave](http://svgporn.com/logos/weave.svg)
-
-## <a href="https://www.wiredtree.com/" target="_blank">WiredTree</a> *
-![wiredtree](http://svgporn.com/logos/wiredtree.svg)
-
-## <a href="https://chevereto.com/" target="_blank">chevereto</a>
-![chevereto](http://svgporn.com/logos/chevereto.svg)
-
-## <a href="https://www.kore.com/" target="_blank">kore</a>
-![kore](http://svgporn.com/logos/kore.svg)
 
 
 ---
