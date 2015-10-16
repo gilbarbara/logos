@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://cucumber.io/" target="_blank">Cucumber</a>
+![cucumber](http://svgporn.com/logos/cucumber.svg)
+
+## <a href="http://dyn.com/dns/" target="_blank">Dyn</a>
+![dyndns](http://svgporn.com/logos/dyndns.svg)
+
+## <a href="http://getmagneto.com/" target="_blank">Magneto</a>
+![magneto](http://svgporn.com/logos/magneto.svg)
+
+## <a href="https://www.mozilla.org/" target="_blank">Mozilla</a>
+![mozilla](http://svgporn.com/logos/mozilla.svg)
+
+## <a href="https://www.vaultproject.io/" target="_blank">Vault</a> *
+![vault](http://svgporn.com/logos/vault.svg)
+
+## <a href="http://wpengine.com/" target="_blank">WP engine</a>
+![wpengine](http://svgporn.com/logos/wpengine.svg)
+
+## <a href="http://www.lighttpd.net/" target="_blank">lighttpd</a> *
+![lighttpd](http://svgporn.com/logos/lighttpd.svg)
+
 ## <a href="http://aws.amazon.com/sns/" target="_blank">AWS SNS (Simple Notification Service)</a> *
 ![aws-sns](http://svgporn.com/logos/aws-sns.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://slides.com/" target="_blank">slides</a>
 ![slides](http://svgporn.com/logos/slides.svg)
-
-## <a href="http://bakerstreet.io/" target="_blank">Baker Street</a> *
-![baker-street](http://svgporn.com/logos/baker-street.svg)
-
-## <a href="https://eager.io/" target="_blank">Eager</a>
-![eager](http://svgporn.com/logos/eager.svg)
-
-## <a href="https://facebook.github.io/immutable-js/" target="_blank">Immutable</a>
-![immutable](http://svgporn.com/logos/immutable.svg)
-
-## <a href="http://smrchy.github.io/rsmq/" target="_blank">RSMQ</a> *
-![rsmq](http://svgporn.com/logos/rsmq.svg)
-
-## <a href="https://github.com/rackt/react-router" target="_blank">React/Router</a> *
-![react-router](http://svgporn.com/logos/react-router.svg)
-
-## <a href="http://facebook.github.io/stetho/" target="_blank">Stetho</a> *
-![stetho](http://svgporn.com/logos/stetho.svg)
-
-## <a href="http://www.manifoldjs.com/" target="_blank">manifoldJS</a>
-![manifoldjs](http://svgporn.com/logos/manifoldjs.svg)
 
 
 ---

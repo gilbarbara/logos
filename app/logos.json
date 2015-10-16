@@ -2347,6 +2347,23 @@
       "updated": "2015-07-04"
     },
     {
+      "name": "Cucumber",
+      "files": [
+        "cucumber.svg"
+      ],
+      "shortname": "cucumber",
+      "url": "https://cucumber.io/",
+      "tags": [
+        "testing framework",
+        "bdd",
+        "ruby"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-15"
+    },
+    {
       "name": "Customer.io",
       "files": [
         "customerio.svg"
@@ -2861,6 +2878,23 @@
         "geeks"
       ],
       "updated": "2015-07-24"
+    },
+
+    {
+      "name": "Dyn",
+      "files": [
+        "dyndns.svg"
+      ],
+      "shortname": "dyndns",
+      "url": "http://dyn.com/dns/",
+      "tags": [
+        "dns"
+      ],
+      "categories": [
+        "developers",
+        "geeks"
+      ],
+      "updated": "2015-10-15"
     },
     {
       "name": "Eager",
@@ -5621,6 +5655,23 @@
       "updated": "2015-09-08"
     },
     {
+      "name": "lighttpd",
+      "files": [
+        "lighttpd.svg"
+      ],
+      "shortname": "lighttpd",
+      "url": "http://www.lighttpd.net/",
+      "tags": [
+        "web server",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-15",
+      "edited": true
+    },
+    {
       "name": "LinkedIn",
       "files": [
         "linkedin.svg"
@@ -5876,6 +5927,24 @@
         "developers"
       ],
       "updated": "2015-07-11"
+    },
+    {
+      "name": "Magneto",
+      "files": [
+        "magneto.svg"
+      ],
+      "shortname": "magneto",
+      "url": "http://getmagneto.com/",
+      "tags": [
+        "testing framework",
+        "android",
+        "mobile",
+        "python"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-15"
     },
     {
       "name": "Mailchimp",
@@ -6462,6 +6531,22 @@
         "developers"
       ],
       "updated": "2015-07-07"
+    },
+    {
+      "name": "Mozilla",
+      "files": [
+        "mozilla.svg"
+      ],
+      "shortname": "mozilla",
+      "url": "https://www.mozilla.org/",
+      "tags": [
+        "technology",
+        "company"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-10-15"
     },
     {
       "name": "MySQL",
@@ -9790,6 +9875,23 @@
       "edited": true
     },
     {
+      "name": "Vault",
+      "files": [
+        "vault.svg"
+      ],
+      "shortname": "vault",
+      "url": "https://www.vaultproject.io/",
+      "tags": [
+        "secret management",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-15",
+      "edited": true
+    },
+    {
       "name": "VerneMQ",
       "files": [
         "vernemq.svg"
@@ -10304,6 +10406,22 @@
         "publishers"
       ],
       "updated": "2015-06-11"
+    },
+    {
+      "name": "WP engine",
+      "files": [
+        "wpengine.svg"
+      ],
+      "shortname": "wpengine",
+      "url": "http://wpengine.com/",
+      "tags": [
+        "web hosting",
+        "wordpress"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-15"
     },
     {
       "name": "Wufoo",
