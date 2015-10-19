@@ -11,7 +11,7 @@
     "svg"
   ],
   "license": "no clue",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
