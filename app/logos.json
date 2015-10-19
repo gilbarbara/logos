@@ -217,6 +217,25 @@
       "edited": true
     },
     {
+      "name": "Appium",
+      "files": [
+        "appium.svg"
+      ],
+      "shortname": "appium",
+      "url": "http://appium.io/",
+      "tags": [
+        "testing framework",
+        "mobile test automation",
+        "mobile",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-19",
+      "edited": true
+    },
+    {
       "name": "Appcelerator",
       "files": [
         "appcelerator.svg"
@@ -279,6 +298,42 @@
         "geeks"
       ],
       "updated": "2015-07-26"
+    },
+    {
+      "name": "Appmaker",
+      "files": [
+        "appmaker.svg"
+      ],
+      "shortname": "appmaker",
+      "url": "https://webmaker.org/appmaker",
+      "tags": [
+        "application framework",
+        "mobile"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-19",
+      "edited": true
+    },
+    {
+      "name": "Apportable",
+      "files": [
+        "apportable.svg"
+      ],
+      "shortname": "apportable",
+      "url": "http://www.apportable.com/",
+      "tags": [
+        "cross-platform",
+        "application framework",
+        "mobile",
+        "objective-c",
+        "swift"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-19"
     },
     {
       "name": "AppSignal",
@@ -8790,6 +8845,25 @@
       "updated": "2015-09-26"
     },
     {
+      "name": "Slim",
+      "files": [
+        "slim.svg"
+      ],
+      "shortname": "slim",
+      "url": "http://www.slimframework.com/",
+      "tags": [
+        "web app framework",
+        "microframework",
+        "php",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-19",
+      "edited": true
+    },
+    {
       "name": "Snap.svg",
       "files": [
         "snap-svg.svg"
@@ -9490,6 +9564,26 @@
       "edited": true
     },
     {
+      "name": "Titon",
+      "files": [
+        "titon.svg"
+      ],
+      "shortname": "titon",
+      "url": "http://titon.io/en/toolkit",
+      "tags": [
+        "components",
+        "css",
+        "javascript",
+        "ui",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-19",
+      "edited": true
+    },
+    {
       "name": "Todoist",
       "files": [
         "todoist.svg"
@@ -9788,6 +9882,23 @@
         "developers"
       ],
       "updated": "2015-07-06"
+    },
+    {
+      "name": "Upcase",
+      "files": [
+        "upcase.svg"
+      ],
+      "shortname": "upcase",
+      "url": "https://upcase.com/",
+      "tags": [
+        "learning",
+        "courses"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-19",
+      "edited": true
     },
     {
       "name": "UserTesting",
@@ -10524,6 +10635,22 @@
       ],
       "updated": "2015-09-11",
       "edited": true
+    },
+    {
+      "name": "Yammer",
+      "files": [
+        "yammer.svg"
+      ],
+      "shortname": "yammer",
+      "url": "https://www.yammer.com/",
+      "tags": [
+        "social network",
+        "enterprise tools"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-10-19"
     },
     {
       "name": "YouTrack",
