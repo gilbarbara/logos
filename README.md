@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://appium.io/" target="_blank">Appium</a> *
+![appium](http://svgporn.com/logos/appium.svg)
+
+## <a href="https://webmaker.org/appmaker" target="_blank">Appmaker</a> *
+![appmaker](http://svgporn.com/logos/appmaker.svg)
+
+## <a href="http://www.apportable.com/" target="_blank">Apportable</a>
+![apportable](http://svgporn.com/logos/apportable.svg)
+
+## <a href="http://www.slimframework.com/" target="_blank">Slim</a> *
+![slim](http://svgporn.com/logos/slim.svg)
+
+## <a href="http://titon.io/en/toolkit" target="_blank">Titon</a> *
+![titon](http://svgporn.com/logos/titon.svg)
+
+## <a href="https://upcase.com/" target="_blank">Upcase</a> *
+![upcase](http://svgporn.com/logos/upcase.svg)
+
+## <a href="https://www.yammer.com/" target="_blank">Yammer</a>
+![yammer](http://svgporn.com/logos/yammer.svg)
+
 ## <a href="https://cucumber.io/" target="_blank">Cucumber</a>
 ![cucumber](http://svgporn.com/logos/cucumber.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://getkirby.com/" target="_blank">kirby</a>
 ![kirby](http://svgporn.com/logos/kirby.svg)
-
-## <a href="https://bitcoin.org/" target="_blank">Bitcoin</a>
-![bitcoin](http://svgporn.com/logos/bitcoin.svg)
-
-## <a href="https://www.changetip.com/" target="_blank">ChangeTip</a>
-![changetip](http://svgporn.com/logos/changetip.svg)
-
-## <a href="https://flattr.com/" target="_blank">Flattr</a>
-![flattr](http://svgporn.com/logos/flattr.svg)
-
-## <a href="https://gratipay.com/" target="_blank">Gratipay</a>
-![gratipay](http://svgporn.com/logos/gratipay.svg)
-
-## <a href="https://www.patreon.com/" target="_blank">Patreon</a>
-![patreon](http://svgporn.com/logos/patreon.svg)
-
-## <a href="https://ello.co/" target="_blank">ello</a>
-![ello](http://svgporn.com/logos/ello.svg)
-
-## <a href="https://slides.com/" target="_blank">slides</a>
-![slides](http://svgporn.com/logos/slides.svg)
 
 
 ---
