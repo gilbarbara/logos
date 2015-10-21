@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://aws.amazon.com/cloudsearch/" target="_blank">AWS CloudSearch</a> *
+![aws-cloudsearch](http://svgporn.com/logos/aws-cloudsearch.svg)
+
+## <a href="https://codio.com/" target="_blank">Codio</a>
+![codio](http://svgporn.com/logos/codio.svg)
+
+## <a href="http://www.mattermost.org/" target="_blank">Mattermost</a> *
+![mattermost](http://svgporn.com/logos/mattermost.svg)
+
+## <a href="https://ottoproject.io/" target="_blank">Otto</a> *
+![otto](http://svgporn.com/logos/otto.svg)
+
+## <a href="https://saucelabs.com/" target="_blank">Sauce Labs</a>
+![saucelabs](http://svgporn.com/logos/saucelabs.svg)
+
+## <a href="http://www.testlodge.com/" target="_blank">TestLodge</a> *
+![testlodge](http://svgporn.com/logos/testlodge.svg)
+
+## <a href="http://vaddy.net/" target="_blank">VAddy</a> *
+![vaddy](http://svgporn.com/logos/vaddy.svg)
+
 ## <a href="http://appium.io/" target="_blank">Appium</a> *
 ![appium](http://svgporn.com/logos/appium.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://brunch.io/" target="_blank">Brunch</a> *
 ![brunch](http://svgporn.com/logos/brunch.svg)
-
-## <a href="https://www.getdrip.com/" target="_blank">Drip</a>
-![drip](http://svgporn.com/logos/drip.svg)
-
-## <a href="https://hexo.io/" target="_blank">Hexo</a>
-![hexo](http://svgporn.com/logos/hexo.svg)
-
-## <a href="http://facebook.github.io/jest/" target="_blank">Jest</a> *
-![jest](http://svgporn.com/logos/jest.svg)
-
-## <a href="https://onesignal.com/" target="_blank">OneSignal</a>
-![onesignal](http://svgporn.com/logos/onesignal.svg)
-
-## <a href="http://www.opera.com/" target="_blank">Opera</a> *
-![opera](http://svgporn.com/logos/opera.svg)
-
-## <a href="https://thimble.mozilla.org/" target="_blank">Thimble</a> *
-![thimble](http://svgporn.com/logos/thimble.svg)
-
-## <a href="http://getkirby.com/" target="_blank">kirby</a>
-![kirby](http://svgporn.com/logos/kirby.svg)
 
 
 ---
