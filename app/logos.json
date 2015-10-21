@@ -551,6 +551,23 @@
       "edited": true
     },
     {
+      "name": "AWS CloudSearch",
+      "files": [
+        "aws-cloudsearch.svg"
+      ],
+      "shortname": "aws-cloudsearch",
+      "url": "http://aws.amazon.com/cloudsearch/",
+      "tags": [
+        "search server",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-21",
+      "edited": true
+    },
+    {
       "name": "AWS CodeDeploy",
       "files": [
         "aws-codedeploy.svg"
@@ -1944,6 +1961,23 @@
       "updated": "2015-06-24",
       "favorite": true,
       "edited": true
+    },
+    {
+      "name": "Codio",
+      "files": [
+        "codio.svg"
+      ],
+      "shortname": "codio",
+      "url": "https://codio.com/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "service"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-21"
     },
     {
       "name": "Codrops",
@@ -6173,6 +6207,24 @@
       "edited": true
     },
     {
+      "name": "Mattermost",
+      "files": [
+        "mattermost.svg"
+      ],
+      "shortname": "mattermost",
+      "url": "http://www.mattermost.org/",
+      "tags": [
+        "group chat",
+        "team collaboration",
+        "vectorized"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "updated": "2015-10-21",
+      "edited": true
+    },
+    {
       "name": "MaxCDN",
       "files": [
         "maxcdn.svg"
@@ -7224,6 +7276,24 @@
         "DevOps"
       ],
       "updated": "2015-08-12",
+      "edited": true
+    },
+    {
+      "name": "Otto",
+      "files": [
+        "otto.svg"
+      ],
+      "shortname": "otto",
+      "url": "https://ottoproject.io/",
+      "tags": [
+        "code deployment",
+        "virtual machine",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-21",
       "edited": true
     },
     {
@@ -8523,6 +8593,22 @@
       "updated": "2015-10-01"
     },
     {
+      "name": "Sauce Labs",
+      "files": [
+        "saucelabs.svg"
+      ],
+      "shortname": "saucelabs",
+      "url": "https://saucelabs.com/",
+      "tags": [
+        "cross browser testing",
+        "selenium"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-21"
+    },
+    {
       "name": "Scala",
       "files": [
         "scala.svg"
@@ -9530,6 +9616,24 @@
       "updated": "2015-10-05"
     },
     {
+      "name": "TestLodge",
+      "files": [
+        "testlodge.svg"
+      ],
+      "shortname": "testlodge",
+      "url": "http://www.testlodge.com/",
+      "tags": [
+        "test management",
+        "testing",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-21",
+      "edited": true
+    },
+    {
       "name": "Testmunk",
       "files": [
         "testmunk.svg"
@@ -9966,6 +10070,23 @@
       "updated": "2015-07-05"
     },
     {
+      "name": "VAddy",
+      "files": [
+        "vaddy.svg"
+      ],
+      "shortname": "vaddy",
+      "url": "http://vaddy.net/",
+      "tags": [
+        "security",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-10-21",
+      "edited": true
+    },
+    {
       "name": "Vagrant",
       "files": [
         "vagrant.svg"
@@ -9973,9 +10094,9 @@
       "shortname": "vagrant",
       "url": "https://www.vagrantup.com/",
       "tags": [
-        "configuration manager",
+        "code deployment",
+        "virtual machine",
         "ruby",
-        "cli",
         "vectorized"
       ],
       "categories": [
