@@ -271,7 +271,7 @@ var App = React.createClass({
 
         db.forEach(function (d, i) {
             if (state.search) {
-                hidden = d.name.toLowerCase().indexOf(state.search) === -1;
+                hidden = !d.name.match(new RegExp(state.search, 'i'));
             }
             else if (state.tag) {
                 hidden = d.tags.indexOf(state.tag) === -1;
