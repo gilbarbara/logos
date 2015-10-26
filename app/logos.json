@@ -468,6 +468,22 @@
       "updated": "2015-07-01"
     },
     {
+      "name": "autocode",
+      "files": [
+        "autocode.svg"
+      ],
+      "shortname": "autocode",
+      "url": "http://autocode.crystal.sh/",
+      "tags": [
+        "scaffolding",
+        "generator"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-26"
+    },
+    {
       "name": "Autoprefixer",
       "files": [
         "autoprefixer.svg"
@@ -2968,7 +2984,6 @@
       ],
       "updated": "2015-07-24"
     },
-
     {
       "name": "Dyn",
       "files": [
@@ -3099,6 +3114,22 @@
         "sharing"
       ],
       "updated": "2015-09-26"
+    },
+    {
+      "name": "Emacs",
+      "files": [
+        "emacs.svg"
+      ],
+      "shortname": "emacs",
+      "url": "http://www.gnu.org/software/emacs/",
+      "tags": [
+        "code editor"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-10-26",
+      "edited": true
     },
     {
       "name": "Embedly",
@@ -3684,6 +3715,22 @@
       ],
       "updated": "2015-08-18",
       "edited": true
+    },
+    {
+      "name": "FormKeep",
+      "files": [
+        "formkeep.svg"
+      ],
+      "shortname": "formkeep",
+      "url": "https://formkeep.com/",
+      "tags": [
+        "forms"
+      ],
+      "categories": [
+        "designers",
+        "developers"
+      ],
+      "updated": "2015-10-26"
     },
     {
       "name": "Forever",
@@ -4765,6 +4812,26 @@
         "DevOps"
       ],
       "updated": "2015-08-13"
+    },
+    {
+      "name": "Ink",
+      "files": [
+        "ink.svg"
+      ],
+      "shortname": "ink",
+      "url": "http://ink.sapo.pt/",
+      "tags": [
+        "front-end framework",
+        "ui",
+        "css",
+        "vectorized"
+      ],
+      "categories": [
+        "designers",
+        "developers"
+      ],
+      "updated": "2015-10-26",
+      "edited": true
     },
     {
       "name": "Instagram",
@@ -6008,8 +6075,8 @@
       "shortname": "magento",
       "url": "http://magento.com/",
       "tags": [
-        "php",
-        "e-commerce"
+        "e-commerce",
+        "php"
       ],
       "categories": [
         "business",
@@ -7027,6 +7094,23 @@
       "updated": "2015-08-06"
     },
     {
+      "name": "olapic",
+      "files": [
+        "olapic.svg"
+      ],
+      "shortname": "olapic",
+      "url": "http://www.olapic.com/",
+      "tags": [
+        "e-commerce",
+        "user-generated",
+        "social media tools"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-10-26"
+    },
+    {
       "name": "Olark",
       "files": [
         "olark.svg"
@@ -7766,8 +7850,8 @@
       "shortname": "prestashop",
       "url": "https://www.prestashop.com/",
       "tags": [
-        "php",
-        "e-commerce"
+        "e-commerce",
+        "php"
       ],
       "categories": [
         "business",
@@ -8805,7 +8889,7 @@
       "shortname": "shopify",
       "url": "http://shopify.com/",
       "tags": [
-        "ecommerce"
+        "e-commerce"
       ],
       "categories": [
         "business"
@@ -8844,6 +8928,23 @@
         "developers"
       ],
       "updated": "2015-07-04"
+    },
+    {
+      "name": "SitePoint",
+      "files": [
+        "sitepoint.svg"
+      ],
+      "shortname": "sitepoint",
+      "url": "http://www.sitepoint.com/",
+      "tags": [
+        "community",
+        "reference"
+      ],
+      "categories": [
+        "designers",
+        "developers"
+      ],
+      "updated": "2015-10-26"
     },
     {
       "name": "Sketch",
@@ -10593,9 +10694,9 @@
       "shortname": "woocommerce",
       "url": "http://www.woothemes.com/woocommerce/",
       "tags": [
-        "php",
+        "e-commerce",
         "wordpress",
-        "ecommerce"
+        "php"
       ],
       "categories": [
         "business",
@@ -10673,6 +10774,24 @@
       "edited": true
     },
     {
+      "name": "XAMPP",
+      "files": [
+        "xampp.svg"
+      ],
+      "shortname": "xampp",
+      "url": "https://www.apachefriends.org/",
+      "tags": [
+        "environment",
+        "apache",
+        "php",
+        "mysql"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-10-26"
+    },
+    {
       "name": "Xplenty",
       "files": [
         "xplenty.svg"
@@ -10732,6 +10851,7 @@
       "tags": [
         "boilerplate",
         "scaffolding",
+        "generator",
         "cli"
       ],
       "categories": [
