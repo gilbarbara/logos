@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.gnu.org/software/emacs/" target="_blank">Emacs</a> *
+![emacs](http://svgporn.com/logos/emacs.svg)
+
+## <a href="https://formkeep.com/" target="_blank">FormKeep</a>
+![formkeep](http://svgporn.com/logos/formkeep.svg)
+
+## <a href="http://ink.sapo.pt/" target="_blank">Ink</a> *
+![ink](http://svgporn.com/logos/ink.svg)
+
+## <a href="http://www.sitepoint.com/" target="_blank">SitePoint</a>
+![sitepoint](http://svgporn.com/logos/sitepoint.svg)
+
+## <a href="https://www.apachefriends.org/" target="_blank">XAMPP</a>
+![xampp](http://svgporn.com/logos/xampp.svg)
+
+## <a href="http://autocode.crystal.sh/" target="_blank">autocode</a>
+![autocode](http://svgporn.com/logos/autocode.svg)
+
+## <a href="http://www.olapic.com/" target="_blank">olapic</a>
+![olapic](http://svgporn.com/logos/olapic.svg)
+
 ## <a href="http://aws.amazon.com/cloudsearch/" target="_blank">AWS CloudSearch</a> *
 ![aws-cloudsearch](http://svgporn.com/logos/aws-cloudsearch.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.databaselabs.io/" target="_blank">Database Labs</a> *
 ![database-labs](http://svgporn.com/logos/database-labs.svg)
-
-## <a href="http://flarum.org/" target="_blank">Flarum</a> *
-![flarum](http://svgporn.com/logos/flarum.svg)
-
-## <a href="http://fluxxor.com/" target="_blank">Fluxxor</a> *
-![fluxxor](http://svgporn.com/logos/fluxxor.svg)
-
-## <a href="http://hbase.apache.org/" target="_blank">HBase</a> *
-![hbase](http://svgporn.com/logos/hbase.svg)
-
-## <a href="http://sassdoc.com/" target="_blank">SassDoc</a>
-![sass-doc](http://svgporn.com/logos/sass-doc.svg)
-
-## <a href="http://www.webrtc.org/" target="_blank">WebRTC</a>
-![webrtc](http://svgporn.com/logos/webrtc.svg)
-
-## <a href="https://mention.com/" target="_blank">mention</a>
-![mention](http://svgporn.com/logos/mention.svg)
-
-## <a href="http://brunch.io/" target="_blank">Brunch</a> *
-![brunch](http://svgporn.com/logos/brunch.svg)
 
 
 ---

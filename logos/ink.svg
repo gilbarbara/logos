@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="9.8942723%" y1="9.70187867%" x2="77.353601%" y2="40.2055933%" id="linearGradient-1">
+            <stop stop-color="#DB221A" offset="0%"></stop>
+            <stop stop-color="#9E020B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="78.0799908%" x2="59.1268243%" y2="31.7284526%" id="linearGradient-2">
+            <stop stop-color="#87D152" offset="0%"></stop>
+            <stop stop-color="#5CA82C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="73.499212%" y1="94.2054964%" x2="41.2305241%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#39BE90" offset="0%"></stop>
+            <stop stop-color="#2C8A72" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+	<g>
+		<path d="M25.549,25.331 L26.672,29.788 L68.217,71.558 L110.66,28.89 L111.004,25.331 L25.549,25.331" fill="url(#linearGradient-1)"></path>
+		<path d="M68.131,67.84 L67.468,70.435 L90.674,167.223 L130.198,127.7 L70.912,68.189 L68.131,67.84" fill="#F6B937"></path>
+		<path d="M185.89,67.59 L226.312,27.018 L230.669,25.767 L230.669,109.959 L227.211,109.51 L185.89,67.59" fill="#FFD500"></path>
+		<path d="M68.131,67.84 L136.189,0 L230.669,25.767 L188.379,67.621 L91.48,91.197 L68.131,67.84" fill="#FFF67D"></path>
+		<path d="M188.379,67.621 L184.992,69.237 L163.733,89.897 L164.213,91.787 L163.583,94.538 L186.04,184.366 L187.942,187.505 L188.136,189.755 L227.66,229.129 L230.596,230.16 L256,135.388 L188.379,67.621" fill="#5ACDA5"></path>
+		<path d="M25.913,145.433 L25.913,230.305 L30.939,229.204 L72.259,187.287 L28.918,146.339 L25.913,145.433" fill="url(#linearGradient-2)"></path>
+		<path d="M25.913,230.305 L68.349,187.287 L72.259,185.301 L164.556,162.395 L187.942,187.505 L186.901,189.905 L149.51,228.643 L146.006,230.079 L120.976,255.49 L25.913,230.305" fill="#AFE682"></path>
+		<path d="M164.213,91.787 L160.851,93.678 L128.738,125.229 L128.109,127.891 L187.942,187.505 L164.213,91.787" fill="#7DD769"></path>
+		<path d="M91.48,91.197 L188.379,67.621 L128.109,127.891 L91.48,91.197" fill="#AADC50"></path>
+		<path d="M146.088,230.16 L187.942,187.505 L230.596,230.16 L146.088,230.16" fill="url(#linearGradient-3)"></path>
+		<path d="M0,120.248 L68.349,187.287 L71.585,185.526 L92.358,167.448 L91.569,164.213 L68.131,67.84 L25.549,25.331 L0,120.248" fill="#DC4B1E"></path>
+		<path d="M68.349,187.287 L128.109,127.891 L164.504,164.14 L68.349,187.287" fill="#AABE55"></path>
+	</g>
+</svg>
