@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://500px.com/" target="_blank">500px</a>
+![500px](http://svgporn.com/logos/500px.svg)
+
+## <a href="https://www.autoitscript.com/" target="_blank">AutoIt</a>
+![autoit](http://svgporn.com/logos/autoit.svg)
+
+## <a href="https://gravatar.com/" target="_blank">Gravatar</a>
+![gravatar](http://svgporn.com/logos/gravatar.svg)
+
+## <a href="https://percy.io/" target="_blank">Percy</a>
+![percy](http://svgporn.com/logos/percy.svg)
+
+## <a href="https://www.pushbullet.com/" target="_blank">Pushbullet</a> *
+![pushbullet](http://svgporn.com/logos/pushbullet.svg)
+
+## <a href="https://www.autoitscript.com/" target="_blank">RedHat</a>
+![redhat](http://svgporn.com/logos/redhat.svg)
+
+## <a href="https://www.xero.com/" target="_blank">Xero</a>
+![xero](http://svgporn.com/logos/xero.svg)
+
 ## <a href="http://www.gnu.org/software/emacs/" target="_blank">Emacs</a> *
 ![emacs](http://svgporn.com/logos/emacs.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.google.com/adsense/" target="_blank">Google AdSense</a> *
 ![google-adsense](http://svgporn.com/logos/google-adsense.svg)
-
-## <a href="http://www.google.com/adwords/" target="_blank">Google AdWords</a> *
-![google-adwords](http://svgporn.com/logos/google-adwords.svg)
-
-## <a href="https://www.ieee.org/" target="_blank">IEEE</a>
-![ieee](http://svgporn.com/logos/ieee.svg)
-
-## <a href="http://www.qt.io/" target="_blank">Qt</a>
-![qt](http://svgporn.com/logos/qt.svg)
-
-## <a href="https://en.wikipedia.org/wiki/Terminal_emulator" target="_blank">Terminal</a>
-![terminal](http://svgporn.com/logos/terminal.svg)
-
-## <a href="https://vivaldi.com/" target="_blank">Vivaldi</a>
-![vivaldi](http://svgporn.com/logos/vivaldi.svg)
-
-## <a href="https://whatwg.org/" target="_blank">WHATWG</a>
-![whatwg](http://svgporn.com/logos/whatwg.svg)
-
-## <a href="https://www.databaselabs.io/" target="_blank">Database Labs</a> *
-![database-labs](http://svgporn.com/logos/database-labs.svg)
 
 
 ---
