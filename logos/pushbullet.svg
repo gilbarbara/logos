@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <path id="path-1" d="M256,128 C256,198.692 198.692,256 128,256 C57.308,256 0,198.692 0,128 C0,57.308 57.308,0 128,0 C198.692,0 256,57.308 256,128"></path>
+        <linearGradient x1="8.59001137%" y1="1.95448636%" x2="77.4705802%" y2="73.8962145%" id="linearGradient-3">
+            <stop stop-color="#4CB36B" offset="0%"></stop>
+            <stop stop-color="#3EA16F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+	<g>
+		<mask id="mask-2" fill="white">
+			<use xlink:href="#path-1"></use>
+		</mask>
+		<use fill="#67BF79" xlink:href="#path-1"></use>
+		<path d="M256,128 C256,198.692 198.692,256 128,256 C57.308,256 0,198.692 0,128 C0,57.308 57.308,0 128,0 C198.692,0 256,57.308 256,128" fill="#67BF79" mask="url(#mask-2)"></path>
+		<path d="M63.111,187.022 L96.178,72 L160.711,132.978 L200,90.133 L287.533,176.422 L176.689,301.311 L63.111,187.022" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+		<path d="M77,189.6 C60.267,189.6 60.267,189.6 60.267,172.867 L60.267,81 C60.267,64.267 60.267,64.267 77,64.267 L80.334,64.267 C97.0669992,64.267 97.0669992,64.267 97.067,81 L97.067,172.867 C97.0669992,189.6 97.0669992,189.6 80.334,189.6 L77,189.6 Z" fill="#FFFFFF" mask="url(#mask-2)"></path>
+		<path d="M121.041,189.6 C115.342,189.6 112.533,186.791 112.533,181.092 L112.533,72.774 C112.533,67.076 115.342,64.267 121.041,64.267 L158.578,64.267 C190.756,64.267 211.206,96.54 211.206,127.292 C211.206,158.044 190.578,189.6 158.578,189.6 L121.041,189.6 Z" fill="#FFFFFF" mask="url(#mask-2)"></path>
+	</g>
+</svg>
