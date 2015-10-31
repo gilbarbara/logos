@@ -34,7 +34,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.pushbullet.com/" target="_blank">Pushbullet</a> *
 ![pushbullet](http://svgporn.com/logos/pushbullet.svg)
 
-## <a href="https://www.autoitscript.com/" target="_blank">RedHat</a>
+## <a href="http://www.redhat.com/" target="_blank">RedHat</a>
 ![redhat](http://svgporn.com/logos/redhat.svg)
 
 ## <a href="https://www.xero.com/" target="_blank">Xero</a>
