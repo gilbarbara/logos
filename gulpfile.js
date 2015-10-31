@@ -35,7 +35,7 @@ function watchifyTask (options) {
         fullPaths: options.watch, //options.watch
         extensions: ['.jsx'],
         transform: [
-            ['babelify', { ignore: /bower_components/ }]
+            ['babelify']
         ]
     });
 
