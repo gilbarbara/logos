@@ -1,19 +1,20 @@
-var React   = require('react/addons'),
-    Isvg    = require('react-inlinesvg'),
-    _       = require('lodash'),
-    Header  = require('./components/Header'),
-    Footer  = require('./components/Footer'),
-    Loader  = require('./components/Loader'),
-    Logo    = require('./components/Logo'),
-    Icon    = require('./components/Icon'),
-    Colors  = require('./utils/Colors'),
-    Storage = require('./utils/Storage'),
-    json    = require('../logos.json');
+var React           = require('react'),
+    PureRenderMixin = require('react-addons-pure-render-mixin'),
+    Isvg            = require('react-inlinesvg'),
+    _               = require('lodash'),
+    Header          = require('./components/Header'),
+    Footer          = require('./components/Footer'),
+    Loader          = require('./components/Loader'),
+    Logo            = require('./components/Logo'),
+    Icon            = require('./components/Icon'),
+    Colors          = require('./utils/Colors'),
+    Storage         = require('./utils/Storage'),
+    json            = require('../logos.json');
 
 var searchTimeout;
 
 var App = React.createClass({
-    mixins: [React.addons.PureRenderMixin],
+    mixins: [PureRenderMixin],
 
     getInitialState () {
         return {

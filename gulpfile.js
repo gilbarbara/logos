@@ -1,6 +1,7 @@
 var gulp               = require('gulp'),
     $                  = require('gulp-load-plugins')(),
     _                  = require('lodash'),
+    babelify           = require('babelify'),
     browserify         = require('browserify'),
     buffer             = require('vinyl-buffer'),
     browserSync        = require('browser-sync').create(),
@@ -26,16 +27,18 @@ var isProduction = function () {
 
 function watchifyTask (options) {
     var bundler, rebundle, iteration = 0;
+
     bundler = browserify({
+        basedir: '.',
         entries: path.join(__dirname, '/app/scripts/main.js'),
-        insertGlobals: true,
+        insertGlobals: options.watch,
         cache: {},
-        //debug: options.watch,
+        debug: options.watch,
         packageCache: {},
-        fullPaths: options.watch, //options.watch
+        fullPaths: options.watch,
         extensions: ['.jsx'],
         transform: [
-            ['babelify']
+            [babelify.configure({ sourceMapRelative: '.' })]
         ]
     });
 
@@ -53,10 +56,9 @@ function watchifyTask (options) {
         }
 
         stream
-            .pipe(source($.if(options.watch, 'app.js', 'app.min.js')))
+            .pipe(source('app.js'))
             .pipe(buffer())
-            .pipe($.if(!options.watch, $.uglify()))
-            .pipe(gulp.dest(target() + '/assets'))
+            .pipe(gulp.dest('.tmp/assets'))
             .pipe($.tap(function () {
                 if (iteration === 0 && options.cb) {
                     options.cb();
@@ -148,7 +150,6 @@ gulp.task('copy', function () {
 
 gulp.task('bundle', function () {
     var html,
-        vendor,
         extras,
         media,
         logos,
@@ -157,19 +158,12 @@ gulp.task('bundle', function () {
     html = gulp.src('app/*.html')
         .pipe(assets)
         .pipe($.if('*.css', $.cssmin()))
+        .pipe($.if('*.js', $.uglify()))
         .pipe(assets.restore())
         .pipe($.useref())
         .pipe(gulp.dest('dist'))
         .pipe($.size({
             title: 'HTML'
-        }));
-
-    vendor = gulp.src('bower_components/modernizr/modernizr.js')
-        .pipe($.uglify())
-        .pipe($.rename('modernizr.min.js'))
-        .pipe(gulp.dest('dist/assets'))
-        .pipe($.size({
-            title: 'Vendor'
         }));
 
     extras = gulp.src([
@@ -196,7 +190,7 @@ gulp.task('bundle', function () {
             title: 'Logos'
         }));
 
-    return merge(html, vendor, extras, media, logos);
+    return merge(html, extras, media, logos);
 });
 
 gulp.task('sizer', function () {
@@ -212,7 +206,12 @@ gulp.task('assets', function (cb) {
 });
 
 gulp.task('clean', function (cb) {
-    return del([target() + '/*'], cb);
+    var target = ['.tmp/*'];
+    if (isProduction()) {
+        target.push('dist/*');
+    }
+
+    return del(target, cb);
 });
 
 gulp.task('get-commit', function (cb) {

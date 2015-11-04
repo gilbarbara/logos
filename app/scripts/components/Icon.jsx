@@ -1,7 +1,8 @@
-var React    = require('react/addons');
+var React           = require('react'),
+    PureRenderMixin = require('react-addons-pure-render-mixin');
 
 var Icon = React.createClass({
-    mixins: [React.addons.PureRenderMixin],
+    mixins: [PureRenderMixin],
 
     propTypes: {
         id: React.PropTypes.string.isRequired
@@ -9,7 +10,8 @@ var Icon = React.createClass({
 
     render () {
         return (
-            <svg className="icon" role="img" dangerouslySetInnerHTML={{ __html: '<use xlink:href="#' + this.props.id + '"></use>' }} />
+            <svg className="icon" role="img"
+                 dangerouslySetInnerHTML={{ __html: '<use xlink:href="#' + this.props.id + '"></use>' }} />
         );
     }
 

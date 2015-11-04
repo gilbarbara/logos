@@ -1,7 +1,8 @@
-var React = require('react/addons');
+var React           = require('react'),
+    PureRenderMixin = require('react-addons-pure-render-mixin');
 
 var Footer = React.createClass({
-    mixins: [React.addons.PureRenderMixin],
+    mixins: [PureRenderMixin],
 
     render: function () {
         return (

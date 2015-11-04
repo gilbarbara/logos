@@ -1,7 +1,8 @@
-var React = require('react/addons');
+var React           = require('react'),
+    PureRenderMixin = require('react-addons-pure-render-mixin');
 
 var Logo = React.createClass({
-    mixins: [React.addons.PureRenderMixin],
+    mixins: [PureRenderMixin],
 
     propTypes: {
         hidden: React.PropTypes.bool.isRequired,

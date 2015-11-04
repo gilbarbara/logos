@@ -1,11 +1,13 @@
-var React    = require('react/addons'),
-    Colors   = require('../utils/Colors'),
-    ScaleLog = require('../utils/ScaleLog'),
-    config   = require('../config'),
-    Icon     = require('./Icon');
+var React           = require('react'),
+    ReactDOM        = require('react-dom'),
+    PureRenderMixin = require('react-addons-pure-render-mixin'),
+    Colors          = require('../utils/Colors'),
+    ScaleLog        = require('../utils/ScaleLog'),
+    config          = require('../config'),
+    Icon            = require('./Icon');
 
 var Header = React.createClass({
-    mixins: [React.addons.PureRenderMixin],
+    mixins: [PureRenderMixin],
 
     propTypes: {
         changeCategory: React.PropTypes.func.isRequired,
@@ -76,7 +78,7 @@ var Header = React.createClass({
             });
         }
 
-        vars.button = React.findDOMNode(this.refs.twitterButton);
+        vars.button = ReactDOM.findDOMNode(this.refs.twitterButton);
         vars.js = document.createElement('script');
         vars.js.id = 'twitter-wjs';
         vars.js.src = (/^http:/.test(document.location) ? 'http' : 'https') + '://platform.twitter.com/widgets.js';
@@ -158,8 +160,9 @@ var Header = React.createClass({
                 output.tagsMenu = (
                     <li className="menu__tags">
                         <a href="#" className={props.state.tag ? ' tagged' : ''}
-                           onClick={props.onClickShowTagCloud}>{!props.state.tag ? <span><Icon id="cloud"/>Tags</span> :
-                            <span>#{props.state.tag}<Icon id="times-circle"/></span>}</a>
+                           onClick={props.onClickShowTagCloud}>{!props.state.tag ? <span><Icon
+                            id="cloud" />Tags</span> :
+                        <span>#{props.state.tag}<Icon id="times-circle" /></span>}</a>
                     </li>
                 );
                 output.tagCloud = (
@@ -168,44 +171,44 @@ var Header = React.createClass({
                             {state.tags.map((d, i) => {
                                 style = {
                                     fontSize: state.fontScale.value(d.value)
-                                };
+                                    };
                                 switch (Math.min(Math.ceil(d.value < 5 ? 0 : d.value / 10), 5)) {
                                     case 5:
-                                    {
-                                        classes = 'tag-size-5';
-                                        break;
-                                    }
+                                        {
+                                            classes = 'tag-size-5';
+                                            break;
+                                            }
                                     case 4:
-                                    {
-                                        classes = 'tag-size-4';
-                                        break;
-                                    }
+                                        {
+                                            classes = 'tag-size-4';
+                                            break;
+                                            }
                                     case 3:
-                                    {
-                                        classes = 'tag-size-3';
-                                        break;
-                                    }
+                                        {
+                                            classes = 'tag-size-3';
+                                            break;
+                                            }
                                     case 2:
-                                    {
-                                        classes = 'tag-size-2';
-                                        break;
-                                    }
+                                        {
+                                            classes = 'tag-size-2';
+                                            break;
+                                            }
                                     case 1:
-                                    {
-                                        classes = 'tag-size-1';
-                                        break;
-                                    }
+                                        {
+                                            classes = 'tag-size-1';
+                                            break;
+                                            }
                                     default:
-                                    {
-                                        classes = 'tag-size-0';
-                                        break;
+                                        {
+                                            classes = 'tag-size-0';
+                                            break;
+                                            }
                                     }
-                                }
 
                                 return (<a key={i} href="#" className={classes} data-tag={d.key}
                                            onClick={this._onClickTag}>#{d.key + ' (' + d.value + ')'}</a>
-                                );
-                            })}
+                                    );
+                                })}
                         </div>
                     </div>
                 );
@@ -215,7 +218,7 @@ var Header = React.createClass({
                 if (props.state.category !== 'categories') {
                     categories = [{
                         key: 'categories',
-                        title: <Icon id="level-up"/>,
+                        title: <Icon id="level-up" />,
                         value: 0
                     }].concat(categories);
                 }
@@ -223,17 +226,18 @@ var Header = React.createClass({
                 categories = (
                     <span className="categories__menu">
                         for<a href="#" className="categories__toggle" data-category={props.state.category}
-                              onClick={this._onClickShowCategories}>{props.state.category !== 'categories' ? props.state.category : ''}<Icon
-                        id="navicon"/></a>
+                              onClick={this._onClickShowCategories}>{props.state.category !== 'categories' ? props.state.category : ''}
+                        <Icon
+                            id="navicon" /></a>
                         <ul>
                             {categories.map((d, i) => {
                                 return (
-                                    <li key={i}
-                                        className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
-                                        <a href="#" onClick={this._onClickChangeCategory}
-                                           data-value={d.key}>{d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}</a>
-                                    </li>);
-                            })}
+                                <li key={i}
+                                    className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
+                                    <a href="#" onClick={this._onClickChangeCategory}
+                                       data-value={d.key}>{d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}</a>
+                                </li>);
+                                })}
                         </ul>
                     </span>
                 );
@@ -244,7 +248,7 @@ var Header = React.createClass({
             <header
                 className={['main-header', props.state.categoryMenuVisible ? 'show-menu' : '', props.state.tagCloudVisible ? 'show-tags' : ''].join(' ')}>
                 <a href="#" className="logo" data-value="logo" onClick={props.onClickChangeView}>
-                    <img src="media/svg-porn.svg"/>
+                    <img src="media/svg-porn.svg" />
                 </a>
                 <h3>{props.state.category === 'categories' ? props.state.logos.length : props.visible} high quality svg logos</h3>
                 {categories}
@@ -261,10 +265,10 @@ var Header = React.createClass({
                     </li>
                     <li className="menu__search">
                         <div className="search-box">
-                            <input type="text" name="search" value={props.state.search} onChange={props.onSearch}/>
+                            <input type="text" name="search" value={props.state.search} onChange={props.onSearch} />
                             <span className="input-icon">{props.state.search ?
-                                <a href="#" onClick={props.onSearch}><Icon id="times-circle"/></a> :
-                                <Icon id="search"/>}
+                            <a href="#" onClick={props.onSearch}><Icon id="times-circle" /></a> :
+                            <Icon id="search" />}
                             </span>
                         </div>
                     </li>
@@ -275,7 +279,7 @@ var Header = React.createClass({
                 </div>
                 {output.tagCloud}
                 <div className="overlay" onClick={props.toggleCategoryMenu}></div>
-                {props.state.heading ? <h3 className="heading">{props.state.heading}<br/>
+                {props.state.heading ? <h3 className="heading">{props.state.heading}<br />
                     <a href="#" data-value="all" onClick={props.onClickChangeView}>View All</a>
                     <a href="#" data-value={props.state.favorites ? 'latest' : 'favorites'}
                        onClick={props.onClickChangeView}>{props.state.favorites ? 'Latest' : 'Favorites'}</a>
