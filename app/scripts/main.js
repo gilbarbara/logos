@@ -1,7 +1,10 @@
-var React    = require('react'),
-    ReactDOM = require('react-dom'),
-    App      = require('./App');
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
 
-document.addEventListener('DOMContentLoaded', function () {
+// Polyfills
+require('babel/polyfill');
+
+document.addEventListener('DOMContentLoaded', () => {
     ReactDOM.render(<App />, document.getElementById('react'));
 });

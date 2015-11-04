@@ -1,34 +1,36 @@
-var React           = require('react'),
-    PureRenderMixin = require('react-addons-pure-render-mixin');
+import React from 'react';
+import PureRender from 'react-pure-render/function';
 
-var Logo = React.createClass({
-    mixins: [PureRenderMixin],
+class Logo extends React.Component {
+    constructor (props) {
+        super(props);
 
-    propTypes: {
+        this.state = {
+            path: location.hostname === 'localhost' ? '../logos/' : 'http://svgporn.com/logos/'
+        };
+    }
+
+    static propTypes = {
         hidden: React.PropTypes.bool.isRequired,
         image: React.PropTypes.string.isRequired,
         info: React.PropTypes.object.isRequired,
         onClickTag: React.PropTypes.func.isRequired,
         trackEvent: React.PropTypes.func.isRequired
-    },
+    };
 
-    getInitialState () {
-        return {
-            path: location.hostname === 'localhost' ? '../logos/' : 'http://svgporn.com/logos/'
-        };
-    },
+    shouldComponentUpdate = PureRender;
 
     toggleInfo (e) {
-        var el = e.currentTarget;
+        let el = e.currentTarget;
         el.classList.toggle('show-info');
-    },
+    }
 
     _onClickLogo (e) {
         this.props.trackEvent('logo', 'click', e.currentTarget.dataset.shortname);
-    },
+    }
 
     render () {
-        var props = this.props,
+        let props = this.props,
             info  = this.props.info;
 
         return (
@@ -36,7 +38,7 @@ var Logo = React.createClass({
                 data-updated={info.updated}>
                 <a href={info.url} target="_blank" className="logo-item" data-shortname={info.shortname}
                    onClick={this._onClickLogo}>
-                    <img src={this.state.path + this.props.image} alt={info.name} className={info.shortname}/>
+                    <img src={this.state.path + this.props.image} alt={info.name} className={info.shortname} />
                 </a>
 
                 <div className="info">
@@ -45,13 +47,12 @@ var Logo = React.createClass({
                     <div className="tags">{
                         info.tags.map((t, i) => {
                             return (<a key={i} href="#" onClick={props.onClickTag} data-tag={t}>#{t}</a>);
-                        })
-                    }</div>
+                            })
+                        }</div>
                 </div>
             </li>
         );
     }
+}
 
-});
-
-module.exports = Logo;
+export default Logo;

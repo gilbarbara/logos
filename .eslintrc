@@ -8,7 +8,6 @@
     "amd": true,
     "browser": true,
     "es6": true,
-    "jquery": true,
     "mocha": true,
     "node": true
   },
@@ -243,11 +242,12 @@
     "no-class-assign": 2,
     "no-const-assign": 2,
     "no-this-before-super": 2,
+    "no-var": 2,
     "object-shorthand": [
-      0,
+      1,
       "always"
     ],
-    "prefer-const": 0,
+    "prefer-arrow-callback": 1,
     "prefer-spread": 1,
     "require-yield": 1,
     // React
@@ -304,11 +304,11 @@
             "getDefaultProps",
             "getInitialState",
             "getChildContext",
+            "shouldComponentUpdate",
             "componentWillMount",
             "componentDidMount",
             "componentWillUnmount",
             "componentWillReceiveProps",
-            "shouldComponentUpdate",
             "componentWillUpdate",
             "componentDidUpdate"
           ]

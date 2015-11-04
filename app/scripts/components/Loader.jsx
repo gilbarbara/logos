@@ -1,7 +1,7 @@
-var React = require('react');
+import React from 'react';
 
-var Loader = React.createClass({
-    render: function () {
+class Loader extends React.Component {
+    render () {
         return (
             <div className="loader">
                 <svg className="loader__svg">
@@ -15,6 +15,6 @@ var Loader = React.createClass({
             </div>
         );
     }
-});
+}
 
-module.exports = Loader;
+export default Loader;

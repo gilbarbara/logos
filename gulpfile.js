@@ -1,7 +1,7 @@
+/*eslint-disable no-var, prefer-arrow-callback, object-shorthand */
 var gulp               = require('gulp'),
     $                  = require('gulp-load-plugins')(),
     _                  = require('lodash'),
-    babelify           = require('babelify'),
     browserify         = require('browserify'),
     buffer             = require('vinyl-buffer'),
     browserSync        = require('browser-sync').create(),
@@ -19,9 +19,6 @@ var gulp               = require('gulp'),
 var isProduction = function () {
         return process.env.NODE_ENV === 'production';
     },
-    target       = function () {
-        return (isProduction() ? 'dist' : '.tmp');
-    },
     middleware   = historyApiFallback({}),
     commitMessage;
 
@@ -36,10 +33,7 @@ function watchifyTask (options) {
         debug: options.watch,
         packageCache: {},
         fullPaths: options.watch,
-        extensions: ['.jsx'],
-        transform: [
-            [babelify.configure({ sourceMapRelative: '.' })]
-        ]
+        extensions: ['.jsx']
     });
 
     if (options.watch) {
@@ -194,7 +188,7 @@ gulp.task('bundle', function () {
 });
 
 gulp.task('sizer', function () {
-    return gulp.src(target() + '/**/*')
+    return gulp.src('dist/**/*')
         .pipe($.size({
             title: 'Build',
             gzip: true
@@ -215,7 +209,7 @@ gulp.task('clean', function (cb) {
 });
 
 gulp.task('get-commit', function (cb) {
-    exec('git log -1 --pretty=%s && git log -1 --pretty=%b', function (err, stdout, stderr) {
+    exec('git log -1 --pretty=%s && git log -1 --pretty=%b', function (err, stdout) {
         var parts = stdout.replace('\n\n', '').split('\n');
 
         commitMessage = parts[0];

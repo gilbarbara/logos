@@ -1,5 +1,5 @@
-var _    = require('lodash'),
-    math = require('./Math');
+import _ from 'lodash';
+import math from './Math';
 
 /**
  * Colors
@@ -52,7 +52,7 @@ export default class Colors {
      * @returns {object} {h: number, s: number, l: number}
      */
     rgb2hsl (rgb = this.rgb) {
-        var r, g, b, h, s, l, d, max, min, _ref;
+        let r, g, b, h, s, l, d, max, min, _ref;
         _ref = [rgb.r, rgb.g, rgb.b];
         r = _ref[0];
         g = _ref[1];
@@ -107,7 +107,7 @@ export default class Colors {
      * @returns {object} {r: number, g: number, b: number}
      */
     hsl2rgb (hsl = this.hsl) {
-        var b, g, h, l, p, q, r, s, _ref;
+        let b, g, h, l, p, q, r, s, _ref;
         _ref = [parseFloat(hsl.h).toFixed(5) / 360,
                 parseFloat(hsl.s).toFixed(5) / 100,
                 parseFloat(hsl.l).toFixed(5) / 100];
@@ -176,7 +176,7 @@ export default class Colors {
      * @returns {*}
      */
     mod (attr) {
-        var hsl, out, rgb, type;
+        let hsl, out, rgb, type;
         if ((_.intersection(_.keys(attr), ['h', 's', 'l']).length > 0) &&
             (_.intersection(_.keys(attr), ['r', 'g', 'b']).length > 0)) {
             return null;
@@ -192,7 +192,7 @@ export default class Colors {
             return null;
         }
 
-        _.each(attr, function (val, key, list) {
+        _.each(attr, (val, key, list) => {
             if (val === null) {
                 return delete list[key];
             }
@@ -233,7 +233,7 @@ export default class Colors {
      * @returns {number}
      */
     static constrain (attr, amount, limit, direction) {
-        var val  = math.expr(attr + direction + amount),
+        let val  = math.expr(attr + direction + amount),
             test = (limit[1] >= val && val >= limit[0]);
 
         if (!test) {
@@ -256,7 +256,7 @@ export default class Colors {
      * @returns {number}
      */
     static constrain_degrees (attr, amount) {
-        var val;
+        let val;
         val = attr + amount;
         if (val > 360) {
             val -= 360;
@@ -328,7 +328,7 @@ export default class Colors {
      * @returns {string}
      */
     lighten (percentage) {
-        var hsl;
+        let hsl;
         hsl = this.mod({
             l: this.constructor.constrain(this.lightness, percentage, [0, 100], '+')
         });
@@ -342,7 +342,7 @@ export default class Colors {
      * @returns {string}
      */
     darken (percentage) {
-        var hsl;
+        let hsl;
         hsl = this.mod({
             l: this.constructor.constrain(this.lightness, percentage, [0, 100], '-')
         });
@@ -356,7 +356,7 @@ export default class Colors {
      * @returns {string}
      */
     saturate (percentage) {
-        var hsl;
+        let hsl;
         hsl = this.mod({
             s: this.constructor.constrain(this.saturation, percentage, [0, 100], '+')
         });
@@ -370,7 +370,7 @@ export default class Colors {
      * @returns {string}
      */
     desaturate (percentage) {
-        var hsl;
+        let hsl;
         hsl = this.mod({
             s: this.constructor.constrain(this.saturation, percentage, [0, 100], '-')
         });
@@ -384,7 +384,7 @@ export default class Colors {
      * @returns {string}
      */
     adjust_hue (degrees) {
-        var hsl = this.mod({
+        let hsl = this.mod({
             h: this.constructor.constrain_degrees(this.hue, degrees)
         });
 

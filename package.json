@@ -11,14 +11,15 @@
   "dependencies": {
     "lodash": "^3.10",
     "react": "^0.14",
-    "react-addons-pure-render-mixin": "^0.14",
     "react-dom": "^0.14",
-    "react-inlinesvg": "^0.4"
+    "react-inlinesvg": "^0.4",
+    "react-pure-render": "^1.0"
   },
   "devDependencies": {
     "babel-eslint": "^4.1",
     "babel-preset-es2015": "^6.0",
     "babel-preset-react": "^6.0",
+    "babel-preset-stage-1": "^6.0",
     "babelify": "^7.2",
     "browser-sync": "^2.9",
     "browserify": "^12.0",
@@ -58,10 +59,21 @@
     "watchify": "^3.6"
   },
   "babel": {
-    "ignore": "/bower_components/",
     "presets": [
       "es2015",
-      "react"
+      "react",
+      "stage-1"
+    ]
+  },
+  "browserify": {
+    "transform": [
+      [
+        "babelify",
+        {
+          "ignore": "/bower_components/",
+          "sourceMapRelative": "."
+        }
+      ]
     ]
   },
   "engines": {

@@ -1,12 +1,18 @@
-var React           = require('react'),
-    PureRenderMixin = require('react-addons-pure-render-mixin');
+import React from 'react';
+import PureRender from 'react-pure-render/function';
 
-var Icon = React.createClass({
-    mixins: [PureRenderMixin],
+class Icon extends React.Component {
+    constructor (props) {
+        super(props);
 
-    propTypes: {
+        this.state = {};
+    }
+
+    static propTypes = {
         id: React.PropTypes.string.isRequired
-    },
+    };
+
+    shouldComponentUpdate = PureRender;
 
     render () {
         return (
@@ -14,7 +20,6 @@ var Icon = React.createClass({
                  dangerouslySetInnerHTML={{ __html: '<use xlink:href="#' + this.props.id + '"></use>' }} />
         );
     }
+}
 
-});
-
-module.exports = Icon;
+export default Icon;

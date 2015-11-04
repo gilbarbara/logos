@@ -1,23 +1,22 @@
-var React           = require('react'),
-    PureRenderMixin = require('react-addons-pure-render-mixin'),
-    Isvg            = require('react-inlinesvg'),
-    _               = require('lodash'),
-    Header          = require('./components/Header'),
-    Footer          = require('./components/Footer'),
-    Loader          = require('./components/Loader'),
-    Logo            = require('./components/Logo'),
-    Icon            = require('./components/Icon'),
-    Colors          = require('./utils/Colors'),
-    Storage         = require('./utils/Storage'),
-    json            = require('../logos.json');
+import React from 'react';
+import Isvg from 'react-inlinesvg';
+import _ from 'lodash';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import Loader from './components/Loader';
+import Logo from './components/Logo';
+import Icon from './components/Icon';
+import Colors from './utils/Colors';
+import Storage from './utils/Storage';
+import json from '../logos.json';
 
-var searchTimeout;
+let searchTimeout;
 
-var App = React.createClass({
-    mixins: [PureRenderMixin],
+class App extends React.Component {
+    constructor (props) {
+        super(props);
 
-    getInitialState () {
-        return {
+        this.state = {
             category: 'categories',
             categoryMenuVisible: false,
             columns: 3,
@@ -26,10 +25,10 @@ var App = React.createClass({
             tag: undefined,
             tagCloudVisible: false
         };
-    },
+    }
 
-    componentWillMount: function () {
-        var category = Storage.getItem('category'),
+    componentWillMount () {
+        let category = Storage.getItem('category'),
             columns  = Storage.getItem('columns');
 
         this.setState({
@@ -42,11 +41,11 @@ var App = React.createClass({
                 favorites: true
             });
         }
-    },
+    }
 
-    componentDidMount: function () {
-        document.body.addEventListener('keydown', function (e) {
-            var intKey = (window.Event) ? e.which : e.keyCode,
+    componentDidMount () {
+        document.body.addEventListener('keydown', (e) => {
+            let intKey = (window.Event) ? e.which : e.keyCode,
                 action;
 
             if ((intKey === 189 || intKey === 109) && this.state.columns > 1) {
@@ -73,9 +72,9 @@ var App = React.createClass({
                 this._trackEvent('keyboard', 'press', action);
             }
 
-        }.bind(this));
+        });
 
-        window.addEventListener('scroll', function (e) {
+        window.addEventListener('scroll', (e) => {
             if ((document.body.scrollTop >= 1000 && document.body.clientHeight > 4000) && !this.state.tagCloudVisible && !this.state.scrollable) {
                 this.setState({
                     scrollable: true
@@ -86,12 +85,12 @@ var App = React.createClass({
                     scrollable: false
                 });
             }
-        }.bind(this));
-    },
+        });
+    }
 
     _trackEvent (category, type, label) {
         //heap.track(category, {[type]: label});
-        var options = {
+        let options = {
             eventCategory: category,
             eventAction: type
         };
@@ -101,27 +100,27 @@ var App = React.createClass({
         }
 
         ga('send', 'event', options);
-    },
+    }
 
     _onClickChangeColumns (e) {
         e.preventDefault();
-        var el  = e.currentTarget,
+        let el  = e.currentTarget,
             col = +el.dataset.column;
 
         this._changeColumns(this.state.columns + col);
         this._trackEvent('switch', 'click', col > 0 ? 'up' : 'down');
-    },
+    }
 
     _changeColumns (num) {
         this.setState({
             columns: num
         });
         Storage.setItem('columns', num);
-    },
+    }
 
     _onClickChangeView (e) {
         e.preventDefault();
-        var type = e.currentTarget.dataset.value;
+        let type = e.currentTarget.dataset.value;
 
         this._changeCategory(type === 'all' ? 'everybody' : 'categories');
         this.setState({
@@ -129,7 +128,7 @@ var App = React.createClass({
         });
 
         this._trackEvent('view', 'click', type);
-    },
+    }
 
     _changeCategory (value) {
         this.setState({
@@ -142,23 +141,23 @@ var App = React.createClass({
         if (value !== 'everybody') {
             Storage.setItem('category', value);
         }
-    },
+    }
 
-    _toggleCategoryMenuVisibility  () {
+    _toggleCategoryMenuVisibility () {
         document.body.style.overflow = !this.state.categoryMenuVisible ? 'hidden' : 'auto';
         this.setState({
             categoryMenuVisible: !this.state.categoryMenuVisible
         });
-    },
+    }
 
     _onClickTag (e) {
         e.preventDefault();
-        var tag = e.currentTarget.dataset.tag || undefined;
+        let tag = e.currentTarget.dataset.tag || undefined;
 
         document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
         this._changeTag(tag);
         this._trackEvent('tag', 'info', tag);
-    },
+    }
 
     _onClickShowTags (e) {
         if (e) {
@@ -175,14 +174,14 @@ var App = React.createClass({
             this._toggleTagCloudVisibility();
             this._trackEvent('tag-cloud', 'show');
         }
-    },
+    }
 
-    _toggleTagCloudVisibility  () {
+    _toggleTagCloudVisibility () {
         document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
         this.setState({
             tagCloudVisible: !this.state.tagCloudVisible
         });
-    },
+    }
 
     _changeTag (tag) {
         document.body.style.overflow = 'auto';
@@ -195,16 +194,16 @@ var App = React.createClass({
             tag,
             tagCloudVisible: false
         });
-    },
+    }
 
     _searchLogos (e) {
-        var search;
+        let search;
         if (typeof e === 'object') {
             if (e.type === 'click') {
                 e.preventDefault();
                 e.currentTarget.parentNode.previousSibling.focus();
             }
-            else if (e.type === 'input') {
+            else if (e.type === 'change') {
                 search = e.target.value;
             }
         }
@@ -212,9 +211,9 @@ var App = React.createClass({
         if (search && search.length > 1) {
             clearTimeout(searchTimeout);
 
-            searchTimeout = setTimeout(function () {
+            searchTimeout = setTimeout(() => {
                 this._trackEvent('search', 'submit', search);
-            }.bind(this), 500);
+            }, 500);
         }
 
         this.setState({
@@ -223,12 +222,12 @@ var App = React.createClass({
             search: search || undefined,
             tag: undefined
         });
-    },
+    }
 
     _scrollTo (element = document.body, to = 0, duration = document.body.scrollTop) {
         duration = duration / 10 < 500 ? duration : 500;
 
-        var difference = to - element.scrollTop,
+        let difference = to - element.scrollTop,
             perTick    = difference / duration * 10,
             timeout;
 
@@ -237,24 +236,24 @@ var App = React.createClass({
             return;
         }
 
-        timeout = setTimeout(function () {
+        timeout = setTimeout(() => {
             element.scrollTop = element.scrollTop + perTick;
             if (element.scrollTop === to) {
                 clearTimeout(timeout);
             }
             this._scrollTo(element, to, duration - 10);
-        }.bind(this), 10);
-    },
+        }, 10);
+    }
 
     _scrollTop (e) {
         e.preventDefault();
 
         this._scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
         this._trackEvent('scroll', 'click');
-    },
+    }
 
     render () {
-        var state     = this.state,
+        let state     = this.state,
             hidden    = false,
             db        = state.logos,
             latest    = (state.category === 'categories' && !state.tag && !state.search),
@@ -270,7 +269,7 @@ var App = React.createClass({
             db = _.chain(json.items).sortByOrder(['updated', 'name'], ['desc', 'asc']).take(50).value();
         }
 
-        db.forEach(function (d, i) {
+        db.forEach((d, i) => {
             if (state.search) {
                 hidden = !d.name.match(new RegExp(state.search, 'i'));
             }
@@ -281,7 +280,7 @@ var App = React.createClass({
                 hidden = d.categories.indexOf(state.category) === -1;
             }
 
-            d.files.forEach(function (f, j) {
+            d.files.forEach((f, j) => {
                 logos.push(
                     <Logo key={i + '-' + j} info={d} image={f} hidden={hidden}
                           onClickTag={this._onClickTag} trackEvent={this._trackEvent} />
@@ -300,21 +299,27 @@ var App = React.createClass({
                 <Isvg src="media/icons.svg" uniquifyIDs={false} />
 
                 <div className="container">
-                    <Header state={{
-                        logos: state.logos,
-                        category: state.category,
-                        categoryMenuVisible: state.categoryMenuVisible,
-                        columns: state.columns,
-                        favorites: favorites,
-                        heading: heading,
-                        search: state.search,
-                        tag: state.tag,
-                        tagCloudVisible: state.tagCloudVisible
-                    }} visible={visible} onClickChangeColumns={this._onClickChangeColumns}
-                            onSearch={this._searchLogos} changeCategory={this._changeCategory}
-                            toggleCategoryMenu={this._toggleCategoryMenuVisibility}
-                            onClickShowTagCloud={this._onClickShowTags} changeTag={this._changeTag}
-                            trackEvent={this._trackEvent} onClickChangeView={this._onClickChangeView} />
+                    <Header
+                        changeCategory={this._changeCategory.bind(this)}
+                        changeTag={this._changeTag.bind(this)}
+                        onClickChangeView={this._onClickChangeView.bind(this)}
+                        onClickChangeColumns={this._onClickChangeColumns.bind(this)}
+                        onSearch={this._searchLogos.bind(this)}
+                        onClickShowTagCloud={this._onClickShowTags.bind(this)}
+                        state={{
+                            logos: state.logos,
+                            category: state.category,
+                            categoryMenuVisible: state.categoryMenuVisible,
+                            columns: state.columns,
+                            favorites,
+                            heading,
+                            search: state.search,
+                            tag: state.tag,
+                            tagCloudVisible: state.tagCloudVisible
+                        }}
+                        toggleCategoryMenu={this._toggleCategoryMenuVisibility.bind(this)}
+                        trackEvent={this._trackEvent.bind(this)}
+                        visible={visible} />
                     <main>
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
                             {logos}
@@ -327,6 +332,6 @@ var App = React.createClass({
             </div>
         );
     }
-});
+}
 
-module.exports = App;
+export default App;

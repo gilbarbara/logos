@@ -1,15 +1,21 @@
-var React           = require('react'),
-    ReactDOM        = require('react-dom'),
-    PureRenderMixin = require('react-addons-pure-render-mixin'),
-    Colors          = require('../utils/Colors'),
-    ScaleLog        = require('../utils/ScaleLog'),
-    config          = require('../config'),
-    Icon            = require('./Icon');
+import React from 'react';
+import ReactDOM from 'react-dom';
+import PureRender from 'react-pure-render/function';
+import Colors from '../utils/Colors';
+import ScaleLog from '../utils/ScaleLog';
+import config from '../config';
+import Icon from './Icon';
 
-var Header = React.createClass({
-    mixins: [PureRenderMixin],
+class Header extends React.Component {
+    constructor (props) {
+        super(props);
 
-    propTypes: {
+        this.state = {
+            ready: false
+        };
+    }
+
+    static propTypes = {
         changeCategory: React.PropTypes.func.isRequired,
         changeTag: React.PropTypes.func.isRequired,
         onClickChangeColumns: React.PropTypes.func.isRequired,
@@ -20,13 +26,9 @@ var Header = React.createClass({
         toggleCategoryMenu: React.PropTypes.func.isRequired,
         trackEvent: React.PropTypes.func.isRequired,
         visible: React.PropTypes.number.isRequired
-    },
+    };
 
-    getInitialState () {
-        return {
-            ready: false
-        };
-    },
+    shouldComponentUpdate = PureRender;
 
     componentDidMount () {
         let tags       = {},
@@ -40,8 +42,8 @@ var Header = React.createClass({
             };
 
         if (config.features.categories) {
-            this.props.state.logos.forEach(function (d) {
-                d.categories.forEach(function (t) {
+            this.props.state.logos.forEach((d) => {
+                d.categories.forEach((t) => {
                     if (!categories.hasOwnProperty(t)) {
                         categories[t] = 0;
                     }
@@ -57,8 +59,8 @@ var Header = React.createClass({
         }
 
         if (config.features.tags) {
-            this.props.state.logos.forEach(function (d) {
-                d.tags.forEach(function (t) {
+            this.props.state.logos.forEach((d) => {
+                d.tags.forEach((t) => {
                     if (!tags.hasOwnProperty(t)) {
                         tags[t] = 0;
                     }
@@ -90,11 +92,12 @@ var Header = React.createClass({
             ready: true,
             fontScale: new ScaleLog(fScale)
         });
-    },
+    }
 
     _sortObject (obj, attr) {
-        var arr = [];
-        for (var prop in obj) {
+        let arr = [];
+
+        for (let prop in obj) {
             if (obj.hasOwnProperty(prop)) {
                 arr.push({
                     key: prop,
@@ -104,40 +107,40 @@ var Header = React.createClass({
             }
         }
         if (attr === 'value') {
-            arr.sort(function (a, b) {
+            arr.sort((a, b) => {
                 return b.value - a.value;
             });
         }
         else {
-            arr.sort(function (a, b) {
+            arr.sort((a, b) => {
                 return a.key.toLowerCase().localeCompare(b.key.toLowerCase());
             }); //use this to sort as strings
         }
 
         return arr;
-    },
+    }
 
     _onClickShowCategories (e) {
         e.preventDefault();
-        var category = e.currentTarget.dataset.category;
+        let category = e.currentTarget.dataset.category;
 
         this.props.toggleCategoryMenu();
         this.props.trackEvent('categories', 'toggle', category !== 'categories' ? category : undefined);
-    },
+    }
 
     _onClickChangeCategory (e) {
         e.preventDefault();
 
-        var category = e.currentTarget.dataset.value;
+        let category = e.currentTarget.dataset.value;
 
         this.props.changeCategory(category);
         this.props.toggleCategoryMenu();
         this.props.trackEvent('category', 'click', category);
-    },
+    }
 
     _onClickTag (e) {
         e.preventDefault();
-        var tag = e.currentTarget.dataset.tag;
+        let tag = e.currentTarget.dataset.tag;
 
         this.props.changeTag(tag);
 
@@ -145,10 +148,10 @@ var Header = React.createClass({
             showTagCloud: false
         });
         this.props.trackEvent('tag', 'cloud', tag);
-    },
+    }
 
     render () {
-        var props      = this.props,
+        let props      = this.props,
             state      = this.state,
             categories = state.categories,
             output     = {},
@@ -206,7 +209,7 @@ var Header = React.createClass({
                                     }
 
                                 return (<a key={i} href="#" className={classes} data-tag={d.key}
-                                           onClick={this._onClickTag}>#{d.key + ' (' + d.value + ')'}</a>
+                                           onClick={this._onClickTag.bind(this)}>#{d.key + ' (' + d.value + ')'}</a>
                                     );
                                 })}
                         </div>
@@ -226,7 +229,7 @@ var Header = React.createClass({
                 categories = (
                     <span className="categories__menu">
                         for<a href="#" className="categories__toggle" data-category={props.state.category}
-                              onClick={this._onClickShowCategories}>{props.state.category !== 'categories' ? props.state.category : ''}
+                              onClick={this._onClickShowCategories.bind(this)}>{props.state.category !== 'categories' ? props.state.category : ''}
                         <Icon
                             id="navicon" /></a>
                         <ul>
@@ -234,7 +237,7 @@ var Header = React.createClass({
                                 return (
                                 <li key={i}
                                     className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
-                                    <a href="#" onClick={this._onClickChangeCategory}
+                                    <a href="#" onClick={this._onClickChangeCategory.bind(this)}
                                        data-value={d.key}>{d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}</a>
                                 </li>);
                                 })}
@@ -287,6 +290,6 @@ var Header = React.createClass({
             </header>
         );
     }
-});
+}
 
-module.exports = Header;
+export default Header;

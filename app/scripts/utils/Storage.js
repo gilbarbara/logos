@@ -1,17 +1,17 @@
-var Storage = {
-    getItem: function (name) {
+let Storage = {
+    getItem (name) {
         return JSON.parse(localStorage.getItem(name));
     },
 
-    setItem: function (name, value) {
+    setItem (name, value) {
         localStorage.setItem(name, JSON.stringify(value));
     },
 
-    removeItem: function (name) {
+    removeItem (name) {
         localStorage.removeItem(name);
     },
 
-    clearAll: function () {
+    clearAll () {
         localStorage.clear();
     }
 };
