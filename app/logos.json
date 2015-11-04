@@ -468,6 +468,24 @@
       "updated": "2015-10-08"
     },
     {
+      "name": "Aurous",
+      "files": [
+        "aurous.svg"
+      ],
+      "shortname": "aurous",
+      "url": "https://aurous.me/",
+      "tags": [
+        "music sharing",
+        "vectorized"
+      ],
+      "categories": [
+        "geeks",
+        "sharing"
+      ],
+      "updated": "2015-11-03",
+      "edited": true
+    },
+    {
       "name": "Auth0",
       "files": [
         "auth0.svg"
@@ -1333,8 +1351,7 @@
       "url": "http://browserify.org/",
       "tags": [
         "front-end",
-        "compiler",
-        "javascript",
+        "module bundler",
         "node.js",
         "cli"
       ],
@@ -3674,6 +3691,23 @@
       "updated": "2015-09-22"
     },
     {
+      "name": "Flood IO",
+      "files": [
+        "floodio.svg"
+      ],
+      "shortname": "floodio",
+      "url": "https://flood.io/",
+      "tags": [
+        "load testing",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-03",
+      "edited": true
+    },
+    {
       "name": "Flow",
       "files": [
         "flow.svg"
@@ -5892,6 +5926,23 @@
         "business"
       ],
       "updated": "2015-07-26"
+    },
+    {
+      "name": "Linode",
+      "files": [
+        "linode.svg"
+      ],
+      "shortname": "linode",
+      "url": "https://www.linode.com/",
+      "tags": [
+        "cloud computing",
+        "PaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-03",
+      "edited": true
     },
     {
       "name": "Linux Mint",
@@ -8149,6 +8200,22 @@
       "edited": true
     },
     {
+      "name": "Quora",
+      "files": [
+        "quora.svg"
+      ],
+      "shortname": "quora",
+      "url": "https://www.quora.com/",
+      "tags": [
+        "community",
+        "question-and-answer"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-11-03"
+    },
+    {
       "name": "Qt",
       "files": [
         "qt.svg"
@@ -8500,6 +8567,23 @@
       "updated": "2015-07-29"
     },
     {
+      "name": "Rollup.js",
+      "files": [
+        "rollupjs.svg"
+      ],
+      "shortname": "rollupjs",
+      "url": "http://rollupjs.org/",
+      "tags": [
+        "front-end",
+        "module bundler",
+        "node.js"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-03"
+    },
+    {
       "name": "RocketChat",
       "files": [
         "rocket-chat.svg"
@@ -8747,6 +8831,25 @@
         "DevOps"
       ],
       "updated": "2015-07-04"
+    },
+    {
+      "name": "Sameroom",
+      "files": [
+        "sameroom.svg"
+      ],
+      "shortname": "sameroom",
+      "url": "https://sameroom.io/",
+      "tags": [
+        "group chat",
+        "team collaboration",
+        "service integration",
+        "vectorized"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "updated": "2015-11-03",
+      "edited": true
     },
     {
       "name": "Sass",
@@ -10023,6 +10126,25 @@
         "sharing"
       ],
       "updated": "2015-07-24"
+    },
+    {
+      "name": "Turret",
+      "files": [
+        "turret.svg"
+      ],
+      "shortname": "turret",
+      "url": "http://bigfishtv.github.io/turret/",
+      "tags": [
+        "front-end framework",
+        "css",
+        "less",
+        "ui"
+      ],
+      "categories": [
+        "developers",
+        "designers"
+      ],
+      "updated": "2015-11-03"
     },
     {
       "name": "tuts+",

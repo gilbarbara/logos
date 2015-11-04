@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aurous.me/" target="_blank">Aurous</a> *
+![aurous](http://svgporn.com/logos/aurous.svg)
+
+## <a href="https://flood.io/" target="_blank">Flood IO</a> *
+![floodio](http://svgporn.com/logos/floodio.svg)
+
+## <a href="https://www.linode.com/" target="_blank">Linode</a> *
+![linode](http://svgporn.com/logos/linode.svg)
+
+## <a href="https://www.quora.com/" target="_blank">Quora</a>
+![quora](http://svgporn.com/logos/quora.svg)
+
+## <a href="http://rollupjs.org/" target="_blank">Rollup.js</a>
+![rollupjs](http://svgporn.com/logos/rollupjs.svg)
+
+## <a href="https://sameroom.io/" target="_blank">Sameroom</a> *
+![sameroom](http://svgporn.com/logos/sameroom.svg)
+
+## <a href="http://bigfishtv.github.io/turret/" target="_blank">Turret</a>
+![turret](http://svgporn.com/logos/turret.svg)
+
 ## <a href="https://500px.com/" target="_blank">500px</a>
 ![500px](http://svgporn.com/logos/500px.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://aurora.apache.org/" target="_blank">Aurora</a>
 ![aurora](http://svgporn.com/logos/aurora.svg)
-
-## <a href="https://mapzen.com/" target="_blank">Mapzen</a>
-![mapzen](http://svgporn.com/logos/mapzen.svg)
-
-## <a href="https://www.nomadproject.io/" target="_blank">Nomad</a> *
-![nomad](http://svgporn.com/logos/nomad.svg)
-
-## <a href="http://www.pixate.com/" target="_blank">Pixate</a>
-![pixate](http://svgporn.com/logos/pixate.svg)
-
-## <a href="http://puppylinux.org/" target="_blank">Puppy Linux</a> *
-![puppy-linux](http://svgporn.com/logos/puppy-linux.svg)
-
-## <a href="http://www.sparkcentral.com/" target="_blank">Sparkcentral</a>
-![sparkcentral](http://svgporn.com/logos/sparkcentral.svg)
-
-## <a href="http://surge.sh/" target="_blank">Surge</a>
-![surge](http://svgporn.com/logos/surge.svg)
-
-## <a href="http://www.google.com/adsense/" target="_blank">Google AdSense</a> *
-![google-adsense](http://svgporn.com/logos/google-adsense.svg)
 
 
 ---
