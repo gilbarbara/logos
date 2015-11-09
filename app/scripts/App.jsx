@@ -283,7 +283,7 @@ class App extends React.Component {
             d.files.forEach((f, j) => {
                 logos.push(
                     <Logo key={i + '-' + j} info={d} image={f} hidden={hidden}
-                          onClickTag={this._onClickTag} trackEvent={this._trackEvent} />
+                          onClickTag={this._onClickTag.bind(this)} trackEvent={this._trackEvent.bind(this)} />
                 );
             }, this);
 
