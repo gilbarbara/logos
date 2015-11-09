@@ -570,7 +570,7 @@
         "aws.svg"
       ],
       "shortname": "aws",
-      "url": "http://aws.amazon.com/",
+      "url": "https://aws.amazon.com/",
       "tags": [
         "cloud computing",
         "code deployment",
@@ -583,12 +583,29 @@
       "updated": "2015-06-11"
     },
     {
+      "name": "AWS API Gateway",
+      "files": [
+        "aws-api-gateway.svg"
+      ],
+      "shortname": "aws-api-gateway",
+      "url": "https://aws.amazon.com/api-gateway/",
+      "tags": [
+        "api framework",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-09",
+      "edited": true
+    },
+    {
       "name": "AWS CloudFormation",
       "files": [
         "aws-cloudformation.svg"
       ],
       "shortname": "aws-cloudformation",
-      "url": "http://aws.amazon.com/cloudformation/",
+      "url": "https://aws.amazon.com/cloudformation/",
       "tags": [
         "cloud management",
         "IaaS"
@@ -605,7 +622,7 @@
         "aws-cloudfront.svg"
       ],
       "shortname": "aws-cloudfront",
-      "url": "http://aws.amazon.com/cloudfront/",
+      "url": "https://aws.amazon.com/cloudfront/",
       "tags": [
         "CDN",
         "IaaS"
@@ -622,7 +639,7 @@
         "aws-cloudsearch.svg"
       ],
       "shortname": "aws-cloudsearch",
-      "url": "http://aws.amazon.com/cloudsearch/",
+      "url": "https://aws.amazon.com/cloudsearch/",
       "tags": [
         "search server",
         "IaaS"
@@ -639,7 +656,7 @@
         "aws-codedeploy.svg"
       ],
       "shortname": "aws-codedeploy",
-      "url": "http://aws.amazon.com/codedeploy/",
+      "url": "https://aws.amazon.com/codedeploy/",
       "tags": [
         "code deployment",
         "IaaS"
@@ -656,7 +673,7 @@
         "aws-cognito.svg"
       ],
       "shortname": "aws-cognito",
-      "url": "http://aws.amazon.com/cognito/",
+      "url": "https://aws.amazon.com/cognito/",
       "tags": [
         "user management",
         "authentication",
@@ -674,7 +691,7 @@
         "aws-dynamodb.svg"
       ],
       "shortname": "aws-dynamodb",
-      "url": "http://aws.amazon.com/dynamodb/",
+      "url": "https://aws.amazon.com/dynamodb/",
       "tags": [
         "database",
         "nosql",
@@ -692,7 +709,7 @@
         "aws-ec2.svg"
       ],
       "shortname": "aws-ec2",
-      "url": "http://aws.amazon.com/ec2/",
+      "url": "https://aws.amazon.com/ec2/",
       "tags": [
         "cloud computing",
         "IaaS"
@@ -709,7 +726,7 @@
         "aws-glacier.svg"
       ],
       "shortname": "aws-glacier",
-      "url": "http://aws.amazon.com/glacier/",
+      "url": "https://aws.amazon.com/glacier/",
       "tags": [
         "data backup",
         "IaaS"
@@ -726,7 +743,7 @@
         "aws-iam.svg"
       ],
       "shortname": "aws-iam",
-      "url": "http://aws.amazon.com/iam/",
+      "url": "https://aws.amazon.com/iam/",
       "tags": [
         "user management",
         "authentication",
@@ -744,7 +761,7 @@
         "aws-lambda.svg"
       ],
       "shortname": "aws-lambda",
-      "url": "http://aws.amazon.com/lambda/",
+      "url": "https://aws.amazon.com/lambda/",
       "tags": [
         "task processor",
         "IaaS"
@@ -761,7 +778,7 @@
         "aws-opsworks.svg"
       ],
       "shortname": "aws-opsworks",
-      "url": "http://aws.amazon.com/opsworks/",
+      "url": "https://aws.amazon.com/opsworks/",
       "tags": [
         "configuration manager",
         "chef",
@@ -779,7 +796,7 @@
         "aws-rds.svg"
       ],
       "shortname": "aws-rds",
-      "url": "http://aws.amazon.com/rds/",
+      "url": "https://aws.amazon.com/rds/",
       "tags": [
         "database",
         "sql",
@@ -797,7 +814,7 @@
         "aws-route53.svg"
       ],
       "shortname": "aws-route53",
-      "url": "http://aws.amazon.com/route53/",
+      "url": "https://aws.amazon.com/route53/",
       "tags": [
         "dns",
         "IaaS"
@@ -814,7 +831,7 @@
         "aws-s3.svg"
       ],
       "shortname": "aws-s3",
-      "url": "http://aws.amazon.com/s3/",
+      "url": "https://aws.amazon.com/s3/",
       "tags": [
         "cloud storage",
         "IaaS"
@@ -831,7 +848,7 @@
         "aws-ses.svg"
       ],
       "shortname": "aws-ses",
-      "url": "http://aws.amazon.com/ses/",
+      "url": "https://aws.amazon.com/ses/",
       "tags": [
         "transactional email",
         "IaaS"
@@ -848,7 +865,7 @@
         "aws-sns.svg"
       ],
       "shortname": "aws-sns",
-      "url": "http://aws.amazon.com/sns/",
+      "url": "https://aws.amazon.com/sns/",
       "tags": [
         "push notification",
         "mobile",
@@ -866,7 +883,7 @@
         "aws-sqs.svg"
       ],
       "shortname": "aws-sqs",
-      "url": "http://aws.amazon.com/sqs/",
+      "url": "https://aws.amazon.com/sqs/",
       "tags": [
         "message queue",
         "IaaS"
@@ -1139,6 +1156,24 @@
         "developers"
       ],
       "updated": "2015-07-04"
+    },
+    {
+      "name": "Bitnami",
+      "files": [
+        "bitnami.svg"
+      ],
+      "shortname": "bitnami",
+      "url": "https://bitnami.com/",
+      "tags": [
+        "app deployment",
+        "virtual machine",
+        "PaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-09",
+      "edited": true
     },
     {
       "name": "Bitrise",
@@ -1840,6 +1875,25 @@
       "updated": "2015-07-29"
     },
     {
+      "name": "CloudAcademy",
+      "files": [
+        "cloudacademy.svg"
+      ],
+      "shortname": "cloudacademy",
+      "url": "https://cloudacademy.com/",
+      "tags": [
+        "learning",
+        "courses",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
+      ],
+      "updated": "2015-11-09",
+      "edited": true
+    },
+    {
       "name": "CloudFlare",
       "files": [
         "cloudflare.svg"
@@ -2190,6 +2244,23 @@
         "developers"
       ],
       "updated": "2015-08-06",
+      "edited": true
+    },
+    {
+      "name": "Consul",
+      "files": [
+        "consul.svg"
+      ],
+      "shortname": "consul",
+      "url": "https://www.consul.io/",
+      "tags": [
+        "service discovery",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-09",
       "edited": true
     },
     {
@@ -4610,6 +4681,26 @@
         "developers"
       ],
       "updated": "2015-09-28"
+    },
+    {
+      "name": "Hibernate",
+      "files": [
+        "hibernate.svg"
+      ],
+      "shortname": "hibernate",
+      "url": "http://hibernate.org/",
+      "tags": [
+        "ORM",
+        "database",
+        "sql",
+        "nosql",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-09",
+      "edited": true
     },
     {
       "name": "Hoodie",
@@ -7291,6 +7382,25 @@
       "updated": "2015-07-11"
     },
     {
+      "name": "OpenCart",
+      "files": [
+        "opencart.svg"
+      ],
+      "shortname": "opencart",
+      "url": "http://www.opencart.com/",
+      "tags": [
+        "e-commerce",
+        "open source",
+        "php"
+      ],
+      "categories": [
+        "business",
+        "developers"
+      ],
+      "updated": "2015-11-09",
+      "edited": true
+    },
+    {
       "name": "OpenLayers",
       "files": [
         "openlayers.svg"
@@ -9341,6 +9451,23 @@
       "updated": "2015-07-30"
     },
     {
+      "name": "Spark",
+      "files": [
+        "spark.svg"
+      ],
+      "shortname": "spark",
+      "url": "http://sparkjava.com/",
+      "tags": [
+        "web app framework",
+        "java"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-09",
+      "edited": true
+    },
+    {
       "name": "Sparkcentral",
       "files": [
         "sparkcentral.svg"
@@ -10647,6 +10774,24 @@
         "developers"
       ],
       "updated": "2015-06-15"
+    },
+    {
+      "name": "WakaTime",
+      "files": [
+        "wakatime.svg"
+      ],
+      "shortname": "wakatime",
+      "url": "https://wakatime.com/",
+      "tags": [
+        "time tracking",
+        "coding metrics",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-09",
+      "edited": true
     },
     {
       "name": "Waffle",
