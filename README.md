@@ -19,6 +19,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aws.amazon.com/api-gateway/" target="_blank">AWS API Gateway</a> *
+![aws-api-gateway](http://svgporn.com/logos/aws-api-gateway.svg)
+
+## <a href="https://bitnami.com/" target="_blank">Bitnami</a> *
+![bitnami](http://svgporn.com/logos/bitnami.svg)
+
+## <a href="https://cloudacademy.com/" target="_blank">CloudAcademy</a> *
+![cloudacademy](http://svgporn.com/logos/cloudacademy.svg)
+
+## <a href="https://www.consul.io/" target="_blank">Consul</a> *
+![consul](http://svgporn.com/logos/consul.svg)
+
+## <a href="http://hibernate.org/" target="_blank">Hibernate</a> *
+![hibernate](http://svgporn.com/logos/hibernate.svg)
+
+## <a href="http://www.opencart.com/" target="_blank">OpenCart</a> *
+![opencart](http://svgporn.com/logos/opencart.svg)
+
+## <a href="http://sparkjava.com/" target="_blank">Spark</a> *
+![spark](http://svgporn.com/logos/spark.svg)
+
+## <a href="https://wakatime.com/" target="_blank">WakaTime</a> *
+![wakatime](http://svgporn.com/logos/wakatime.svg)
+
 ## <a href="https://aurous.me/" target="_blank">Aurous</a> *
 ![aurous](http://svgporn.com/logos/aurous.svg)
 
@@ -82,7 +106,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.olapic.com/" target="_blank">olapic</a>
 ![olapic](http://svgporn.com/logos/olapic.svg)
 
-## <a href="http://aws.amazon.com/cloudsearch/" target="_blank">AWS CloudSearch</a> *
+## <a href="https://aws.amazon.com/cloudsearch/" target="_blank">AWS CloudSearch</a> *
 ![aws-cloudsearch](http://svgporn.com/logos/aws-cloudsearch.svg)
 
 ## <a href="https://codio.com/" target="_blank">Codio</a>
@@ -144,30 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.lighttpd.net/" target="_blank">lighttpd</a> *
 ![lighttpd](http://svgporn.com/logos/lighttpd.svg)
-
-## <a href="http://aws.amazon.com/sns/" target="_blank">AWS SNS (Simple Notification Service)</a> *
-![aws-sns](http://svgporn.com/logos/aws-sns.svg)
-
-## <a href="https://getcomposer.org/" target="_blank">Composer</a> *
-![composer](http://svgporn.com/logos/composer.svg)
-
-## <a href="http://derbyjs.com/" target="_blank">Derby</a> *
-![derby](http://svgporn.com/logos/derby.svg)
-
-## <a href="http://maps.me/" target="_blank">MAPS.ME</a> *
-![maps-me](http://svgporn.com/logos/maps-me.svg)
-
-## <a href="https://medium.com/" target="_blank">Medium</a>
-![medium](http://svgporn.com/logos/medium.svg)
-
-## <a href="https://testmunk.com/" target="_blank">Testmunk</a> *
-![testmunk](http://svgporn.com/logos/testmunk.svg)
-
-## <a href="https://zulip.com/" target="_blank">Zulip</a> *
-![zulip](http://svgporn.com/logos/zulip.svg)
-
-## <a href="http://aurora.apache.org/" target="_blank">Aurora</a>
-![aurora](http://svgporn.com/logos/aurora.svg)
 
 
 ---
