@@ -19,10 +19,31 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.alfresco.com/" target="_blank">Alfresco</a>
+![alfresco](http://svgporn.com/logos/alfresco.svg)
+
+## <a href="https://c9.io/" target="_blank">Cloud9</a>
+![cloud9](http://svgporn.com/logos/cloud9.svg)
+
+## <a href="http://designmodo.github.io/Flat-UI/" target="_blank">Flat UI</a> *
+![flat-ui](http://svgporn.com/logos/flat-ui.svg)
+
+## <a href="https://positionly.com/" target="_blank">Positionly</a>
+![positionly](http://svgporn.com/logos/positionly.svg)
+
+## <a href="http://cpanel.com/" target="_blank">cPanel</a>
+![cpanel](http://svgporn.com/logos/cpanel.svg)
+
+## <a href="http://jquerymobile.com/" target="_blank">jQuery Mobile</a> *
+![jquery-mobile](http://svgporn.com/logos/jquery-mobile.svg)
+
+## <a href="http://www.tsu.co/" target="_blank">tsū˜</a>
+![tsu](http://svgporn.com/logos/tsu.svg)
+
 ## <a href="https://aws.amazon.com/api-gateway/" target="_blank">AWS API Gateway</a> *
 ![aws-api-gateway](http://svgporn.com/logos/aws-api-gateway.svg)
 
-## <a href="https://bitnami.com/" target="_blank">Bitnami</a> *
+## <a href="https://bitnami.com/" target="_blank">Bitnami</a>
 ![bitnami](http://svgporn.com/logos/bitnami.svg)
 
 ## <a href="https://cloudacademy.com/" target="_blank">CloudAcademy</a> *
@@ -37,7 +58,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.opencart.com/" target="_blank">OpenCart</a> *
 ![opencart](http://svgporn.com/logos/opencart.svg)
 
-## <a href="http://sparkjava.com/" target="_blank">Spark</a> *
+## <a href="http://sparkjava.com/" target="_blank">Spark</a>
 ![spark](http://svgporn.com/logos/spark.svg)
 
 ## <a href="https://wakatime.com/" target="_blank">WakaTime</a> *
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.yammer.com/" target="_blank">Yammer</a>
 ![yammer](http://svgporn.com/logos/yammer.svg)
-
-## <a href="https://cucumber.io/" target="_blank">Cucumber</a>
-![cucumber](http://svgporn.com/logos/cucumber.svg)
-
-## <a href="http://dyn.com/dns/" target="_blank">Dyn</a>
-![dyndns](http://svgporn.com/logos/dyndns.svg)
-
-## <a href="http://getmagneto.com/" target="_blank">Magneto</a>
-![magneto](http://svgporn.com/logos/magneto.svg)
-
-## <a href="https://www.mozilla.org/" target="_blank">Mozilla</a>
-![mozilla](http://svgporn.com/logos/mozilla.svg)
-
-## <a href="https://www.vaultproject.io/" target="_blank">Vault</a> *
-![vault](http://svgporn.com/logos/vault.svg)
-
-## <a href="http://wpengine.com/" target="_blank">WP engine</a>
-![wpengine](http://svgporn.com/logos/wpengine.svg)
-
-## <a href="http://www.lighttpd.net/" target="_blank">lighttpd</a> *
-![lighttpd](http://svgporn.com/logos/lighttpd.svg)
 
 
 ---
