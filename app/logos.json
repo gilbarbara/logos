@@ -99,6 +99,22 @@
       "edited": true
     },
     {
+      "name": "Alfresco",
+      "files": [
+        "alfresco.svg"
+      ],
+      "shortname": "alfresco",
+      "url": "https://www.alfresco.com/",
+      "tags": [
+        "ECM",
+        "BPM"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-11-12"
+    },
+    {
       "name": "Android",
       "files": [
         "android-icon.svg",
@@ -1172,8 +1188,7 @@
       "categories": [
         "DevOps"
       ],
-      "updated": "2015-11-09",
-      "edited": true
+      "updated": "2015-11-09"
     },
     {
       "name": "Bitrise",
@@ -1875,6 +1890,23 @@
       "updated": "2015-07-29"
     },
     {
+      "name": "Cloud9",
+      "files": [
+        "cloud9.svg"
+      ],
+      "shortname": "cloud9",
+      "url": "https://c9.io/",
+      "tags": [
+        "code editor",
+        "IDE",
+        "service"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-12"
+    },
+    {
       "name": "CloudAcademy",
       "files": [
         "cloudacademy.svg"
@@ -2421,6 +2453,22 @@
         "developers"
       ],
       "updated": "2015-07-29"
+    },
+    {
+      "name": "cPanel",
+      "files": [
+        "cpanel.svg"
+      ],
+      "shortname": "cpanel",
+      "url": "http://cpanel.com/",
+      "tags": [
+        "web hosting",
+        "control panel"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-12"
     },
     {
       "name": "Craft",
@@ -3657,6 +3705,27 @@
         "developers"
       ],
       "updated": "2015-06-29"
+    },
+    {
+      "name": "Flat UI",
+      "files": [
+        "flat-ui.svg"
+      ],
+      "shortname": "flat-ui",
+      "url": "http://designmodo.github.io/Flat-UI/",
+      "tags": [
+        "front-end framework",
+        "css",
+        "bootstrap",
+        "ui",
+        "vectorized"
+      ],
+      "categories": [
+        "designers",
+        "developers"
+      ],
+      "updated": "2015-11-12",
+      "edited": true
     },
     {
       "name": "Flattr",
@@ -5354,13 +5423,32 @@
       "shortname": "jquery",
       "url": "https://jquery.com/",
       "tags": [
-        "javascript",
-        "library"
+        "library",
+        "javascript"
       ],
       "categories": [
         "developers"
       ],
       "updated": "2015-06-11"
+    },
+    {
+      "name": "jQuery Mobile",
+      "files": [
+        "jquery-mobile.svg"
+      ],
+      "shortname": "jquery-mobile",
+      "url": "http://jquerymobile.com/",
+      "tags": [
+        "front-end framework",
+        "mobile",
+        "ui",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-12",
+      "edited": true
     },
     {
       "name": "JRuby",
@@ -8006,6 +8094,23 @@
       "favorite": true
     },
     {
+      "name": "Positionly",
+      "files": [
+        "positionly.svg"
+      ],
+      "shortname": "positionly",
+      "url": "https://positionly.com/",
+      "tags": [
+        "SEO",
+        "inbound marketing",
+        "marketing"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-11-12"
+    },
+    {
       "name": "PostCSS",
       "files": [
         "postcss.svg"
@@ -9464,8 +9569,7 @@
       "categories": [
         "developers"
       ],
-      "updated": "2015-11-09",
-      "edited": true
+      "updated": "2015-11-09"
     },
     {
       "name": "Sparkcentral",
@@ -10234,6 +10338,21 @@
         "geeks"
       ],
       "updated": "2015-07-17"
+    },
+    {
+      "name": "tsū˜",
+      "files": [
+        "tsu.svg"
+      ],
+      "shortname": "tsu",
+      "url": "http://www.tsu.co/",
+      "tags": [
+        "social network"
+      ],
+      "categories": [
+        "sharing"
+      ],
+      "updated": "2015-11-12"
     },
     {
       "name": "tumblr",
