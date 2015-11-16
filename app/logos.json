@@ -1679,6 +1679,7 @@
     {
       "name": "CentOS",
       "files": [
+        "centos-icon.svg",
         "centos.svg"
       ],
       "shortname": "centos",
@@ -1923,6 +1924,25 @@
         "DevOps"
       ],
       "updated": "2015-11-09",
+      "edited": true
+    },
+    {
+      "name": "Cloudant",
+      "files": [
+        "cloudant.svg"
+      ],
+      "shortname": "cloudant",
+      "url": "https://cloudant.com/",
+      "tags": [
+        "database",
+        "nosql",
+        "DBaaS",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-16",
       "edited": true
     },
     {
@@ -2356,6 +2376,7 @@
     {
       "name": "CoreOS",
       "files": [
+        "coreos-icon.svg",
         "coreos.svg"
       ],
       "shortname": "coreos",
@@ -3983,8 +4004,8 @@
       "shortname": "framed.svg",
       "url": "http://framed.io/",
       "tags": [
-        "analytics",
         "customer analytics",
+        "analytics",
         "vectorized"
       ],
       "categories": [
@@ -4410,6 +4431,25 @@
       "updated": "2015-07-05"
     },
     {
+      "name": "Grape",
+      "files": [
+        "grape.svg"
+      ],
+      "shortname": "grape",
+      "url": "http://intridea.github.io/grape/",
+      "tags": [
+        "api framework",
+        "microframework",
+        "ruby",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-16",
+      "edited": true
+    },
+    {
       "name": "Gratipay",
       "files": [
         "gratipay.svg"
@@ -4692,8 +4732,8 @@
       "shortname": "heap",
       "url": "https://heapanalytics.com/",
       "tags": [
-        "analytics",
-        "funnel analytics"
+        "funnel analytics",
+        "analytics"
       ],
       "categories": [
         "business"
@@ -5314,6 +5354,25 @@
       "edited": true
     },
     {
+      "name": "Jelastic",
+      "files": [
+        "jelastic.svg"
+      ],
+      "shortname": "jelastic",
+      "url": "http://jelastic.com/",
+      "tags": [
+        "cloud computing",
+        "PaaS",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
+      ],
+      "updated": "2015-11-16",
+      "edited": true
+    },
+    {
       "name": "Jenkins",
       "files": [
         "jenkins.svg"
@@ -5613,8 +5672,8 @@
       "shortname": "keen",
       "url": "http://keen.io/",
       "tags": [
-        "analytics",
         "custom analytics",
+        "analytics",
         "service integration"
       ],
       "categories": [
@@ -5733,8 +5792,8 @@
       "shortname": "kissmetrics",
       "url": "https://kissmetrics.com/",
       "tags": [
-        "analytics",
-        "funnel analytics"
+        "funnel analytics",
+        "analytics"
       ],
       "categories": [
         "business"
@@ -6299,6 +6358,25 @@
       "updated": "2015-07-09"
     },
     {
+      "name": "Lumen",
+      "files": [
+        "lumen.svg"
+      ],
+      "shortname": "lumen",
+      "url": "http://lumen.laravel.com/",
+      "tags": [
+        "api framework",
+        "microframework",
+        "php",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-16",
+      "edited": true
+    },
+    {
       "name": "lynda.com",
       "files": [
         "lynda.svg"
@@ -6734,6 +6812,22 @@
       "updated": "2015-08-06"
     },
     {
+      "name": "Metabase",
+      "files": [
+        "metabase.svg"
+      ],
+      "shortname": "metabase",
+      "url": "http://www.metabase.com/",
+      "tags": [
+        "business intelligence",
+        "analytics"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-11-16"
+    },
+    {
       "name": "Meteor",
       "files": [
         "meteor-icon.svg",
@@ -6824,8 +6918,8 @@
       "shortname": "mixpanel",
       "url": "https://mixpanel.com/",
       "tags": [
-        "analytics",
         "funnel analytics",
+        "analytics",
         "SaaS"
       ],
       "categories": [
@@ -8415,6 +8509,23 @@
       "edited": true
     },
     {
+      "name": "Quay",
+      "files": [
+        "quay.svg"
+      ],
+      "shortname": "quay",
+      "url": "https://quay.io/",
+      "tags": [
+        "docker",
+        "private storage"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-16",
+      "edited": true
+    },
+    {
       "name": "Quora",
       "files": [
         "quora.svg"
@@ -8746,6 +8857,24 @@
         "developers"
       ],
       "updated": "2015-07-05"
+    },
+    {
+      "name": "rkt",
+      "files": [
+        "rkt.svg"
+      ],
+      "shortname": "rkt",
+      "url": "https://github.com/coreos/rkt",
+      "tags": [
+        "containers",
+        "docker",
+        "cli",
+        "coreos"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-16"
     },
     {
       "name": "RocksDB",
@@ -10131,8 +10260,9 @@
       "shortname": "tectonic",
       "url": "https://tectonic.com/",
       "tags": [
-        "linux",
         "containers",
+        "coreos",
+        "kubernetes",
         "PaaS"
       ],
       "categories": [
@@ -11204,8 +11334,8 @@
       "shortname": "woopra",
       "url": "https://www.woopra.com/",
       "tags": [
-        "analytics",
-        "customer analytics"
+        "customer analytics",
+        "analytics"
       ],
       "categories": [
         "business"
