@@ -1,6 +1,6 @@
 SVG Logos
 ====================
-#### A collection of 600+ svg vector logos.
+#### A collection of 700+ svg vector logos.
 [View All](http://svgporn.com)
 
 The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc).<br/>
@@ -18,6 +18,33 @@ Please add your requests in the issues preferably with links to the vector files
 
 ---
 ### Latest logos
+
+## <a href="http://aws.amazon.com/mobile/" target="_blank">AWS Mobile Hub</a> *
+![aws-mobilehub](http://svgporn.com/logos/aws-mobilehub.svg)
+
+## <a href="http://www.bluetooth.com/" target="_blank">Bluetooth</a>
+![bluetooth](http://svgporn.com/logos/bluetooth.svg)
+
+## <a href="http://aws.amazon.com/mobile/" target="_blank">Chartblocks</a> *
+![chartblocks](http://svgporn.com/logos/chartblocks.svg)
+
+## <a href="http://gunicorn.org/" target="_blank">Gunicorn</a>
+![gunicorn](http://svgporn.com/logos/gunicorn.svg)
+
+## <a href="http://www.looker.com/" target="_blank">Looker</a>
+![looker](http://svgporn.com/logos/looker.svg)
+
+## <a href="https://www.percona.com/" target="_blank">Percona</a> *
+![percona](http://svgporn.com/logos/percona.svg)
+
+## <a href="http://www.wi-fi.org/" target="_blank">Wi-Fi</a>
+![wifi](http://svgporn.com/logos/wifi.svg)
+
+## <a href="http://www.z-wave.com/" target="_blank">Z-Wave</a> *
+![zwave](http://svgporn.com/logos/zwave.svg)
+
+## <a href="http://www.zigbee.org/" target="_blank">ZigBee</a> *
+![zigbee](http://svgporn.com/logos/zigbee.svg)
 
 ## <a href="https://cloudant.com/" target="_blank">Cloudant</a> *
 ![cloudant](http://svgporn.com/logos/cloudant.svg)
@@ -141,33 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.apachefriends.org/" target="_blank">XAMPP</a>
 ![xampp](http://svgporn.com/logos/xampp.svg)
-
-## <a href="http://autocode.crystal.sh/" target="_blank">autocode</a>
-![autocode](http://svgporn.com/logos/autocode.svg)
-
-## <a href="http://www.olapic.com/" target="_blank">olapic</a>
-![olapic](http://svgporn.com/logos/olapic.svg)
-
-## <a href="https://aws.amazon.com/cloudsearch/" target="_blank">AWS CloudSearch</a> *
-![aws-cloudsearch](http://svgporn.com/logos/aws-cloudsearch.svg)
-
-## <a href="https://codio.com/" target="_blank">Codio</a>
-![codio](http://svgporn.com/logos/codio.svg)
-
-## <a href="http://www.mattermost.org/" target="_blank">Mattermost</a> *
-![mattermost](http://svgporn.com/logos/mattermost.svg)
-
-## <a href="https://ottoproject.io/" target="_blank">Otto</a> *
-![otto](http://svgporn.com/logos/otto.svg)
-
-## <a href="https://saucelabs.com/" target="_blank">Sauce Labs</a>
-![saucelabs](http://svgporn.com/logos/saucelabs.svg)
-
-## <a href="http://www.testlodge.com/" target="_blank">TestLodge</a> *
-![testlodge](http://svgporn.com/logos/testlodge.svg)
-
-## <a href="http://vaddy.net/" target="_blank">VAddy</a> *
-![vaddy](http://svgporn.com/logos/vaddy.svg)
 
 
 ---
