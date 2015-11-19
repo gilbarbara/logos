@@ -789,6 +789,27 @@
       "edited": true
     },
     {
+      "name": "AWS Mobile Hub",
+      "files": [
+        "aws-mobilehub.svg"
+      ],
+      "shortname": "aws-mobilehub",
+      "url": "http://aws.amazon.com/mobile/",
+      "tags": [
+        "database",
+        "push notification",
+        "cloud storage",
+        "mobile",
+        "testing",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-19",
+      "edited": true
+    },
+    {
       "name": "AWS Opworks",
       "files": [
         "aws-opsworks.svg"
@@ -1255,6 +1276,23 @@
         "teams"
       ],
       "updated": "2015-07-09"
+    },
+    {
+      "name": "Bluetooth",
+      "files": [
+        "bluetooth.svg"
+      ],
+      "shortname": "bluetooth",
+      "url": "http://www.bluetooth.com/",
+      "tags": [
+        "wireless",
+        "protocol",
+        "technology"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-11-19"
     },
     {
       "name": "Bootstrap",
@@ -1745,6 +1783,23 @@
         "geeks"
       ],
       "updated": "2015-09-26"
+    },
+    {
+      "name": "Chartblocks",
+      "files": [
+        "chartblocks.svg"
+      ],
+      "shortname": "chartblocks",
+      "url": "http://aws.amazon.com/mobile/",
+      "tags": [
+        "business intelligence",
+        "charts"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-11-19",
+      "edited": true
     },
     {
       "name": "Chef",
@@ -4552,6 +4607,22 @@
       "updated": "2015-06-11"
     },
     {
+      "name": "Gunicorn",
+      "files": [
+        "gunicorn.svg"
+      ],
+      "shortname": "gunicorn",
+      "url": "http://gunicorn.org/",
+      "tags": [
+        "web server",
+        "python"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-19"
+    },
+    {
       "name": "GWT",
       "files": [
         "gwt.svg"
@@ -6280,6 +6351,22 @@
       "updated": "2015-07-29"
     },
     {
+      "name": "Looker",
+      "files": [
+        "looker.svg"
+      ],
+      "shortname": "looker",
+      "url": "http://www.looker.com/",
+      "tags": [
+        "business intelligence",
+        "analytics"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-11-19"
+    },
+    {
       "name": "Loopback",
       "files": [
         "loopback.svg"
@@ -7883,6 +7970,24 @@
         "business"
       ],
       "updated": "2015-08-12"
+    },
+    {
+      "name": "Percona",
+      "files": [
+        "percona.svg"
+      ],
+      "shortname": "percona",
+      "url": "https://www.percona.com/",
+      "tags": [
+        "database",
+        "performance",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-19",
+      "edited": true
     },
     {
       "name": "Percy",
@@ -11246,6 +11351,22 @@
       "updated": "2015-10-05"
     },
     {
+      "name": "Wi-Fi",
+      "files": [
+        "wifi.svg"
+      ],
+      "shortname": "wifi",
+      "url": "http://www.wi-fi.org/",
+      "tags": [
+        "wireless",
+        "protocol"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-11-19"
+    },
+    {
       "name": "Wicket",
       "files": [
         "wicket.svg"
@@ -11633,6 +11754,25 @@
       "updated": "2015-07-15"
     },
     {
+      "name": "ZigBee",
+      "files": [
+        "zigbee.svg"
+      ],
+      "shortname": "zigbee",
+      "url": "http://www.zigbee.org/",
+      "tags": [
+        "wireless",
+        "protocol",
+        "device integration",
+        "vectorized"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-11-19",
+      "edited": true
+    },
+    {
       "name": "Zoho",
       "files": [
         "zoho.svg"
@@ -11666,6 +11806,25 @@
         "teams"
       ],
       "updated": "2015-10-13",
+      "edited": true
+    },
+    {
+      "name": "Z-Wave",
+      "files": [
+        "zwave.svg"
+      ],
+      "shortname": "zwave",
+      "url": "http://www.z-wave.com/",
+      "tags": [
+        "wireless",
+        "protocol",
+        "home control",
+        "vectorized"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-11-19",
       "edited": true
     }
   ]
