@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.cloudera.com/" target="_blank">Cloudera</a>
+![cloudera](http://svgporn.com/logos/cloudera.svg)
+
+## <a href="https://www.dreamfactory.com/" target="_blank">DreamFactory</a> *
+![dreamfactory](http://svgporn.com/logos/dreamfactory.svg)
+
+## <a href="http://impala.io/" target="_blank">Impala</a> *
+![impala](http://svgporn.com/logos/impala.svg)
+
+## <a href="http://www.kontena.io/" target="_blank">Kontena</a> *
+![kontena](http://svgporn.com/logos/kontena.svg)
+
+## <a href="https://prottapp.com/" target="_blank">Prott</a>
+![prott](http://svgporn.com/logos/prott.svg)
+
+## <a href="http://reapp.io/" target="_blank">Reapp</a>
+![reapp](http://svgporn.com/logos/reapp.svg)
+
+## <a href="https://tsuru.io/" target="_blank">tsuru</a> *
+![tsuru](http://svgporn.com/logos/tsuru.svg)
+
 ## <a href="http://aws.amazon.com/mobile/" target="_blank">AWS Mobile Hub</a> *
 ![aws-mobilehub](http://svgporn.com/logos/aws-mobilehub.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.pushbullet.com/" target="_blank">Pushbullet</a> *
 ![pushbullet](http://svgporn.com/logos/pushbullet.svg)
-
-## <a href="http://www.redhat.com/" target="_blank">RedHat</a>
-![redhat](http://svgporn.com/logos/redhat.svg)
-
-## <a href="https://www.xero.com/" target="_blank">Xero</a>
-![xero](http://svgporn.com/logos/xero.svg)
-
-## <a href="http://www.gnu.org/software/emacs/" target="_blank">Emacs</a> *
-![emacs](http://svgporn.com/logos/emacs.svg)
-
-## <a href="https://formkeep.com/" target="_blank">FormKeep</a>
-![formkeep](http://svgporn.com/logos/formkeep.svg)
-
-## <a href="http://ink.sapo.pt/" target="_blank">Ink</a> *
-![ink](http://svgporn.com/logos/ink.svg)
-
-## <a href="http://www.sitepoint.com/" target="_blank">SitePoint</a>
-![sitepoint](http://svgporn.com/logos/sitepoint.svg)
-
-## <a href="https://www.apachefriends.org/" target="_blank">XAMPP</a>
-![xampp](http://svgporn.com/logos/xampp.svg)
 
 
 ---

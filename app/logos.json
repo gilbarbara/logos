@@ -2001,6 +2001,23 @@
       "edited": true
     },
     {
+      "name": "Cloudera",
+      "files": [
+        "cloudera.svg"
+      ],
+      "shortname": "cloudera",
+      "url": "http://www.cloudera.com/",
+      "tags": [
+        "database",
+        "hadoop",
+        "big data"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-23"
+    },
+    {
       "name": "CloudFlare",
       "files": [
         "cloudflare.svg"
@@ -3079,6 +3096,25 @@
         "developers"
       ],
       "updated": "2015-07-05"
+    },
+    {
+      "name": "DreamFactory",
+      "files": [
+        "dreamfactory.svg"
+      ],
+      "shortname": "dreamfactory",
+      "url": "https://www.dreamfactory.com/",
+      "tags": [
+        "mobile",
+        "DBaaS",
+        "api",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-23",
+      "edited": true
     },
     {
       "name": "DreamHost",
@@ -4670,6 +4706,7 @@
         "distributed computing",
         "distributed storage",
         "database",
+        "big data",
         "java"
       ],
       "categories": [
@@ -5112,6 +5149,25 @@
         "developers"
       ],
       "updated": "2015-09-24"
+    },
+    {
+      "name": "Impala",
+      "files": [
+        "impala.svg"
+      ],
+      "shortname": "impala",
+      "url": "http://impala.io/",
+      "tags": [
+        "database",
+        "big data",
+        "hadoop",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-23",
+      "edited": true
     },
     {
       "name": "import.io",
@@ -5956,6 +6012,26 @@
         "developers"
       ],
       "updated": "2015-08-26",
+      "edited": true
+    },
+    {
+      "name": "Kontena",
+      "files": [
+        "kontena.svg"
+      ],
+      "shortname": "kontena",
+      "url": "http://www.kontena.io/",
+      "tags": [
+        "docker",
+        "containers",
+        "PaaS",
+        "ruby",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-23",
       "edited": true
     },
     {
@@ -8474,6 +8550,23 @@
       "updated": "2015-09-01"
     },
     {
+      "name": "Prott",
+      "files": [
+        "prott.svg"
+      ],
+      "shortname": "prott",
+      "url": "https://prottapp.com/",
+      "tags": [
+        "prototyping",
+        "ui",
+        "mobile"
+      ],
+      "categories": [
+        "designers"
+      ],
+      "updated": "2015-11-23"
+    },
+    {
       "name": "Proto.io",
       "files": [
         "protoio.svg"
@@ -8828,6 +8921,26 @@
       ],
       "updated": "2015-09-24",
       "edited": true
+    },
+
+    {
+      "name": "Reapp",
+      "files": [
+        "reapp.svg"
+      ],
+      "shortname": "reapp",
+      "url": "http://reapp.io/",
+      "tags": [
+        "mobile framework",
+        "mobile",
+        "ios",
+        "facebook"
+      ],
+      "categories": [
+        "designers",
+        "developers"
+      ],
+      "updated": "2015-11-23"
     },
     {
       "name": "Reddit",
@@ -10590,6 +10703,23 @@
       "updated": "2015-11-12"
     },
     {
+      "name": "tsuru",
+      "files": [
+        "tsuru.svg"
+      ],
+      "shortname": "tsuru",
+      "url": "https://tsuru.io/",
+      "tags": [
+        "PaaS",
+        "open source"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-23",
+      "edited": true
+    },
+    {
       "name": "tumblr",
       "files": [
         "tumblr-icon.svg",
@@ -11559,7 +11689,7 @@
       "tags": [
         "service integration",
         "data transformation",
-        "BDaS",
+        "big data",
         "vectorized"
       ],
       "categories": [
