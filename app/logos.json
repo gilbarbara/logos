@@ -340,7 +340,8 @@
       "url": "https://webmaker.org/appmaker",
       "tags": [
         "application framework",
-        "mobile"
+        "mobile",
+        "mozilla"
       ],
       "categories": [
         "developers"
@@ -2034,6 +2035,22 @@
       "updated": "2015-08-26"
     },
     {
+      "name": "CloudLinux",
+      "files": [
+        "cloudlinux.svg"
+      ],
+      "shortname": "cloudlinux",
+      "url": "https://cloudlinux.com/",
+      "tags": [
+        "web hosting",
+        "virtual environment"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-26"
+    },
+    {
       "name": "CocoaPods",
       "files": [
         "cocoapods.svg"
@@ -3049,6 +3066,26 @@
       "favorite": true
     },
     {
+      "name": "Doctrine",
+      "files": [
+        "doctrine.svg"
+      ],
+      "shortname": "doctrine",
+      "url": "http://www.doctrine-project.org/",
+      "tags": [
+        "ORM",
+        "database",
+        "sql",
+        "php",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-26",
+      "edited": true
+    },
+    {
       "name": "Dojo Toolkit",
       "files": [
         "dojo.svg"
@@ -3579,6 +3616,23 @@
       ],
       "updated": "2015-06-11",
       "favorite": true
+    },
+    {
+      "name": "etcd",
+      "files": [
+        "etcd.svg"
+      ],
+      "shortname": "etcd",
+      "url": "https://github.com/coreos/etcd",
+      "tags": [
+        "service discovery",
+        "storage",
+        "coreos"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-11-26"
     },
     {
       "name": "EventSentry",
@@ -8084,6 +8138,23 @@
       "updated": "2015-10-29"
     },
     {
+      "name": "Periscope",
+      "files": [
+        "periscope.svg"
+      ],
+      "shortname": "periscope",
+      "url": "https://www.periscopedata.com/",
+      "tags": [
+        "business intelligence",
+        "charts",
+        "sql"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-11-26"
+    },
+    {
       "name": "Perl",
       "files": [
         "perl.svg"
@@ -10547,6 +10618,7 @@
       "url": "https://thimble.mozilla.org/",
       "tags": [
         "code editor",
+        "mozilla",
         "service"
       ],
       "categories": [
@@ -10652,6 +10724,22 @@
         "developers"
       ],
       "updated": "2015-06-24"
+    },
+    {
+      "name": "Treasure Data",
+      "files": [
+        "treasuredata.svg"
+      ],
+      "shortname": "treasuredata",
+      "url": "https://www.treasuredata.com/",
+      "tags": [
+        "bid data",
+        "analytics"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-11-26"
     },
     {
       "name": "treehouse",
@@ -11647,6 +11735,24 @@
       "edited": true
     },
     {
+      "name": "X-Ray Goggles",
+      "files": [
+        "x-ray-goggles.svg"
+      ],
+      "shortname": "x-ray-goggles",
+      "url": "https://webmaker.org/goggles",
+      "tags": [
+        "web inspector",
+        "mozilla",
+        "vectorized"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2015-11-26",
+      "edited": true
+    },
+    {
       "name": "XAMPP",
       "files": [
         "xampp.svg"
@@ -11875,7 +11981,8 @@
       "tags": [
         "project manager",
         "agile",
-        "kanban"
+        "kanban",
+        "github"
       ],
       "categories": [
         "developers",
@@ -11919,6 +12026,25 @@
       ],
       "updated": "2015-08-06",
       "edited": true
+    },
+    {
+      "name": "Zube",
+      "files": [
+        "zube.svg"
+      ],
+      "shortname": "zube",
+      "url": "https://zube.io/",
+      "tags": [
+        "project manager",
+        "agile",
+        "kanban",
+        "github"
+      ],
+      "categories": [
+        "developers",
+        "teams"
+      ],
+      "updated": "2015-11-26"
     },
     {
       "name": "Zulip",
