@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://cloudlinux.com/" target="_blank">CloudLinux</a>
+![cloudlinux](http://svgporn.com/logos/cloudlinux.svg)
+
+## <a href="http://www.doctrine-project.org/" target="_blank">Doctrine</a> *
+![doctrine](http://svgporn.com/logos/doctrine.svg)
+
+## <a href="https://www.periscopedata.com/" target="_blank">Periscope</a>
+![periscope](http://svgporn.com/logos/periscope.svg)
+
+## <a href="https://www.treasuredata.com/" target="_blank">Treasure Data</a>
+![treasuredata](http://svgporn.com/logos/treasuredata.svg)
+
+## <a href="https://webmaker.org/goggles" target="_blank">X-Ray Goggles</a> *
+![x-ray-goggles](http://svgporn.com/logos/x-ray-goggles.svg)
+
+## <a href="https://zube.io/" target="_blank">Zube</a>
+![zube](http://svgporn.com/logos/zube.svg)
+
+## <a href="https://github.com/coreos/etcd" target="_blank">etcd</a>
+![etcd](http://svgporn.com/logos/etcd.svg)
+
 ## <a href="http://www.cloudera.com/" target="_blank">Cloudera</a>
 ![cloudera](http://svgporn.com/logos/cloudera.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://rollupjs.org/" target="_blank">Rollup.js</a>
 ![rollupjs](http://svgporn.com/logos/rollupjs.svg)
-
-## <a href="https://sameroom.io/" target="_blank">Sameroom</a> *
-![sameroom](http://svgporn.com/logos/sameroom.svg)
-
-## <a href="http://bigfishtv.github.io/turret/" target="_blank">Turret</a>
-![turret](http://svgporn.com/logos/turret.svg)
-
-## <a href="https://500px.com/" target="_blank">500px</a>
-![500px](http://svgporn.com/logos/500px.svg)
-
-## <a href="https://www.autoitscript.com/" target="_blank">AutoIt</a>
-![autoit](http://svgporn.com/logos/autoit.svg)
-
-## <a href="https://gravatar.com/" target="_blank">Gravatar</a>
-![gravatar](http://svgporn.com/logos/gravatar.svg)
-
-## <a href="https://percy.io/" target="_blank">Percy</a>
-![percy](http://svgporn.com/logos/percy.svg)
-
-## <a href="https://www.pushbullet.com/" target="_blank">Pushbullet</a> *
-![pushbullet](http://svgporn.com/logos/pushbullet.svg)
 
 
 ---
