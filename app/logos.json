@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "name": "100tb",
+      "files": [
+        "100tb.svg"
+      ],
+      "shortname": "100tb",
+      "url": "https://www.100tb.com/",
+      "tags": [
+        "web hosting",
+        "CDN",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-06",
+      "edited": true
+    },
+    {
       "name": "500px",
       "files": [
         "500px.svg"
@@ -517,6 +535,23 @@
         "developers"
       ],
       "updated": "2015-07-01"
+    },
+    {
+      "name": "Authy",
+      "files": [
+        "authy.svg"
+      ],
+      "shortname": "authy",
+      "url": "https://www.authy.com/",
+      "tags": [
+        "two-factor authentication",
+        "authentication",
+        "security"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-06"
     },
     {
       "name": "autocode",
@@ -2798,6 +2833,24 @@
       "updated": "2015-07-06"
     },
     {
+      "name": "dat",
+      "files": [
+        "dat.svg"
+      ],
+      "shortname": "dat",
+      "url": "http://dat-data.com/",
+      "tags": [
+        "database",
+        "version control",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-06",
+      "edited": true
+    },
+    {
       "name": "Database Labs",
       "files": [
         "database-labs.svg"
@@ -4311,6 +4364,25 @@
         "developers"
       ],
       "updated": "2015-09-01",
+      "edited": true
+    },
+    {
+      "name": "GitUp",
+      "files": [
+        "gitup.svg"
+      ],
+      "shortname": "gitup",
+      "url": "http://gitup.co/",
+      "tags": [
+        "source code",
+        "version control",
+        "desktop app",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-06",
       "edited": true
     },
     {
@@ -7415,6 +7487,24 @@
       "updated": "2015-07-05"
     },
     {
+      "name": "Neonmetrics",
+      "files": [
+        "neonmetrics.svg"
+      ],
+      "shortname": "neonmetrics",
+      "url": "http://neonmetrics.com/",
+      "tags": [
+        "business intelligence",
+        "data aggregation",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-12-06",
+      "edited": true
+    },
+    {
       "name": "Neovim",
       "files": [
         "neovim.svg"
@@ -8574,6 +8664,24 @@
       "updated": "2015-07-07"
     },
     {
+      "name": "ProductBoard",
+      "files": [
+        "productboard.svg"
+      ],
+      "shortname": "productboard",
+      "url": "https://www.productboard.com/",
+      "tags": [
+        "project management",
+        "CDN",
+        "vectorized"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "updated": "2015-12-06",
+      "edited": true
+    },
+    {
       "name": "Producteev",
       "files": [
         "producteev.svg"
@@ -8993,7 +9101,6 @@
       "updated": "2015-09-24",
       "edited": true
     },
-
     {
       "name": "Reapp",
       "files": [
@@ -9063,6 +9170,24 @@
         "developers"
       ],
       "updated": "2015-06-14"
+    },
+    {
+      "name": "Refactor.io",
+      "files": [
+        "refactor.svg"
+      ],
+      "shortname": "refactor",
+      "url": "https://www.refactor.io/",
+      "tags": [
+        "code review",
+        "community",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-06",
+      "edited": true
     },
     {
       "name": "Relay",
