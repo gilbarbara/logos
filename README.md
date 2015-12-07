@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.100tb.com/" target="_blank">100tb</a> *
+![100tb](http://svgporn.com/logos/100tb.svg)
+
+## <a href="https://www.authy.com/" target="_blank">Authy</a>
+![authy](http://svgporn.com/logos/authy.svg)
+
+## <a href="http://gitup.co/" target="_blank">GitUp</a> *
+![gitup](http://svgporn.com/logos/gitup.svg)
+
+## <a href="http://neonmetrics.com/" target="_blank">Neonmetrics</a> *
+![neonmetrics](http://svgporn.com/logos/neonmetrics.svg)
+
+## <a href="https://www.productboard.com/" target="_blank">ProductBoard</a> *
+![productboard](http://svgporn.com/logos/productboard.svg)
+
+## <a href="https://www.refactor.io/" target="_blank">Refactor.io</a> *
+![refactor](http://svgporn.com/logos/refactor.svg)
+
+## <a href="http://dat-data.com/" target="_blank">dat</a> *
+![dat](http://svgporn.com/logos/dat.svg)
+
 ## <a href="https://cloudlinux.com/" target="_blank">CloudLinux</a>
 ![cloudlinux](http://svgporn.com/logos/cloudlinux.svg)
 
@@ -147,27 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.opencart.com/" target="_blank">OpenCart</a> *
 ![opencart](http://svgporn.com/logos/opencart.svg)
-
-## <a href="http://sparkjava.com/" target="_blank">Spark</a>
-![spark](http://svgporn.com/logos/spark.svg)
-
-## <a href="https://wakatime.com/" target="_blank">WakaTime</a> *
-![wakatime](http://svgporn.com/logos/wakatime.svg)
-
-## <a href="https://aurous.me/" target="_blank">Aurous</a> *
-![aurous](http://svgporn.com/logos/aurous.svg)
-
-## <a href="https://flood.io/" target="_blank">Flood IO</a> *
-![floodio](http://svgporn.com/logos/floodio.svg)
-
-## <a href="https://www.linode.com/" target="_blank">Linode</a> *
-![linode](http://svgporn.com/logos/linode.svg)
-
-## <a href="https://www.quora.com/" target="_blank">Quora</a>
-![quora](http://svgporn.com/logos/quora.svg)
-
-## <a href="http://rollupjs.org/" target="_blank">Rollup.js</a>
-![rollupjs](http://svgporn.com/logos/rollupjs.svg)
 
 
 ---

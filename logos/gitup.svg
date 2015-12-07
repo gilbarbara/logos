@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feMorphology radius="1" in="SourceAlpha" operator="dilate" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="1" dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.14 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-circles">
+            <feMorphology radius="1" in="SourceAlpha" operator="dilate" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.17 0" in="shadowBlurOuter1" type="matrix" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <clipPath id="clip-1">
+			<path d="M19.9202025,28.0114768 L194.68611,0.33107173 C207.413198,-1.68452321 219.364726,6.99868354 221.380321,19.7257722 L249.060456,194.491409 C251.076321,207.218498 242.393114,219.170025 229.666025,221.18562 L54.9001181,248.866025 C42.1732996,250.88162 30.2217722,242.198414 28.2059072,229.471325 L0.525772152,54.7056878 C-1.49009283,41.9785992 7.19311392,30.0270717 19.9202025,28.0114768 L19.9202025,28.0114768 Z"></path>
+		</clipPath>
+    </defs>
+	<g transform="translate(-1.000000, -1.000000)">
+		<g transform="translate(3.240506, 3.240506)">
+			<path d="M19.9202025,28.0114768 L194.68611,0.33107173 C207.413198,-1.68452321 219.364726,6.99868354 221.380321,19.7257722 L249.060456,194.491409 C251.076321,207.218498 242.393114,219.170025 229.666025,221.18562 L54.9001181,248.866025 C42.1732996,250.88162 30.2217722,242.198414 28.2059072,229.471325 L0.525772152,54.7056878 C-1.49009283,41.9785992 7.19311392,30.0270717 19.9202025,28.0114768 L19.9202025,28.0114768 Z" fill="#F5F5F5" filter="url(#filter-1)"></path>
+			<g clip-path="url(#clip-1)">
+				<ellipse fill="#FBFBFB" filter="url(#filter-circles)" cx="129.582177" cy="128.848203" rx="116.67092" ry="116.67092"></ellipse>
+				<circle fill="#FCFCFC" filter="url(#filter-circles)" cx="129.582177" cy="128.848203" r="72.9240844"></circle>
+				<circle fill="#FFFFFF" filter="url(#filter-circles)" cx="129.582447" cy="128.847932" r="29.1688776"></circle>
+			</g>
+		</g>
+		<path d="M23.2029531,31.5187006 L197.96886,3.83829554 C210.548714,1.84601823 222.361854,10.4288081 224.354109,23.0085188 L252.034244,197.774159 C254.026782,210.35397 245.444048,222.167147 232.864291,224.159408 L58.0983803,251.839814 C45.518795,253.832091 33.7056529,245.2493 31.7131307,232.669585 L4.03299601,57.9039502 C2.0404587,45.32414 10.6231927,33.5109631 23.2029491,31.5187012 L23.2029531,31.5187006 Z M23.1184686,30.985265 C10.2440979,33.0241851 1.46036036,45.1140209 3.49956125,57.9884399 L31.179696,232.754075 C33.2188812,245.628395 45.3086723,254.412185 58.1828656,252.37325 L232.948776,224.692844 C245.823143,222.653925 254.60688,210.564089 252.567679,197.68967 L224.887545,22.9240346 C222.848633,10.0497161 210.75884,1.26592514 197.884376,3.30485996 L23.1184646,30.9852656 L23.1184686,30.985265 Z" fill-opacity="0.2" fill="#000000"></path>
+	</g>
+</svg>
