@@ -334,6 +334,23 @@
       "updated": "2015-08-12"
     },
     {
+      "name": "AppHub",
+      "files": [
+        "apphub.svg"
+      ],
+      "shortname": "apphub",
+      "url": "https://apphub.io/",
+      "tags": [
+        "mobile",
+        "distribution platform"
+      ],
+      "categories": [
+        "developers",
+        "DevOps"
+      ],
+      "updated": "2015-12-10"
+    },
+    {
       "name": "Apple",
       "files": [
         "apple.svg"
@@ -2818,6 +2835,21 @@
       "favorite": true
     },
     {
+      "name": "dapulse",
+      "files": [
+        "dapulse.svg"
+      ],
+      "shortname": "dapulse",
+      "url": "https://dapulse.com/",
+      "tags": [
+        "project manager"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "updated": "2015-12-10"
+    },
+    {
       "name": "Dart",
       "files": [
         "dart.svg"
@@ -3890,6 +3922,23 @@
         "geeks"
       ],
       "updated": "2015-06-13"
+    },
+    {
+      "name": "flannel",
+      "files": [
+        "flannel.svg"
+      ],
+      "shortname": "flannel",
+      "url": "https://github.com/coreos/flannel",
+      "tags": [
+        "coreos",
+        "containers",
+        "virtual network"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-12-10"
     },
     {
       "name": "Flarum",
@@ -6307,6 +6356,24 @@
       "updated": "2015-09-19"
     },
     {
+      "name": "LaunchKit",
+      "files": [
+        "launchkit.svg"
+      ],
+      "shortname": "launchkit",
+      "url": "https://launchkit.io/",
+      "tags": [
+        "mobile",
+        "marketing",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-12-10",
+      "edited": true
+    },
+    {
       "name": "Leafjet",
       "files": [
         "leafjet.svg"
@@ -8462,6 +8529,25 @@
       "updated": "2015-07-09"
     },
     {
+      "name": "Plastic SCM",
+      "files": [
+        "plastic-scm.svg"
+      ],
+      "shortname": "plastic-scm",
+      "url": "https://www.plasticscm.com/",
+      "tags": [
+        "version control",
+        "enterprise",
+        "vectorized"
+      ],
+      "categories": [
+        "developers",
+        "teams"
+      ],
+      "updated": "2015-12-10",
+      "edited": true
+    },
+    {
       "name": "Play",
       "files": [
         "play.svg"
@@ -8647,6 +8733,25 @@
         "DevOps"
       ],
       "updated": "2015-08-10"
+    },
+    {
+      "name": "ProcessWire",
+      "files": [
+        "processwire-icon.svg",
+        "processwire.svg"
+      ],
+      "shortname": "processwire",
+      "url": "http://processwire.com/",
+      "tags": [
+        "content manager",
+        "web app framework",
+        "api",
+        "jquery"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-10"
     },
     {
       "name": "Product Hunt",
@@ -9170,6 +9275,24 @@
         "developers"
       ],
       "updated": "2015-06-14"
+    },
+    {
+      "name": "Redsmin",
+      "files": [
+        "redsmin.svg"
+      ],
+      "shortname": "redsmin",
+      "url": "https://redsmin.com/",
+      "tags": [
+        "database",
+        "redis",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-10",
+      "edited": true
     },
     {
       "name": "Refactor.io",

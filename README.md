@@ -19,6 +19,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://apphub.io/" target="_blank">AppHub</a>
+![apphub](http://svgporn.com/logos/apphub.svg)
+
+## <a href="https://launchkit.io/" target="_blank">LaunchKit</a> *
+![launchkit](http://svgporn.com/logos/launchkit.svg)
+
+## <a href="https://www.plasticscm.com/" target="_blank">Plastic SCM</a> *
+![plastic-scm](http://svgporn.com/logos/plastic-scm.svg)
+
+## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
+![processwire](http://svgporn.com/logos/processwire-icon.svg)
+
+![processwire](http://svgporn.com/logos/processwire.svg)
+
+## <a href="https://redsmin.com/" target="_blank">Redsmin</a> *
+![redsmin](http://svgporn.com/logos/redsmin.svg)
+
+## <a href="https://dapulse.com/" target="_blank">dapulse</a>
+![dapulse](http://svgporn.com/logos/dapulse.svg)
+
+## <a href="https://github.com/coreos/flannel" target="_blank">flannel</a>
+![flannel](http://svgporn.com/logos/flannel.svg)
+
 ## <a href="https://www.100tb.com/" target="_blank">100tb</a> *
 ![100tb](http://svgporn.com/logos/100tb.svg)
 
@@ -147,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://jquerymobile.com/" target="_blank">jQuery Mobile</a> *
 ![jquery-mobile](http://svgporn.com/logos/jquery-mobile.svg)
-
-## <a href="http://www.tsu.co/" target="_blank">tsū˜</a>
-![tsu](http://svgporn.com/logos/tsu.svg)
-
-## <a href="https://aws.amazon.com/api-gateway/" target="_blank">AWS API Gateway</a> *
-![aws-api-gateway](http://svgporn.com/logos/aws-api-gateway.svg)
-
-## <a href="https://bitnami.com/" target="_blank">Bitnami</a>
-![bitnami](http://svgporn.com/logos/bitnami.svg)
-
-## <a href="https://cloudacademy.com/" target="_blank">CloudAcademy</a> *
-![cloudacademy](http://svgporn.com/logos/cloudacademy.svg)
-
-## <a href="https://www.consul.io/" target="_blank">Consul</a> *
-![consul](http://svgporn.com/logos/consul.svg)
-
-## <a href="http://hibernate.org/" target="_blank">Hibernate</a> *
-![hibernate](http://svgporn.com/logos/hibernate.svg)
-
-## <a href="http://www.opencart.com/" target="_blank">OpenCart</a> *
-![opencart](http://svgporn.com/logos/opencart.svg)
 
 
 ---
