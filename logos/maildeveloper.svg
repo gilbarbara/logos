@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="256px" height="163px" viewBox="0 0 256 163" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="50.955803%" y1="28.8570963%" x2="-9.06318875%" y2="91.3480595%" id="linearGradient-1">
+            <stop stop-color="#eeeeee" offset="0%"></stop>
+            <stop stop-color="#5C6A7C" stop-opacity="0.2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+	<g>
+		<path d="M0,162.9 L0,0 L42.7,0 L85.4,43.4 L128,0 L170.7,0 C170.7,0 256,0 256,81.5 C256,163 170.7,163 170.7,163 L128,163 L128,54.3 L85.3,97.7 L42.7,54.3 L42.7,162.9 L0,162.9 L0,162.9 Z M170.7,43.4 L170.7,119.4 C170.7,119.4 212.5,119.4 213.4,81.4 C214.2,43.4 170.7,43.4 170.7,43.4 L170.7,43.4 Z" fill="#eeeeee"></path>
+		<path d="M252.7,56 C254.8,63.4 256,71.9 256,81.4 C256,162.9 170.7,162.9 170.7,162.9 L170.7,21.7 C170.7,21.7 222,30.8 252.7,56 L252.7,56 Z M170.7,43.4 L170.7,119.4 C170.7,119.4 212.5,119.4 213.4,81.4 C214.2,43.4 170.7,43.4 170.7,43.4 L170.7,43.4 Z" fill="url(#linearGradient-1)"></path>
+		<path d="M42.7,162.9 L42.7,119.5 L128,119.5 L128,162.9 L42.7,162.9 L42.7,162.9 Z" fill="#ABB3BC"></path>
+	</g>
+</svg>
