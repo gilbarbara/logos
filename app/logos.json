@@ -421,6 +421,22 @@
       "updated": "2015-07-23"
     },
     {
+      "name": "Apptentive",
+      "files": [
+        "apptentive.svg"
+      ],
+      "shortname": "apptentive",
+      "url": "http://apptentive.com/",
+      "tags": [
+        "customer support",
+        "live chat"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-12-14"
+    },
+    {
       "name": "ArangoDB",
       "files": [
         "arangodb.svg"
@@ -982,6 +998,24 @@
         "DevOps"
       ],
       "updated": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "AWS WAF (Web Application Firewall)",
+      "files": [
+        "aws-waf.svg"
+      ],
+      "shortname": "aws-waf",
+      "url": "https://aws.amazon.com/waf/",
+      "tags": [
+        "firewall",
+        "web app",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2015-12-14",
       "edited": true
     },
     {
@@ -1569,6 +1603,23 @@
         "developers"
       ],
       "updated": "2015-08-06",
+      "edited": true
+    },
+    {
+      "name": "Buddy",
+      "files": [
+        "buddy.svg"
+      ],
+      "shortname": "buddy",
+      "url": "https://buddy.works/",
+      "tags": [
+        "code deployment",
+        "continuous integration"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-14",
       "edited": true
     },
     {
@@ -4309,6 +4360,24 @@
       "favorite": true
     },
     {
+      "name": "Gauge",
+      "files": [
+        "gaugeio.svg"
+      ],
+      "shortname": "gaugeio",
+      "url": "http://getgauge.io/",
+      "tags": [
+        "mobile test automation",
+        "mobile",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-14",
+      "edited": true
+    },
+    {
       "name": "Get Satisfaction",
       "files": [
         "get-satisfaction.svg"
@@ -6834,6 +6903,25 @@
       "updated": "2015-07-05"
     },
     {
+      "name": "MailDeveloper",
+      "files": [
+        "maildeveloper.svg"
+      ],
+      "shortname": "maildeveloper",
+      "url": "https://maildeveloper.com/",
+      "tags": [
+        "ui",
+        "email editor",
+        "template"
+      ],
+      "categories": [
+        "designers",
+        "business"
+      ],
+      "updated": "2015-12-14",
+      "edited": true
+    },
+    {
       "name": "Mailgun",
       "files": [
         "mailgun.svg"
@@ -9107,6 +9195,22 @@
       "updated": "2015-06-24"
     },
     {
+      "name": "RAML",
+      "files": [
+        "raml.svg"
+      ],
+      "shortname": "raml",
+      "url": "http://raml.org/",
+      "tags": [
+        "language",
+        "api tools"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2015-12-14"
+    },
+    {
       "name": "Rancher",
       "files": [
         "rancher.svg"
@@ -10618,6 +10722,24 @@
         "geeks"
       ],
       "updated": "2015-07-26"
+    },
+    {
+      "name": "survicate",
+      "files": [
+        "survicate.svg"
+      ],
+      "shortname": "survicate",
+      "url": "http://survicate.com/",
+      "tags": [
+        "customer support",
+        "user feedback",
+        "vectorized"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2015-12-14",
+      "edited": true
     },
     {
       "name": "Susy",

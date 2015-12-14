@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aws.amazon.com/waf/" target="_blank">AWS WAF (Web Application Firewall)</a> *
+![aws-waf](http://svgporn.com/logos/aws-waf.svg)
+
+## <a href="http://apptentive.com/" target="_blank">Apptentive</a>
+![apptentive](http://svgporn.com/logos/apptentive.svg)
+
+## <a href="https://buddy.works/" target="_blank">Buddy</a> *
+![buddy](http://svgporn.com/logos/buddy.svg)
+
+## <a href="http://getgauge.io/" target="_blank">Gauge</a> *
+![gaugeio](http://svgporn.com/logos/gaugeio.svg)
+
+## <a href="https://maildeveloper.com/" target="_blank">MailDeveloper</a> *
+![maildeveloper](http://svgporn.com/logos/maildeveloper.svg)
+
+## <a href="http://raml.org/" target="_blank">RAML</a>
+![raml](http://svgporn.com/logos/raml.svg)
+
+## <a href="http://survicate.com/" target="_blank">survicate</a> *
+![survicate](http://svgporn.com/logos/survicate.svg)
+
 ## <a href="https://apphub.io/" target="_blank">AppHub</a>
 ![apphub](http://svgporn.com/logos/apphub.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://quay.io/" target="_blank">Quay</a> *
 ![quay](http://svgporn.com/logos/quay.svg)
-
-## <a href="https://github.com/coreos/rkt" target="_blank">rkt</a>
-![rkt](http://svgporn.com/logos/rkt.svg)
-
-## <a href="https://www.alfresco.com/" target="_blank">Alfresco</a>
-![alfresco](http://svgporn.com/logos/alfresco.svg)
-
-## <a href="https://c9.io/" target="_blank">Cloud9</a>
-![cloud9](http://svgporn.com/logos/cloud9.svg)
-
-## <a href="http://designmodo.github.io/Flat-UI/" target="_blank">Flat UI</a> *
-![flat-ui](http://svgporn.com/logos/flat-ui.svg)
-
-## <a href="https://positionly.com/" target="_blank">Positionly</a>
-![positionly](http://svgporn.com/logos/positionly.svg)
-
-## <a href="http://cpanel.com/" target="_blank">cPanel</a>
-![cpanel](http://svgporn.com/logos/cpanel.svg)
-
-## <a href="http://jquerymobile.com/" target="_blank">jQuery Mobile</a> *
-![jquery-mobile](http://svgporn.com/logos/jquery-mobile.svg)
 
 
 ---
