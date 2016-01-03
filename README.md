@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://cloudcraft.co/" target="_blank">Cloudcraft</a> *
+![cloudcraft](http://svgporn.com/logos/cloudcraft.svg)
+
+## <a href="https://cobalt.io/" target="_blank">Cobalt</a>
+![cobalt](http://svgporn.com/logos/cobalt.svg)
+
+## <a href="https://ethn.io/" target="_blank">Ethnio</a>
+![ethnio](http://svgporn.com/logos/ethnio.svg)
+
+## <a href="http://www.netuitive.com/" target="_blank">Netuitive</a> *
+![netuitive](http://svgporn.com/logos/netuitive.svg)
+
+## <a href="http://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a> *
+![smashingmagazine](http://svgporn.com/logos/smashingmagazine.svg)
+
+## <a href="https://www.sparkpost.com/" target="_blank">SparkPost</a>
+![sparkpost](http://svgporn.com/logos/sparkpost.svg)
+
+## <a href="https://stacksmith.bitnami.com/" target="_blank">Stacksmith</a> *
+![stacksmith](http://svgporn.com/logos/stacksmith.svg)
+
 ## <a href="https://aws.amazon.com/waf/" target="_blank">AWS WAF (Web Application Firewall)</a> *
 ![aws-waf](http://svgporn.com/logos/aws-waf.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.z-wave.com/" target="_blank">Z-Wave</a> *
 ![zwave](http://svgporn.com/logos/zwave.svg)
-
-## <a href="http://www.zigbee.org/" target="_blank">ZigBee</a> *
-![zigbee](http://svgporn.com/logos/zigbee.svg)
-
-## <a href="https://cloudant.com/" target="_blank">Cloudant</a> *
-![cloudant](http://svgporn.com/logos/cloudant.svg)
-
-## <a href="http://intridea.github.io/grape/" target="_blank">Grape</a> *
-![grape](http://svgporn.com/logos/grape.svg)
-
-## <a href="http://jelastic.com/" target="_blank">Jelastic</a> *
-![jelastic](http://svgporn.com/logos/jelastic.svg)
-
-## <a href="http://lumen.laravel.com/" target="_blank">Lumen</a> *
-![lumen](http://svgporn.com/logos/lumen.svg)
-
-## <a href="http://www.metabase.com/" target="_blank">Metabase</a>
-![metabase](http://svgporn.com/logos/metabase.svg)
-
-## <a href="https://quay.io/" target="_blank">Quay</a> *
-![quay](http://svgporn.com/logos/quay.svg)
 
 
 ---
