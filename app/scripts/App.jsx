@@ -1,14 +1,17 @@
 import React from 'react';
 import Isvg from 'react-inlinesvg';
+import { autobind } from 'core-decorators';
 import _ from 'lodash';
+
+import Colors from './utils/Colors';
+import Storage from './utils/Storage';
+import json from '../logos.json';
+
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Loader from './components/Loader';
 import Logo from './components/Logo';
 import Icon from './components/Icon';
-import Colors from './utils/Colors';
-import Storage from './utils/Storage';
-import json from '../logos.json';
 
 let searchTimeout;
 
@@ -49,27 +52,27 @@ class App extends React.Component {
                 action;
 
             if ((intKey === 189 || intKey === 109) && this.state.columns > 1) {
-                this._changeColumns(this.state.columns - 1);
+                this.changeColumns(this.state.columns - 1);
                 action = 'column-down';
             }
 
             if ((intKey === 187 || intKey === 107) && this.state.columns < 5) {
-                this._changeColumns(this.state.columns + 1);
+                this.changeColumns(this.state.columns + 1);
                 action = 'column-up';
             }
             if (intKey === 27) {
                 if (this.state.tagCloudVisible) {
-                    this._toggleTagCloudVisibility();
+                    this.toggleTagCloudVisibility();
                 }
 
                 if (this.state.categoryMenuVisible) {
-                    this._toggleCategoryMenuVisibility();
+                    this.toggleCategoryMenuVisibility();
                 }
                 action = 'escape';
             }
 
             if (action) {
-                this._trackEvent('keyboard', 'press', action);
+                this.trackEvent('keyboard', 'press', action);
             }
 
         });
@@ -88,7 +91,8 @@ class App extends React.Component {
         });
     }
 
-    _trackEvent (category, type, label) {
+    @autobind
+    trackEvent (category, type, label) {
         //heap.track(category, {[type]: label});
         let options = {
             eventCategory: category,
@@ -102,35 +106,38 @@ class App extends React.Component {
         ga('send', 'event', options);
     }
 
-    _onClickChangeColumns (e) {
+    @autobind
+    onClickChangeColumns (e) {
         e.preventDefault();
         let el  = e.currentTarget,
             col = +el.dataset.column;
 
-        this._changeColumns(this.state.columns + col);
-        this._trackEvent('switch', 'click', col > 0 ? 'up' : 'down');
+        this.changeColumns(this.state.columns + col);
+        this.trackEvent('switch', 'click', col > 0 ? 'up' : 'down');
     }
 
-    _changeColumns (num) {
+    changeColumns (num) {
         this.setState({
             columns: num
         });
         Storage.setItem('columns', num);
     }
 
-    _onClickChangeView (e) {
+    @autobind
+    onClickChangeView (e) {
         e.preventDefault();
         let type = e.currentTarget.dataset.value;
 
-        this._changeCategory(type === 'all' ? 'everybody' : 'categories');
+        this.changeCategory(type === 'all' ? 'everybody' : 'categories');
         this.setState({
             favorites: type === 'favorites'
         });
 
-        this._trackEvent('view', 'click', type);
+        this.trackEvent('view', 'click', type);
     }
 
-    _changeCategory (value) {
+    @autobind
+    changeCategory (value) {
         this.setState({
             category: value,
             favorites: false,
@@ -143,23 +150,26 @@ class App extends React.Component {
         }
     }
 
-    _toggleCategoryMenuVisibility () {
+    @autobind
+    toggleCategoryMenuVisibility () {
         document.body.style.overflow = !this.state.categoryMenuVisible ? 'hidden' : 'auto';
         this.setState({
             categoryMenuVisible: !this.state.categoryMenuVisible
         });
     }
 
-    _onClickTag (e) {
+    @autobind
+    onClickTag (e) {
         e.preventDefault();
         let tag = e.currentTarget.dataset.tag || undefined;
 
         document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
-        this._changeTag(tag);
-        this._trackEvent('tag', 'info', tag);
+        this.changeTag(tag);
+        this.trackEvent('tag', 'info', tag);
     }
 
-    _onClickShowTags (e) {
+    @autobind
+    onClickShowTags (e) {
         if (e) {
             e.preventDefault();
         }
@@ -168,24 +178,25 @@ class App extends React.Component {
             this.setState({
                 tag: undefined
             });
-            this._trackEvent('tag-cloud', 'hide', this.state.tag);
+            this.trackEvent('tag-cloud', 'hide', this.state.tag);
         }
         else {
-            this._toggleTagCloudVisibility();
-            this._trackEvent('tag-cloud', 'show');
+            this.toggleTagCloudVisibility();
+            this.trackEvent('tag-cloud', 'show');
         }
     }
 
-    _toggleTagCloudVisibility () {
+    toggleTagCloudVisibility () {
         document.body.style.overflow = !this.state.tagCloudVisible ? 'hidden' : 'auto';
         this.setState({
             tagCloudVisible: !this.state.tagCloudVisible
         });
     }
 
-    _changeTag (tag) {
+    @autobind
+    changeTag (tag) {
         document.body.style.overflow = 'auto';
-        this._scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
+        this.scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
 
         this.setState({
             category: 'categories',
@@ -196,7 +207,8 @@ class App extends React.Component {
         });
     }
 
-    _searchLogos (e) {
+    @autobind
+    searchLogos (e) {
         let search;
         if (typeof e === 'object') {
             if (e.type === 'click') {
@@ -212,7 +224,7 @@ class App extends React.Component {
             clearTimeout(searchTimeout);
 
             searchTimeout = setTimeout(() => {
-                this._trackEvent('search', 'submit', search);
+                this.trackEvent('search', 'submit', search);
             }, 500);
         }
 
@@ -224,7 +236,7 @@ class App extends React.Component {
         });
     }
 
-    _scrollTo (element = document.body, to = 0, duration = document.body.scrollTop) {
+    scrollTo (element = document.body, to = 0, duration = document.body.scrollTop) {
         duration = duration / 10 < 500 ? duration : 500;
 
         let difference = to - element.scrollTop,
@@ -241,15 +253,16 @@ class App extends React.Component {
             if (element.scrollTop === to) {
                 clearTimeout(timeout);
             }
-            this._scrollTo(element, to, duration - 10);
+            this.scrollTo(element, to, duration - 10);
         }, 10);
     }
 
-    _scrollTop (e) {
+    @autobind
+    scrollTop (e) {
         e.preventDefault();
 
-        this._scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
-        this._trackEvent('scroll', 'click');
+        this.scrollTo(document.body, 0, window.scrollY / 10 < 500 ? window.scrollY / 10 : 500);
+        this.trackEvent('scroll', 'click');
     }
 
     render () {
@@ -283,7 +296,7 @@ class App extends React.Component {
             d.files.forEach((f, j) => {
                 logos.push(
                     <Logo key={i + '-' + j} info={d} image={f} hidden={hidden}
-                          onClickTag={this._onClickTag.bind(this)} trackEvent={this._trackEvent.bind(this)} />
+                          onClickTag={this.onClickTag} trackEvent={this.trackEvent} />
                 );
             }, this);
 
@@ -300,12 +313,12 @@ class App extends React.Component {
 
                 <div className="container">
                     <Header
-                        changeCategory={this._changeCategory.bind(this)}
-                        changeTag={this._changeTag.bind(this)}
-                        onClickChangeView={this._onClickChangeView.bind(this)}
-                        onClickChangeColumns={this._onClickChangeColumns.bind(this)}
-                        onSearch={this._searchLogos.bind(this)}
-                        onClickShowTagCloud={this._onClickShowTags.bind(this)}
+                        changeCategory={this.changeCategory}
+                        changeTag={this.changeTag}
+                        onClickChangeView={this.onClickChangeView}
+                        onClickChangeColumns={this.onClickChangeColumns}
+                        onSearch={this.searchLogos}
+                        onClickShowTagCloud={this.onClickShowTags}
                         state={{
                             logos: state.logos,
                             category: state.category,
@@ -317,8 +330,8 @@ class App extends React.Component {
                             tag: state.tag,
                             tagCloudVisible: state.tagCloudVisible
                         }}
-                        toggleCategoryMenu={this._toggleCategoryMenuVisibility.bind(this)}
-                        trackEvent={this._trackEvent.bind(this)}
+                        toggleCategoryMenu={this.toggleCategoryMenuVisibility}
+                        trackEvent={this.trackEvent}
                         visible={visible} />
                     <main>
                         <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
@@ -327,7 +340,7 @@ class App extends React.Component {
                     </main>
                     <Footer />
                 </div>
-                <a href="#" onClick={this._scrollTop}
+                <a href="#" onClick={this.scrollTop}
                    className={'scroll-top' + (state.scrollable ? ' visible' : '')}><Icon id="caret-up" /></a>
             </div>
         );

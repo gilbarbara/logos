@@ -43,7 +43,7 @@
     "no-sparse-arrays": 2,
     "no-unreachable": 2,
     "valid-jsdoc": [
-      2,
+      1,
       {
         "prefer": {
           "return": "returns"
@@ -242,12 +242,11 @@
     "no-class-assign": 2,
     "no-const-assign": 2,
     "no-this-before-super": 2,
-    "no-var": 2,
     "object-shorthand": [
-      1,
+      0,
       "always"
     ],
-    "prefer-arrow-callback": 1,
+    "prefer-const": 0,
     "prefer-spread": 1,
     "require-yield": 1,
     // React
@@ -264,25 +263,31 @@
       1,
       "never"
     ],
+    //"react/jsx-key": 1,
     "react/jsx-max-props-per-line": [
       1,
       {
         "maximum": 4
       }
     ],
+    "react/jsx-no-bind": 1,
     "react/jsx-no-duplicate-props": 1,
     "react/jsx-no-undef": 1,
+    "react/jsx-pascal-case": 1,
     "react/jsx-sort-prop-types": 1,
     "react/jsx-sort-props": 0,
     "react/jsx-uses-react": 1,
     "react/jsx-uses-vars": 1,
+    "react/no-deprecated": 1,
     "react/no-did-mount-set-state": 0,
     "react/no-did-update-set-state": 1,
+    "react/no-direct-mutation-state": 1,
+    "react/no-is-mounted": 1,
     "react/no-multi-comp": 1,
     "react/no-unknown-property": 1,
+    "react/prefer-es6-class": 1,
     "react/prop-types": 1,
     "react/react-in-jsx-scope": 1,
-    //"react/require-extension": [1, { "extensions": [".js", ".jsx"] }],
     "react/self-closing-comp": 1,
     "react/sort-comp": [
       1,
@@ -295,22 +300,19 @@
         ],
         "groups": {
           "lifecycle": [
-            "displayName",
-            "mixins",
             "statics",
             "contextTypes",
             "childContextTypes",
-            "propTypes",
-            "getDefaultProps",
-            "getInitialState",
             "getChildContext",
+            "propTypes",
+            "defaultProps",
             "shouldComponentUpdate",
             "componentWillMount",
             "componentDidMount",
-            "componentWillUnmount",
             "componentWillReceiveProps",
             "componentWillUpdate",
-            "componentDidUpdate"
+            "componentDidUpdate",
+            "componentWillUnmount"
           ]
         }
       }

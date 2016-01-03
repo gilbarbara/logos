@@ -15,8 +15,11 @@
     <!-- build:css(.tmp) assets/main.css -->
     <link rel="stylesheet" href="assets/main.css">
     <!-- endbuild -->
-    <!-- build:js(.) assets/modernizr.min.js -->
-    <script src="/bower_components/modernizr/modernizr.js"></script>
+
+    <!-- build:js({.tmp,.}) assets/modernizr.js -->
+    <script src="assets/modernizr.js"></script>
+    <script src="/node_modules/mobile-detect/mobile-detect.js"></script>
+    <script src="/node_modules/mobile-detect/mobile-detect-modernizr.js"></script>
     <!-- endbuild -->
 </head>
 <body>
@@ -34,12 +37,6 @@
 
     ga('create', (location.hostname === 'svgporn.com' ? 'UA-64685370-1' : 'UA-64685370-2'), 'auto');
     ga('send', 'pageview');
-</script>
-<script type="text/javascript">
-/*  if (location.hostname === 'svgporn.com') {
-      window.heap=window.heap||[],heap.load=function(t,e){window.heap.appid=t,window.heap.config=e;var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap-"+t+".js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n);for(var o=function(t){return function(){heap.push([t].concat(Array.prototype.slice.call(arguments,0)))}},p=["clearEventProperties","identify","setEventProperties","track","unsetEventProperty"],c=0;c<p.length;c++)heap[p[c]]=o(p[c])};
-      heap.load("3961498232");
-  }*/
 </script>
 </body>
 

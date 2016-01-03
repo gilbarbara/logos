@@ -1,6 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import PureRender from 'react-pure-render/function';
+import { autobind } from 'core-decorators';
+
 import Colors from '../utils/Colors';
 import ScaleLog from '../utils/ScaleLog';
 import config from '../config';
@@ -51,7 +53,7 @@ class Header extends React.Component {
                 });
             });
 
-            categories = this._sortObject(categories, 'value').concat({
+            categories = this.sortObject(categories, 'value').concat({
                 key: 'everybody',
                 title: 'everybody',
                 value: this.props.state.logos.length
@@ -68,7 +70,7 @@ class Header extends React.Component {
                 });
             });
 
-            tags = this._sortObject(tags, 'key');
+            tags = this.sortObject(tags, 'key');
 
             tags.forEach((t) => {
                 if (t.value < fScale.min) {
@@ -94,7 +96,7 @@ class Header extends React.Component {
         });
     }
 
-    _sortObject (obj, attr) {
+    sortObject (obj, attr) {
         let arr = [];
 
         for (let prop in obj) {
@@ -120,7 +122,8 @@ class Header extends React.Component {
         return arr;
     }
 
-    _onClickShowCategories (e) {
+    @autobind
+    onClickShowCategories (e) {
         e.preventDefault();
         let category = e.currentTarget.dataset.category;
 
@@ -128,7 +131,8 @@ class Header extends React.Component {
         this.props.trackEvent('categories', 'toggle', category !== 'categories' ? category : undefined);
     }
 
-    _onClickChangeCategory (e) {
+    @autobind
+    onClickChangeCategory (e) {
         e.preventDefault();
 
         let category = e.currentTarget.dataset.value;
@@ -138,7 +142,8 @@ class Header extends React.Component {
         this.props.trackEvent('category', 'click', category);
     }
 
-    _onClickTag (e) {
+    @autobind
+    onClickTag (e) {
         e.preventDefault();
         let tag = e.currentTarget.dataset.tag;
 
@@ -209,7 +214,7 @@ class Header extends React.Component {
                                     }
 
                                 return (<a key={i} href="#" className={classes} data-tag={d.key}
-                                           onClick={this._onClickTag.bind(this)}>#{d.key + ' (' + d.value + ')'}</a>
+                                           onClick={this.onClickTag}>#{d.key + ' (' + d.value + ')'}</a>
                                     );
                                 })}
                         </div>
@@ -229,7 +234,7 @@ class Header extends React.Component {
                 categories = (
                     <span className="categories__menu">
                         for<a href="#" className="categories__toggle" data-category={props.state.category}
-                              onClick={this._onClickShowCategories.bind(this)}>{props.state.category !== 'categories' ? props.state.category : ''}
+                              onClick={this.onClickShowCategories}>{props.state.category !== 'categories' ? props.state.category : ''}
                         <Icon
                             id="navicon" /></a>
                         <ul>
@@ -237,7 +242,7 @@ class Header extends React.Component {
                                 return (
                                 <li key={i}
                                     className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
-                                    <a href="#" onClick={this._onClickChangeCategory.bind(this)}
+                                    <a href="#" onClick={this.onClickChangeCategory}
                                        data-value={d.key}>{d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}</a>
                                 </li>);
                                 })}

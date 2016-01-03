@@ -1,4 +1,5 @@
 import React from 'react';
+import { autobind } from 'core-decorators';
 import PureRender from 'react-pure-render/function';
 
 class Logo extends React.Component {
@@ -25,7 +26,8 @@ class Logo extends React.Component {
         el.classList.toggle('show-info');
     }
 
-    _onClickLogo (e) {
+    @autobind
+    onClickLogo (e) {
         this.props.trackEvent('logo', 'click', e.currentTarget.dataset.shortname);
     }
 
@@ -37,7 +39,7 @@ class Logo extends React.Component {
             <li className={props.hidden ? 'hidden' : ''} onMouseEnter={this.toggleInfo} onMouseLeave={this.toggleInfo}
                 data-updated={info.updated}>
                 <a href={info.url} target="_blank" className="logo-item" data-shortname={info.shortname}
-                   onClick={this._onClickLogo}>
+                   onClick={this.onClickLogo}>
                     <img src={this.state.path + this.props.image} alt={info.name} className={info.shortname} />
                 </a>
 

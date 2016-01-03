@@ -73,13 +73,17 @@ gulp.task('scripts', function (cb) {
     });
 });
 
-gulp.task('lint', function () {
+gulp.task('scripts:lint', function () {
     return gulp.src('app/scripts/**/*')
         .pipe($.eslint({
             useEslintrc: true
         }))
         .pipe($.eslint.format())
         .pipe($.eslint.failOnError());
+});
+
+gulp.task('modernizr', function (cb) {
+    return exec('./node_modules/.bin/modernizr -c .modernizr.json -d .tmp/assets/modernizr.js', cb);
 });
 
 gulp.task('styles', function () {
@@ -99,8 +103,7 @@ gulp.task('styles', function () {
 gulp.task('media', function () {
     return gulp.src(['**/*.{jpg,gif,png}'], { cwd: 'app/media/' })
         .pipe($.imagemin({
-            verbose: true
-        }, {
+            verbose: true,
             progressive: true,
             interlaced: true
         }))
@@ -146,15 +149,12 @@ gulp.task('bundle', function () {
     var html,
         extras,
         media,
-        logos,
-        assets = $.useref.assets();
+        logos;
 
     html = gulp.src('app/*.html')
-        .pipe(assets)
+        .pipe($.useref())
         .pipe($.if('*.css', $.cssmin()))
         .pipe($.if('*.js', $.uglify()))
-        .pipe(assets.restore())
-        .pipe($.useref())
         .pipe(gulp.dest('dist'))
         .pipe($.size({
             title: 'HTML'
@@ -196,7 +196,7 @@ gulp.task('sizer', function () {
 });
 
 gulp.task('assets', function (cb) {
-    runSequence('styles', 'scripts', cb); //, 'fonts'
+    runSequence('styles', 'scripts', 'modernizr', cb);
 });
 
 gulp.task('clean', function (cb) {
@@ -244,11 +244,18 @@ gulp.task('gh-master', function () {
 });
 
 gulp.task('deploy-site', ['build'], function (cb) {
-    exec('rsync -rvpa --progress --delete --exclude=.DS_Store -e "ssh -q -t" dist/* svgporn@svgporn.com:/home/svgporn/public_html', function (err, stdout) {
-        console.log(stdout);
-
-        cb(err);
-    });
+    return gulp.src('dist/**', {
+            dot: true
+        })
+        .pipe($.rsync({
+            incremental: true,
+            exclude: ['.DS_Store'],
+            progress: true,
+            root: 'dist',
+            username: 'svgporn',
+            hostname: 'svgporn.com',
+            destination: '/home/svgporn/public_html'
+        }));
 });
 
 gulp.task('deploy-master', function (cb) {
@@ -263,7 +270,8 @@ gulp.task('serve', ['assets'], function () {
             baseDir: ['.tmp', 'app', './'],
             middleware: [middleware],
             routes: {
-                '/bower_components': './bower_components'
+                '/bower_components': './bower_components',
+                '/node_modules': 'node_modules'
             }
         }
     });
@@ -282,7 +290,7 @@ gulp.task('serve', ['assets'], function () {
 
 gulp.task('build', function (cb) {
     process.env.NODE_ENV = 'production';
-    runSequence('clean', 'lint', 'readme', 'assets', ['media', 'bundle'], 'sizer', cb);
+    runSequence('clean', 'scripts:lint', 'readme', 'assets', ['media', 'bundle'], 'sizer', cb);
 });
 
 gulp.task('default', ['serve']);
