@@ -2105,6 +2105,24 @@
       "edited": true
     },
     {
+      "name": "Cloudcraft",
+      "files": [
+        "cloudcraft.svg"
+      ],
+      "shortname": "cloudcraft",
+      "url": "https://cloudcraft.co/",
+      "tags": [
+        "architecture",
+        "architecture tool",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2016-01-04",
+      "edited": true
+    },
+    {
       "name": "Cloudera",
       "files": [
         "cloudera.svg"
@@ -2152,6 +2170,21 @@
         "DevOps"
       ],
       "updated": "2015-11-26"
+    },
+    {
+      "name": "Cobalt",
+      "files": [
+        "cobalt.svg"
+      ],
+      "shortname": "cobalt",
+      "url": "https://cobalt.io/",
+      "tags": [
+        "bug bounty"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-04"
     },
     {
       "name": "CocoaPods",
@@ -3769,6 +3802,23 @@
         "DevOps"
       ],
       "updated": "2015-11-26"
+    },
+    {
+      "name": "Ethnio",
+      "files": [
+        "ethnio.svg"
+      ],
+      "shortname": "ethnio",
+      "url": "https://ethn.io/",
+      "tags": [
+        "ux testing",
+        "user feedback"
+      ],
+      "categories": [
+        "business",
+        "designers"
+      ],
+      "updated": "2016-01-04"
     },
     {
       "name": "EventSentry",
@@ -7708,6 +7758,24 @@
       "updated": "2015-08-13"
     },
     {
+      "name": "Netuitive",
+      "files": [
+        "netuitive.svg"
+      ],
+      "shortname": "netuitive",
+      "url": "http://www.netuitive.com/",
+      "tags": [
+        "monitoring",
+        "performance monitoring",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2016-01-04",
+      "edited": true
+    },
+    {
       "name": "New Relic",
       "files": [
         "new-relic.svg"
@@ -10244,6 +10312,25 @@
       "edited": true
     },
     {
+      "name": "Smashing Magazine",
+      "files": [
+        "smashingmagazine.svg"
+      ],
+      "shortname": "smashingmagazine",
+      "url": "http://www.smashingmagazine.com/",
+      "tags": [
+        "tutorials",
+        "blog",
+        "reference"
+      ],
+      "categories": [
+        "developers",
+        "designers"
+      ],
+      "updated": "2016-01-04",
+      "edited": true
+    },
+    {
       "name": "Snap.svg",
       "files": [
         "snap-svg.svg"
@@ -10358,6 +10445,22 @@
       "updated": "2015-10-08"
     },
     {
+      "name": "SparkPost",
+      "files": [
+        "sparkpost.svg"
+      ],
+      "shortname": "sparkpost",
+      "url": "https://www.sparkpost.com/",
+      "tags": [
+        "transactional email",
+        "marketing"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2016-01-04"
+    },
+    {
       "name": "Spring",
       "files": [
         "spring.svg"
@@ -10458,6 +10561,24 @@
         "business"
       ],
       "updated": "2015-07-27",
+      "edited": true
+    },
+    {
+      "name": "Stacksmith",
+      "files": [
+        "stacksmith.svg"
+      ],
+      "shortname": "stacksmith",
+      "url": "https://stacksmith.bitnami.com/",
+      "tags": [
+        "docker",
+        "containers",
+        "vectorized"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2016-01-04",
       "edited": true
     },
     {
@@ -11410,7 +11531,8 @@
       "shortname": "user-testing",
       "url": "http://www.usertesting.com/",
       "tags": [
-        "ux testing"
+        "ux testing",
+        "user feedback"
       ],
       "categories": [
         "business"
