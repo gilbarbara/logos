@@ -736,6 +736,24 @@
       "edited": true
     },
     {
+      "name": "AWS CloudWatch",
+      "files": [
+        "aws-cloudwatch.svg"
+      ],
+      "shortname": "aws-cloudwatch",
+      "url": "https://aws.amazon.com/cloudwatch/",
+      "tags": [
+        "monitoring",
+        "server monitoring",
+        "IaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2016-01-07",
+      "edited": true
+    },
+    {
       "name": "AWS CodeDeploy",
       "files": [
         "aws-codedeploy.svg"
@@ -1515,6 +1533,24 @@
         "developers"
       ],
       "updated": "2015-08-03"
+    },
+    {
+      "name": "Browserling",
+      "files": [
+        "browserling.svg"
+      ],
+      "shortname": "browserling",
+      "url": "https://www.browserling.com/",
+      "tags": [
+        "cross browser testing",
+        "mobile",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-07",
+      "edited": true
     },
     {
       "name": "Browserify",
@@ -4990,6 +5026,22 @@
       "edited": true
     },
     {
+      "name": "HackerOne",
+      "files": [
+        "hacker-one.svg"
+      ],
+      "shortname": "hacker-one",
+      "url": "https://hackerone.com/",
+      "tags": [
+        "bug bounty"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-07",
+      "edited": true
+    },
+    {
       "name": "Hadoop",
       "files": [
         "hadoop.svg"
@@ -5378,6 +5430,24 @@
         "business"
       ],
       "updated": "2015-07-13"
+    },
+    {
+      "name": "Humongous",
+      "files": [
+        "humongous.svg"
+      ],
+      "shortname": "humongous",
+      "url": "https://humongous.io/",
+      "tags": [
+        "database",
+        "mongoDB",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-07",
+      "edited": true
     },
     {
       "name": "IEEE",
@@ -6263,9 +6333,9 @@
       "shortname": "knex",
       "url": "http://knexjs.org/",
       "tags": [
+        "database",
         "javascript",
         "library",
-        "database",
         "vectorized"
       ],
       "categories": [
@@ -7405,6 +7475,23 @@
       "edited": true
     },
     {
+      "name": "Mixmax",
+      "files": [
+        "mixmax.svg"
+      ],
+      "shortname": "mixmax",
+      "url": "https://mixmax.com/",
+      "tags": [
+        "email tools",
+        "vectorized"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2016-01-07",
+      "edited": true
+    },
+    {
       "name": "Mixpanel",
       "files": [
         "mixpanel.svg"
@@ -7963,6 +8050,23 @@
         "developers"
       ],
       "updated": "2015-07-06"
+    },
+    {
+      "name": "O'Reilly",
+      "files": [
+        "oreilly.svg"
+      ],
+      "shortname": "oreilly",
+      "url": "http://www.oreilly.com/",
+      "tags": [
+        "books",
+        "publisher"
+      ],
+      "categories": [
+        "developers",
+        "geeks"
+      ],
+      "updated": "2016-01-07"
     },
     {
       "name": "OAuth",
@@ -11316,6 +11420,22 @@
         "sharing"
       ],
       "updated": "2015-07-24"
+    },
+    {
+      "name": "TuneIn",
+      "files": [
+        "tunein.svg"
+      ],
+      "shortname": "tunein",
+      "url": "http://tunein.com/",
+      "tags": [
+        "online radio",
+        "mobile app"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2016-01-07"
     },
     {
       "name": "Turret",
