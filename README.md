@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aws.amazon.com/cloudwatch/" target="_blank">AWS CloudWatch</a> *
+![aws-cloudwatch](http://svgporn.com/logos/aws-cloudwatch.svg)
+
+## <a href="https://www.browserling.com/" target="_blank">Browserling</a> *
+![browserling](http://svgporn.com/logos/browserling.svg)
+
+## <a href="https://hackerone.com/" target="_blank">HackerOne</a> *
+![hacker-one](http://svgporn.com/logos/hacker-one.svg)
+
+## <a href="https://humongous.io/" target="_blank">Humongous</a> *
+![humongous](http://svgporn.com/logos/humongous.svg)
+
+## <a href="https://mixmax.com/" target="_blank">Mixmax</a> *
+![mixmax](http://svgporn.com/logos/mixmax.svg)
+
+## <a href="http://www.oreilly.com/" target="_blank">O&#x27;Reilly</a>
+![oreilly](http://svgporn.com/logos/oreilly.svg)
+
+## <a href="http://tunein.com/" target="_blank">TuneIn</a>
+![tunein](http://svgporn.com/logos/tunein.svg)
+
 ## <a href="https://cloudcraft.co/" target="_blank">Cloudcraft</a> *
 ![cloudcraft](http://svgporn.com/logos/cloudcraft.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://aws.amazon.com/mobile/" target="_blank">AWS Mobile Hub</a> *
 ![aws-mobilehub](http://svgporn.com/logos/aws-mobilehub.svg)
-
-## <a href="http://www.bluetooth.com/" target="_blank">Bluetooth</a>
-![bluetooth](http://svgporn.com/logos/bluetooth.svg)
-
-## <a href="http://aws.amazon.com/mobile/" target="_blank">Chartblocks</a> *
-![chartblocks](http://svgporn.com/logos/chartblocks.svg)
-
-## <a href="http://gunicorn.org/" target="_blank">Gunicorn</a>
-![gunicorn](http://svgporn.com/logos/gunicorn.svg)
-
-## <a href="http://www.looker.com/" target="_blank">Looker</a>
-![looker](http://svgporn.com/logos/looker.svg)
-
-## <a href="https://www.percona.com/" target="_blank">Percona</a> *
-![percona](http://svgporn.com/logos/percona.svg)
-
-## <a href="http://www.wi-fi.org/" target="_blank">Wi-Fi</a>
-![wifi](http://svgporn.com/logos/wifi.svg)
-
-## <a href="http://www.z-wave.com/" target="_blank">Z-Wave</a> *
-![zwave](http://svgporn.com/logos/zwave.svg)
 
 
 ---
