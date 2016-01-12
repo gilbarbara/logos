@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-57 -57 324 114" width="162" height="57" style="overflow: hidden">
+  <style type="text/css">
+    * {
+      fill: none;
+      stroke-width: 7.5px;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+    }
+    .X {
+      stroke-width: 13px;
+      stroke: #505052;
+    }
+    .wiki {
+      stroke-width: 3px;
+      stroke: #FF7700;
+    }
+    .west {
+      stroke: #0087CB;
+    }
+    .north {
+      stroke: #70B700;
+    }
+    .east {
+      stroke: #FF7700;
+    }
+    .south {
+      stroke: #FF0000;
+    }
+  </style>
+  <defs>
+    <g id="dash" transform="translate(20 -20)">
+      <path d="M 3 -3 L 14 -14"/>
+    </g>
+  </defs>
+  <use xlink:href="#dash" transform="rotate(-45)" class="north"/>
+  <use xlink:href="#dash" transform="rotate(45)" class="east"/>
+  <use xlink:href="#dash" transform="rotate(135)" class="south"/>
+  <use xlink:href="#dash" transform="rotate(-135)" class="west"/>
+  <line class="X" x1="-35" y1="-40" x2="35" y2="40"/>
+  <line class="X" x1="-35" y1="40" x2="35" y2="-40"/>
+  <path class="wiki" transform="translate(59 -41.5) scale(3.19)" d="M 0 0 L 5 26 14 0 23 26 28 0 M 33.5 0 V 26 M 40 0 V 26 M 55 0 L 42 13 55 26 M 60.5 0 V 26"/>
+</svg>
