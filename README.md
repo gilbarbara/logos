@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.kinto-storage.org/" target="_blank">Kinto</a>
+![kinto](http://svgporn.com/logos/kinto.svg)
+
+## <a href="http://modx.com/" target="_blank">MODX</a>
+![modx](http://svgporn.com/logos/modx.svg)
+
+## <a href="https://mesosphere.com/" target="_blank">Mesosphere</a>
+![mesosphere](http://svgporn.com/logos/mesosphere.svg)
+
+## <a href="http://www.kinto-storage.org/" target="_blank">NuoDB</a>
+![nuodb](http://svgporn.com/logos/nuodb.svg)
+
+## <a href="https://speakerdeck.com/" target="_blank">Speaker Deck</a> *
+![speakerdeck](http://svgporn.com/logos/speakerdeck.svg)
+
+## <a href="http://www.teamgridapp.com/" target="_blank">Teamgrid</a> *
+![teamgrid](http://svgporn.com/logos/teamgrid.svg)
+
+## <a href="http://www.eclipse.org/xtend/" target="_blank">Xtend</a> *
+![xtend](http://svgporn.com/logos/xtend.svg)
+
 ## <a href="https://aws.amazon.com/cloudwatch/" target="_blank">AWS CloudWatch</a> *
 ![aws-cloudwatch](http://svgporn.com/logos/aws-cloudwatch.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.cloudera.com/" target="_blank">Cloudera</a>
 ![cloudera](http://svgporn.com/logos/cloudera.svg)
-
-## <a href="https://www.dreamfactory.com/" target="_blank">DreamFactory</a> *
-![dreamfactory](http://svgporn.com/logos/dreamfactory.svg)
-
-## <a href="http://impala.io/" target="_blank">Impala</a> *
-![impala](http://svgporn.com/logos/impala.svg)
-
-## <a href="http://www.kontena.io/" target="_blank">Kontena</a> *
-![kontena](http://svgporn.com/logos/kontena.svg)
-
-## <a href="https://prottapp.com/" target="_blank">Prott</a>
-![prott](http://svgporn.com/logos/prott.svg)
-
-## <a href="http://reapp.io/" target="_blank">Reapp</a>
-![reapp](http://svgporn.com/logos/reapp.svg)
-
-## <a href="https://tsuru.io/" target="_blank">tsuru</a> *
-![tsuru](http://svgporn.com/logos/tsuru.svg)
-
-## <a href="http://aws.amazon.com/mobile/" target="_blank">AWS Mobile Hub</a> *
-![aws-mobilehub](http://svgporn.com/logos/aws-mobilehub.svg)
 
 
 ---

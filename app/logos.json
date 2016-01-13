@@ -6244,6 +6244,22 @@
       "updated": "2015-08-17"
     },
     {
+      "name": "Kinto",
+      "files": [
+        "kinto.svg"
+      ],
+      "shortname": "kinto",
+      "url": "http://www.kinto-storage.org/",
+      "tags": [
+        "database",
+        "realtime"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-13"
+    },
+    {
       "name": "Kinvey",
       "files": [
         "kinvey.svg"
@@ -7376,6 +7392,21 @@
       "updated": "2015-08-06"
     },
     {
+      "name": "Mesosphere",
+      "files": [
+        "mesosphere.svg"
+      ],
+      "shortname": "mesosphere",
+      "url": "https://mesosphere.com/",
+      "tags": [
+        "server management"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2016-01-13"
+    },
+    {
       "name": "Metabase",
       "files": [
         "metabase.svg"
@@ -7579,6 +7610,21 @@
         "DevOps"
       ],
       "updated": "2015-08-03"
+    },
+    {
+      "name": "MODX",
+      "files": [
+        "modx.svg"
+      ],
+      "shortname": "modx",
+      "url": "http://modx.com/",
+      "tags": [
+        "content manager"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-13"
     },
     {
       "name": "Moment.js",
@@ -7988,7 +8034,8 @@
       "shortname": "nomad",
       "url": "https://www.nomadproject.io/",
       "tags": [
-        "cluster manager",
+        "cluster management",
+        "server management",
         "docker",
         "vectorized"
       ],
@@ -8035,6 +8082,22 @@
       ],
       "updated": "2015-07-01",
       "edited": true
+    },
+    {
+      "name": "NuoDB",
+      "files": [
+        "nuodb.svg"
+      ],
+      "shortname": "nuodb",
+      "url": "http://www.kinto-storage.org/",
+      "tags": [
+        "database",
+        "sql"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-13"
     },
     {
       "name": "NW.js a.k.a. Nodewebkit",
@@ -8447,6 +8510,8 @@
       "shortname": "parse",
       "url": "https://parse.com/",
       "tags": [
+        "database",
+        "realtime",
         "mBaaS"
       ],
       "categories": [
@@ -10565,6 +10630,24 @@
       "updated": "2016-01-04"
     },
     {
+      "name": "Speaker Deck",
+      "files": [
+        "speakerdeck.svg"
+      ],
+      "shortname": "speakerdeck",
+      "url": "https://speakerdeck.com/",
+      "tags": [
+        "presentations",
+        "vectorized"
+      ],
+      "categories": [
+        "business",
+        "geeks"
+      ],
+      "updated": "2016-01-13",
+      "edited": true
+    },
+    {
       "name": "Spring",
       "files": [
         "spring.svg"
@@ -11119,6 +11202,23 @@
       ],
       "updated": "2015-07-11",
       "favorite": true,
+      "edited": true
+    },
+    {
+      "name": "Teamgrid",
+      "files": [
+        "teamgrid.svg"
+      ],
+      "shortname": "teamgrid",
+      "url": "http://www.teamgridapp.com/",
+      "tags": [
+        "project manager",
+        "vectorized"
+      ],
+      "categories": [
+        "teams"
+      ],
+      "updated": "2016-01-13",
       "edited": true
     },
     {
@@ -12415,6 +12515,24 @@
         "DevOps"
       ],
       "updated": "2015-09-14",
+      "edited": true
+    },
+    {
+      "name": "Xtend",
+      "files": [
+        "xtend.svg"
+      ],
+      "shortname": "xtend",
+      "url": "http://www.eclipse.org/xtend/",
+      "tags": [
+        "java",
+        "dialect",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-13",
       "edited": true
     },
     {
