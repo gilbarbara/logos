@@ -1473,6 +1473,23 @@
       "favorite": true
     },
     {
+      "name": "Bowtie",
+      "files": [
+        "bowtie.svg"
+      ],
+      "shortname": "bowtie",
+      "url": "https://bowtie.io/",
+      "tags": [
+        "static site generator",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-18",
+      "edited": true
+    },
+    {
       "name": "box",
       "files": [
         "box.svg"
@@ -4887,6 +4904,21 @@
       "updated": "2015-09-26"
     },
     {
+      "name": "Grav",
+      "files": [
+        "grav.svg"
+      ],
+      "shortname": "grav",
+      "url": "https://getgrav.org/",
+      "tags": [
+        "content manager"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-18"
+    },
+    {
       "name": "Gravatar",
       "files": [
         "gravatar.svg"
@@ -6134,6 +6166,22 @@
         "DevOps"
       ],
       "updated": "2015-08-18",
+      "edited": true
+    },
+    {
+      "name": "Kallithea",
+      "files": [
+        "kallithea.svg"
+      ],
+      "shortname": "kallithea",
+      "url": "https://kallithea-scm.org/",
+      "tags": [
+        "version control"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-18",
       "edited": true
     },
     {
@@ -9432,6 +9480,25 @@
       "updated": "2015-06-24"
     },
     {
+      "name": "Ramda",
+      "files": [
+        "ramda.svg"
+      ],
+      "shortname": "ramda",
+      "url": "http://ramdajs.com/",
+      "tags": [
+        "functional",
+        "library",
+        "javascript",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-18",
+      "edited": true
+    },
+    {
       "name": "RAML",
       "files": [
         "raml.svg"
@@ -10138,6 +10205,21 @@
       "updated": "2015-07-02"
     },
     {
+      "name": "Scribd",
+      "files": [
+        "scribd.svg"
+      ],
+      "shortname": "scribd",
+      "url": "https://www.scribd.com/",
+      "tags": [
+        "books"
+      ],
+      "categories": [
+        "geeks"
+      ],
+      "updated": "2016-01-18"
+    },
+    {
       "name": "section.io",
       "files": [
         "sectionio.svg"
@@ -10309,6 +10391,23 @@
         "developers"
       ],
       "updated": "2015-07-14",
+      "edited": true
+    },
+    {
+      "name": "Shogun",
+      "files": [
+        "shogun.svg"
+      ],
+      "shortname": "shogun",
+      "url": "https://getshogun.com/",
+      "tags": [
+        "website builder",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-18",
       "edited": true
     },
     {
@@ -10637,8 +10736,7 @@
       "shortname": "speakerdeck",
       "url": "https://speakerdeck.com/",
       "tags": [
-        "presentations",
-        "vectorized"
+        "presentations"
       ],
       "categories": [
         "business",
@@ -12534,6 +12632,21 @@
       ],
       "updated": "2016-01-13",
       "edited": true
+    },
+    {
+      "name": "XWiki",
+      "files": [
+        "xwiki.svg"
+      ],
+      "shortname": "xwiki",
+      "url": "http://www.xwiki.org/",
+      "tags": [
+        "wiki"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-01-18"
     },
     {
       "name": "Yahoo!",
