@@ -1,6 +1,6 @@
-module.exports = {
-    features: {
-        categories: true,
-        tags: true
-    }
+export default {
+  features: {
+    categories: true,
+    tags: true
+  }
 };

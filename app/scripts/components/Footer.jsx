@@ -1,24 +1,29 @@
 import React from 'react';
 import PureRender from 'react-pure-render/function';
 
-export default class Footer extends React.Component {
-    constructor (props) {
-        super(props);
+class Footer extends React.Component {
+  constructor(props) {
+    super(props);
 
-        this.state = {};
-    }
+    this.state = {};
+  }
 
-    shouldComponentUpdate = PureRender;
+  shouldComponentUpdate = PureRender;
 
-    render () {
-        return (
-            <footer className="main-footer">
-                <iframe src="https://ghbtns.com/github-btn.html?user=gilbarbara&repo=logos&type=star&count=true"
-                        frameBorder="0"
-                        scrolling="0" width="110px" height="20px"></iframe>
-                <iframe src="https://ghbtns.com/github-btn.html?user=gilbarbara&type=follow&count=true" frameBorder="0"
-                        scrolling="0" width="160px" height="20px"></iframe>
-            </footer>
-        );
-    }
+  render() {
+    return (
+      <footer className="main-footer">
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=gilbarbara&repo=logos&type=star&count=true"
+          frameBorder="0"
+          scrolling="0" width="110px" height="20px"></iframe>
+        <iframe
+          src="https://ghbtns.com/github-btn.html?user=gilbarbara&type=follow&count=true"
+          frameBorder="0"
+          scrolling="0" width="160px" height="20px"></iframe>
+      </footer>
+    );
+  }
 }
+
+export default Footer;

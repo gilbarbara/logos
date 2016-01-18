@@ -1,6 +1,6 @@
 {
   "name": "logos",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "Gil Barbara <gilbarbara@gmail.com>",
   "repository": {
     "type": "git",
@@ -10,9 +10,9 @@
   "homepage": "http://svgporn.com",
   "dependencies": {
     "classlist-polyfill": "^1.0",
-    "core-decorators": "^0.9",
-    "core-js": "^1.2",
-    "lodash": "^3.10",
+    "core-decorators": "^0.10",
+    "core-js": "^2.0",
+    "lodash": "^4.0",
     "mobile-detect": "^1.2",
     "react": "^0.14",
     "react-dom": "^0.14",
@@ -20,26 +20,29 @@
     "react-pure-render": "^1.0"
   },
   "devDependencies": {
-    "babel-core": "^6.3",
+    "babel-core": "^6.4",
     "babel-eslint": "^4.1",
     "babel-plugin-add-module-exports": "^0.1",
+    "babel-plugin-lodash": "^2.0.1",
     "babel-plugin-transform-decorators-legacy": "^1.3",
     "babel-preset-es2015": "^6.3",
     "babel-preset-react": "^6.3",
     "babel-preset-stage-1": "^6.3",
     "babelify": "^7.2",
-    "browser-sync": "^2.10",
-    "browserify": "^12.0",
+    "browser-sync": "^2.11",
+    "browserify": "^13.0",
     "connect": "^3.4",
     "connect-history-api-fallback": "^1.1",
     "del": "^2.2",
     "eslint": "^1.10",
-    "eslint-plugin-react": "^3.13",
+    "eslint-config-airbnb": "^3.1",
+    "eslint-plugin-jsdoc": "^2.2",
+    "eslint-plugin-react": "^3.15",
     "gulp": "^3.9",
     "gulp-autoprefixer": "^3.1",
     "gulp-cache": "^0.4",
     "gulp-changed": "^1.3",
-    "gulp-compile-handlebars": "^0.5",
+    "gulp-compile-handlebars": "^0.6",
     "gulp-cssmin": "^0.1",
     "gulp-eslint": "^1.1",
     "gulp-filter": "^3.0",
@@ -47,7 +50,7 @@
     "gulp-gh-pages": "^0.5",
     "gulp-if": "^2.0",
     "gulp-imagemin": "^2.4",
-    "gulp-load-plugins": "^1.1",
+    "gulp-load-plugins": "^1.2",
     "gulp-plumber": "^1.0",
     "gulp-rename": "^1.2",
     "gulp-replace": "^0.5.4",
@@ -60,12 +63,12 @@
     "gulp-useref": "^3.0",
     "gulp-util": "^3.0",
     "merge-stream": "^1.0",
-    "modernizr": "^3.2",
+    "modernizr": "^3.3",
     "run-sequence": "^1.1",
     "vinyl-buffer": "^1.0",
     "vinyl-paths": "^2.1",
     "vinyl-source-stream": "^1.1",
-    "watchify": "^3.6"
+    "watchify": "^3.7"
   },
   "babel": {
     "presets": [
@@ -75,7 +78,8 @@
     ],
     "plugins": [
       "add-module-exports",
-      "transform-decorators-legacy"
+      "transform-decorators-legacy",
+      "lodash"
     ]
   },
   "browserify": {
