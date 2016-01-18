@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://bowtie.io/" target="_blank">Bowtie</a> *
+![bowtie](http://svgporn.com/logos/bowtie.svg)
+
+## <a href="https://getgrav.org/" target="_blank">Grav</a>
+![grav](http://svgporn.com/logos/grav.svg)
+
+## <a href="https://kallithea-scm.org/" target="_blank">Kallithea</a> *
+![kallithea](http://svgporn.com/logos/kallithea.svg)
+
+## <a href="http://ramdajs.com/" target="_blank">Ramda</a> *
+![ramda](http://svgporn.com/logos/ramda.svg)
+
+## <a href="https://www.scribd.com/" target="_blank">Scribd</a>
+![scribd](http://svgporn.com/logos/scribd.svg)
+
+## <a href="https://getshogun.com/" target="_blank">Shogun</a> *
+![shogun](http://svgporn.com/logos/shogun.svg)
+
+## <a href="http://www.xwiki.org/" target="_blank">XWiki</a>
+![xwiki](http://svgporn.com/logos/xwiki.svg)
+
 ## <a href="http://www.kinto-storage.org/" target="_blank">Kinto</a>
 ![kinto](http://svgporn.com/logos/kinto.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://cloudlinux.com/" target="_blank">CloudLinux</a>
 ![cloudlinux](http://svgporn.com/logos/cloudlinux.svg)
-
-## <a href="http://www.doctrine-project.org/" target="_blank">Doctrine</a> *
-![doctrine](http://svgporn.com/logos/doctrine.svg)
-
-## <a href="https://www.periscopedata.com/" target="_blank">Periscope</a>
-![periscope](http://svgporn.com/logos/periscope.svg)
-
-## <a href="https://www.treasuredata.com/" target="_blank">Treasure Data</a>
-![treasuredata](http://svgporn.com/logos/treasuredata.svg)
-
-## <a href="https://webmaker.org/goggles" target="_blank">X-Ray Goggles</a> *
-![x-ray-goggles](http://svgporn.com/logos/x-ray-goggles.svg)
-
-## <a href="https://zube.io/" target="_blank">Zube</a>
-![zube](http://svgporn.com/logos/zube.svg)
-
-## <a href="https://github.com/coreos/etcd" target="_blank">etcd</a>
-![etcd](http://svgporn.com/logos/etcd.svg)
-
-## <a href="http://www.cloudera.com/" target="_blank">Cloudera</a>
-![cloudera](http://svgporn.com/logos/cloudera.svg)
 
 
 ---
