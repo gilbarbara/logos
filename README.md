@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://appbase.io/" target="_blank">Appbase</a>
+![appbase](http://svgporn.com/logos/appbase.svg)
+
+## <a href="https://microsoft.github.io/code-push/" target="_blank">CodePush</a>
+![codepush](http://svgporn.com/logos/codepush.svg)
+
+## <a href="https://flowxo.com/" target="_blank">FlowXO</a> *
+![flowxo](http://svgporn.com/logos/flowxo.svg)
+
+## <a href="https://protonet.info" target="_blank">Protonet</a> *
+![protonet](http://svgporn.com/logos/protonet.svg)
+
+## <a href="https://stoplight.io/" target="_blank">StopLight</a> *
+![stoplight](http://svgporn.com/logos/stoplight.svg)
+
+## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
+![stylus](http://svgporn.com/logos/stylus.svg)
+
+## <a href="https://geekbot.io/" target="_blank">geekbot</a> *
+![geekbot](http://svgporn.com/logos/geekbot.svg)
+
 ## <a href="https://bowtie.io/" target="_blank">Bowtie</a> *
 ![bowtie](http://svgporn.com/logos/bowtie.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.100tb.com/" target="_blank">100tb</a> *
 ![100tb](http://svgporn.com/logos/100tb.svg)
-
-## <a href="https://www.authy.com/" target="_blank">Authy</a>
-![authy](http://svgporn.com/logos/authy.svg)
-
-## <a href="http://gitup.co/" target="_blank">GitUp</a> *
-![gitup](http://svgporn.com/logos/gitup.svg)
-
-## <a href="http://neonmetrics.com/" target="_blank">Neonmetrics</a> *
-![neonmetrics](http://svgporn.com/logos/neonmetrics.svg)
-
-## <a href="https://www.productboard.com/" target="_blank">ProductBoard</a> *
-![productboard](http://svgporn.com/logos/productboard.svg)
-
-## <a href="https://www.refactor.io/" target="_blank">Refactor.io</a> *
-![refactor](http://svgporn.com/logos/refactor.svg)
-
-## <a href="http://dat-data.com/" target="_blank">dat</a> *
-![dat](http://svgporn.com/logos/dat.svg)
-
-## <a href="https://cloudlinux.com/" target="_blank">CloudLinux</a>
-![cloudlinux](http://svgporn.com/logos/cloudlinux.svg)
 
 
 ---
