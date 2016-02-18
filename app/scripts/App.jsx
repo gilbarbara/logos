@@ -297,7 +297,7 @@ class App extends React.Component {
       d.files.forEach((f, j) => {
         logos.push(
           <Logo
-            key={i + '-' + j}
+            key={`${i}-${j}`}
             info={d}
             image={f}
             hidden={hidden}
@@ -342,7 +342,7 @@ class App extends React.Component {
             trackEvent={this.trackEvent}
             visible={visible} />
           <main>
-            <ul className={'logos col-' + state.columns + (!visible ? ' empty' : '')}>
+            <ul className={`logos col-${state.columns}${(!visible ? ' empty' : '')}`}>
               {logos}
             </ul>
           </main>
@@ -351,7 +351,7 @@ class App extends React.Component {
         <a
           href="#"
           onClick={this.scrollTop}
-          className={'scroll-top' + (state.scrollable ? ' visible' : '')}>
+          className={`scroll-top${(state.scrollable ? ' visible' : '')}`}>
           <Icon id="caret-up" />
         </a>
       </div>

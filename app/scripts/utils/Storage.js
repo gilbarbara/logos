@@ -10,9 +10,7 @@
  * @param {string} name
  * @returns {Object}
  */
-export const getItem = (name) => {
-  return JSON.parse(localStorage.getItem(name));
-};
+export const getItem = (name) => JSON.parse(localStorage.getItem(name));
 
 /**
  * Set Item.

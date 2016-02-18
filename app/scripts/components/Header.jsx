@@ -84,7 +84,7 @@ class Header extends React.Component {
     vars.button = ReactDOM.findDOMNode(this.refs.twitterButton);
     vars.js = document.createElement('script');
     vars.js.id = 'twitter-wjs';
-    vars.js.src = (/^http:/.test(document.location) ? 'http' : 'https') + '://platform.twitter.com/widgets.js';
+    vars.js.src = `${(/^http:/.test(document.location) ? 'http' : 'https')}://platform.twitter.com/widgets.js`;
     vars.button.parentNode.appendChild(vars.js);
 
     this.setState({
@@ -107,14 +107,10 @@ class Header extends React.Component {
     });
 
     if (attr === 'value') {
-      arr.sort((a, b) => {
-        return b.value - a.value;
-      });
+      arr.sort((a, b) => b.value - a.value);
     }
     else {
-      arr.sort((a, b) => {
-        return a.key.toLowerCase().localeCompare(b.key.toLowerCase());
-      }); // use this to sort as strings
+      arr.sort((a, b) => a.key.toLowerCase().localeCompare(b.key.toLowerCase())); // use this to sort as strings
     }
 
     return arr;
@@ -208,7 +204,7 @@ class Header extends React.Component {
                     key={i}
                     href="#" className={classes} data-tag={d.key}
                     onClick={this.onClickTag}>
-                    #{d.key + ' (' + d.value + ')'}
+                    {`#${d.key} (${d.value})`}
                   </a>
                 );
               })}
@@ -238,18 +234,19 @@ class Header extends React.Component {
               <Icon id="navicon" />
             </a>
             <ul>
-              {categories.map((d, i) => {
-                return (
+              {categories.map((d, i) =>
+                (
                   <li
                     key={i}
                     className={(d.key === props.state.category ? 'active' : '') + (d.key === 'categories' ? ' faded' : '')}>
                     <a
                       href="#" onClick={this.onClickChangeCategory}
                       data-value={d.key}>
-                      {d.title} {(d.value > 0 ? '(' + d.value + ')' : '')}
+                      {d.title} {(d.value > 0 ? `(${d.value})` : '')}
                     </a>
-                  </li>);
-              })}
+                  </li>
+                )
+              )}
             </ul>
           </span>
         );

@@ -18,7 +18,7 @@ class Icon extends React.Component {
     return (
       <svg
         className="icon" role="img"
-        dangerouslySetInnerHTML={{ __html: '<use xlink:href="#' + this.props.id + '"></use>' }} />
+        dangerouslySetInnerHTML={{ __html: `<use xlink:href="#${this.props.id}"></use>` }} />
     );
   }
 }

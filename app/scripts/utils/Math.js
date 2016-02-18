@@ -48,9 +48,7 @@ export const floor = (number, digits = 2) => {
  *
  * @returns {number}
  */
-export const roundByFactor = (number, factor = 10000) => {
-  return number - (number % factor) + (number % factor > 0 && factor);
-};
+export const roundByFactor = (number, factor = 10000) => number - (number % factor) + (number % factor > 0 && factor);
 
 /**
  * @function
