@@ -332,6 +332,22 @@
       "updated": "2015-08-12"
     },
     {
+      "name": "AppFog",
+      "files": [
+        "appfog.svg"
+      ],
+      "shortname": "appfog",
+      "url": "https://www.ctl.io/appfog/",
+      "tags": [
+        "app deployment",
+        "PaaS"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2016-02-18"
+    },
+    {
       "name": "AppHub",
       "files": [
         "apphub.svg"
@@ -2344,6 +2360,25 @@
       "updated": "2015-08-05"
     },
     {
+      "name": "Codeception",
+      "files": [
+        "codeception.svg"
+      ],
+      "shortname": "codeception",
+      "url": "http://codeception.com/",
+      "tags": [
+        "testing framework",
+        "bdd",
+        "php",
+        "vectorized"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-02-18",
+      "edited": true
+    },
+    {
       "name": "Codecov",
       "files": [
         "codecov.svg"
@@ -2812,7 +2847,7 @@
         "craft.svg"
       ],
       "shortname": "craft",
-      "url": "http://buildwithcraft.com/",
+      "url": "https://craftcms.com/",
       "tags": [
         "content manager",
         "blog platform"
@@ -4604,6 +4639,24 @@
       "favorite": true
     },
     {
+      "name": "Gitboard",
+      "files": [
+        "gitboard.svg"
+      ],
+      "shortname": "gitboard",
+      "url": "http://adewes.github.io/gitboard/",
+      "tags": [
+        "project manager",
+        "kanban",
+        "github"
+      ],
+      "categories": [
+        "developers",
+        "teams"
+      ],
+      "updated": "2016-02-18"
+    },
+    {
       "name": "Github",
       "files": [
         "github-icon.svg",
@@ -5439,6 +5492,23 @@
         "teams"
       ],
       "updated": "2015-07-20"
+    },
+    {
+      "name": "Hoa",
+      "files": [
+        "hoa.svg"
+      ],
+      "shortname": "hoa",
+      "url": "http://hoa-project.net/",
+      "tags": [
+        "library",
+        "php"
+      ],
+      "categories": [
+        "developers"
+      ],
+      "updated": "2016-02-18",
+      "edited": true
     },
     {
       "name": "HostGator",
@@ -11477,6 +11547,22 @@
       "updated": "2015-10-05"
     },
     {
+      "name": "Terraform",
+      "files": [
+        "terraform.svg"
+      ],
+      "shortname": "terraform",
+      "url": "https://www.terraform.io/",
+      "tags": [
+        "infrastructure",
+        "build tool"
+      ],
+      "categories": [
+        "DevOps"
+      ],
+      "updated": "2016-02-18"
+    },
+    {
       "name": "TestLodge",
       "files": [
         "testlodge.svg"
@@ -11814,6 +11900,22 @@
       "updated": "2015-07-20"
     },
     {
+      "name": "Twitch",
+      "files": [
+        "twitch.svg"
+      ],
+      "shortname": "twitch",
+      "url": "http://www.twitch.tv/",
+      "tags": [
+        "video",
+        "social network"
+      ],
+      "categories": [
+        "sharing"
+      ],
+      "updated": "2016-02-18"
+    },
+    {
       "name": "Twitter",
       "files": [
         "twitter.svg"
@@ -11897,6 +11999,22 @@
         "designers"
       ],
       "updated": "2015-07-30"
+    },
+    {
+      "name": "Unbounce",
+      "files": [
+        "unbounce.svg"
+      ],
+      "shortname": "unbounce",
+      "url": "http://unbounce.com/",
+      "tags": [
+        "landing pages",
+        "marketing"
+      ],
+      "categories": [
+        "business"
+      ],
+      "updated": "2016-02-18"
     },
     {
       "name": "UnitJS",
