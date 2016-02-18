@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.ctl.io/appfog/" target="_blank">AppFog</a>
+![appfog](http://svgporn.com/logos/appfog.svg)
+
+## <a href="http://codeception.com/" target="_blank">Codeception</a> *
+![codeception](http://svgporn.com/logos/codeception.svg)
+
+## <a href="http://adewes.github.io/gitboard/" target="_blank">Gitboard</a>
+![gitboard](http://svgporn.com/logos/gitboard.svg)
+
+## <a href="http://hoa-project.net/" target="_blank">Hoa</a> *
+![hoa](http://svgporn.com/logos/hoa.svg)
+
+## <a href="https://www.terraform.io/" target="_blank">Terraform</a>
+![terraform](http://svgporn.com/logos/terraform.svg)
+
+## <a href="http://www.twitch.tv/" target="_blank">Twitch</a>
+![twitch](http://svgporn.com/logos/twitch.svg)
+
+## <a href="http://unbounce.com/" target="_blank">Unbounce</a>
+![unbounce](http://svgporn.com/logos/unbounce.svg)
+
 ## <a href="http://appbase.io/" target="_blank">Appbase</a>
 ![appbase](http://svgporn.com/logos/appbase.svg)
 
@@ -147,29 +168,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://apphub.io/" target="_blank">AppHub</a>
 ![apphub](http://svgporn.com/logos/apphub.svg)
-
-## <a href="https://launchkit.io/" target="_blank">LaunchKit</a> *
-![launchkit](http://svgporn.com/logos/launchkit.svg)
-
-## <a href="https://www.plasticscm.com/" target="_blank">Plastic SCM</a> *
-![plastic-scm](http://svgporn.com/logos/plastic-scm.svg)
-
-## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
-![processwire](http://svgporn.com/logos/processwire-icon.svg)
-
-![processwire](http://svgporn.com/logos/processwire.svg)
-
-## <a href="https://redsmin.com/" target="_blank">Redsmin</a> *
-![redsmin](http://svgporn.com/logos/redsmin.svg)
-
-## <a href="https://dapulse.com/" target="_blank">dapulse</a>
-![dapulse](http://svgporn.com/logos/dapulse.svg)
-
-## <a href="https://github.com/coreos/flannel" target="_blank">flannel</a>
-![flannel](http://svgporn.com/logos/flannel.svg)
-
-## <a href="https://www.100tb.com/" target="_blank">100tb</a> *
-![100tb](http://svgporn.com/logos/100tb.svg)
 
 
 ---
