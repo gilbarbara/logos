@@ -19,6 +19,32 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://ampersandjs.com/" target="_blank">Ampersand.js</a>
+![ampersand](http://svgporn.com/logos/ampersand.svg)
+
+## <a href="http://aurelia.io/" target="_blank">Aurelia</a>
+![aurelia](http://svgporn.com/logos/aurelia.svg)
+
+## <a href="https://containership.io/" target="_blank">ContainerShip</a> *
+![containership](http://svgporn.com/logos/containership.svg)
+
+## <a href="https://www.launchrock.com/" target="_blank">Launchrock</a>
+![launchrock](http://svgporn.com/logos/launchrock.svg)
+
+## <a href="https://nodejs.org/" target="_blank">Node.js</a>
+![nodejs](http://svgporn.com/logos/nodejs-icon.svg)
+
+![nodejs](http://svgporn.com/logos/nodejs.svg)
+
+## <a href="https://www.qordoba.com/" target="_blank">Qordoba</a> *
+![qordoba](http://svgporn.com/logos/qordoba.svg)
+
+## <a href="http://riotjs.com/" target="_blank">Riot</a> *
+![riotjs](http://svgporn.com/logos/riot.svg)
+
+## <a href="https://www.tutum.co/" target="_blank">Tutum</a>
+![tutum](http://svgporn.com/logos/tutum.svg)
+
 ## <a href="https://www.ctl.io/appfog/" target="_blank">AppFog</a>
 ![appfog](http://svgporn.com/logos/appfog.svg)
 
@@ -144,30 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://stacksmith.bitnami.com/" target="_blank">Stacksmith</a> *
 ![stacksmith](http://svgporn.com/logos/stacksmith.svg)
-
-## <a href="https://aws.amazon.com/waf/" target="_blank">AWS WAF (Web Application Firewall)</a> *
-![aws-waf](http://svgporn.com/logos/aws-waf.svg)
-
-## <a href="http://apptentive.com/" target="_blank">Apptentive</a>
-![apptentive](http://svgporn.com/logos/apptentive.svg)
-
-## <a href="https://buddy.works/" target="_blank">Buddy</a> *
-![buddy](http://svgporn.com/logos/buddy.svg)
-
-## <a href="http://getgauge.io/" target="_blank">Gauge</a> *
-![gaugeio](http://svgporn.com/logos/gaugeio.svg)
-
-## <a href="https://maildeveloper.com/" target="_blank">MailDeveloper</a> *
-![maildeveloper](http://svgporn.com/logos/maildeveloper.svg)
-
-## <a href="http://raml.org/" target="_blank">RAML</a>
-![raml](http://svgporn.com/logos/raml.svg)
-
-## <a href="http://survicate.com/" target="_blank">survicate</a> *
-![survicate](http://svgporn.com/logos/survicate.svg)
-
-## <a href="https://apphub.io/" target="_blank">AppHub</a>
-![apphub](http://svgporn.com/logos/apphub.svg)
 
 
 ---
