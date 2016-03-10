@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://apigee.com/" target="_blank">Apigee</a>
+![apigee](http://svgporn.com/logos/apigee.svg)
+
+## <a href="https://clusterhq.com/" target="_blank">ClusterHQ</a>
+![clusterhq](http://svgporn.com/logos/clusterhq.svg)
+
+## <a href="https://giantswarm.io/" target="_blank">Giant Swarm</a>
+![giantswarm](http://svgporn.com/logos/giantswarm.svg)
+
+## <a href="https://www.graylog.org/" target="_blank">Graylog</a> *
+![graylog](http://svgporn.com/logos/graylog.svg)
+
+## <a href="http://www.sysdig.org/" target="_blank">Sysdig</a>
+![sysdig](http://svgporn.com/logos/sysdig.svg)
+
+## <a href="http://www.workboard.com/" target="_blank">Workboard</a>
+![workboard](http://svgporn.com/logos/workboard.svg)
+
+## <a href="http://www.quobyte.com/" target="_blank">quobyte</a>
+![quobyte](http://svgporn.com/logos/quobyte.svg)
+
 ## <a href="https://ampersandjs.com/" target="_blank">Ampersand.js</a>
 ![ampersand](http://svgporn.com/logos/ampersand.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://tunein.com/" target="_blank">TuneIn</a>
 ![tunein](http://svgporn.com/logos/tunein.svg)
-
-## <a href="https://cloudcraft.co/" target="_blank">Cloudcraft</a> *
-![cloudcraft](http://svgporn.com/logos/cloudcraft.svg)
-
-## <a href="https://cobalt.io/" target="_blank">Cobalt</a>
-![cobalt](http://svgporn.com/logos/cobalt.svg)
-
-## <a href="https://ethn.io/" target="_blank">Ethnio</a>
-![ethnio](http://svgporn.com/logos/ethnio.svg)
-
-## <a href="http://www.netuitive.com/" target="_blank">Netuitive</a> *
-![netuitive](http://svgporn.com/logos/netuitive.svg)
-
-## <a href="http://www.smashingmagazine.com/" target="_blank">Smashing Magazine</a> *
-![smashingmagazine](http://svgporn.com/logos/smashingmagazine.svg)
-
-## <a href="https://www.sparkpost.com/" target="_blank">SparkPost</a>
-![sparkpost](http://svgporn.com/logos/sparkpost.svg)
-
-## <a href="https://stacksmith.bitnami.com/" target="_blank">Stacksmith</a> *
-![stacksmith](http://svgporn.com/logos/stacksmith.svg)
 
 
 ---
