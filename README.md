@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://6px.io/" target="_blank">6px</a>
+![6px](http://svgporn.com/logos/6px.svg)
+
+## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
+![algolia](http://svgporn.com/logos/algolia.svg)
+
+## <a href="https://angel.co/" target="_blank">AngelList</a>
+![angellist](http://svgporn.com/logos/angellist.svg)
+
+## <a href="http://getcockpit.com/" target="_blank">Cockpit</a> *
+![cockpit](http://svgporn.com/logos/cockpit.svg)
+
+## <a href="https://discordapp.com/" target="_blank">Discord</a>
+![discord](http://svgporn.com/logos/discord.svg)
+
+## <a href="http://juju.ubuntu.com/" target="_blank">Juju</a>
+![juju](http://svgporn.com/logos/juju.svg)
+
+## <a href="https://mantl.io/" target="_blank">Mantl</a> *
+![mantl](http://svgporn.com/logos/mantl.svg)
+
 ## <a href="http://apigee.com/" target="_blank">Apigee</a>
 ![apigee](http://svgporn.com/logos/apigee.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.eclipse.org/xtend/" target="_blank">Xtend</a> *
 ![xtend](http://svgporn.com/logos/xtend.svg)
-
-## <a href="https://aws.amazon.com/cloudwatch/" target="_blank">AWS CloudWatch</a> *
-![aws-cloudwatch](http://svgporn.com/logos/aws-cloudwatch.svg)
-
-## <a href="https://www.browserling.com/" target="_blank">Browserling</a> *
-![browserling](http://svgporn.com/logos/browserling.svg)
-
-## <a href="https://hackerone.com/" target="_blank">HackerOne</a> *
-![hacker-one](http://svgporn.com/logos/hacker-one.svg)
-
-## <a href="https://humongous.io/" target="_blank">Humongous</a> *
-![humongous](http://svgporn.com/logos/humongous.svg)
-
-## <a href="https://mixmax.com/" target="_blank">Mixmax</a> *
-![mixmax](http://svgporn.com/logos/mixmax.svg)
-
-## <a href="http://www.oreilly.com/" target="_blank">O&#x27;Reilly</a>
-![oreilly](http://svgporn.com/logos/oreilly.svg)
-
-## <a href="http://tunein.com/" target="_blank">TuneIn</a>
-![tunein](http://svgporn.com/logos/tunein.svg)
 
 
 ---
