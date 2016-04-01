@@ -1,6 +1,6 @@
 SVG Logos
 ====================
-#### A collection of 700+ svg vector logos.
+#### A collection of 800+ svg vector logos.
 [View All](http://svgporn.com)
 
 The logos are optimized (removed duplicated paths / excessive groups / empty defs, linting, etc).<br/>
@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 
 ---
 ### Latest logos
+
+## <a href="https://elasticbox.com/" target="_blank">ElasticBox</a>
+![elasticbox](http://svgporn.com/logos/elasticbox.svg)
+
+## <a href="https://exponentjs.com/" target="_blank">Exponent</a> *
+![exponent](http://svgporn.com/logos/exponent.svg)
+
+## <a href="https://prospect.io/" target="_blank">Prospect</a> *
+![prospect](http://svgporn.com/logos/prospect.svg)
+
+## <a href="https://runnable.io/" target="_blank">Runnable</a>
+![runnable](http://svgporn.com/logos/runnable.svg)
+
+## <a href="https://github.com/shipitjs/shipit" target="_blank">Shipit</a> *
+![shipit](http://svgporn.com/logos/shipit.svg)
+
+## <a href="http://www.getsidekick.com/" target="_blank">Sidekick</a> *
+![sidekick](http://svgporn.com/logos/sidekick.svg)
+
+## <a href="http://undertow.io/" target="_blank">ndertow</a>
+![undertow](http://svgporn.com/logos/undertow.svg)
 
 ## <a href="https://6px.io/" target="_blank">6px</a>
 ![6px](http://svgporn.com/logos/6px.svg)
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.xwiki.org/" target="_blank">XWiki</a>
 ![xwiki](http://svgporn.com/logos/xwiki.svg)
-
-## <a href="http://www.kinto-storage.org/" target="_blank">Kinto</a>
-![kinto](http://svgporn.com/logos/kinto.svg)
-
-## <a href="http://modx.com/" target="_blank">MODX</a>
-![modx](http://svgporn.com/logos/modx.svg)
-
-## <a href="https://mesosphere.com/" target="_blank">Mesosphere</a>
-![mesosphere](http://svgporn.com/logos/mesosphere.svg)
-
-## <a href="http://www.kinto-storage.org/" target="_blank">NuoDB</a>
-![nuodb](http://svgporn.com/logos/nuodb.svg)
-
-## <a href="https://speakerdeck.com/" target="_blank">Speaker Deck</a> *
-![speakerdeck](http://svgporn.com/logos/speakerdeck.svg)
-
-## <a href="http://www.teamgridapp.com/" target="_blank">Teamgrid</a> *
-![teamgrid](http://svgporn.com/logos/teamgrid.svg)
-
-## <a href="http://www.eclipse.org/xtend/" target="_blank">Xtend</a> *
-![xtend](http://svgporn.com/logos/xtend.svg)
 
 
 ---
