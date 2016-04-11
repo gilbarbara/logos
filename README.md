@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.gitkraken.com/" target="_blank">GitKraken</a>
+![gitkraken](http://svgporn.com/logos/gitkraken.svg)
+
+## <a href="https://lookback.io/" target="_blank">Lookback</a>
+![lookback](http://svgporn.com/logos/lookback.svg)
+
+## <a href="http://www.nodaljs.com/" target="_blank">Nodal</a> *
+![nodal](http://svgporn.com/logos/nodal.svg)
+
+## <a href="https://remergr.io/" target="_blank">Remergr</a>
+![remergr](http://svgporn.com/logos/remergr.svg)
+
+## <a href="https://sqldep.com/" target="_blank">SQLdep</a>
+![sqldep](http://svgporn.com/logos/sqldep.svg)
+
+## <a href="https://getsiphon.com/" target="_blank">Siphon</a> *
+![siphon](http://svgporn.com/logos/siphon.svg)
+
+## <a href="http://zestdocs.org/" target="_blank">Zest</a> *
+![zest](http://svgporn.com/logos/zest.svg)
+
 ## <a href="https://elasticbox.com/" target="_blank">ElasticBox</a>
 ![elasticbox](http://svgporn.com/logos/elasticbox.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://geekbot.io/" target="_blank">geekbot</a> *
 ![geekbot](http://svgporn.com/logos/geekbot.svg)
-
-## <a href="https://bowtie.io/" target="_blank">Bowtie</a> *
-![bowtie](http://svgporn.com/logos/bowtie.svg)
-
-## <a href="https://getgrav.org/" target="_blank">Grav</a>
-![grav](http://svgporn.com/logos/grav.svg)
-
-## <a href="https://kallithea-scm.org/" target="_blank">Kallithea</a> *
-![kallithea](http://svgporn.com/logos/kallithea.svg)
-
-## <a href="http://ramdajs.com/" target="_blank">Ramda</a> *
-![ramda](http://svgporn.com/logos/ramda.svg)
-
-## <a href="https://www.scribd.com/" target="_blank">Scribd</a>
-![scribd](http://svgporn.com/logos/scribd.svg)
-
-## <a href="https://getshogun.com/" target="_blank">Shogun</a> *
-![shogun](http://svgporn.com/logos/shogun.svg)
-
-## <a href="http://www.xwiki.org/" target="_blank">XWiki</a>
-![xwiki](http://svgporn.com/logos/xwiki.svg)
 
 
 ---
