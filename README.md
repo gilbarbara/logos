@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://cycle.js.org/" target="_blank">Cycle.js</a>
+![cyclejs](http://svgporn.com/logos/cyclejs.svg)
+
+## <a href="https://opsee.com/" target="_blank">Opsee</a> *
+![opsee](http://svgporn.com/logos/opsee.svg)
+
+## <a href="https://pyup.io/" target="_blank">Pyup</a> *
+![pyup](http://svgporn.com/logos/pyup.svg)
+
+## <a href="http://stridercd.com/" target="_blank">Strider</a>
+![strider](http://svgporn.com/logos/strider.svg)
+
+## <a href="https://codebeat.co/" target="_blank">codebeat</a>
+![codebeat](http://svgporn.com/logos/codebeat.svg)
+
+## <a href="https://www.deppbot.com/" target="_blank">deppbot</a>
+![deppbot](http://svgporn.com/logos/deppbot.svg)
+
+## <a href="http://elm-lang.org/" target="_blank">elm</a>
+![elm](http://svgporn.com/logos/elm.svg)
+
 ## <a href="https://www.gitkraken.com/" target="_blank">GitKraken</a>
 ![gitkraken](http://svgporn.com/logos/gitkraken.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://unbounce.com/" target="_blank">Unbounce</a>
 ![unbounce](http://svgporn.com/logos/unbounce.svg)
-
-## <a href="http://appbase.io/" target="_blank">Appbase</a>
-![appbase](http://svgporn.com/logos/appbase.svg)
-
-## <a href="https://microsoft.github.io/code-push/" target="_blank">CodePush</a>
-![codepush](http://svgporn.com/logos/codepush.svg)
-
-## <a href="https://flowxo.com/" target="_blank">FlowXO</a> *
-![flowxo](http://svgporn.com/logos/flowxo.svg)
-
-## <a href="https://protonet.info" target="_blank">Protonet</a> *
-![protonet](http://svgporn.com/logos/protonet.svg)
-
-## <a href="https://stoplight.io/" target="_blank">StopLight</a> *
-![stoplight](http://svgporn.com/logos/stoplight.svg)
-
-## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
-![stylus](http://svgporn.com/logos/stylus.svg)
-
-## <a href="https://geekbot.io/" target="_blank">geekbot</a> *
-![geekbot](http://svgporn.com/logos/geekbot.svg)
 
 
 ---
