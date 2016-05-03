@@ -19,6 +19,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.heroku.com/redis" target="_blank">Heroku Redis</a>
+![heroku-redis](http://svgporn.com/logos/heroku-redis.svg)
+
+## <a href="https://locent.com/" target="_blank">Locent</a> *
+![locent](http://svgporn.com/logos/locent.svg)
+
+## <a href="https://preactjs.com/" target="_blank">Preact</a> *
+![preact](http://svgporn.com/logos/preact.svg)
+
+## <a href="https://redspread.com/" target="_blank">Redspread</a>
+![redspread](http://svgporn.com/logos/redspread.svg)
+
+## <a href="http://redux.js.org/" target="_blank">Redux</a>
+![redux](http://svgporn.com/logos/redux.svg)
+
+## <a href="https://www.shippable.com/" target="_blank">Shippable</a>
+![shippable](http://svgporn.com/logos/shippable.svg)
+
+## <a href="https://api.ai/" target="_blank">api.ai</a> *
+![api-ai](http://svgporn.com/logos/api-ai.svg)
+
 ## <a href="http://cycle.js.org/" target="_blank">Cycle.js</a>
 ![cyclejs](http://svgporn.com/logos/cyclejs.svg)
 
@@ -149,27 +170,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.tutum.co/" target="_blank">Tutum</a>
 ![tutum](http://svgporn.com/logos/tutum.svg)
-
-## <a href="https://www.ctl.io/appfog/" target="_blank">AppFog</a>
-![appfog](http://svgporn.com/logos/appfog.svg)
-
-## <a href="http://codeception.com/" target="_blank">Codeception</a> *
-![codeception](http://svgporn.com/logos/codeception.svg)
-
-## <a href="http://adewes.github.io/gitboard/" target="_blank">Gitboard</a>
-![gitboard](http://svgporn.com/logos/gitboard.svg)
-
-## <a href="http://hoa-project.net/" target="_blank">Hoa</a> *
-![hoa](http://svgporn.com/logos/hoa.svg)
-
-## <a href="https://www.terraform.io/" target="_blank">Terraform</a>
-![terraform](http://svgporn.com/logos/terraform.svg)
-
-## <a href="http://www.twitch.tv/" target="_blank">Twitch</a>
-![twitch](http://svgporn.com/logos/twitch.svg)
-
-## <a href="http://unbounce.com/" target="_blank">Unbounce</a>
-![unbounce](http://svgporn.com/logos/unbounce.svg)
 
 
 ---
