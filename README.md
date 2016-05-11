@@ -11,13 +11,34 @@ Since I optimize all the files manually I won't accept pull requests with new lo
 Please add your requests in the issues preferably with links to the vector files.
 
 ## Tips for working with SVGs
-• Always convert borders to paths. They use a fixed size and behave strangely when resized.
-• Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
+* Always convert borders to paths. They use a fixed size and behave strangely when resized.
+* Join all the paths into one and use it as a background/mask. Or at least overlap your paths.
 
 *All logos appearing on the site are the property of their respective owners.*
 
 ---
 ### Latest logos
+
+## <a href="https://asana.com/" target="_blank">Asana</a>
+![asana](http://svgporn.com/logos/asana.svg)
+
+## <a href="https://concourse.ci/" target="_blank">Concourse</a>
+![concourse](http://svgporn.com/logos/concourse.svg)
+
+## <a href="http://crystal-lang.org/" target="_blank">Crystal</a>
+![crystal](http://svgporn.com/logos/crystal.svg)
+
+## <a href="http://kemalcr.com/" target="_blank">Kemal</a> *
+![kemal](http://svgporn.com/logos/kemal.svg)
+
+## <a href="https://github.com/pugjs/pug" target="_blank">Pug</a>
+![pug](http://svgporn.com/logos/pug.svg)
+
+## <a href="http://reactivex.io/" target="_blank">ReactiveX</a> *
+![reactivex](http://svgporn.com/logos/reactivex.svg)
+
+## <a href="https://linkerd.io/" target="_blank">linkerd</a>
+![linkerd](http://svgporn.com/logos/linkerd.svg)
 
 ## <a href="https://www.heroku.com/redis" target="_blank">Heroku Redis</a>
 ![heroku-redis](http://svgporn.com/logos/heroku-redis.svg)
@@ -148,32 +169,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://ampersandjs.com/" target="_blank">Ampersand.js</a>
 ![ampersand](http://svgporn.com/logos/ampersand.svg)
 
-## <a href="http://aurelia.io/" target="_blank">Aurelia</a>
-![aurelia](http://svgporn.com/logos/aurelia.svg)
-
-## <a href="https://containership.io/" target="_blank">ContainerShip</a> *
-![containership](http://svgporn.com/logos/containership.svg)
-
-## <a href="https://www.launchrock.com/" target="_blank">Launchrock</a>
-![launchrock](http://svgporn.com/logos/launchrock.svg)
-
-## <a href="https://nodejs.org/" target="_blank">Node.js</a>
-![nodejs](http://svgporn.com/logos/nodejs-icon.svg)
-
-![nodejs](http://svgporn.com/logos/nodejs.svg)
-
-## <a href="https://www.qordoba.com/" target="_blank">Qordoba</a> *
-![qordoba](http://svgporn.com/logos/qordoba.svg)
-
-## <a href="http://riotjs.com/" target="_blank">Riot</a> *
-![riotjs](http://svgporn.com/logos/riot.svg)
-
-## <a href="https://www.tutum.co/" target="_blank">Tutum</a>
-![tutum](http://svgporn.com/logos/tutum.svg)
-
 
 ---
 
 [View all on svgporn.com](http://svgporn.com)
 
-\* Converted from raster image, svg font or adapted from complex AI files.
+\* Converted from raster image, svg font or adapted from complex files.
