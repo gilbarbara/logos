@@ -18,6 +18,33 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.jetbrains.com/appcode/" target="_blank">AppCode</a>
+![appcode](http://svgporn.com/logos/appcode.svg)
+
+## <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a>
+![clion](http://svgporn.com/logos/clion.svg)
+
+## <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a>
+![intellij-idea](http://svgporn.com/logos/intellij-idea.svg)
+
+## <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>
+![jetbrains](http://svgporn.com/logos/jetbrains.svg)
+
+## <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PhpStorm</a>
+![phpstorm](http://svgporn.com/logos/phpstorm.svg)
+
+## <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>
+![pycharm](http://svgporn.com/logos/pycharm.svg)
+
+## <a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>
+![rubymine](http://svgporn.com/logos/rubymine.svg)
+
+## <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
+![webstorm](http://svgporn.com/logos/webstorm.svg)
+
+## <a href="https://www.jetbrains.com/youtrack/" target="_blank">YouTrack</a>
+![youtrack](http://svgporn.com/logos/youtrack.svg)
+
 ## <a href="https://bugsnag.com/" target="_blank">Bugsnag</a> *
 ![bugsnag](http://svgporn.com/logos/bugsnag.svg)
 
@@ -140,33 +167,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://www.getsidekick.com/" target="_blank">Sidekick</a> *
 ![sidekick](http://svgporn.com/logos/sidekick.svg)
-
-## <a href="http://undertow.io/" target="_blank">ndertow</a>
-![undertow](http://svgporn.com/logos/undertow.svg)
-
-## <a href="https://6px.io/" target="_blank">6px</a>
-![6px](http://svgporn.com/logos/6px.svg)
-
-## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
-![algolia](http://svgporn.com/logos/algolia.svg)
-
-## <a href="https://angel.co/" target="_blank">AngelList</a>
-![angellist](http://svgporn.com/logos/angellist.svg)
-
-## <a href="http://getcockpit.com/" target="_blank">Cockpit</a> *
-![cockpit](http://svgporn.com/logos/cockpit.svg)
-
-## <a href="https://discordapp.com/" target="_blank">Discord</a>
-![discord](http://svgporn.com/logos/discord.svg)
-
-## <a href="http://juju.ubuntu.com/" target="_blank">Juju</a>
-![juju](http://svgporn.com/logos/juju.svg)
-
-## <a href="https://mantl.io/" target="_blank">Mantl</a> *
-![mantl](http://svgporn.com/logos/mantl.svg)
-
-## <a href="http://apigee.com/" target="_blank">Apigee</a>
-![apigee](http://svgporn.com/logos/apigee.svg)
 
 
 ---
