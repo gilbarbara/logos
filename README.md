@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://eslint.org/" target="_blank">ESLint</a>
+![eslint](http://svgporn.com/logos/eslint.svg)
+
+## <a href="https://www.firebase.com/" target="_blank">Firebase</a> *
+![firebase](http://svgporn.com/logos/firebase.svg)
+
+## <a href="https://hashnode.com/" target="_blank">Hashnode</a> *
+![hashnode](http://svgporn.com/logos/hashnode.svg)
+
+## <a href="https://mobxjs.github.io/mobx/" target="_blank">MobX</a> *
+![mobx](http://svgporn.com/logos/mobx.svg)
+
+## <a href="http://mochajs.org/" target="_blank">Mocha</a> *
+![mocha](http://svgporn.com/logos/mocha.svg)
+
+## <a href="http://platformio.org/" target="_blank">PlatformIO</a> *
+![platformio](http://svgporn.com/logos/platformio.svg)
+
+## <a href="http://stylelint.io/" target="_blank">stylelint</a>
+![stylelint](http://svgporn.com/logos/stylelint.svg)
+
 ## <a href="https://www.jetbrains.com/appcode/" target="_blank">AppCode</a>
 ![appcode](http://svgporn.com/logos/appcode.svg)
 
@@ -146,27 +167,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://getsiphon.com/" target="_blank">Siphon</a> *
 ![siphon](http://svgporn.com/logos/siphon.svg)
-
-## <a href="http://zestdocs.org/" target="_blank">Zest</a> *
-![zest](http://svgporn.com/logos/zest.svg)
-
-## <a href="https://elasticbox.com/" target="_blank">ElasticBox</a>
-![elasticbox](http://svgporn.com/logos/elasticbox.svg)
-
-## <a href="https://exponentjs.com/" target="_blank">Exponent</a> *
-![exponent](http://svgporn.com/logos/exponent.svg)
-
-## <a href="https://prospect.io/" target="_blank">Prospect</a> *
-![prospect](http://svgporn.com/logos/prospect.svg)
-
-## <a href="https://runnable.io/" target="_blank">Runnable</a>
-![runnable](http://svgporn.com/logos/runnable.svg)
-
-## <a href="https://github.com/shipitjs/shipit" target="_blank">Shipit</a> *
-![shipit](http://svgporn.com/logos/shipit.svg)
-
-## <a href="http://www.getsidekick.com/" target="_blank">Sidekick</a> *
-![sidekick](http://svgporn.com/logos/sidekick.svg)
 
 
 ---
