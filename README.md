@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.forestadmin.com/" target="_blank">Forest</a>
+![forest](http://svgporn.com/logos/forest.svg)
+
+## <a href="https://github.com/facebook/Haxl" target="_blank">Haxl</a>
+![haxl](http://svgporn.com/logos/haxl.svg)
+
+## <a href="https://instagram.com/" target="_blank">Instagram</a>
+![instagram](http://svgporn.com/logos/instagram-icon.svg)
+
+![instagram](http://svgporn.com/logos/instagram.svg)
+
+## <a href="https://www.intercom.io/" target="_blank">Intercom</a>
+![intercom](http://svgporn.com/logos/intercom.svg)
+
+## <a href="http://supergiant.io/" target="_blank">Supergiant</a>
+![supergiant](http://svgporn.com/logos/supergiant.svg)
+
+## <a href="https://www.w3.org/TR/websockets/" target="_blank">WebSocket</a>
+![websocket](http://svgporn.com/logos/websocket.svg)
+
+## <a href="https://opbeat.com/" target="_blank">opbeat</a>
+![opbeat](http://svgporn.com/logos/opbeat.svg)
+
 ## <a href="http://eslint.org/" target="_blank">ESLint</a>
 ![eslint](http://svgporn.com/logos/eslint.svg)
 
@@ -146,27 +169,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.deppbot.com/" target="_blank">deppbot</a>
 ![deppbot](http://svgporn.com/logos/deppbot.svg)
-
-## <a href="http://elm-lang.org/" target="_blank">elm</a>
-![elm](http://svgporn.com/logos/elm.svg)
-
-## <a href="https://www.gitkraken.com/" target="_blank">GitKraken</a>
-![gitkraken](http://svgporn.com/logos/gitkraken.svg)
-
-## <a href="https://lookback.io/" target="_blank">Lookback</a>
-![lookback](http://svgporn.com/logos/lookback.svg)
-
-## <a href="http://www.nodaljs.com/" target="_blank">Nodal</a> *
-![nodal](http://svgporn.com/logos/nodal.svg)
-
-## <a href="https://remergr.io/" target="_blank">Remergr</a>
-![remergr](http://svgporn.com/logos/remergr.svg)
-
-## <a href="https://sqldep.com/" target="_blank">SQLdep</a>
-![sqldep](http://svgporn.com/logos/sqldep.svg)
-
-## <a href="https://getsiphon.com/" target="_blank">Siphon</a> *
-![siphon](http://svgporn.com/logos/siphon.svg)
 
 
 ---
