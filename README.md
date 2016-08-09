@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.dashlane.com/" target="_blank">Dashlane</a>
+![dashlane](http://svgporn.com/logos/dashlane.svg)
+
+## <a href="https://github.com/jorgebastida/gordon" target="_blank">Gordon</a>
+![gordon](http://svgporn.com/logos/gordon.svg)
+
+## <a href="http://mern.io/" target="_blank">Mern</a>
+![mern](http://svgporn.com/logos/mern.svg)
+
+## <a href="https://noysi.com/" target="_blank">Noysi</a>
+![noysi](http://svgporn.com/logos/noysi.svg)
+
+## <a href="http://getpepperoni.com/" target="_blank">Pepperoni</a>
+![pepperoni](http://svgporn.com/logos/pepperoni.svg)
+
+## <a href="http://senecajs.org/" target="_blank">Seneca</a>
+![seneca](http://svgporn.com/logos/seneca.svg)
+
+## <a href="https://www.upwork.com/" target="_blank">Upwork</a>
+![upwork](http://svgporn.com/logos/upwork.svg)
+
+## <a href="http://flexible.gs/" target="_blank">flexible.gs</a>
+![flexible-gs](http://svgporn.com/logos/flexible-gs.svg)
+
 ## <a href="http://www.forestadmin.com/" target="_blank">Forest</a>
 ![forest](http://svgporn.com/logos/forest.svg)
 
@@ -145,30 +169,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://redux.js.org/" target="_blank">Redux</a>
 ![redux](http://svgporn.com/logos/redux.svg)
-
-## <a href="https://www.shippable.com/" target="_blank">Shippable</a>
-![shippable](http://svgporn.com/logos/shippable.svg)
-
-## <a href="https://api.ai/" target="_blank">api.ai</a> *
-![api-ai](http://svgporn.com/logos/api-ai.svg)
-
-## <a href="http://cycle.js.org/" target="_blank">Cycle.js</a>
-![cyclejs](http://svgporn.com/logos/cyclejs.svg)
-
-## <a href="https://opsee.com/" target="_blank">Opsee</a> *
-![opsee](http://svgporn.com/logos/opsee.svg)
-
-## <a href="https://pyup.io/" target="_blank">Pyup</a> *
-![pyup](http://svgporn.com/logos/pyup.svg)
-
-## <a href="http://stridercd.com/" target="_blank">Strider</a>
-![strider](http://svgporn.com/logos/strider.svg)
-
-## <a href="https://codebeat.co/" target="_blank">codebeat</a>
-![codebeat](http://svgporn.com/logos/codebeat.svg)
-
-## <a href="https://www.deppbot.com/" target="_blank">deppbot</a>
-![deppbot](http://svgporn.com/logos/deppbot.svg)
 
 
 ---
