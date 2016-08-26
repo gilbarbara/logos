@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.apollostack.com/" target="_blank">Apollo</a>
+![apollo](http://svgporn.com/logos/apollo.svg)
+
+## <a href="https://www.appveyor.com/" target="_blank">AppVeyor</a>
+![appveyor](http://svgporn.com/logos/appveyor.svg)
+
+## <a href="https://dependencyci.com/" target="_blank">Dependency CI</a>
+![dependencyci](http://svgporn.com/logos/dependencyci.svg)
+
+## <a href="https://frontapp.com/" target="_blank">Front</a>
+![frontapp](http://svgporn.com/logos/frontapp.svg)
+
+## <a href="http://perf.rocks/" target="_blank">Perf Rocks</a>
+![perf-rocks](http://svgporn.com/logos/perf-rocks.svg)
+
+## <a href="https://scaphold.io/" target="_blank">Scaphold</a>
+![scaphold](http://svgporn.com/logos/scaphold.svg)
+
+## <a href="https://sendgrid.com/" target="_blank">SendGrid</a>
+![sendgrid](http://svgporn.com/logos/sendgrid.svg)
+
+## <a href="https://www.snupps.com/" target="_blank">Snupps</a>
+![snupps](http://svgporn.com/logos/snupps.svg)
+
 ## <a href="https://www.dashlane.com/" target="_blank">Dashlane</a>
 ![dashlane](http://svgporn.com/logos/dashlane.svg)
 
@@ -145,30 +169,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://kemalcr.com/" target="_blank">Kemal</a> *
 ![kemal](http://svgporn.com/logos/kemal.svg)
-
-## <a href="https://github.com/pugjs/pug" target="_blank">Pug</a>
-![pug](http://svgporn.com/logos/pug.svg)
-
-## <a href="http://reactivex.io/" target="_blank">ReactiveX</a> *
-![reactivex](http://svgporn.com/logos/reactivex.svg)
-
-## <a href="https://linkerd.io/" target="_blank">linkerd</a>
-![linkerd](http://svgporn.com/logos/linkerd.svg)
-
-## <a href="https://www.heroku.com/redis" target="_blank">Heroku Redis</a>
-![heroku-redis](http://svgporn.com/logos/heroku-redis.svg)
-
-## <a href="https://locent.com/" target="_blank">Locent</a> *
-![locent](http://svgporn.com/logos/locent.svg)
-
-## <a href="https://preactjs.com/" target="_blank">Preact</a> *
-![preact](http://svgporn.com/logos/preact.svg)
-
-## <a href="https://redspread.com/" target="_blank">Redspread</a>
-![redspread](http://svgporn.com/logos/redspread.svg)
-
-## <a href="http://redux.js.org/" target="_blank">Redux</a>
-![redux](http://svgporn.com/logos/redux.svg)
 
 
 ---
