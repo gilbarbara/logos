@@ -19,7 +19,7 @@ Please add your requests in the issues preferably with links to the vector files
 ### Latest logos
 
 ## <a href="http://www.apollostack.com/" target="_blank">Apollo</a>
-![apollo](http://svgporn.com/logos/apollo.svg)
+![apollostack](http://svgporn.com/logos/apollostack.svg)
 
 ## <a href="https://www.appveyor.com/" target="_blank">AppVeyor</a>
 ![appveyor](http://svgporn.com/logos/appveyor.svg)
