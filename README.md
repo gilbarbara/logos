@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://horizon.io/" target="_blank">Horizon</a> *
+![horizon](http://svgporn.com/logos/horizon.svg)
+
+## <a href="https://hyperdev.com/about/" target="_blank">HyperDev</a>
+![hyperdev](http://svgporn.com/logos/hyperdev.svg)
+
+## <a href="http://nightwatchjs.org/" target="_blank">Nightwatch.js</a> *
+![nightwatch](http://svgporn.com/logos/nightwatch.svg)
+
+## <a href="http://www.protractortest.org/" target="_blank">Protactor</a> *
+![protactor](http://svgporn.com/logos/protactor.svg)
+
+## <a href="https://github.com/serverless/serverless" target="_blank">Serverless</a> *
+![serveless](http://svgporn.com/logos/serveless.svg)
+
+## <a href="https://www.yandex.ru/" target="_blank">Yandex</a>
+![yandex-ru](http://svgporn.com/logos/yandex-ru.svg)
+
+## <a href="https://github.com/linkedin/rest.li" target="_blank">rest.li</a> *
+![rest-li](http://svgporn.com/logos/rest-li.svg)
+
 ## <a href="http://www.apollostack.com/" target="_blank">Apollo</a>
 ![apollostack](http://svgporn.com/logos/apollostack.svg)
 
@@ -148,27 +169,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.losant.com/" target="_blank">Losant</a>
 ![losant](http://svgporn.com/logos/losant.svg)
-
-## <a href="https://www.passbolt.com/" target="_blank">Passbolt</a>
-![passbolt](http://svgporn.com/logos/passbolt.svg)
-
-## <a href="https://sherlock.knowtify.io/" target="_blank">Sherlock</a> *
-![sherlock](http://svgporn.com/logos/sherlock.svg)
-
-## <a href="https://www.stickermule.com/" target="_blank">stickermule</a>
-![stickermule](http://svgporn.com/logos/stickermule.svg)
-
-## <a href="https://asana.com/" target="_blank">Asana</a>
-![asana](http://svgporn.com/logos/asana.svg)
-
-## <a href="https://concourse.ci/" target="_blank">Concourse</a>
-![concourse](http://svgporn.com/logos/concourse.svg)
-
-## <a href="http://crystal-lang.org/" target="_blank">Crystal</a>
-![crystal](http://svgporn.com/logos/crystal.svg)
-
-## <a href="http://kemalcr.com/" target="_blank">Kemal</a> *
-![kemal](http://svgporn.com/logos/kemal.svg)
 
 
 ---
