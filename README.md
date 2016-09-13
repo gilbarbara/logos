@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://console.ng.bluemix.net/" target="_blank">Bluemix</a>
+![bluemix](http://svgporn.com/logos/bluemix.svg)
+
+## <a href="https://www.ethereum.org/" target="_blank">Ethereum</a> *
+![ethereum](http://svgporn.com/logos/ethereum.svg)
+
+## <a href="https://www.go.cd/" target="_blank">GoCD</a>
+![gocd](http://svgporn.com/logos/gocd.svg)
+
+## <a href="https://getmonero.org/" target="_blank">Monero</a>
+![monero](http://svgporn.com/logos/monero.svg)
+
+## <a href="https://www.reindex.io/" target="_blank">Reindex</a>
+![reindex](http://svgporn.com/logos/reindex.svg)
+
+## <a href="https://snyk.io/" target="_blank">Snyk</a> *
+![snyk](http://svgporn.com/logos/snyk.svg)
+
+## <a href="https://webtorrent.io/" target="_blank">WebTorrent</a>
+![webtorrent](http://svgporn.com/logos/webtorrent.svg)
+
 ## <a href="https://horizon.io/" target="_blank">Horizon</a> *
 ![horizon](http://svgporn.com/logos/horizon.svg)
 
@@ -148,27 +169,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>
 ![pycharm](http://svgporn.com/logos/pycharm.svg)
-
-## <a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>
-![rubymine](http://svgporn.com/logos/rubymine.svg)
-
-## <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
-![webstorm](http://svgporn.com/logos/webstorm.svg)
-
-## <a href="https://www.jetbrains.com/youtrack/" target="_blank">YouTrack</a>
-![youtrack](http://svgporn.com/logos/youtrack.svg)
-
-## <a href="https://bugsnag.com/" target="_blank">Bugsnag</a> *
-![bugsnag](http://svgporn.com/logos/bugsnag.svg)
-
-## <a href="http://graphql.org/" target="_blank">GraphQL</a>
-![graphql](http://svgporn.com/logos/graphql.svg)
-
-## <a href="http://graphene-python.org/" target="_blank">Graphene</a>
-![graphene](http://svgporn.com/logos/graphene.svg)
-
-## <a href="https://www.losant.com/" target="_blank">Losant</a>
-![losant](http://svgporn.com/logos/losant.svg)
 
 
 ---
