@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://dcos.io/" target="_blank">DC/OS</a>
+![dcos](http://svgporn.com/logos/dcos.svg)
+
+## <a href="https://galliumos.org/" target="_blank">GalliumOS</a>
+![galliumos](http://svgporn.com/logos/galliumos.svg)
+
+## <a href="https://github.com/trueadm/inferno" target="_blank">Inferno</a>
+![inferno](http://svgporn.com/logos/inferno.svg)
+
+## <a href="http://logmatic.io/" target="_blank">Logmatic</a>
+![logmatic](http://svgporn.com/logos/logmatic.svg)
+
+## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
+![azure](http://svgporn.com/logos/azure.svg)
+
+## <a href="https://www.origin.com/" target="_blank">Origin</a>
+![origin](http://svgporn.com/logos/origin.svg)
+
+## <a href="http://store.steampowered.com/" target="_blank">Steam</a>
+![steam](http://svgporn.com/logos/steam.svg)
+
+## <a href="https://stripe.com/" target="_blank">Stripe</a>
+![stripe](http://svgporn.com/logos/stripe.svg)
+
 ## <a href="https://console.ng.bluemix.net/" target="_blank">Bluemix</a>
 ![bluemix](http://svgporn.com/logos/bluemix.svg)
 
@@ -145,30 +169,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="http://mochajs.org/" target="_blank">Mocha</a> *
 ![mocha](http://svgporn.com/logos/mocha.svg)
-
-## <a href="http://platformio.org/" target="_blank">PlatformIO</a> *
-![platformio](http://svgporn.com/logos/platformio.svg)
-
-## <a href="http://stylelint.io/" target="_blank">stylelint</a>
-![stylelint](http://svgporn.com/logos/stylelint.svg)
-
-## <a href="https://www.jetbrains.com/appcode/" target="_blank">AppCode</a>
-![appcode](http://svgporn.com/logos/appcode.svg)
-
-## <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a>
-![clion](http://svgporn.com/logos/clion.svg)
-
-## <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a>
-![intellij-idea](http://svgporn.com/logos/intellij-idea.svg)
-
-## <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>
-![jetbrains](http://svgporn.com/logos/jetbrains.svg)
-
-## <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PhpStorm</a>
-![phpstorm](http://svgporn.com/logos/phpstorm.svg)
-
-## <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>
-![pycharm](http://svgporn.com/logos/pycharm.svg)
 
 
 ---
