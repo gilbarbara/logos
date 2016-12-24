@@ -18,12 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
+![algolia](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/algolia.svg)
+## <a href="https://airtable.com/" target="_blank">Airtable</a>
+![airtable](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/airtable.svg)
+## <a href="https://www.drift.com/" target="_blank">Drift</a>
+![drift](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/drift.svg)
+## <a href="https://www.usefomo.com/" target="_blank">Fomo</a>
+![fomo](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/fomo.svg)
+## <a href="https://gusto.com/" target="_blank">Gusto</a>
+![gusto](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/gusto.svg)
+## <a href="https://github.com/postcss/sugarss" target="_blank">SugarSS</a>
+![sugarss](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sugarss.svg)
+## <a href="https://yarnpkg.com/" target="_blank">Yarn</a>
+![yarn](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/yarn.svg)
+## <a href="https://github.com/redux-observable/redux-observable" target="_blank">redux-observable</a> *
+![redux-observable](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/redux-observable.svg)
+## <a href="https://www.cloudflare.com/" target="_blank">CloudFlare</a>
+![cloudflare](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/cloudflare.svg)
+## <a href="https://github.com/rackt/react-router" target="_blank">React/Router</a> *
+![react-router](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/react-router.svg)
 ## <a href="https://alpha.trycarbide.com/" target="_blank">Carbide</a>
 ![carbide](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/carbide.svg)
 ## <a href="https://codepicnic.com/" target="_blank">CodePicnic</a> *
 ![codepicnic](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/codepicnic.svg)
-## <a href="https://gusto.com/" target="_blank">Gusto</a>
-![gusto](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/gusto.svg)
 ## <a href="http://twitter.github.io/heron/" target="_blank">Heron</a>
 ![heron](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/heron.svg)
 ## <a href="http://www.pipefy.com/" target="_blank">Pipefy</a>
@@ -100,25 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![mern](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mern.svg)
 ## <a href="https://noysi.com/" target="_blank">Noysi</a>
 ![noysi](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/noysi.svg)
-## <a href="http://getpepperoni.com/" target="_blank">Pepperoni</a>
-![pepperoni](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pepperoni.svg)
-## <a href="http://senecajs.org/" target="_blank">Seneca</a>
-![seneca](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/seneca.svg)
-## <a href="https://www.upwork.com/" target="_blank">Upwork</a>
-![upwork](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/upwork.svg)
-## <a href="http://flexible.gs/" target="_blank">flexible.gs</a>
-![flexible-gs](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/flexible-gs.svg)
-## <a href="http://www.forestadmin.com/" target="_blank">Forest</a>
-![forest](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/forest.svg)
-## <a href="https://github.com/facebook/Haxl" target="_blank">Haxl</a>
-![haxl](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/haxl.svg)
-## <a href="https://instagram.com/" target="_blank">Instagram</a>
-![instagram](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/instagram-icon.svg)
-![instagram](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/instagram.svg)
-## <a href="https://www.intercom.io/" target="_blank">Intercom</a>
-![intercom](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/intercom.svg)
-## <a href="http://supergiant.io/" target="_blank">Supergiant</a>
-![supergiant](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/supergiant.svg)
 
 ---
 
