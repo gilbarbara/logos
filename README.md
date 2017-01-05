@@ -18,6 +18,10 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://rubyonrails.org/" target="_blank">Rails</a>
+![rails](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rails.svg)
+## <a href="http://webpack.github.io/" target="_blank">webpack</a> *
+![webpack](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webpack.svg)
 ## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
 ![algolia](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/algolia.svg)
 ## <a href="https://airtable.com/" target="_blank">Airtable</a>
@@ -114,10 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![dashlane](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dashlane.svg)
 ## <a href="https://github.com/jorgebastida/gordon" target="_blank">Gordon</a>
 ![gordon](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/gordon.svg)
-## <a href="http://mern.io/" target="_blank">Mern</a>
-![mern](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mern.svg)
-## <a href="https://noysi.com/" target="_blank">Noysi</a>
-![noysi](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/noysi.svg)
 
 ---
 
