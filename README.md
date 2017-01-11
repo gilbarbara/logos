@@ -18,9 +18,23 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://quicksight.aws/" target="_blank">AWS QuickSight</a>
+![aws-quicksight](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-quicksight.svg)
+## <a href="https://esdoc.org/" target="_blank">ESDoc</a>
+![esdoc](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/esdoc.svg)
+## <a href="http://materializecss.com/" target="_blank">Materialize</a>
+![materializecss](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/materializecss.svg)
+## <a href="https://www.vultr.com/" target="_blank">Vultr</a>
+![vultr](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/vultr.svg)
+## <a href="https://webtask.io/" target="_blank">Webtask</a>
+![webtask](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webtask.svg)
+## <a href="https://wire.com/" target="_blank">Wire</a>
+![wire](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/wire.svg)
+## <a href="https://opencollective.com/" target="_blank">open collective</a>
+![opencollective](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/opencollective.svg)
 ## <a href="http://rubyonrails.org/" target="_blank">Rails</a>
 ![rails](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rails.svg)
-## <a href="http://webpack.github.io/" target="_blank">webpack</a> *
+## <a href="http://webpack.github.io/" target="_blank">webpack</a>
 ![webpack](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webpack.svg)
 ## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
 ![algolia](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/algolia.svg)
@@ -104,20 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![appveyor](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/appveyor.svg)
 ## <a href="https://dependencyci.com/" target="_blank">Dependency CI</a>
 ![dependencyci](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dependencyci.svg)
-## <a href="https://frontapp.com/" target="_blank">Front</a>
-![frontapp](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/frontapp.svg)
-## <a href="http://perf.rocks/" target="_blank">Perf Rocks</a>
-![perf-rocks](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/perf-rocks.svg)
-## <a href="https://scaphold.io/" target="_blank">Scaphold</a>
-![scaphold](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/scaphold.svg)
-## <a href="https://sendgrid.com/" target="_blank">SendGrid</a>
-![sendgrid](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sendgrid.svg)
-## <a href="https://www.snupps.com/" target="_blank">Snupps</a>
-![snupps](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/snupps.svg)
-## <a href="https://www.dashlane.com/" target="_blank">Dashlane</a>
-![dashlane](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dashlane.svg)
-## <a href="https://github.com/jorgebastida/gordon" target="_blank">Gordon</a>
-![gordon](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/gordon.svg)
 
 ---
 

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <g>
+        <path d="M19.2,19.2 L236.8,19.2 L236.8,57.6 L128,166.4 L128,76.8 L19.2,185.6 L19.2,19.2 Z M12.8,0 C5.12,0 0,5.12 0,12.8 L0,243.2 C0,250.88 5.12,256 12.8,256 L243.2,256 C250.88,256 256,250.88 256,243.2 L256,12.8 C256,5.12 250.88,0 243.2,0 L12.8,0 Z" fill="#00B7F4"></path>
+    </g>
+</svg>
