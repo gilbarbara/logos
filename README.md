@@ -1,6 +1,6 @@
 SVG Logos
 ====================
-#### A collection of 800+ svg vector logos.
+#### A collection of 900+ svg vector logos.
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
 [View All](http://svgporn.com)
@@ -18,6 +18,23 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.archlinux.org/" target="_blank">Archlinux</a>
+![archlinux](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/archlinux.svg)
+## <a href="https://dockbit.com/" target="_blank">Dockbit</a>
+![dockbit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dockbit.svg)
+## <a href="https://www.graph.cool/" target="_blank">Graphcool</a>
+![graphcool](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/graphcool.svg)
+## <a href="https://www.keycdn.com/" target="_blank">KeyCDN</a>
+![keycdn](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/keycdn.svg)
+## <a href="https://www.torus.sh/" target="_blank">Torus</a>
+![torus](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/torus.svg)
+## <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>
+![typescript](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/typescript-icon.svg)
+![typescript](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/typescript.svg)
+## <a href="https://unito.io" target="_blank">Unito</a>
+![unito](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/unito.svg)
+## <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
+![digitalocean](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/digital-ocean.svg)
 ## <a href="https://quicksight.aws/" target="_blank">AWS QuickSight</a>
 ![aws-quicksight](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-quicksight.svg)
 ## <a href="https://esdoc.org/" target="_blank">ESDoc</a>
@@ -102,22 +119,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![horizon](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/horizon.svg)
 ## <a href="https://hyperdev.com/about/" target="_blank">HyperDev</a>
 ![hyperdev](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hyperdev.svg)
-## <a href="http://nightwatchjs.org/" target="_blank">Nightwatch.js</a> *
-![nightwatch](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/nightwatch.svg)
-## <a href="http://www.protractortest.org/" target="_blank">Protactor</a> *
-![protactor](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/protactor.svg)
-## <a href="https://github.com/serverless/serverless" target="_blank">Serverless</a> *
-![serveless](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/serveless.svg)
-## <a href="https://www.yandex.ru/" target="_blank">Yandex</a>
-![yandex-ru](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/yandex-ru.svg)
-## <a href="https://github.com/linkedin/rest.li" target="_blank">rest.li</a> *
-![rest-li](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rest-li.svg)
-## <a href="http://www.apollostack.com/" target="_blank">Apollo</a>
-![apollostack](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/apollostack.svg)
-## <a href="https://www.appveyor.com/" target="_blank">AppVeyor</a>
-![appveyor](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/appveyor.svg)
-## <a href="https://dependencyci.com/" target="_blank">Dependency CI</a>
-![dependencyci](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dependencyci.svg)
 
 ---
 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="130px" viewBox="0 0 256 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="-0.0116689288%" y1="50.0129952%" x2="100.00728%" y2="50.0129952%" id="linearGradient-1">
+            <stop stop-color="#A34CB4" offset="0%"></stop>
+            <stop stop-color="#954DB2" offset="9.192359%"></stop>
+            <stop stop-color="#3C52A1" offset="71.69%"></stop>
+            <stop stop-color="#19549B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-3.88442213%" y1="172.00528%" x2="83.2366552%" y2="-50.9344551%" id="linearGradient-2">
+            <stop stop-color="#FF0264" offset="0%"></stop>
+            <stop stop-color="#FE744A" offset="49.43%"></stop>
+            <stop stop-color="#FDBC39" offset="81.9%"></stop>
+            <stop stop-color="#FDDF31" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+	<g>
+		<path d="M128,0 C81.6,0 41,12.5 18.5,31.3 C18.6,31.8 18.1,32.8 18.3,33.3 C20.9,45.7 32,57 48.8,65.4 C49.2,65.6 50.3,65 50.8,65.2 C52.7,63.9 76.4,48.3 128,48.3 C179.3,48.3 203.2,63.7 205.3,65.2 C205.7,65 206.7,65.4 207.1,65.3 C224.2,56.8 235.5,45.5 237.9,33.1 C238,32.7 237.4,31.9 237.5,31.5 C215,12.5 174.4,0 128,0" fill="url(#linearGradient-1)"></path>
+		<path d="M237.5,31.3 C233.2,58.9 185.8,80.6 128,80.6 C70.2,80.6 22.8,58.9 18.5,31.3 C6.8,41.1 0,52.6 0,64.9 C0,100.7 57.3,129.8 128,129.8 C198.7,129.8 256,100.7 256,64.9 C256,52.6 249.2,41.1 237.5,31.3" fill="url(#linearGradient-2)"></path>
+	</g>
+</svg>
