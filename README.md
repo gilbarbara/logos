@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.americanexpress.com/" target="_blank">American Express</a>
+![amex](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amex.svg)
+## <a href="http://www.mastercard.com/ie/consumer/cirrus-card.html" target="_blank">Cirrus</a>
+![cirrus](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/cirrus.svg)
+## <a href="https://www.dinersclub.com/" target="_blank">Diners Club</a>
+![dinersclub](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dinersclub.svg)
+## <a href="https://www.discover.com/" target="_blank">Discover</a>
+![discover](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/discover.svg)
+## <a href="https://www.cartaoelo.com.br/" target="_blank">Elo</a>
+![elo](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/elo.svg)
+## <a href="https://www.hipercard.com.br/" target="_blank">Hipercard</a>
+![hipercard](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hipercard.svg)
+## <a href="https://www.jcbusa.com/" target="_blank">JCB</a>
+![jcb](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/jcb.svg)
+## <a href="http://www.maestrocard.com/" target="_blank">Maestro</a>
+![maestro](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/maestro.svg)
+## <a href="http://www.mastercard.com/" target="_blank">Mastercard</a>
+![mastercard](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mastercard.svg)
+## <a href="http://www.unionpayintl.com/" target="_blank">UnionPay</a>
+![unionpay](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/unionpay.svg)
+## <a href="https://www.visa.com" target="_blank">Visa</a>
+![visa](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/visa.svg)
+## <a href="https://www.visa.com" target="_blank">Visa Electron</a>
+![visaelectron](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/visaelectron.svg)
 ## <a href="https://www.archlinux.org/" target="_blank">Archlinux</a>
 ![archlinux](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/archlinux.svg)
 ## <a href="https://dockbit.com/" target="_blank">Dockbit</a>
@@ -95,30 +119,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![logmatic](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/logmatic.svg)
 ## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
 ![azure](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/azure.svg)
-## <a href="https://www.origin.com/" target="_blank">Origin</a> *
-![origin](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/origin.svg)
-## <a href="http://store.steampowered.com/" target="_blank">Steam</a>
-![steam](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/steam.svg)
-## <a href="https://stripe.com/" target="_blank">Stripe</a>
-![stripe](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/stripe.svg)
-## <a href="https://console.ng.bluemix.net/" target="_blank">Bluemix</a>
-![bluemix](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/bluemix.svg)
-## <a href="https://www.ethereum.org/" target="_blank">Ethereum</a> *
-![ethereum](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/ethereum.svg)
-## <a href="https://www.go.cd/" target="_blank">GoCD</a>
-![gocd](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/gocd.svg)
-## <a href="https://getmonero.org/" target="_blank">Monero</a>
-![monero](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/monero.svg)
-## <a href="https://www.reindex.io/" target="_blank">Reindex</a>
-![reindex](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/reindex.svg)
-## <a href="https://snyk.io/" target="_blank">Snyk</a> *
-![snyk](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/snyk.svg)
-## <a href="https://webtorrent.io/" target="_blank">WebTorrent</a>
-![webtorrent](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webtorrent.svg)
-## <a href="https://horizon.io/" target="_blank">Horizon</a> *
-![horizon](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/horizon.svg)
-## <a href="https://hyperdev.com/about/" target="_blank">HyperDev</a>
-![hyperdev](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hyperdev.svg)
 
 ---
 
