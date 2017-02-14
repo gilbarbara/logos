@@ -18,6 +18,20 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://certbot.eff.org/" target="_blank">Certbot</a>
+![certbot](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/certbot.svg)
+## <a href="https://www.doubleclickbygoogle.com/" target="_blank">DoubleClick</a>
+![doubleclick](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/doubleclick.svg)
+## <a href="https://letsencrypt.org/" target="_blank">Let&#x27;s Encrypt</a>
+![letsencrypt](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/letsencrypt.svg)
+## <a href="http://markojs.com/" target="_blank">Marko</a>
+![marko](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/marko.svg)
+## <a href="https://www.morpheusdata.com" target="_blank">Morpheus</a>
+![morpheus](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/morpheus.svg)
+## <a href="http://rax.taobaofed.org/" target="_blank">Rax</a>
+![rax](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rax.svg)
+## <a href="https://recast.ai/" target="_blank">Recast.AI</a>
+![recast.ai](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/recast.ai.svg)
 ## <a href="https://www.americanexpress.com/" target="_blank">American Express</a>
 ![amex](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amex.svg)
 ## <a href="http://www.mastercard.com/ie/consumer/cirrus-card.html" target="_blank">Cirrus</a>
@@ -105,20 +119,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![heron](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/heron.svg)
 ## <a href="http://www.pipefy.com/" target="_blank">Pipefy</a>
 ![pipefy](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pipefy.svg)
-## <a href="http://sagui.js.org/" target="_blank">Sagui</a>
-![sagui](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sagui.svg)
-## <a href="https://sourcegraph.com/" target="_blank">Sourcegraph</a>
-![sourcegraph](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sourcegraph.svg)
-## <a href="https://dcos.io/" target="_blank">DC/OS</a>
-![dcos](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dcos.svg)
-## <a href="https://galliumos.org/" target="_blank">GalliumOS</a> *
-![galliumos](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/galliumos.svg)
-## <a href="https://github.com/trueadm/inferno" target="_blank">Inferno</a>
-![inferno](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/inferno.svg)
-## <a href="http://logmatic.io/" target="_blank">Logmatic</a>
-![logmatic](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/logmatic.svg)
-## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
-![azure](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/azure.svg)
 
 ---
 
