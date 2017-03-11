@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://blueprintjs.com/" target="_blank">Blueprint</a>
+![blueprint](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/blueprint.svg)
+## <a href="https://brave.com/" target="_blank">Brave</a>
+![brave](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/brave.svg)
+## <a href="https://hasura.io/" target="_blank">Hasura</a>
+![hasura](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hasura.svg)
+## <a href="https://itsalive.io/" target="_blank">It&#x27;s Alive</a>
+![itsalive](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/itsalive.svg)
+## <a href="http://milligram.github.io/" target="_blank">Milligram.svg</a>
+![milligram](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/milligram.svg)
+## <a href="http://proofy.io/" target="_blank">Proofy</a>
+![proofy](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/proofy.svg)
+## <a href="http://bohemiancoding.com/sketch/" target="_blank">Sketch</a> *
+![sketchapp](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sketch.svg)
+## <a href="https://egghead.io/" target="_blank">egghead</a>
+![egghead](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/egghead.svg)
 ## <a href="https://certbot.eff.org/" target="_blank">Certbot</a>
 ![certbot](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/certbot.svg)
 ## <a href="https://www.doubleclickbygoogle.com/" target="_blank">DoubleClick</a>
@@ -93,32 +109,16 @@ Please add your requests in the issues preferably with links to the vector files
 ![webpack](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webpack.svg)
 ## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
 ![algolia](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/algolia.svg)
+## <a href="https://www.khronos.org/vulkan/" target="_blank">Vulkan</a>
+![vulkan](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/vulkan.svg)
+## <a href="https://www.opengl.org/" target="_blank">Open GL</a>
+![opengl](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/opengl.svg)
+## <a href="http://opencv.org/" target="_blank">OpenCV</a>
+![opencv](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/opencv.svg)
 ## <a href="https://airtable.com/" target="_blank">Airtable</a>
 ![airtable](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/airtable.svg)
 ## <a href="https://www.drift.com/" target="_blank">Drift</a>
 ![drift](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/drift.svg)
-## <a href="https://www.usefomo.com/" target="_blank">Fomo</a>
-![fomo](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/fomo.svg)
-## <a href="https://gusto.com/" target="_blank">Gusto</a>
-![gusto](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/gusto.svg)
-## <a href="https://github.com/postcss/sugarss" target="_blank">SugarSS</a>
-![sugarss](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sugarss.svg)
-## <a href="https://yarnpkg.com/" target="_blank">Yarn</a>
-![yarn](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/yarn.svg)
-## <a href="https://github.com/redux-observable/redux-observable" target="_blank">redux-observable</a> *
-![redux-observable](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/redux-observable.svg)
-## <a href="https://www.cloudflare.com/" target="_blank">CloudFlare</a>
-![cloudflare](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/cloudflare.svg)
-## <a href="https://github.com/rackt/react-router" target="_blank">React/Router</a> *
-![react-router](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/react-router.svg)
-## <a href="https://alpha.trycarbide.com/" target="_blank">Carbide</a>
-![carbide](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/carbide.svg)
-## <a href="https://codepicnic.com/" target="_blank">CodePicnic</a> *
-![codepicnic](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/codepicnic.svg)
-## <a href="http://twitter.github.io/heron/" target="_blank">Heron</a>
-![heron](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/heron.svg)
-## <a href="http://www.pipefy.com/" target="_blank">Pipefy</a>
-![pipefy](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pipefy.svg)
 
 ---
 
