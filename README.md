@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.eventbrite.com/" target="_blank">Eventbrite</a>
+![eventbrite](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/eventbrite.svg)
+## <a href="https://expo.io/" target="_blank">Expo</a> *
+![expo](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/expo.svg)
+## <a href="http://message.io/" target="_blank">Message.io</a>
+![message.io](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/message.io.svg)
+## <a href="https://www.mozilla.org/" target="_blank">Mozilla</a>
+![mozilla](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mozilla.svg)
+## <a href="https://segment.com/" target="_blank">Segment</a>
+![segment](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/segment.svg)
+## <a href="https://steemit.com/" target="_blank">Steemit</a>
+![steemit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/steemit.svg)
+## <a href="https://trace.risingstack.com/" target="_blank">Trace</a>
+![trace](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/trace.svg)
+## <a href="https://udacity.com" target="_blank">Udacity</a>
+![udacity](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/udacity.svg)
+## <a href="http://webassembly.org/" target="_blank">WebAssembly</a>
+![webassembly](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webassembly.svg)
+## <a href="https://pagekit.com/" target="_blank">pagekit</a>
+![pagekit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pagekit.svg)
 ## <a href="http://blueprintjs.com/" target="_blank">Blueprint</a>
 ![blueprint](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/blueprint.svg)
 ## <a href="https://brave.com/" target="_blank">Brave</a>
@@ -99,26 +119,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![vultr](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/vultr.svg)
 ## <a href="https://webtask.io/" target="_blank">Webtask</a>
 ![webtask](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webtask.svg)
-## <a href="https://wire.com/" target="_blank">Wire</a>
-![wire](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/wire.svg)
-## <a href="https://opencollective.com/" target="_blank">open collective</a>
-![opencollective](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/opencollective.svg)
-## <a href="http://rubyonrails.org/" target="_blank">Rails</a>
-![rails](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rails.svg)
-## <a href="http://webpack.github.io/" target="_blank">webpack</a>
-![webpack](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webpack.svg)
-## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
-![algolia](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/algolia.svg)
-## <a href="https://www.khronos.org/vulkan/" target="_blank">Vulkan</a>
-![vulkan](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/vulkan.svg)
-## <a href="https://www.opengl.org/" target="_blank">Open GL</a>
-![opengl](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/opengl.svg)
-## <a href="http://opencv.org/" target="_blank">OpenCV</a>
-![opencv](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/opencv.svg)
-## <a href="https://airtable.com/" target="_blank">Airtable</a>
-![airtable](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/airtable.svg)
-## <a href="https://www.drift.com/" target="_blank">Drift</a>
-![drift](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/drift.svg)
 
 ---
 
