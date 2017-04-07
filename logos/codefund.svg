@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+	<g>
+		<polygon fill="#10AC60" points="0 127.944121 128 1.71602774e-14 256 127.944121 128 256"></polygon>
+		<polygon fill="#5FBE85" points="256 128 128 256 0 128"></polygon>
+		<circle fill="#F9F6EE" cx="128" cy="128.5" r="64.5"></circle>
+		<circle fill="#E1B324" cx="128" cy="128.5" r="43.4984264"></circle>
+	</g>
+</svg>

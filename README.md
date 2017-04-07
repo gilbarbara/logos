@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://chime.aws/" target="_blank">Amazon Chime</a>
+![amazon-chime](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amazon-chime.svg)
+## <a href="https://aws.amazon.com/connect/" target="_blank">Amazon Connect</a>
+![amazon-connect](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amazon-connect.svg)
+## <a href="https://www.codefund.io/" target="_blank">Codefund</a>
+![codefund](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/codefund.svg)
+## <a href="https://www.contentful.com/" target="_blank">Contentful</a>
+![contentful](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/contentful.svg)
+## <a href="http://eta-lang.org/" target="_blank">Eta</a>
+![eta-lang](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/eta-lang.svg)
+## <a href="https://glimmerjs.com" target="_blank">Glimmer</a>
+![glimmerjs](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/glimmerjs.svg)
+## <a href="https://mist.io/" target="_blank">Mist.io</a>
+![mist](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mist.svg)
+## <a href="https://www.progress.com/" target="_blank">Progess</a>
+![progress](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/progress.svg)
 ## <a href="https://www.eventbrite.com/" target="_blank">Eventbrite</a>
 ![eventbrite](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/eventbrite.svg)
 ## <a href="https://expo.io/" target="_blank">Expo</a> *
@@ -102,23 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![keycdn](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/keycdn.svg)
 ## <a href="https://www.torus.sh/" target="_blank">Torus</a>
 ![torus](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/torus.svg)
-## <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>
-![typescript](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/typescript-icon.svg)
-![typescript](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/typescript.svg)
-## <a href="https://unito.io" target="_blank">Unito</a>
-![unito](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/unito.svg)
-## <a href="https://www.digitalocean.com/" target="_blank">DigitalOcean</a>
-![digitalocean](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/digital-ocean.svg)
-## <a href="https://quicksight.aws/" target="_blank">AWS QuickSight</a>
-![aws-quicksight](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-quicksight.svg)
-## <a href="https://esdoc.org/" target="_blank">ESDoc</a>
-![esdoc](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/esdoc.svg)
-## <a href="http://materializecss.com/" target="_blank">Materialize</a>
-![materializecss](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/materializecss.svg)
-## <a href="https://www.vultr.com/" target="_blank">Vultr</a>
-![vultr](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/vultr.svg)
-## <a href="https://webtask.io/" target="_blank">Webtask</a>
-![webtask](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webtask.svg)
 
 ---
 
