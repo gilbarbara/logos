@@ -18,6 +18,24 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aws.amazon.com/kinesis/" target="_blank">AWS Kinesis</a>
+![aws-kinesis](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-kinesis.svg)
+## <a href="http://www.armory.io/" target="_blank">Armory</a>
+![armory](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/armory.svg)
+## <a href="https://www.bugsee.com/" target="_blank">Bugsee</a>
+![bugsee](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/bugsee.svg)
+## <a href="https://www.floydhub.com/" target="_blank">FloydHub</a>
+![floydhub](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/floydhub.svg)
+## <a href="https://nanonets.com/" target="_blank">Nanonets</a>
+![nanonets](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/nanonets.svg)
+## <a href="https://www.peer5.com/" target="_blank">Peer 5</a>
+![peer5](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/peer5.svg)
+## <a href="http://pumpkindb.org/" target="_blank">PumpkinDB</a>
+![pumpkindb](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pumpkindb.svg)
+## <a href="https://whalar.com/" target="_blank">Whalar</a>
+![whalar](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/whalar.svg)
+## <a href="https://containership.io/" target="_blank">ContainerShip</a>
+![containership](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/containership.svg)
 ## <a href="https://chime.aws/" target="_blank">Amazon Chime</a>
 ![amazon-chime](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amazon-chime.svg)
 ## <a href="https://aws.amazon.com/connect/" target="_blank">Amazon Connect</a>
@@ -100,24 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![jcb](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/jcb.svg)
 ## <a href="http://www.maestrocard.com/" target="_blank">Maestro</a>
 ![maestro](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/maestro.svg)
-## <a href="http://www.mastercard.com/" target="_blank">Mastercard</a>
-![mastercard](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mastercard.svg)
-## <a href="http://www.unionpayintl.com/" target="_blank">UnionPay</a>
-![unionpay](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/unionpay.svg)
-## <a href="https://www.visa.com" target="_blank">Visa</a>
-![visa](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/visa.svg)
-## <a href="https://www.visa.com" target="_blank">Visa Electron</a>
-![visaelectron](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/visaelectron.svg)
-## <a href="https://www.archlinux.org/" target="_blank">Archlinux</a>
-![archlinux](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/archlinux.svg)
-## <a href="https://dockbit.com/" target="_blank">Dockbit</a>
-![dockbit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dockbit.svg)
-## <a href="https://www.graph.cool/" target="_blank">Graphcool</a>
-![graphcool](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/graphcool.svg)
-## <a href="https://www.keycdn.com/" target="_blank">KeyCDN</a>
-![keycdn](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/keycdn.svg)
-## <a href="https://www.torus.sh/" target="_blank">Torus</a>
-![torus](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/torus.svg)
 
 ---
 
