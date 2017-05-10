@@ -1,0 +1,22 @@
+{
+  "name": "svg-porn",
+  "homepage": "https://github.com/gilbarbara/logos",
+  "authors": [
+    "not me"
+  ],
+  "description": "A collection of SVG logos for popular brands",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "svg"
+  ],
+  "license": "no clue",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
