@@ -18,6 +18,28 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://caffe2.ai/" target="_blank">Caffe2</a>
+![caffe2](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/caffe2.svg)
+## <a href="https://www.ebanx.com" target="_blank">EBANX</a>
+![ebanx](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/ebanx.svg)
+## <a href="https://fly.io/" target="_blank">Fly</a>
+![fly](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/fly.svg)
+## <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>
+![mapbox](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mapbox.svg)
+## <a href="https://pin.gy/" target="_blank">Pingy</a>
+![pingy](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pingy.svg)
+## <a href="https://www.scaledrone.com/" target="_blank">Scaledrone</a>
+![scaledrone](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/scaledrone.svg)
+## <a href="http://www.webmin.com/" target="_blank">Webmin</a>
+![webmin](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webmin.svg)
+## <a href="https://zeit.co/" target="_blank">Zeit</a>
+![zeit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/zeit.svg)
+## <a href="http://www.apache.org/" target="_blank">Apache</a>
+![apache](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/apache.svg)
+## <a href="https://www.ibm.com/" target="_blank">IBM</a>
+![ibm](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/ibm.svg)
+## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a> *
+![vagrant](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/vagrant.svg)
 ## <a href="https://aws.amazon.com/kinesis/" target="_blank">AWS Kinesis</a>
 ![aws-kinesis](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-kinesis.svg)
 ## <a href="http://www.armory.io/" target="_blank">Armory</a>
@@ -96,28 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![letsencrypt](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/letsencrypt.svg)
 ## <a href="http://markojs.com/" target="_blank">Marko</a>
 ![marko](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/marko.svg)
-## <a href="https://www.morpheusdata.com" target="_blank">Morpheus</a>
-![morpheus](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/morpheus.svg)
-## <a href="http://rax.taobaofed.org/" target="_blank">Rax</a>
-![rax](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rax.svg)
-## <a href="https://recast.ai/" target="_blank">Recast.AI</a>
-![recast.ai](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/recast.ai.svg)
-## <a href="https://www.americanexpress.com/" target="_blank">American Express</a>
-![amex](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/amex.svg)
-## <a href="http://www.mastercard.com/ie/consumer/cirrus-card.html" target="_blank">Cirrus</a>
-![cirrus](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/cirrus.svg)
-## <a href="https://www.dinersclub.com/" target="_blank">Diners Club</a>
-![dinersclub](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/dinersclub.svg)
-## <a href="https://www.discover.com/" target="_blank">Discover</a>
-![discover](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/discover.svg)
-## <a href="https://www.cartaoelo.com.br/" target="_blank">Elo</a>
-![elo](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/elo.svg)
-## <a href="https://www.hipercard.com.br/" target="_blank">Hipercard</a>
-![hipercard](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hipercard.svg)
-## <a href="https://www.jcbusa.com/" target="_blank">JCB</a>
-![jcb](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/jcb.svg)
-## <a href="http://www.maestrocard.com/" target="_blank">Maestro</a>
-![maestro](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/maestro.svg)
 
 ---
 
