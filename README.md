@@ -102,7 +102,7 @@ Please add your requests in the issues preferably with links to the vector files
 ![hasura](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hasura.svg)
 ## <a href="https://itsalive.io/" target="_blank">It&#x27;s Alive</a>
 ![itsalive](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/itsalive.svg)
-## <a href="http://milligram.github.io/" target="_blank">Milligram.svg</a>
+## <a href="https://milligram.io/" target="_blank">Milligram</a>
 ![milligram](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/milligram.svg)
 ## <a href="http://proofy.io/" target="_blank">Proofy</a>
 ![proofy](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/proofy.svg)
