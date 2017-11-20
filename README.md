@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aws.amazon.com/elasticache/" target="_blank">AWS Elastic Cache</a> *
+![aws-elastic-cache](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-elastic-cache.svg)
+## <a href="https://www.braze.com/" target="_blank">Braze</a>
+![braze](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/braze.svg)
+## <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>
+![cloudinary](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/cloudinary.svg)
+## <a href="https://github.com/zeit/pkg" target="_blank">PKG</a>
+![pkg](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pkg.svg)
+## <a href="https://www.getpostman.com/" target="_blank">Postman</a>
+![postman](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/postman.svg)
+## <a href="https://pubkey.github.io/rxdb/" target="_blank">RxDB</a>
+![rxdb](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/rxdb.svg)
+## <a href="https://www.mparticle.com/" target="_blank">mParticle</a>
+![mparticle](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/mparticle.svg)
+## <a href="https://redux-saga.js.org/" target="_blank">redux-saga</a>
+![redux-saga](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/redux-saga.svg)
 ## <a href="https://caffe2.ai/" target="_blank">Caffe2</a>
 ![caffe2](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/caffe2.svg)
 ## <a href="https://www.ebanx.com" target="_blank">EBANX</a>
@@ -102,22 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![hasura](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hasura.svg)
 ## <a href="https://itsalive.io/" target="_blank">It&#x27;s Alive</a>
 ![itsalive](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/itsalive.svg)
-## <a href="http://milligram.github.io/" target="_blank">Milligram.svg</a>
-![milligram](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/milligram.svg)
-## <a href="http://proofy.io/" target="_blank">Proofy</a>
-![proofy](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/proofy.svg)
-## <a href="http://bohemiancoding.com/sketch/" target="_blank">Sketch</a> *
-![sketchapp](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sketch.svg)
-## <a href="https://egghead.io/" target="_blank">egghead</a>
-![egghead](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/egghead.svg)
-## <a href="https://certbot.eff.org/" target="_blank">Certbot</a>
-![certbot](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/certbot.svg)
-## <a href="https://www.doubleclickbygoogle.com/" target="_blank">DoubleClick</a>
-![doubleclick](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/doubleclick.svg)
-## <a href="https://letsencrypt.org/" target="_blank">Let&#x27;s Encrypt</a>
-![letsencrypt](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/letsencrypt.svg)
-## <a href="http://markojs.com/" target="_blank">Marko</a>
-![marko](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/marko.svg)
 
 ---
 
