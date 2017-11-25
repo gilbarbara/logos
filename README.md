@@ -5,8 +5,6 @@ All the logos are optimized (removed duplicated paths / excessive grouping / emp
 
 [View All](http://svgporn.com)
 
-[![Code Sponsor](https://app.codesponsor.io/embed/aVyak7F2JA5ZCo4usjUoY8he/gilbarbara/logos.svg)](https://app.codesponsor.io/link/aVyak7F2JA5ZCo4usjUoY8he/gilbarbara/logos)
-
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
 Please add your requests in the issues preferably with links to the vector files.
