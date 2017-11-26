@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://botanalytics.co/" target="_blank">Botanalytics</a>
+![botanalytics](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/botanalytics.svg)
+## <a href="http://code.viget.com/microcosm/" target="_blank">Microcosm</a>
+![microcosm](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/microcosm.svg)
+## <a href="http://moonjs.ga/" target="_blank">Moon</a>
+![moon](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/moon.svg)
+## <a href="https://zeit.co/next" target="_blank">Next.js</a>
+![nextjs](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/nextjs.svg)
+## <a href="https://www.sanity.io/" target="_blank">Sanity</a>
+![sanity](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/sanity.svg)
+## <a href="https://facebook.github.io/watchman/" target="_blank">Watchman</a>
+![watchman](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/watchman.svg)
+## <a href="https://github.com/github/octodns/" target="_blank">octoDNS</a>
+![octodns](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/octodns.svg)
+## <a href="https://github.com/morishitter/stylefmt" target="_blank">stylefmt</a>
+![stylefmt](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/stylefmt.svg)
 ## <a href="https://aws.amazon.com/elasticache/" target="_blank">AWS Elastic Cache</a> *
 ![aws-elastic-cache](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/aws-elastic-cache.svg)
 ## <a href="https://www.braze.com/" target="_blank">Braze</a>
@@ -102,22 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![segment](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/segment.svg)
 ## <a href="https://steemit.com/" target="_blank">Steemit</a>
 ![steemit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/steemit.svg)
-## <a href="https://trace.risingstack.com/" target="_blank">Trace</a>
-![trace](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/trace.svg)
-## <a href="https://udacity.com" target="_blank">Udacity</a>
-![udacity](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/udacity.svg)
-## <a href="http://webassembly.org/" target="_blank">WebAssembly</a>
-![webassembly](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/webassembly.svg)
-## <a href="https://pagekit.com/" target="_blank">pagekit</a>
-![pagekit](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/pagekit.svg)
-## <a href="http://blueprintjs.com/" target="_blank">Blueprint</a>
-![blueprint](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/blueprint.svg)
-## <a href="https://brave.com/" target="_blank">Brave</a>
-![brave](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/brave.svg)
-## <a href="https://hasura.io/" target="_blank">Hasura</a>
-![hasura](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/hasura.svg)
-## <a href="https://itsalive.io/" target="_blank">It&#x27;s Alive</a>
-![itsalive](https://s3-us-west-2.amazonaws.com/svgporn.com/logos/itsalive.svg)
 
 ---
 
