@@ -1,0 +1,18 @@
+{
+  "name": "svgporn",
+  "version": "1.0.0",
+  "description": "A collection of 900+ svg vector logos.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbarbara/logos.git"
+  },
+  "author": {
+    "name": "Gil Barbara",
+    "email": "gilbarbara@gmail.come"
+  },
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gilbarbara/logos/issues"
+  },
+  "homepage": "http://svgporn.com"
+}
