@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://altair.sirmuel.design/" target="_blank">Altair</a>
+![altair](https://cdn.svgporn.com/logos/altair.svg)
+## <a href="https://www.astronomer.io/" target="_blank">Astronomer</a>
+![astronomer](https://cdn.svgporn.com/logos/astronomer.svg)
+## <a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>
+![kibana](https://cdn.svgporn.com/logos/kibana.svg)
+## <a href="https://www.packer.io/" target="_blank">Packer</a>
+![packer](https://cdn.svgporn.com/logos/packer.svg)
+## <a href="http://www.seleniumhq.org/" target="_blank">Selenium</a>
+![selenium](https://cdn.svgporn.com/logos/selenium.svg)
+## <a href="https://speedcurve.com/" target="_blank">SpeedCurve</a>
+![speedcurve](https://cdn.svgporn.com/logos/speedcurve.svg)
+## <a href="https://tealium.com" target="_blank">Tealium</a>
+![tealium](https://cdn.svgporn.com/logos/tealium.svg)
+## <a href="https://tapcart.co/" target="_blank">tapcart</a>
+![tapcart](https://cdn.svgporn.com/logos/tapcart.svg)
 ## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
 ![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
 ## <a href="https://firefox.com/" target="_blank">Firefox</a>
@@ -102,22 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![amazon-chime](https://cdn.svgporn.com/logos/amazon-chime.svg)
 ## <a href="https://aws.amazon.com/connect/" target="_blank">Amazon Connect</a>
 ![amazon-connect](https://cdn.svgporn.com/logos/amazon-connect.svg)
-## <a href="https://www.codefund.io/" target="_blank">Codefund</a>
-![codefund](https://cdn.svgporn.com/logos/codefund.svg)
-## <a href="https://www.contentful.com/" target="_blank">Contentful</a>
-![contentful](https://cdn.svgporn.com/logos/contentful.svg)
-## <a href="http://eta-lang.org/" target="_blank">Eta</a>
-![eta-lang](https://cdn.svgporn.com/logos/eta-lang.svg)
-## <a href="https://glimmerjs.com" target="_blank">Glimmer</a>
-![glimmerjs](https://cdn.svgporn.com/logos/glimmerjs.svg)
-## <a href="https://mist.io/" target="_blank">Mist.io</a>
-![mist](https://cdn.svgporn.com/logos/mist.svg)
-## <a href="https://www.progress.com/" target="_blank">Progess</a>
-![progress](https://cdn.svgporn.com/logos/progress.svg)
-## <a href="https://www.eventbrite.com/" target="_blank">Eventbrite</a>
-![eventbrite](https://cdn.svgporn.com/logos/eventbrite.svg)
-## <a href="https://expo.io/" target="_blank">Expo</a> *
-![expo](https://cdn.svgporn.com/logos/expo.svg)
 
 ---
 
