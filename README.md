@@ -18,6 +18,14 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
+![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
+## <a href="https://firefox.com/" target="_blank">Firefox</a>
+![firefox](https://cdn.svgporn.com/logos/firefox.svg)
+## <a href="http://kotlinlang.org/" target="_blank">Kotlin</a>
+![kotlin](https://cdn.svgporn.com/logos/kotlin.svg)
+## <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
+![visual-studio-code](https://cdn.svgporn.com/logos/visual-studio-code.svg)
 ## <a href="https://botanalytics.co/" target="_blank">Botanalytics</a>
 ![botanalytics](https://cdn.svgporn.com/logos/botanalytics.svg)
 ## <a href="http://code.viget.com/microcosm/" target="_blank">Microcosm</a>
@@ -110,14 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![eventbrite](https://cdn.svgporn.com/logos/eventbrite.svg)
 ## <a href="https://expo.io/" target="_blank">Expo</a> *
 ![expo](https://cdn.svgporn.com/logos/expo.svg)
-## <a href="http://message.io/" target="_blank">Message.io</a>
-![message.io](https://cdn.svgporn.com/logos/message.io.svg)
-## <a href="https://www.mozilla.org/" target="_blank">Mozilla</a>
-![mozilla](https://cdn.svgporn.com/logos/mozilla.svg)
-## <a href="https://segment.com/" target="_blank">Segment</a>
-![segment](https://cdn.svgporn.com/logos/segment.svg)
-## <a href="https://steemit.com/" target="_blank">Steemit</a>
-![steemit](https://cdn.svgporn.com/logos/steemit.svg)
 
 ---
 
