@@ -18,11 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://github.com/avajs/ava" target="_blank">Ava</a>
+![ava](https://cdn.svgporn.com/logos/ava.svg)
+## <a href="https://branch.io/" target="_blank">Branch</a>
+![branch](https://cdn.svgporn.com/logos/branch.svg)
+## <a href="https://www.cypress.io/" target="_blank">Cypress</a> *
+![cypress](https://cdn.svgporn.com/logos/cypress.svg)
+## <a href="https://get.fabric.io/" target="_blank">Fabric</a>
+![fabric_io](https://cdn.svgporn.com/logos/fabric_io.svg)
+## <a href="https://fastlane.tools/" target="_blank">Fastlane</a>
+![fastlane](https://cdn.svgporn.com/logos/fastlane.svg)
+## <a href="https://hyper.is/" target="_blank">Hyper</a>
+![hyper](https://cdn.svgporn.com/logos/hyper.svg)
+## <a href="https://manuscript.com" target="_blank">Manuscript</a>
+![manuscript](https://cdn.svgporn.com/logos/manuscript.svg)
+## <a href="https://prettier.io/" target="_blank">Prettier</a>
+![prettier](https://cdn.svgporn.com/logos/prettier.svg)
 ## <a href="https://buddy.works/" target="_blank">Buddy</a> *
 ![buddy](https://cdn.svgporn.com/logos/buddy.svg)
 ## <a href="http://saltstack.com/" target="_blank">SaltStack</a>
 ![saltstack](https://cdn.svgporn.com/logos/saltstack.svg)
-## <a href="https://saucelabs.com/" target="_blank">Sauce Labs</a> *
+## <a href="https://saucelabs.com/" target="_blank">Sauce Labs</a>
 ![saucelabs](https://cdn.svgporn.com/logos/saucelabs.svg)
 ## <a href="https://www.zendesk.com/" target="_blank">Zendesk</a>
 ![zendesk](https://cdn.svgporn.com/logos/zendesk.svg)
@@ -102,22 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![apache](https://cdn.svgporn.com/logos/apache.svg)
 ## <a href="https://www.ibm.com/" target="_blank">IBM</a>
 ![ibm](https://cdn.svgporn.com/logos/ibm.svg)
-## <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a> *
-![vagrant](https://cdn.svgporn.com/logos/vagrant.svg)
-## <a href="https://aws.amazon.com/kinesis/" target="_blank">AWS Kinesis</a>
-![aws-kinesis](https://cdn.svgporn.com/logos/aws-kinesis.svg)
-## <a href="http://www.armory.io/" target="_blank">Armory</a>
-![armory](https://cdn.svgporn.com/logos/armory.svg)
-## <a href="https://www.bugsee.com/" target="_blank">Bugsee</a>
-![bugsee](https://cdn.svgporn.com/logos/bugsee.svg)
-## <a href="https://www.floydhub.com/" target="_blank">FloydHub</a>
-![floydhub](https://cdn.svgporn.com/logos/floydhub.svg)
-## <a href="https://nanonets.com/" target="_blank">Nanonets</a>
-![nanonets](https://cdn.svgporn.com/logos/nanonets.svg)
-## <a href="https://www.peer5.com/" target="_blank">Peer 5</a>
-![peer5](https://cdn.svgporn.com/logos/peer5.svg)
-## <a href="http://pumpkindb.org/" target="_blank">PumpkinDB</a>
-![pumpkindb](https://cdn.svgporn.com/logos/pumpkindb.svg)
 
 ---
 
