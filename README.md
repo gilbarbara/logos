@@ -18,6 +18,14 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://buddy.works/" target="_blank">Buddy</a> *
+![buddy](https://cdn.svgporn.com/logos/buddy.svg)
+## <a href="http://saltstack.com/" target="_blank">SaltStack</a>
+![saltstack](https://cdn.svgporn.com/logos/saltstack.svg)
+## <a href="https://saucelabs.com/" target="_blank">Sauce Labs</a> *
+![saucelabs](https://cdn.svgporn.com/logos/saucelabs.svg)
+## <a href="https://www.zendesk.com/" target="_blank">Zendesk</a>
+![zendesk](https://cdn.svgporn.com/logos/zendesk.svg)
 ## <a href="https://altair.sirmuel.design/" target="_blank">Altair</a>
 ![altair](https://cdn.svgporn.com/logos/altair.svg)
 ## <a href="https://www.astronomer.io/" target="_blank">Astronomer</a>
@@ -110,14 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![peer5](https://cdn.svgporn.com/logos/peer5.svg)
 ## <a href="http://pumpkindb.org/" target="_blank">PumpkinDB</a>
 ![pumpkindb](https://cdn.svgporn.com/logos/pumpkindb.svg)
-## <a href="https://whalar.com/" target="_blank">Whalar</a>
-![whalar](https://cdn.svgporn.com/logos/whalar.svg)
-## <a href="https://containership.io/" target="_blank">ContainerShip</a>
-![containership](https://cdn.svgporn.com/logos/containership.svg)
-## <a href="https://chime.aws/" target="_blank">Amazon Chime</a>
-![amazon-chime](https://cdn.svgporn.com/logos/amazon-chime.svg)
-## <a href="https://aws.amazon.com/connect/" target="_blank">Amazon Connect</a>
-![amazon-connect](https://cdn.svgporn.com/logos/amazon-connect.svg)
 
 ---
 
