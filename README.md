@@ -1,6 +1,6 @@
 SVG Logos
 ====================
-#### A collection of 900+ svg vector logos.
+#### A collection of 1000+ svg vector logos.
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
 [View All](http://svgporn.com)
