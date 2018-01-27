@@ -18,12 +18,28 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.google.com/admob/" target="_blank">AdMob</a>
+![admob](https://cdn.svgporn.com/logos/admob.svg)
+## <a href="https://akka.io/" target="_blank">Akka</a>
+![akka](https://cdn.svgporn.com/logos/akka.svg)
 ## <a href="https://www.astronomer.io/" target="_blank">Astronomer</a>
 ![astronomer](https://cdn.svgporn.com/logos/astronomer.svg)
+## <a href="https://gameanalytics.com/" target="_blank">GameAnalytics</a>
+![game-analytics](https://cdn.svgporn.com/logos/game-analytics.svg)
+## <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
+![gatsby](https://cdn.svgporn.com/logos/gatsby.svg)
+## <a href="https://glamorous.rocks/" target="_blank">Glamorous</a>
+![glamorous](https://cdn.svgporn.com/logos/glamorous.svg)
+## <a href="https://jamstack.org/" target="_blank">Jamstack</a>
+![jamstack](https://cdn.svgporn.com/logos/jamstack.svg)
 ## <a href="https://medium.com/" target="_blank">Medium</a>
 ![medium](https://cdn.svgporn.com/logos/medium.svg)
+## <a href="https://www.planless.io/" target="_blank">Planless</a>
+![planless](https://cdn.svgporn.com/logos/planless.svg)
 ## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
 ![processwire](https://cdn.svgporn.com/logos/processwire.svg)
+## <a href="https://realm.io/" target="_blank">Realm</a>
+![realm](https://cdn.svgporn.com/logos/realm.svg)
 ## <a href="https://github.com/avajs/ava" target="_blank">Ava</a>
 ![ava](https://cdn.svgporn.com/logos/ava.svg)
 ## <a href="https://branch.io/" target="_blank">Branch</a>
@@ -102,22 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![mparticle](https://cdn.svgporn.com/logos/mparticle.svg)
 ## <a href="https://redux-saga.js.org/" target="_blank">redux-saga</a>
 ![redux-saga](https://cdn.svgporn.com/logos/redux-saga.svg)
-## <a href="https://caffe2.ai/" target="_blank">Caffe2</a>
-![caffe2](https://cdn.svgporn.com/logos/caffe2.svg)
-## <a href="https://www.ebanx.com" target="_blank">EBANX</a>
-![ebanx](https://cdn.svgporn.com/logos/ebanx.svg)
-## <a href="https://fly.io/" target="_blank">Fly</a>
-![fly](https://cdn.svgporn.com/logos/fly.svg)
-## <a href="https://www.mapbox.com/" target="_blank">Mapbox</a>
-![mapbox](https://cdn.svgporn.com/logos/mapbox.svg)
-## <a href="https://pin.gy/" target="_blank">Pingy</a>
-![pingy](https://cdn.svgporn.com/logos/pingy.svg)
-## <a href="https://www.scaledrone.com/" target="_blank">Scaledrone</a>
-![scaledrone](https://cdn.svgporn.com/logos/scaledrone.svg)
-## <a href="http://www.webmin.com/" target="_blank">Webmin</a>
-![webmin](https://cdn.svgporn.com/logos/webmin.svg)
-## <a href="https://zeit.co/" target="_blank">Zeit</a>
-![zeit](https://cdn.svgporn.com/logos/zeit.svg)
 
 ---
 
