@@ -74,10 +74,10 @@ Please add your requests in the issues preferably with links to the vector files
 ![selenium](https://cdn.svgporn.com/logos/selenium.svg)
 ## <a href="https://speedcurve.com/" target="_blank">SpeedCurve</a>
 ![speedcurve](https://cdn.svgporn.com/logos/speedcurve.svg)
-## <a href="https://tealium.com" target="_blank">Tealium</a>
-![tealium](https://cdn.svgporn.com/logos/tealium.svg)
 ## <a href="https://tapcart.co/" target="_blank">tapcart</a>
 ![tapcart](https://cdn.svgporn.com/logos/tapcart.svg)
+## <a href="https://tealium.com" target="_blank">Tealium</a>
+![tealium](https://cdn.svgporn.com/logos/tealium.svg)
 ## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
 ![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
 ## <a href="https://firefox.com/" target="_blank">Firefox</a>
@@ -94,30 +94,30 @@ Please add your requests in the issues preferably with links to the vector files
 ![moon](https://cdn.svgporn.com/logos/moon.svg)
 ## <a href="https://zeit.co/next" target="_blank">Next.js</a>
 ![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
-## <a href="https://www.sanity.io/" target="_blank">Sanity</a>
-![sanity](https://cdn.svgporn.com/logos/sanity.svg)
-## <a href="https://facebook.github.io/watchman/" target="_blank">Watchman</a>
-![watchman](https://cdn.svgporn.com/logos/watchman.svg)
 ## <a href="https://github.com/github/octodns/" target="_blank">octoDNS</a>
 ![octodns](https://cdn.svgporn.com/logos/octodns.svg)
+## <a href="https://www.sanity.io/" target="_blank">Sanity</a>
+![sanity](https://cdn.svgporn.com/logos/sanity.svg)
 ## <a href="https://github.com/morishitter/stylefmt" target="_blank">stylefmt</a>
 ![stylefmt](https://cdn.svgporn.com/logos/stylefmt.svg)
+## <a href="https://facebook.github.io/watchman/" target="_blank">Watchman</a>
+![watchman](https://cdn.svgporn.com/logos/watchman.svg)
 ## <a href="https://aws.amazon.com/elasticache/" target="_blank">AWS Elastic Cache</a> *
 ![aws-elastic-cache](https://cdn.svgporn.com/logos/aws-elastic-cache.svg)
 ## <a href="https://www.braze.com/" target="_blank">Braze</a>
 ![braze](https://cdn.svgporn.com/logos/braze.svg)
 ## <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>
 ![cloudinary](https://cdn.svgporn.com/logos/cloudinary.svg)
+## <a href="https://www.mparticle.com/" target="_blank">mParticle</a>
+![mparticle](https://cdn.svgporn.com/logos/mparticle.svg)
 ## <a href="https://github.com/zeit/pkg" target="_blank">PKG</a>
 ![pkg](https://cdn.svgporn.com/logos/pkg.svg)
 ## <a href="https://www.getpostman.com/" target="_blank">Postman</a>
 ![postman](https://cdn.svgporn.com/logos/postman.svg)
-## <a href="https://pubkey.github.io/rxdb/" target="_blank">RxDB</a>
-![rxdb](https://cdn.svgporn.com/logos/rxdb.svg)
-## <a href="https://www.mparticle.com/" target="_blank">mParticle</a>
-![mparticle](https://cdn.svgporn.com/logos/mparticle.svg)
 ## <a href="https://redux-saga.js.org/" target="_blank">redux-saga</a>
 ![redux-saga](https://cdn.svgporn.com/logos/redux-saga.svg)
+## <a href="https://pubkey.github.io/rxdb/" target="_blank">RxDB</a>
+![rxdb](https://cdn.svgporn.com/logos/rxdb.svg)
 
 ---
 
