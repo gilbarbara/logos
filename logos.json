@@ -7476,9 +7476,11 @@
   {
     "name": "V8",
     "shortname": "v8",
-    "url": "https://developers.google.com/v8/",
+    "url": "https://twitter.com/v8js",
     "files": [
-      "v8.svg"
+      "v8.svg",
+      "v8-ignition.svg",
+      "v8-turbofan.svg"
     ]
   },
   {
