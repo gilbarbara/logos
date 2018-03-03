@@ -7478,7 +7478,9 @@
     "shortname": "v8",
     "url": "https://developers.google.com/v8/",
     "files": [
-      "v8.svg"
+      "v8.svg",
+      "v8-ignition.svg",
+      "v8-turbofan.svg"
     ]
   },
   {

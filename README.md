@@ -20,6 +20,8 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
 ![v8](https://cdn.svgporn.com/logos/v8.svg)
+![v8](https://cdn.svgporn.com/logos/v8-ignition.svg)
+![v8](https://cdn.svgporn.com/logos/v8-turbofan.svg)
 ## <a href="https://www.google.com/admob/" target="_blank">AdMob</a>
 ![admob](https://cdn.svgporn.com/logos/admob.svg)
 ## <a href="https://akka.io/" target="_blank">Akka</a>
