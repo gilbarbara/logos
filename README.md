@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
+![v8](https://cdn.svgporn.com/logos/v8.svg)
 ## <a href="https://www.google.com/admob/" target="_blank">AdMob</a>
 ![admob](https://cdn.svgporn.com/logos/admob.svg)
 ## <a href="https://akka.io/" target="_blank">Akka</a>
@@ -116,8 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![postman](https://cdn.svgporn.com/logos/postman.svg)
 ## <a href="https://redux-saga.js.org/" target="_blank">redux-saga</a>
 ![redux-saga](https://cdn.svgporn.com/logos/redux-saga.svg)
-## <a href="https://pubkey.github.io/rxdb/" target="_blank">RxDB</a>
-![rxdb](https://cdn.svgporn.com/logos/rxdb.svg)
 
 ---
 
