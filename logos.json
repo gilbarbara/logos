@@ -3441,6 +3441,14 @@
     ]
   },
   {
+    "name": "Hyperapp",
+    "shortname": "hyperapp",
+    "url": "https://hyperapp.js.org/",
+    "files": [
+      "hyperapp.svg"
+    ]
+  },
+  {
     "name": "IBM",
     "shortname": "ibm",
     "url": "https://www.ibm.com/",
@@ -4893,6 +4901,15 @@
     ]
   },
   {
+    "name": "Netflix",
+    "shortname": "netflix",
+    "url": "https://www.netflix.com/",
+    "files": [
+      "netflix.svg",
+      "netflix-icon.svg"
+    ]
+  },
+  {
     "name": "Netlify",
     "shortname": "netlify",
     "url": "https://www.netlify.com/",
@@ -4946,6 +4963,14 @@
     "url": "http://www.nodaljs.com/",
     "files": [
       "nodal.svg"
+    ]
+  },
+  {
+    "name": "Node OS",
+    "shortname": "nodeos",
+    "url": "http://node-os.com/",
+    "files": [
+      "nodeos.svg"
     ]
   },
   {
@@ -5028,6 +5053,14 @@
     "url": "http://www.kinto-storage.org/",
     "files": [
       "nuodb.svg"
+    ]
+  },
+  {
+    "name": "Nuxt",
+    "shortname": "nuxt",
+    "url": "https://nuxtjs.org/",
+    "files": [
+      "nuxt.svg"
     ]
   },
   {
@@ -6008,6 +6041,14 @@
     ]
   },
   {
+    "name": "Reason ML",
+    "shortname": "reasonml",
+    "url": "https://reasonml.github.io/",
+    "files": [
+      "reasonml.svg"
+    ]
+  },
+  {
     "name": "Recast.AI",
     "shortname": "recast.ai",
     "url": "https://recast.ai/",
@@ -6197,6 +6238,14 @@
     "url": "http://rollupjs.org/",
     "files": [
       "rollupjs.svg"
+    ]
+  },
+  {
+    "name": "rollup.js",
+    "shortname": "rollup.js",
+    "url": "https://rollupjs.org/",
+    "files": [
+      "rollup.svg"
     ]
   },
   {
@@ -6749,6 +6798,14 @@
     "url": "https://speedcurve.com/",
     "files": [
       "speedcurve.svg"
+    ]
+  },
+  {
+    "name": "Spinnaker",
+    "shortname": "spinnaker",
+    "url": "spinnaker",
+    "files": [
+      "spinnaker.svg"
     ]
   },
   {
@@ -7610,6 +7667,14 @@
     "url": "http://vuejs.org/",
     "files": [
       "vue.svg"
+    ]
+  },
+  {
+    "name": "Vuetify",
+    "shortname": "vuetifyjs",
+    "url": "https://vuetifyjs.com/",
+    "files": [
+      "vuetifyjs.svg"
     ]
   },
   {

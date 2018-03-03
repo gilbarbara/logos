@@ -18,6 +18,23 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://hyperapp.js.org/" target="_blank">Hyperapp</a>
+![hyperapp](https://cdn.svgporn.com/logos/hyperapp.svg)
+## <a href="https://www.netflix.com/" target="_blank">Netflix</a>
+![netflix](https://cdn.svgporn.com/logos/netflix.svg)
+![netflix](https://cdn.svgporn.com/logos/netflix-icon.svg)
+## <a href="http://node-os.com/" target="_blank">Node OS</a>
+![nodeos](https://cdn.svgporn.com/logos/nodeos.svg)
+## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
+![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
+## <a href="https://reasonml.github.io/" target="_blank">Reason ML</a>
+![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
+## <a href="https://rollupjs.org/" target="_blank">rollup.js</a>
+![rollup.js](https://cdn.svgporn.com/logos/rollup.svg)
+## <a href="spinnaker" target="_blank">Spinnaker</a>
+![spinnaker](https://cdn.svgporn.com/logos/spinnaker.svg)
+## <a href="https://vuetifyjs.com/" target="_blank">Vuetify</a>
+![vuetifyjs](https://cdn.svgporn.com/logos/vuetifyjs.svg)
 ## <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>
 ![dropbox](https://cdn.svgporn.com/logos/dropbox.svg)
 ## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
@@ -104,22 +121,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![octodns](https://cdn.svgporn.com/logos/octodns.svg)
 ## <a href="https://www.sanity.io/" target="_blank">Sanity</a>
 ![sanity](https://cdn.svgporn.com/logos/sanity.svg)
-## <a href="https://github.com/morishitter/stylefmt" target="_blank">stylefmt</a>
-![stylefmt](https://cdn.svgporn.com/logos/stylefmt.svg)
-## <a href="https://facebook.github.io/watchman/" target="_blank">Watchman</a>
-![watchman](https://cdn.svgporn.com/logos/watchman.svg)
-## <a href="https://aws.amazon.com/elasticache/" target="_blank">AWS Elastic Cache</a> *
-![aws-elastic-cache](https://cdn.svgporn.com/logos/aws-elastic-cache.svg)
-## <a href="https://www.braze.com/" target="_blank">Braze</a>
-![braze](https://cdn.svgporn.com/logos/braze.svg)
-## <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>
-![cloudinary](https://cdn.svgporn.com/logos/cloudinary.svg)
-## <a href="https://www.mparticle.com/" target="_blank">mParticle</a>
-![mparticle](https://cdn.svgporn.com/logos/mparticle.svg)
-## <a href="https://github.com/zeit/pkg" target="_blank">PKG</a>
-![pkg](https://cdn.svgporn.com/logos/pkg.svg)
-## <a href="https://www.getpostman.com/" target="_blank">Postman</a>
-![postman](https://cdn.svgporn.com/logos/postman.svg)
 
 ---
 
