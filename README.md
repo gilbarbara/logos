@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>
+![dropbox](https://cdn.svgporn.com/logos/dropbox.svg)
 ## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
 ![v8](https://cdn.svgporn.com/logos/v8.svg)
 ![v8](https://cdn.svgporn.com/logos/v8-ignition.svg)
@@ -118,8 +120,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![pkg](https://cdn.svgporn.com/logos/pkg.svg)
 ## <a href="https://www.getpostman.com/" target="_blank">Postman</a>
 ![postman](https://cdn.svgporn.com/logos/postman.svg)
-## <a href="https://redux-saga.js.org/" target="_blank">redux-saga</a>
-![redux-saga](https://cdn.svgporn.com/logos/redux-saga.svg)
 
 ---
 
