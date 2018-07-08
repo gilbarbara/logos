@@ -18,8 +18,6 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
-## <a href="https://aws.amazon.com/" target="_blank">AWS</a>
-![aws](https://cdn.svgporn.com/logos/aws.svg)
 ## <a href="https://docusaurus.io/" target="_blank">Docusaurus</a>
 ![docusaurus](https://cdn.svgporn.com/logos/docusaurus.svg)
 ## <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
@@ -36,6 +34,8 @@ Please add your requests in the issues preferably with links to the vector files
 ![poeditor](https://cdn.svgporn.com/logos/poeditor.svg)
 ## <a href="https://serverless.com/" target="_blank">Serverless</a>
 ![serverless](https://cdn.svgporn.com/logos/serverless.svg)
+## <a href="https://aws.amazon.com/" target="_blank">AWS</a>
+![aws](https://cdn.svgporn.com/logos/aws.svg)
 ## <a href="https://hyperapp.js.org/" target="_blank">Hyperapp</a>
 ![hyperapp](https://cdn.svgporn.com/logos/hyperapp.svg)
 ## <a href="https://www.netflix.com/" target="_blank">Netflix</a>
