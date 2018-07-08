@@ -20,8 +20,22 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://aws.amazon.com/" target="_blank">AWS</a>
 ![aws](https://cdn.svgporn.com/logos/aws.svg)
+## <a href="https://docusaurus.io/" target="_blank">Docusaurus</a>
+![docusaurus](https://cdn.svgporn.com/logos/docusaurus.svg)
+## <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
+![font-awesome](https://cdn.svgporn.com/logos/font-awesome.svg)
+## <a href="https://framework7.io/" target="_blank">Framework7</a>
+![framework7](https://cdn.svgporn.com/logos/framework7.svg)
 ## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a> *
 ![google-cloud](https://cdn.svgporn.com/logos/google-cloud.svg)
+## <a href="https://grafana.com/" target="_blank">Grafana</a>
+![grafana](https://cdn.svgporn.com/logos/grafana.svg)
+## <a href="https://github.com/jsdom/jsdom" target="_blank">jsdom</a>
+![jsdom](https://cdn.svgporn.com/logos/jsdom.svg)
+## <a href="https://poeditor.com/" target="_blank">POEditor</a>
+![poeditor](https://cdn.svgporn.com/logos/poeditor.svg)
+## <a href="https://serverless.com/" target="_blank">Serverless</a>
+![serverless](https://cdn.svgporn.com/logos/serverless.svg)
 ## <a href="https://hyperapp.js.org/" target="_blank">Hyperapp</a>
 ![hyperapp](https://cdn.svgporn.com/logos/hyperapp.svg)
 ## <a href="https://www.netflix.com/" target="_blank">Netflix</a>
@@ -107,20 +121,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![tealium](https://cdn.svgporn.com/logos/tealium.svg)
 ## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
 ![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
-## <a href="https://firefox.com/" target="_blank">Firefox</a>
-![firefox](https://cdn.svgporn.com/logos/firefox.svg)
-## <a href="http://kotlinlang.org/" target="_blank">Kotlin</a>
-![kotlin](https://cdn.svgporn.com/logos/kotlin.svg)
-## <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
-![visual-studio-code](https://cdn.svgporn.com/logos/visual-studio-code.svg)
-## <a href="https://botanalytics.co/" target="_blank">Botanalytics</a>
-![botanalytics](https://cdn.svgporn.com/logos/botanalytics.svg)
-## <a href="http://code.viget.com/microcosm/" target="_blank">Microcosm</a>
-![microcosm](https://cdn.svgporn.com/logos/microcosm.svg)
-## <a href="http://moonjs.ga/" target="_blank">Moon</a>
-![moon](https://cdn.svgporn.com/logos/moon.svg)
-## <a href="https://zeit.co/next" target="_blank">Next.js</a>
-![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
 
 ---
 

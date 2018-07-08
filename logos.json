@@ -2049,6 +2049,14 @@
     ]
   },
   {
+    "name": "Docusaurus",
+    "shortname": "docusaurus",
+    "url": "https://docusaurus.io/",
+    "files": [
+      "docusaurus.svg"
+    ]
+  },
+  {
     "name": "Dojo Toolkit",
     "shortname": "dojo",
     "url": "https://dojotoolkit.org/",
@@ -2676,6 +2684,14 @@
     ]
   },
   {
+    "name": "Font Awesome",
+    "shortname": "font-awesome",
+    "url": "https://fontawesome.com/",
+    "files": [
+      "font-awesome.svg"
+    ]
+  },
+  {
     "name": "Forest",
     "shortname": "forest",
     "url": "http://www.forestadmin.com/",
@@ -2713,6 +2729,14 @@
     "url": "http://framed.io/",
     "files": [
       "framed.svg"
+    ]
+  },
+  {
+    "name": "Framework7",
+    "shortname": "framework7",
+    "url": "https://framework7.io/",
+    "files": [
+      "framework7.svg"
     ]
   },
   {
@@ -3038,6 +3062,14 @@
     "url": "https://gradle.org/",
     "files": [
       "gradle.svg"
+    ]
+  },
+  {
+    "name": "Grafana",
+    "shortname": "grafana",
+    "url": "https://grafana.com/",
+    "files": [
+      "grafana.svg"
     ]
   },
   {
@@ -3783,6 +3815,14 @@
     "url": "http://www.jsdelivr.com/",
     "files": [
       "jsdelivr.svg"
+    ]
+  },
+  {
+    "name": "jsdom",
+    "shortname": "jsdom",
+    "url": "https://github.com/jsdom/jsdom",
+    "files": [
+      "jsdom.svg"
     ]
   },
   {
@@ -5609,6 +5649,14 @@
     ]
   },
   {
+    "name": "POEditor",
+    "shortname": "poeditor",
+    "url": "https://poeditor.com/",
+    "files": [
+      "poeditor.svg"
+    ]
+  },
+  {
     "name": "Polymer",
     "shortname": "polymer",
     "url": "https://www.polymer-project.org/1.0/",
@@ -6550,6 +6598,14 @@
     "url": "https://github.com/serverless/serverless",
     "files": [
       "serveless.svg"
+    ]
+  },
+  {
+    "name": "Serverless",
+    "shortname": "serverless",
+    "url": "https://serverless.com/",
+    "files": [
+      "serverless.svg"
     ]
   },
   {
