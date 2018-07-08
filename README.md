@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aws.amazon.com/" target="_blank">AWS</a>
+![aws](https://cdn.svgporn.com/logos/aws.svg)
 ## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a> *
 ![google-cloud](https://cdn.svgporn.com/logos/google-cloud.svg)
 ## <a href="https://hyperapp.js.org/" target="_blank">Hyperapp</a>
@@ -119,8 +121,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![moon](https://cdn.svgporn.com/logos/moon.svg)
 ## <a href="https://zeit.co/next" target="_blank">Next.js</a>
 ![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
-## <a href="https://github.com/github/octodns/" target="_blank">octoDNS</a>
-![octodns](https://cdn.svgporn.com/logos/octodns.svg)
 
 ---
 
