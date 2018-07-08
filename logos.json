@@ -2985,6 +2985,14 @@
     ]
   },
   {
+    "name": "Google Cloud Platform",
+    "shortname": "google-cloud-platform",
+    "url": "https://cloud.google.com/gcp/",
+    "files": [
+      "google-cloud-platform.svg"
+    ]
+  },
+  {
     "name": "Google Developers",
     "shortname": "google-developers",
     "url": "https://developers.google.com/",
@@ -4783,7 +4791,7 @@
   {
     "name": "Moon",
     "shortname": "moon",
-    "url": "http://moonjs.ga/",
+    "url": "https://kbrsh.github.io/moon/",
     "files": [
       "moon.svg"
     ]
@@ -6233,19 +6241,11 @@
     ]
   },
   {
-    "name": "Rollup.js",
+    "name": "rollup.js",
     "shortname": "rollupjs",
     "url": "http://rollupjs.org/",
     "files": [
       "rollupjs.svg"
-    ]
-  },
-  {
-    "name": "rollup.js",
-    "shortname": "rollup.js",
-    "url": "https://rollupjs.org/",
-    "files": [
-      "rollup.svg"
     ]
   },
   {

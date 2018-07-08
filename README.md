@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a> *
+![google-cloud](https://cdn.svgporn.com/logos/google-cloud.svg)
 ## <a href="https://hyperapp.js.org/" target="_blank">Hyperapp</a>
 ![hyperapp](https://cdn.svgporn.com/logos/hyperapp.svg)
 ## <a href="https://www.netflix.com/" target="_blank">Netflix</a>
@@ -29,8 +31,8 @@ Please add your requests in the issues preferably with links to the vector files
 ![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
 ## <a href="https://reasonml.github.io/" target="_blank">Reason ML</a>
 ![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
-## <a href="https://rollupjs.org/" target="_blank">rollup.js</a>
-![rollup.js](https://cdn.svgporn.com/logos/rollup.svg)
+## <a href="http://rollupjs.org/" target="_blank">rollup.js</a>
+![rollupjs](https://cdn.svgporn.com/logos/rollupjs.svg)
 ## <a href="spinnaker" target="_blank">Spinnaker</a>
 ![spinnaker](https://cdn.svgporn.com/logos/spinnaker.svg)
 ## <a href="https://vuetifyjs.com/" target="_blank">Vuetify</a>
@@ -119,8 +121,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
 ## <a href="https://github.com/github/octodns/" target="_blank">octoDNS</a>
 ![octodns](https://cdn.svgporn.com/logos/octodns.svg)
-## <a href="https://www.sanity.io/" target="_blank">Sanity</a>
-![sanity](https://cdn.svgporn.com/logos/sanity.svg)
 
 ---
 
