@@ -4067,10 +4067,10 @@
   },
   {
     "name": "Kubernetes",
-    "shortname": "kubernets",
+    "shortname": "kubernetes",
     "url": "http://kubernetes.io/",
     "files": [
-      "kubernets.svg"
+      "kubernetes.svg"
     ]
   },
   {
