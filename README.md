@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://marketingplatform.google.com/about/enterprise/" target="_blank">Google 360 Suite</a>
+![google-360suite](https://cdn.svgporn.com/logos/google-360suite.svg)
+## <a href="https://ads.google.com/home/" target="_blank">Google Ads</a>
+![google-ads](https://cdn.svgporn.com/logos/google-ads.svg)
+## <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>
+![google-analytics](https://cdn.svgporn.com/logos/google-analytics.svg)
+## <a href="https://www.google.com/calendar/about/" target="_blank">Google Calendar</a>
+![google-calendar](https://cdn.svgporn.com/logos/google-calendar.svg)
+## <a href="https://marketingplatform.google.com/about/data-studio/" target="_blank">Google Data Studio</a>
+![google-data-studio](https://cdn.svgporn.com/logos/google-data-studio.svg)
+## <a href="https://gsuite.google.com/" target="_blank">Google G Suite</a>
+![google-gsuite](https://cdn.svgporn.com/logos/google-gsuite.svg)
+## <a href="https://www.google.com/inbox/" target="_blank">Google Inbox</a>
+![google-inbox](https://cdn.svgporn.com/logos/google-inbox.svg)
+## <a href="https://marketingplatform.google.com/about/" target="_blank">Google Marketing Platform</a>
+![google-marketing-platform](https://cdn.svgporn.com/logos/google-marketing-platform.svg)
+## <a href="https://meet.google.com/" target="_blank">Google Meet</a>
+![google-meet](https://cdn.svgporn.com/logos/google-meet.svg)
+## <a href="https://marketingplatform.google.com/about/optimize/" target="_blank">Google Optimize</a>
+![google-optimize](https://cdn.svgporn.com/logos/google-optimize.svg)
+## <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank">Google Tag Manager</a>
+![google-tag-manager](https://cdn.svgporn.com/logos/google-tag-manager.svg)
+## <a href="https://pay.google.com/about/" target="_blank">Google Wallet</a>
+![google-wallet](https://cdn.svgporn.com/logos/google-wallet.svg)
 ## <a href="https://docusaurus.io/" target="_blank">Docusaurus</a>
 ![docusaurus](https://cdn.svgporn.com/logos/docusaurus.svg)
 ## <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
@@ -97,30 +121,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![manuscript](https://cdn.svgporn.com/logos/manuscript.svg)
 ## <a href="https://prettier.io/" target="_blank">Prettier</a>
 ![prettier](https://cdn.svgporn.com/logos/prettier.svg)
-## <a href="https://buddy.works/" target="_blank">Buddy</a> *
-![buddy](https://cdn.svgporn.com/logos/buddy.svg)
-## <a href="http://saltstack.com/" target="_blank">SaltStack</a>
-![saltstack](https://cdn.svgporn.com/logos/saltstack.svg)
-## <a href="https://saucelabs.com/" target="_blank">Sauce Labs</a>
-![saucelabs](https://cdn.svgporn.com/logos/saucelabs.svg)
-## <a href="https://www.zendesk.com/" target="_blank">Zendesk</a>
-![zendesk](https://cdn.svgporn.com/logos/zendesk.svg)
-## <a href="https://altair.sirmuel.design/" target="_blank">Altair</a>
-![altair](https://cdn.svgporn.com/logos/altair.svg)
-## <a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>
-![kibana](https://cdn.svgporn.com/logos/kibana.svg)
-## <a href="https://www.packer.io/" target="_blank">Packer</a>
-![packer](https://cdn.svgporn.com/logos/packer.svg)
-## <a href="http://www.seleniumhq.org/" target="_blank">Selenium</a>
-![selenium](https://cdn.svgporn.com/logos/selenium.svg)
-## <a href="https://speedcurve.com/" target="_blank">SpeedCurve</a>
-![speedcurve](https://cdn.svgporn.com/logos/speedcurve.svg)
-## <a href="https://tapcart.co/" target="_blank">tapcart</a>
-![tapcart](https://cdn.svgporn.com/logos/tapcart.svg)
-## <a href="https://tealium.com" target="_blank">Tealium</a>
-![tealium](https://cdn.svgporn.com/logos/tealium.svg)
-## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
-![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
 
 ---
 

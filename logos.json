@@ -2977,6 +2977,22 @@
     ]
   },
   {
+    "name": "Google 360 Suite",
+    "shortname": "google-360suite",
+    "url": "https://marketingplatform.google.com/about/enterprise/",
+    "files": [
+      "google-360suite.svg"
+    ]
+  },
+  {
+    "name": "Google Ads",
+    "shortname": "google-ads",
+    "url": "https://ads.google.com/home/",
+    "files": [
+      "google-ads.svg"
+    ]
+  },
+  {
     "name": "Google AdSense",
     "shortname": "google-adsense",
     "url": "http://www.google.com/adsense/",
@@ -3001,6 +3017,14 @@
     ]
   },
   {
+    "name": "Google Calendar",
+    "shortname": "google-calendar",
+    "url": "https://www.google.com/calendar/about/",
+    "files": [
+      "google-calendar.svg"
+    ]
+  },
+  {
     "name": "Google Cloud",
     "shortname": "google-cloud",
     "url": "https://cloud.google.com/",
@@ -3014,6 +3038,14 @@
     "url": "https://cloud.google.com/gcp/",
     "files": [
       "google-cloud-platform.svg"
+    ]
+  },
+  {
+    "name": "Google Data Studio",
+    "shortname": "google-data-studio",
+    "url": "https://marketingplatform.google.com/about/data-studio/",
+    "files": [
+      "google-data-studio.svg"
     ]
   },
   {
@@ -3033,6 +3065,14 @@
     ]
   },
   {
+    "name": "Google G Suite",
+    "shortname": "google-gsuite",
+    "url": "https://gsuite.google.com/",
+    "files": [
+      "google-gsuite.svg"
+    ]
+  },
+  {
     "name": "Google Gmail",
     "shortname": "google-gmail",
     "url": "http://gmail.com/",
@@ -3041,11 +3081,59 @@
     ]
   },
   {
+    "name": "Google Inbox",
+    "shortname": "google-inbox",
+    "url": "https://www.google.com/inbox/",
+    "files": [
+      "google-inbox.svg"
+    ]
+  },
+  {
+    "name": "Google Marketing Platform",
+    "shortname": "google-marketing-platform",
+    "url": "https://marketingplatform.google.com/about/",
+    "files": [
+      "google-marketing-platform.svg"
+    ]
+  },
+  {
+    "name": "Google Meet",
+    "shortname": "google-meet",
+    "url": "https://meet.google.com/",
+    "files": [
+      "google-meet.svg"
+    ]
+  },
+  {
+    "name": "Google Optimize",
+    "shortname": "google-optimize",
+    "url": "https://marketingplatform.google.com/about/optimize/",
+    "files": [
+      "google-optimize.svg"
+    ]
+  },
+  {
     "name": "Google Photos",
     "shortname": "google-photos",
     "url": "https://photos.google.com/",
     "files": [
       "google-photos.svg"
+    ]
+  },
+  {
+    "name": "Google Tag Manager",
+    "shortname": "google-tag-manager",
+    "url": "https://marketingplatform.google.com/about/tag-manager/",
+    "files": [
+      "google-tag-manager.svg"
+    ]
+  },
+  {
+    "name": "Google Wallet",
+    "shortname": "google-wallet",
+    "url": "https://pay.google.com/about/",
+    "files": [
+      "google-wallet.svg"
     ]
   },
   {
