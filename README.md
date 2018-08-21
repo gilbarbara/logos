@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.atlassian.com/" target="_blank">Atlassian</a>
+![atlassian](https://cdn.svgporn.com/logos/atlassian.svg)
+## <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>
+![bitbucket](https://cdn.svgporn.com/logos/bitbucket.svg)
+## <a href="https://www.atlassian.com/software/confluence" target="_blank">Confluence</a>
+![confluence](https://cdn.svgporn.com/logos/confluence.svg)
+## <a href="https://www.atlassian.com/software/crucible" target="_blank">Crucible</a>
+![crucible](https://cdn.svgporn.com/logos/crucible.svg)
+## <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA</a>
+![jira](https://cdn.svgporn.com/logos/jira.svg)
+## <a href="https://www.sourcetreeapp.com/" target="_blank">SourceTree</a>
+![sourcetree](https://cdn.svgporn.com/logos/sourcetree.svg)
+## <a href="https://www.apple.com/apple-pay/" target="_blank">Apple Pay</a>
+![apple-pay](https://cdn.svgporn.com/logos/apple-pay.svg)
+## <a href="https://gohugo.io/" target="_blank">Hugo</a>
+![hugo](https://cdn.svgporn.com/logos/hugo.svg)
+## <a href="https://www.apple.com/ios/" target="_blank">iOS</a>
+![ios](https://cdn.svgporn.com/logos/ios.svg)
+## <a href="https://www.kustomer.com/" target="_blank">Kustomer</a>
+![kustomer](https://cdn.svgporn.com/logos/kustomer.svg)
 ## <a href="https://marketingplatform.google.com/about/enterprise/" target="_blank">Google 360 Suite</a>
 ![google-360suite](https://cdn.svgporn.com/logos/google-360suite.svg)
 ## <a href="https://ads.google.com/home/" target="_blank">Google Ads</a>
@@ -101,26 +121,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![medium](https://cdn.svgporn.com/logos/medium.svg)
 ## <a href="https://www.planless.io/" target="_blank">Planless</a>
 ![planless](https://cdn.svgporn.com/logos/planless.svg)
-## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
-![processwire](https://cdn.svgporn.com/logos/processwire.svg)
-## <a href="https://realm.io/" target="_blank">Realm</a>
-![realm](https://cdn.svgporn.com/logos/realm.svg)
-## <a href="https://github.com/avajs/ava" target="_blank">Ava</a>
-![ava](https://cdn.svgporn.com/logos/ava.svg)
-## <a href="https://branch.io/" target="_blank">Branch</a>
-![branch](https://cdn.svgporn.com/logos/branch.svg)
-## <a href="https://www.cypress.io/" target="_blank">Cypress</a> *
-![cypress](https://cdn.svgporn.com/logos/cypress.svg)
-## <a href="https://get.fabric.io/" target="_blank">Fabric</a>
-![fabric_io](https://cdn.svgporn.com/logos/fabric_io.svg)
-## <a href="https://fastlane.tools/" target="_blank">Fastlane</a>
-![fastlane](https://cdn.svgporn.com/logos/fastlane.svg)
-## <a href="https://hyper.is/" target="_blank">Hyper</a>
-![hyper](https://cdn.svgporn.com/logos/hyper.svg)
-## <a href="https://manuscript.com" target="_blank">Manuscript</a>
-![manuscript](https://cdn.svgporn.com/logos/manuscript.svg)
-## <a href="https://prettier.io/" target="_blank">Prettier</a>
-![prettier](https://cdn.svgporn.com/logos/prettier.svg)
 
 ---
 

@@ -314,6 +314,14 @@
     ]
   },
   {
+    "name": "Apple Pay",
+    "shortname": "apple-pay",
+    "url": "https://www.apple.com/apple-pay/",
+    "files": [
+      "apple-pay.svg"
+    ]
+  },
+  {
     "name": "Appmaker",
     "shortname": "appmaker",
     "url": "https://webmaker.org/appmaker",
@@ -399,6 +407,14 @@
     "url": "https://www.astronomer.io/",
     "files": [
       "astronomer.svg"
+    ]
+  },
+  {
+    "name": "Atlassian",
+    "shortname": "atlassian",
+    "url": "https://www.atlassian.com/",
+    "files": [
+      "atlassian.svg"
     ]
   },
   {
@@ -1598,6 +1614,14 @@
     ]
   },
   {
+    "name": "Confluence",
+    "shortname": "confluence",
+    "url": "https://www.atlassian.com/software/confluence",
+    "files": [
+      "confluence.svg"
+    ]
+  },
+  {
     "name": "Consul",
     "shortname": "consul",
     "url": "https://www.consul.io/",
@@ -1757,6 +1781,14 @@
     "url": "https://crowdprocess.com/",
     "files": [
       "crowdprocess.svg"
+    ]
+  },
+  {
+    "name": "Crucible",
+    "shortname": "crucible",
+    "url": "https://www.atlassian.com/software/crucible",
+    "files": [
+      "crucible.svg"
     ]
   },
   {
@@ -3553,6 +3585,14 @@
     ]
   },
   {
+    "name": "Hugo",
+    "shortname": "hugo",
+    "url": "https://gohugo.io/",
+    "files": [
+      "hugo.svg"
+    ]
+  },
+  {
     "name": "Humongous",
     "shortname": "humongous",
     "url": "https://humongous.io/",
@@ -4159,6 +4199,14 @@
     "url": "http://kubernetes.io/",
     "files": [
       "kubernetes.svg"
+    ]
+  },
+  {
+    "name": "Kustomer",
+    "shortname": "kustomer",
+    "url": "https://www.kustomer.com/",
+    "files": [
+      "kustomer.svg"
     ]
   },
   {
