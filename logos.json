@@ -1003,6 +1003,14 @@
     ]
   },
   {
+    "name": "Brotli",
+    "shortname": "brotli",
+    "url": "https://github.com/google/brotli",
+    "files": [
+      "brotli.svg"
+    ]
+  },
+  {
     "name": "Browserify",
     "shortname": "browserify",
     "url": "http://browserify.org/",
@@ -1017,6 +1025,14 @@
     "url": "https://www.browserling.com/",
     "files": [
       "browserling.svg"
+    ]
+  },
+  {
+    "name": "Browserslist",
+    "shortname": "browserslist",
+    "url": "https://github.com/browserslist/browserslist",
+    "files": [
+      "browserslist.svg"
     ]
   },
   {
@@ -1418,6 +1434,14 @@
     "url": "https://cocoapods.org/",
     "files": [
       "cocoapods.svg"
+    ]
+  },
+  {
+    "name": "Codacy",
+    "shortname": "codacy",
+    "url": "https://www.codacy.com/",
+    "files": [
+      "codacy.svg"
     ]
   },
   {
@@ -3991,6 +4015,14 @@
     "url": "http://kafka.apache.org/",
     "files": [
       "kafka.svg"
+    ]
+  },
+  {
+    "name": "KaiOS",
+    "shortname": "kaios",
+    "url": "https://www.kaiostech.com/",
+    "files": [
+      "kaios.svg"
     ]
   },
   {
@@ -6929,6 +6961,14 @@
     ]
   },
   {
+    "name": "SonarQube",
+    "shortname": "sonarqube",
+    "url": "https://www.sonarqube.org/",
+    "files": [
+      "sonarqube.svg"
+    ]
+  },
+  {
     "name": "soundcloud",
     "shortname": "soundcloud",
     "url": "https://soundcloud.com/",
@@ -7281,6 +7321,14 @@
     ]
   },
   {
+    "name": "Swagger",
+    "shortname": "swagger",
+    "url": "https://swagger.io/",
+    "files": [
+      "swagger.svg"
+    ]
+  },
+  {
     "name": "Swift",
     "shortname": "swift",
     "url": "https://developer.apple.com/swift/",
@@ -7382,6 +7430,14 @@
     "url": "https://tectonic.com/",
     "files": [
       "tectonic.svg"
+    ]
+  },
+  {
+    "name": "Telegram",
+    "shortname": "telegram",
+    "url": "https://telegram.org/",
+    "files": [
+      "telegram.svg"
     ]
   },
   {
@@ -7640,6 +7696,14 @@
     "url": "http://getuikit.com/",
     "files": [
       "uikit.svg"
+    ]
+  },
+  {
+    "name": "Umu",
+    "shortname": "umu",
+    "url": "https://www.umu.com/",
+    "files": [
+      "umu.svg"
     ]
   },
   {
@@ -8043,6 +8107,14 @@
     "url": "https://whalar.com/",
     "files": [
       "whalar.svg"
+    ]
+  },
+  {
+    "name": "WhatsApp",
+    "shortname": "whatsapp",
+    "url": "https://www.whatsapp.com/",
+    "files": [
+      "whatsapp.svg"
     ]
   },
   {

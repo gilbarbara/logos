@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://github.com/google/brotli" target="_blank">Brotli</a>
+![brotli](https://cdn.svgporn.com/logos/brotli.svg)
+## <a href="https://github.com/browserslist/browserslist" target="_blank">Browserslist</a>
+![browserslist](https://cdn.svgporn.com/logos/browserslist.svg)
+## <a href="https://www.codacy.com/" target="_blank">Codacy</a>
+![codacy](https://cdn.svgporn.com/logos/codacy.svg)
+## <a href="https://www.kaiostech.com/" target="_blank">KaiOS</a>
+![kaios](https://cdn.svgporn.com/logos/kaios.svg)
+## <a href="https://www.sonarqube.org/" target="_blank">SonarQube</a>
+![sonarqube](https://cdn.svgporn.com/logos/sonarqube.svg)
+## <a href="https://swagger.io/" target="_blank">Swagger</a>
+![swagger](https://cdn.svgporn.com/logos/swagger.svg)
+## <a href="https://telegram.org/" target="_blank">Telegram</a>
+![telegram](https://cdn.svgporn.com/logos/telegram.svg)
+## <a href="https://www.umu.com/" target="_blank">Umu</a>
+![umu](https://cdn.svgporn.com/logos/umu.svg)
+## <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a>
+![whatsapp](https://cdn.svgporn.com/logos/whatsapp.svg)
+## <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+![netlify](https://cdn.svgporn.com/logos/netlify.svg)
 ## <a href="https://www.atlassian.com/" target="_blank">Atlassian</a>
 ![atlassian](https://cdn.svgporn.com/logos/atlassian.svg)
 ## <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>
@@ -99,28 +119,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![vuetifyjs](https://cdn.svgporn.com/logos/vuetifyjs.svg)
 ## <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>
 ![dropbox](https://cdn.svgporn.com/logos/dropbox.svg)
-## <a href="https://developers.google.com/v8/" target="_blank">V8</a>
-![v8](https://cdn.svgporn.com/logos/v8.svg)
-![v8](https://cdn.svgporn.com/logos/v8-ignition.svg)
-![v8](https://cdn.svgporn.com/logos/v8-turbofan.svg)
-## <a href="https://www.google.com/admob/" target="_blank">AdMob</a>
-![admob](https://cdn.svgporn.com/logos/admob.svg)
-## <a href="https://akka.io/" target="_blank">Akka</a>
-![akka](https://cdn.svgporn.com/logos/akka.svg)
-## <a href="https://www.astronomer.io/" target="_blank">Astronomer</a>
-![astronomer](https://cdn.svgporn.com/logos/astronomer.svg)
-## <a href="https://gameanalytics.com/" target="_blank">GameAnalytics</a>
-![game-analytics](https://cdn.svgporn.com/logos/game-analytics.svg)
-## <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a>
-![gatsby](https://cdn.svgporn.com/logos/gatsby.svg)
-## <a href="https://glamorous.rocks/" target="_blank">Glamorous</a>
-![glamorous](https://cdn.svgporn.com/logos/glamorous.svg)
-## <a href="https://jamstack.org/" target="_blank">Jamstack</a>
-![jamstack](https://cdn.svgporn.com/logos/jamstack.svg)
-## <a href="https://medium.com/" target="_blank">Medium</a>
-![medium](https://cdn.svgporn.com/logos/medium.svg)
-## <a href="https://www.planless.io/" target="_blank">Planless</a>
-![planless](https://cdn.svgporn.com/logos/planless.svg)
 
 ---
 
