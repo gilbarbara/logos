@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
+![algolia](https://cdn.svgporn.com/logos/algolia.svg)
 ## <a href="https://github.com/google/brotli" target="_blank">Brotli</a>
 ![brotli](https://cdn.svgporn.com/logos/brotli.svg)
 ## <a href="https://github.com/browserslist/browserslist" target="_blank">Browserslist</a>
@@ -117,8 +119,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![spinnaker](https://cdn.svgporn.com/logos/spinnaker.svg)
 ## <a href="https://vuetifyjs.com/" target="_blank">Vuetify</a>
 ![vuetifyjs](https://cdn.svgporn.com/logos/vuetifyjs.svg)
-## <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>
-![dropbox](https://cdn.svgporn.com/logos/dropbox.svg)
 
 ---
 
