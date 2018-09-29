@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
+![airflow](https://cdn.svgporn.com/logos/airflow.svg)
+## <a href="https://www.codefactor.io/" target="_blank">CodeFactor</a>
+![codefactor](https://cdn.svgporn.com/logos/codefactor.svg)
+## <a href="https://dimerapp.com/" target="_blank">Dimer</a>
+![dimer](https://cdn.svgporn.com/logos/dimer.svg)
+## <a href="https://github.com/kubernetes/kops" target="_blank">kops</a>
+![kops](https://cdn.svgporn.com/logos/kops.svg)
+## <a href="https://www.smartling.com/" target="_blank">Smartling</a>
+![smartling](https://cdn.svgporn.com/logos/smartling.svg)
+## <a href="https://www.sourcetrail.com/" target="_blank">Sourcetrail</a>
+![sourcetrail](https://cdn.svgporn.com/logos/sourcetrail.svg)
+## <a href="https://www.stitchdata.com/" target="_blank">Stitch</a>
+![stitch](https://cdn.svgporn.com/logos/stitch.svg)
+## <a href="https://strapi.io/" target="_blank">Strapi</a>
+![strapi](https://cdn.svgporn.com/logos/strapi.svg)
 ## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
 ![algolia](https://cdn.svgporn.com/logos/algolia.svg)
 ## <a href="https://github.com/google/brotli" target="_blank">Brotli</a>
@@ -102,23 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![serverless](https://cdn.svgporn.com/logos/serverless.svg)
 ## <a href="https://aws.amazon.com/" target="_blank">AWS</a>
 ![aws](https://cdn.svgporn.com/logos/aws.svg)
-## <a href="https://hyperapp.js.org/" target="_blank">Hyperapp</a>
-![hyperapp](https://cdn.svgporn.com/logos/hyperapp.svg)
-## <a href="https://www.netflix.com/" target="_blank">Netflix</a>
-![netflix](https://cdn.svgporn.com/logos/netflix.svg)
-![netflix](https://cdn.svgporn.com/logos/netflix-icon.svg)
-## <a href="http://node-os.com/" target="_blank">Node OS</a>
-![nodeos](https://cdn.svgporn.com/logos/nodeos.svg)
-## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
-![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
-## <a href="https://reasonml.github.io/" target="_blank">Reason ML</a>
-![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
-## <a href="http://rollupjs.org/" target="_blank">rollup.js</a>
-![rollupjs](https://cdn.svgporn.com/logos/rollupjs.svg)
-## <a href="spinnaker" target="_blank">Spinnaker</a>
-![spinnaker](https://cdn.svgporn.com/logos/spinnaker.svg)
-## <a href="https://vuetifyjs.com/" target="_blank">Vuetify</a>
-![vuetifyjs](https://cdn.svgporn.com/logos/vuetifyjs.svg)
 
 ---
 

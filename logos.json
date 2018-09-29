@@ -72,6 +72,14 @@
     ]
   },
   {
+    "name": "Airflow",
+    "shortname": "airflow",
+    "url": "https://airflow.apache.org/",
+    "files": [
+      "airflow.svg"
+    ]
+  },
+  {
     "name": "Airtable",
     "shortname": "airtable",
     "url": "https://airtable.com/",
@@ -1501,6 +1509,14 @@
     ]
   },
   {
+    "name": "CodeFactor",
+    "shortname": "codefactor",
+    "url": "https://www.codefactor.io/",
+    "files": [
+      "codefactor.svg"
+    ]
+  },
+  {
     "name": "Codefund",
     "shortname": "codefund",
     "url": "https://www.codefund.io/",
@@ -2022,6 +2038,14 @@
     "url": "https://www.digitalocean.com/",
     "files": [
       "digital-ocean.svg"
+    ]
+  },
+  {
+    "name": "Dimer",
+    "shortname": "dimer",
+    "url": "https://dimerapp.com/",
+    "files": [
+      "dimer.svg"
     ]
   },
   {
@@ -4183,6 +4207,14 @@
     "url": "http://www.kontena.io/",
     "files": [
       "kontena.svg"
+    ]
+  },
+  {
+    "name": "kops",
+    "shortname": "kops",
+    "url": "https://github.com/kubernetes/kops",
+    "files": [
+      "kops.svg"
     ]
   },
   {
@@ -6913,6 +6945,14 @@
     ]
   },
   {
+    "name": "Smartling",
+    "shortname": "smartling",
+    "url": "https://www.smartling.com/",
+    "files": [
+      "smartling.svg"
+    ]
+  },
+  {
     "name": "Smashing Magazine",
     "shortname": "smashingmagazine",
     "url": "http://www.smashingmagazine.com/",
@@ -6982,6 +7022,14 @@
     "url": "https://sourcegraph.com/",
     "files": [
       "sourcegraph.svg"
+    ]
+  },
+  {
+    "name": "Sourcetrail",
+    "shortname": "sourcetrail",
+    "url": "https://www.sourcetrail.com/",
+    "files": [
+      "sourcetrail.svg"
     ]
   },
   {
@@ -7161,6 +7209,14 @@
     ]
   },
   {
+    "name": "Stitch",
+    "shortname": "stitch",
+    "url": "https://www.stitchdata.com/",
+    "files": [
+      "stitch.svg"
+    ]
+  },
+  {
     "name": "StopLight",
     "shortname": "stoplight",
     "url": "https://stoplight.io/",
@@ -7174,6 +7230,14 @@
     "url": "https://stormpath.com/",
     "files": [
       "stormpath.svg"
+    ]
+  },
+  {
+    "name": "Strapi",
+    "shortname": "strapi",
+    "url": "https://strapi.io/",
+    "files": [
+      "strapi.svg"
     ]
   },
   {
