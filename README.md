@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
+![optimizely](https://cdn.svgporn.com/logos/optimizely.svg)
 ## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
 ![airflow](https://cdn.svgporn.com/logos/airflow.svg)
 ## <a href="https://www.codefactor.io/" target="_blank">CodeFactor</a>
@@ -100,8 +102,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![google-tag-manager](https://cdn.svgporn.com/logos/google-tag-manager.svg)
 ## <a href="https://pay.google.com/about/" target="_blank">Google Wallet</a>
 ![google-wallet](https://cdn.svgporn.com/logos/google-wallet.svg)
-## <a href="https://docusaurus.io/" target="_blank">Docusaurus</a>
-![docusaurus](https://cdn.svgporn.com/logos/docusaurus.svg)
 ## <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
 ![font-awesome](https://cdn.svgporn.com/logos/font-awesome.svg)
 ## <a href="https://framework7.io/" target="_blank">Framework7</a>
