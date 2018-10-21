@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.adyen.com/" target="_blank">Adyen</a>
+![adyen](https://cdn.svgporn.com/logos/adyen.svg)
+## <a href="https://element.eleme.io/" target="_blank">Element</a>
+![element](https://cdn.svgporn.com/logos/element.svg)
+## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
+![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
+## <a href="https://julialang.org/" target="_blank">Julia</a>
+![julia](https://cdn.svgporn.com/logos/julia.svg)
+## <a href="https://nestjs.com/" target="_blank">NestJS</a>
+![nestjs](https://cdn.svgporn.com/logos/nestjs.svg)
+## <a href="https://pytorch.org/" target="_blank">PyTorch</a>
+![pytorch](https://cdn.svgporn.com/logos/pytorch.svg)
+## <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>
+![tensorflow](https://cdn.svgporn.com/logos/tensorflow.svg)
+## <a href="https://www.x-cart.com/" target="_blank">X-Cart</a>
+![xcart](https://cdn.svgporn.com/logos/xcart.svg)
 ## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
 ![optimizely](https://cdn.svgporn.com/logos/optimizely.svg)
 ## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
@@ -102,22 +118,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![google-tag-manager](https://cdn.svgporn.com/logos/google-tag-manager.svg)
 ## <a href="https://pay.google.com/about/" target="_blank">Google Wallet</a>
 ![google-wallet](https://cdn.svgporn.com/logos/google-wallet.svg)
-## <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
-![font-awesome](https://cdn.svgporn.com/logos/font-awesome.svg)
-## <a href="https://framework7.io/" target="_blank">Framework7</a>
-![framework7](https://cdn.svgporn.com/logos/framework7.svg)
-## <a href="https://cloud.google.com/" target="_blank">Google Cloud</a> *
-![google-cloud](https://cdn.svgporn.com/logos/google-cloud.svg)
-## <a href="https://grafana.com/" target="_blank">Grafana</a>
-![grafana](https://cdn.svgporn.com/logos/grafana.svg)
-## <a href="https://github.com/jsdom/jsdom" target="_blank">jsdom</a>
-![jsdom](https://cdn.svgporn.com/logos/jsdom.svg)
-## <a href="https://poeditor.com/" target="_blank">POEditor</a>
-![poeditor](https://cdn.svgporn.com/logos/poeditor.svg)
-## <a href="https://serverless.com/" target="_blank">Serverless</a>
-![serverless](https://cdn.svgporn.com/logos/serverless.svg)
-## <a href="https://aws.amazon.com/" target="_blank">AWS</a>
-![aws](https://cdn.svgporn.com/logos/aws.svg)
 
 ---
 

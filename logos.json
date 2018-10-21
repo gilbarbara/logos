@@ -48,6 +48,14 @@
     ]
   },
   {
+    "name": "Adyen",
+    "shortname": "adyen",
+    "url": "https://www.adyen.com/",
+    "files": [
+      "adyen.svg"
+    ]
+  },
+  {
     "name": "Aerospike",
     "shortname": "aerospike",
     "url": "http://www.aerospike.com/",
@@ -2314,6 +2322,14 @@
     ]
   },
   {
+    "name": "Element",
+    "shortname": "element",
+    "url": "https://element.eleme.io/",
+    "files": [
+      "element.svg"
+    ]
+  },
+  {
     "name": "Elemental UI",
     "shortname": "elemental-ui",
     "url": "http://elemental-ui.com/",
@@ -3193,6 +3209,14 @@
     ]
   },
   {
+    "name": "Google Pay",
+    "shortname": "google-pay",
+    "url": "https://pay.google.com/about/",
+    "files": [
+      "google-pay.svg"
+    ]
+  },
+  {
     "name": "Google Photos",
     "shortname": "google-photos",
     "url": "https://photos.google.com/",
@@ -4031,6 +4055,14 @@
     "url": "http://juju.ubuntu.com/",
     "files": [
       "juju.svg"
+    ]
+  },
+  {
+    "name": "Julia",
+    "shortname": "julia",
+    "url": "https://julialang.org/",
+    "files": [
+      "julia.svg"
     ]
   },
   {
@@ -5141,6 +5173,14 @@
     ]
   },
   {
+    "name": "NestJS",
+    "shortname": "nestjs",
+    "url": "https://nestjs.com/",
+    "files": [
+      "nestjs.svg"
+    ]
+  },
+  {
     "name": "Netbeans",
     "shortname": "netbeans",
     "url": "https://netbeans.org/",
@@ -6110,6 +6150,14 @@
     "url": "https://www.python.org/",
     "files": [
       "python.svg"
+    ]
+  },
+  {
+    "name": "PyTorch",
+    "shortname": "pytorch",
+    "url": "https://pytorch.org/",
+    "files": [
+      "pytorch.svg"
     ]
   },
   {
@@ -7505,6 +7553,14 @@
     ]
   },
   {
+    "name": "TensorFlow",
+    "shortname": "tensorflow",
+    "url": "https://www.tensorflow.org/",
+    "files": [
+      "tensorflow.svg"
+    ]
+  },
+  {
     "name": "Terminal",
     "shortname": "terminal",
     "url": "https://en.wikipedia.org/wiki/Terminal_emulator",
@@ -8284,6 +8340,14 @@
     "url": "http://www.wufoo.com/",
     "files": [
       "wufoo.svg"
+    ]
+  },
+  {
+    "name": "X-Cart",
+    "shortname": "xcart",
+    "url": "https://www.x-cart.com/",
+    "files": [
+      "xcart.svg"
     ]
   },
   {
