@@ -18,6 +18,16 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+![jest](https://cdn.svgporn.com/logos/jest.svg)
+## <a href="http://kafka.apache.org/" target="_blank">Kafka</a> *
+![kafka](https://cdn.svgporn.com/logos/kafka-icon.svg)
+![kafka](https://cdn.svgporn.com/logos/kafka.svg)
+## <a href="https://reasonml.github.io/" target="_blank">Reason ML</a>
+![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
+![reasonml](https://cdn.svgporn.com/logos/reasonml-icon.svg)
+## <a href="https://slack.com/" target="_blank">slack</a>
+![slack](https://cdn.svgporn.com/logos/slack-icon.svg)
+![slack](https://cdn.svgporn.com/logos/slack.svg)
 ## <a href="https://www.adyen.com/" target="_blank">Adyen</a>
 ![adyen](https://cdn.svgporn.com/logos/adyen.svg)
 ## <a href="https://element.eleme.io/" target="_blank">Element</a>
@@ -111,13 +121,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://marketingplatform.google.com/about/" target="_blank">Google Marketing Platform</a>
 ![google-marketing-platform](https://cdn.svgporn.com/logos/google-marketing-platform.svg)
 ## <a href="https://meet.google.com/" target="_blank">Google Meet</a>
-![google-meet](https://cdn.svgporn.com/logos/google-meet.svg)
-## <a href="https://marketingplatform.google.com/about/optimize/" target="_blank">Google Optimize</a>
-![google-optimize](https://cdn.svgporn.com/logos/google-optimize.svg)
-## <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank">Google Tag Manager</a>
-![google-tag-manager](https://cdn.svgporn.com/logos/google-tag-manager.svg)
-## <a href="https://pay.google.com/about/" target="_blank">Google Wallet</a>
-![google-wallet](https://cdn.svgporn.com/logos/google-wallet.svg)
 
 ---
 

@@ -2149,7 +2149,7 @@
     "shortname": "dojo",
     "url": "https://dojotoolkit.org/",
     "files": [
-      "dojo.svg"
+      "dojo-toolkit.svg"
     ]
   },
   {
@@ -3060,8 +3060,7 @@
     "url": "http://www.google.com/",
     "files": [
       "google-icon.svg",
-      "google.svg",
-      "google-2014.svg"
+      "google.svg"
     ]
   },
   {
@@ -4070,6 +4069,7 @@
     "shortname": "kafka",
     "url": "http://kafka.apache.org/",
     "files": [
+      "kafka-icon.svg",
       "kafka.svg"
     ]
   },
@@ -6321,7 +6321,7 @@
     ]
   },
   {
-    "name": "ReactiveX",
+    "name": "ReactiveX (RxJS)",
     "shortname": "reactivex",
     "url": "http://reactivex.io/",
     "files": [
@@ -6349,7 +6349,8 @@
     "shortname": "reasonml",
     "url": "https://reasonml.github.io/",
     "files": [
-      "reasonml.svg"
+      "reasonml.svg",
+      "reasonml-icon.svg"
     ]
   },
   {
@@ -6842,14 +6843,6 @@
   },
   {
     "name": "Serverless",
-    "shortname": "serveless",
-    "url": "https://github.com/serverless/serverless",
-    "files": [
-      "serveless.svg"
-    ]
-  },
-  {
-    "name": "Serverless",
     "shortname": "serverless",
     "url": "https://serverless.com/",
     "files": [
@@ -6973,6 +6966,7 @@
     "shortname": "slack",
     "url": "https://slack.com/",
     "files": [
+      "slack-icon.svg",
       "slack.svg"
     ]
   },
