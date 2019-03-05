@@ -763,6 +763,14 @@
     ]
   },
   {
+    "name": "Bamboo",
+    "shortname": "bamboo",
+    "url": "https://www.atlassian.com/software/bamboo",
+    "files": [
+      "bamboo.svg"
+    ]
+  },
+  {
     "name": "Base",
     "shortname": "base",
     "url": "https://getbase.com/",
@@ -1469,6 +1477,14 @@
     ]
   },
   {
+    "name": "Code Sandbox",
+    "shortname": "codesandbox",
+    "url": "https://codesandbox.io/",
+    "files": [
+      "codesandbox.svg"
+    ]
+  },
+  {
     "name": "Code School",
     "shortname": "codeschool",
     "url": "https://www.codeschool.com/",
@@ -2142,6 +2158,15 @@
     "url": "https://docusaurus.io/",
     "files": [
       "docusaurus.svg"
+    ]
+  },
+  {
+    "name": "Dojo",
+    "shortname": "dojo",
+    "url": "https://dojo.io/",
+    "files": [
+      "dojo-icon.svg",
+      "dojo.svg"
     ]
   },
   {
@@ -3413,6 +3438,14 @@
     "url": "http://hadoop.apache.org/",
     "files": [
       "hadoop.svg"
+    ]
+  },
+  {
+    "name": "Haiku",
+    "shortname": "haiku",
+    "url": "https://www.haiku.ai/",
+    "files": [
+      "haiku.svg"
     ]
   },
   {
@@ -5985,6 +6018,14 @@
     ]
   },
   {
+    "name": "Prisma",
+    "shortname": "prisma",
+    "url": "https://www.prisma.io/",
+    "files": [
+      "prisma.svg"
+    ]
+  },
+  {
     "name": "ProcessWire",
     "shortname": "processwire",
     "url": "http://processwire.com/",
@@ -6310,6 +6351,14 @@
     "url": "https://facebook.github.io/react/",
     "files": [
       "react.svg"
+    ]
+  },
+  {
+    "name": "React Styleguidst",
+    "shortname": "styleguidst",
+    "url": "https://react-styleguidist.js.org/",
+    "files": [
+      "styleguidst.svg"
     ]
   },
   {
@@ -7131,6 +7180,14 @@
     ]
   },
   {
+    "name": "Spree Commerce",
+    "shortname": "spree",
+    "url": "https://spreecommerce.org/",
+    "files": [
+      "spree.svg"
+    ]
+  },
+  {
     "name": "Spring",
     "shortname": "spring",
     "url": "https://spring.io/",
@@ -7272,6 +7329,15 @@
     "url": "https://stormpath.com/",
     "files": [
       "stormpath.svg"
+    ]
+  },
+  {
+    "name": "Stoybook",
+    "shortname": "storybook",
+    "url": "https://storybook.js.org/",
+    "files": [
+      "storybook-icon.svg",
+      "storybook.svg"
     ]
   },
   {

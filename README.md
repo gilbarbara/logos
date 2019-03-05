@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.atlassian.com/software/bamboo" target="_blank">Bamboo</a>
+![bamboo](https://cdn.svgporn.com/logos/bamboo.svg)
+## <a href="https://codesandbox.io/" target="_blank">Code Sandbox</a>
+![codesandbox](https://cdn.svgporn.com/logos/codesandbox.svg)
+## <a href="https://dojo.io/" target="_blank">Dojo</a>
+![dojo](https://cdn.svgporn.com/logos/dojo-icon.svg)
+![dojo](https://cdn.svgporn.com/logos/dojo.svg)
+## <a href="https://www.haiku.ai/" target="_blank">Haiku</a>
+![haiku](https://cdn.svgporn.com/logos/haiku.svg)
+## <a href="https://www.prisma.io/" target="_blank">Prisma</a>
+![prisma](https://cdn.svgporn.com/logos/prisma.svg)
+## <a href="https://react-styleguidist.js.org/" target="_blank">React Styleguidst</a>
+![styleguidst](https://cdn.svgporn.com/logos/styleguidst.svg)
+## <a href="https://spreecommerce.org/" target="_blank">Spree Commerce</a>
+![spree](https://cdn.svgporn.com/logos/spree.svg)
+## <a href="https://storybook.js.org/" target="_blank">Stoybook</a>
+![storybook](https://cdn.svgporn.com/logos/storybook-icon.svg)
+![storybook](https://cdn.svgporn.com/logos/storybook.svg)
+## <a href="http://facebook.github.io/jest/" target="_blank">Jest</a> *
 ![jest](https://cdn.svgporn.com/logos/jest.svg)
 ## <a href="http://kafka.apache.org/" target="_blank">Kafka</a> *
 ![kafka](https://cdn.svgporn.com/logos/kafka-icon.svg)
@@ -104,23 +123,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![ios](https://cdn.svgporn.com/logos/ios.svg)
 ## <a href="https://www.kustomer.com/" target="_blank">Kustomer</a>
 ![kustomer](https://cdn.svgporn.com/logos/kustomer.svg)
-## <a href="https://marketingplatform.google.com/about/enterprise/" target="_blank">Google 360 Suite</a>
-![google-360suite](https://cdn.svgporn.com/logos/google-360suite.svg)
-## <a href="https://ads.google.com/home/" target="_blank">Google Ads</a>
-![google-ads](https://cdn.svgporn.com/logos/google-ads.svg)
-## <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>
-![google-analytics](https://cdn.svgporn.com/logos/google-analytics.svg)
-## <a href="https://www.google.com/calendar/about/" target="_blank">Google Calendar</a>
-![google-calendar](https://cdn.svgporn.com/logos/google-calendar.svg)
-## <a href="https://marketingplatform.google.com/about/data-studio/" target="_blank">Google Data Studio</a>
-![google-data-studio](https://cdn.svgporn.com/logos/google-data-studio.svg)
-## <a href="https://gsuite.google.com/" target="_blank">Google G Suite</a>
-![google-gsuite](https://cdn.svgporn.com/logos/google-gsuite.svg)
-## <a href="https://www.google.com/inbox/" target="_blank">Google Inbox</a>
-![google-inbox](https://cdn.svgporn.com/logos/google-inbox.svg)
-## <a href="https://marketingplatform.google.com/about/" target="_blank">Google Marketing Platform</a>
-![google-marketing-platform](https://cdn.svgporn.com/logos/google-marketing-platform.svg)
-## <a href="https://meet.google.com/" target="_blank">Google Meet</a>
 
 ---
 
