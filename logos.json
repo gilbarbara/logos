@@ -6354,11 +6354,11 @@
     ]
   },
   {
-    "name": "React Styleguidst",
-    "shortname": "styleguidst",
+    "name": "React Styleguidist",
+    "shortname": "react-styleguidist",
     "url": "https://react-styleguidist.js.org/",
     "files": [
-      "styleguidst.svg"
+      "react-styleguidist.svg"
     ]
   },
   {

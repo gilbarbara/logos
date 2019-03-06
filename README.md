@@ -29,8 +29,8 @@ Please add your requests in the issues preferably with links to the vector files
 ![haiku](https://cdn.svgporn.com/logos/haiku.svg)
 ## <a href="https://www.prisma.io/" target="_blank">Prisma</a>
 ![prisma](https://cdn.svgporn.com/logos/prisma.svg)
-## <a href="https://react-styleguidist.js.org/" target="_blank">React Styleguidst</a>
-![styleguidst](https://cdn.svgporn.com/logos/styleguidst.svg)
+## <a href="https://react-styleguidist.js.org/" target="_blank">React Styleguidist</a>
+![react-styleguidist](https://cdn.svgporn.com/logos/react-styleguidist.svg)
 ## <a href="https://spreecommerce.org/" target="_blank">Spree Commerce</a>
 ![spree](https://cdn.svgporn.com/logos/spree.svg)
 ## <a href="https://storybook.js.org/" target="_blank">Stoybook</a>
