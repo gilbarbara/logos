@@ -26,8 +26,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![flutter](https://cdn.svgporn.com/logos/flutter.svg)
 ## <a href="https://github.com/fuchsia-mirror" target="_blank">Fuchsia</a>
 ![fuchsia](https://cdn.svgporn.com/logos/fuchsia.svg)
-## <a href="https://cloud.google.com/run/" target="_blank">Google Cloud Run</a>
-![google-cloud-run](https://cdn.svgporn.com/logos/google-cloud-run.svg)
 ## <a href="https://play.google.com/" target="_blank">Google Play</a>
 ![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
 ![google-play](https://cdn.svgporn.com/logos/google-play.svg)
@@ -38,6 +36,10 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
 ![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss-icon.svg)
 ![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss.svg)
+## <a href="https://cloud.google.com/functions/" target="_blank">Google Cloud Functions</a>
+![google-cloud-functions](https://cdn.svgporn.com/logos/google-cloud-functions.svg)
+## <a href="https://cloud.google.com/run/" target="_blank">Google Cloud Run</a>
+![google-cloud-run](https://cdn.svgporn.com/logos/google-cloud-run.svg)
 ## <a href="https://www.atlassian.com/software/bamboo" target="_blank">Bamboo</a>
 ![bamboo](https://cdn.svgporn.com/logos/bamboo.svg)
 ## <a href="https://codesandbox.io/" target="_blank">Code Sandbox</a>
@@ -123,8 +125,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![whatsapp](https://cdn.svgporn.com/logos/whatsapp.svg)
 ## <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 ![netlify](https://cdn.svgporn.com/logos/netlify.svg)
-## <a href="https://www.atlassian.com/" target="_blank">Atlassian</a>
-![atlassian](https://cdn.svgporn.com/logos/atlassian.svg)
 
 ---
 

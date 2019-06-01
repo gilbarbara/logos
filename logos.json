@@ -3185,6 +3185,14 @@
     ]
   },
   {
+    "name": "Google Cloud Functions",
+    "shortname": "google-cloud-functions",
+    "url": "https://cloud.google.com/functions/",
+    "files": [
+      "google-cloud-functions.svg"
+    ]
+  },
+  {
     "name": "Google Cloud Platform",
     "shortname": "google-cloud-platform",
     "url": "https://cloud.google.com/gcp/",
