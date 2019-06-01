@@ -210,6 +210,14 @@
     ]
   },
   {
+    "name": "Apache Camel",
+    "shortname": "apache-camel",
+    "url": "https://camel.apache.org",
+    "files": [
+      "apache-camel.svg"
+    ]
+  },
+  {
     "name": "Apache CloudStack",
     "shortname": "apache_cloudstack",
     "url": "https://cloudstack.apache.org/",
@@ -327,6 +335,14 @@
     "url": "http://www.apple.com/",
     "files": [
       "apple.svg"
+    ]
+  },
+  {
+    "name": "Apple iOS App Store",
+    "shortname": "apple-app-store",
+    "url": "https://www.apple.com/ios/app-store/",
+    "files": [
+      "apple-app-store.svg"
     ]
   },
   {
@@ -1931,7 +1947,7 @@
   {
     "name": "Dart",
     "shortname": "dart",
-    "url": "https://www.dartlang.org/",
+    "url": "https://dart.dev/",
     "files": [
       "dart.svg"
     ]
@@ -2765,6 +2781,14 @@
     ]
   },
   {
+    "name": "Flutter",
+    "shortname": "flutter",
+    "url": "https://flutter.dev",
+    "files": [
+      "flutter.svg"
+    ]
+  },
+  {
     "name": "Flux",
     "shortname": "flux",
     "url": "https://facebook.github.io/flux/",
@@ -2890,6 +2914,14 @@
     "url": "https://frontapp.com/",
     "files": [
       "frontapp.svg"
+    ]
+  },
+  {
+    "name": "Fuchsia",
+    "shortname": "fuchsia",
+    "url": "https://github.com/fuchsia-mirror",
+    "files": [
+      "fuchsia.svg"
     ]
   },
   {
@@ -3161,6 +3193,14 @@
     ]
   },
   {
+    "name": "Google Cloud Run",
+    "shortname": "google-cloud-run",
+    "url": "https://cloud.google.com/run/",
+    "files": [
+      "google-cloud-run.svg"
+    ]
+  },
+  {
     "name": "Google Data Studio",
     "shortname": "google-data-studio",
     "url": "https://marketingplatform.google.com/about/data-studio/",
@@ -3246,6 +3286,15 @@
     "url": "https://photos.google.com/",
     "files": [
       "google-photos.svg"
+    ]
+  },
+  {
+    "name": "Google Play",
+    "shortname": "google-play",
+    "url": "https://play.google.com/",
+    "files": [
+      "google-play-icon.svg",
+      "google-play.svg"
     ]
   },
   {
@@ -4095,6 +4144,14 @@
     "url": "https://julialang.org/",
     "files": [
       "julia.svg"
+    ]
+  },
+  {
+    "name": "Jupyter",
+    "shortname": "jupyter",
+    "url": "https://jupyter.org",
+    "files": [
+      "jupyter.svg"
     ]
   },
   {
@@ -6154,6 +6211,14 @@
     ]
   },
   {
+    "name": "Puppeteer",
+    "shortname": "puppeteer",
+    "url": "https://developers.google.com/web/tools/puppeteer/",
+    "files": [
+      "puppeteer.svg"
+    ]
+  },
+  {
     "name": "Puppy Linux",
     "shortname": "puppy-linux",
     "url": "http://puppylinux.org/",
@@ -7332,7 +7397,7 @@
     ]
   },
   {
-    "name": "Stoybook",
+    "name": "Storybook",
     "shortname": "storybook",
     "url": "https://storybook.js.org/",
     "files": [
@@ -7546,6 +7611,15 @@
     "url": "https://taiga.io/",
     "files": [
       "taiga.svg"
+    ]
+  },
+  {
+    "name": "Tailwind CSS",
+    "shortname": "tailwindcss",
+    "url": "https://tailwindcss.com/",
+    "files": [
+      "tailwindcss-icon.svg",
+      "tailwindcss.svg"
     ]
   },
   {

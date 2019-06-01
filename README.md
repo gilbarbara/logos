@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://camel.apache.org" target="_blank">Apache Camel</a>
+![apache-camel](https://cdn.svgporn.com/logos/apache-camel.svg)
+## <a href="https://www.apple.com/ios/app-store/" target="_blank">Apple iOS App Store</a>
+![apple-app-store](https://cdn.svgporn.com/logos/apple-app-store.svg)
+## <a href="https://flutter.dev" target="_blank">Flutter</a>
+![flutter](https://cdn.svgporn.com/logos/flutter.svg)
+## <a href="https://github.com/fuchsia-mirror" target="_blank">Fuchsia</a>
+![fuchsia](https://cdn.svgporn.com/logos/fuchsia.svg)
+## <a href="https://cloud.google.com/run/" target="_blank">Google Cloud Run</a>
+![google-cloud-run](https://cdn.svgporn.com/logos/google-cloud-run.svg)
+## <a href="https://play.google.com/" target="_blank">Google Play</a>
+![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
+![google-play](https://cdn.svgporn.com/logos/google-play.svg)
+## <a href="https://jupyter.org" target="_blank">Jupyter</a>
+![jupyter](https://cdn.svgporn.com/logos/jupyter.svg)
+## <a href="https://developers.google.com/web/tools/puppeteer/" target="_blank">Puppeteer</a>
+![puppeteer](https://cdn.svgporn.com/logos/puppeteer.svg)
+## <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
+![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss-icon.svg)
+![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss.svg)
 ## <a href="https://www.atlassian.com/software/bamboo" target="_blank">Bamboo</a>
 ![bamboo](https://cdn.svgporn.com/logos/bamboo.svg)
 ## <a href="https://codesandbox.io/" target="_blank">Code Sandbox</a>
@@ -33,7 +53,7 @@ Please add your requests in the issues preferably with links to the vector files
 ![react-styleguidist](https://cdn.svgporn.com/logos/react-styleguidist.svg)
 ## <a href="https://spreecommerce.org/" target="_blank">Spree Commerce</a>
 ![spree](https://cdn.svgporn.com/logos/spree.svg)
-## <a href="https://storybook.js.org/" target="_blank">Stoybook</a>
+## <a href="https://storybook.js.org/" target="_blank">Storybook</a>
 ![storybook](https://cdn.svgporn.com/logos/storybook-icon.svg)
 ![storybook](https://cdn.svgporn.com/logos/storybook.svg)
 ## <a href="http://facebook.github.io/jest/" target="_blank">Jest</a> *
@@ -105,24 +125,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![netlify](https://cdn.svgporn.com/logos/netlify.svg)
 ## <a href="https://www.atlassian.com/" target="_blank">Atlassian</a>
 ![atlassian](https://cdn.svgporn.com/logos/atlassian.svg)
-## <a href="https://bitbucket.org/" target="_blank">Bitbucket</a>
-![bitbucket](https://cdn.svgporn.com/logos/bitbucket.svg)
-## <a href="https://www.atlassian.com/software/confluence" target="_blank">Confluence</a>
-![confluence](https://cdn.svgporn.com/logos/confluence.svg)
-## <a href="https://www.atlassian.com/software/crucible" target="_blank">Crucible</a>
-![crucible](https://cdn.svgporn.com/logos/crucible.svg)
-## <a href="https://www.atlassian.com/software/jira" target="_blank">JIRA</a>
-![jira](https://cdn.svgporn.com/logos/jira.svg)
-## <a href="https://www.sourcetreeapp.com/" target="_blank">SourceTree</a>
-![sourcetree](https://cdn.svgporn.com/logos/sourcetree.svg)
-## <a href="https://www.apple.com/apple-pay/" target="_blank">Apple Pay</a>
-![apple-pay](https://cdn.svgporn.com/logos/apple-pay.svg)
-## <a href="https://gohugo.io/" target="_blank">Hugo</a>
-![hugo](https://cdn.svgporn.com/logos/hugo.svg)
-## <a href="https://www.apple.com/ios/" target="_blank">iOS</a>
-![ios](https://cdn.svgporn.com/logos/ios.svg)
-## <a href="https://www.kustomer.com/" target="_blank">Kustomer</a>
-![kustomer](https://cdn.svgporn.com/logos/kustomer.svg)
 
 ---
 
