@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.elastic.co/products/beats" target="_blank">Beats</a>
+![beats](https://cdn.svgporn.com/logos/beats.svg)
+## <a href="https://bulma.io/" target="_blank">Bulma</a>
+![bulma](https://cdn.svgporn.com/logos/bulma.svg)
+## <a href="https://www.chargebee.com/" target="_blank">Chargebee</a>
+![chargebee](https://cdn.svgporn.com/logos/chargebee-icon.svg)
+![chargebee](https://cdn.svgporn.com/logos/chargebee.svg)
+## <a href="https://gridsome.org" target="_blank">Gridsome</a>
+![gridsome](https://cdn.svgporn.com/logos/gridsome-icon.svg)
+![gridsome](https://cdn.svgporn.com/logos/gridsome.svg)
+## <a href="https://v2.grommet.io/" target="_blank">Grommet</a>
+![grommet](https://cdn.svgporn.com/logos/grommet.svg)
+## <a href="https://koajs.com" target="_blank">Koa</a>
+![koa](https://cdn.svgporn.com/logos/koa.svg)
+## <a href="https://www.elastic.co/products/logstash" target="_blank">Logstash</a>
+![logstash](https://cdn.svgporn.com/logos/logstash.svg)
+## <a href="https://www.moltin.com/" target="_blank">Moltin</a>
+![moltin](https://cdn.svgporn.com/logos/moltin-icon.svg)
+![moltin](https://cdn.svgporn.com/logos/moltin.svg)
+## <a href="https://octopus.com/" target="_blank">Octopus Deploy</a>
+![octopus-deploy](https://cdn.svgporn.com/logos/octopus-deploy.svg)
+## <a href="https://webflow.com" target="_blank">Webflow</a>
+![webflow](https://cdn.svgporn.com/logos/webflow.svg)
 ## <a href="https://golang.org/" target="_blank">Go</a>
 ![go](https://cdn.svgporn.com/logos/go.svg)
 ![go](https://cdn.svgporn.com/logos/gopher.svg)
@@ -108,26 +131,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![dimer](https://cdn.svgporn.com/logos/dimer.svg)
 ## <a href="https://github.com/kubernetes/kops" target="_blank">kops</a>
 ![kops](https://cdn.svgporn.com/logos/kops.svg)
-## <a href="https://www.smartling.com/" target="_blank">Smartling</a>
-![smartling](https://cdn.svgporn.com/logos/smartling.svg)
-## <a href="https://www.sourcetrail.com/" target="_blank">Sourcetrail</a>
-![sourcetrail](https://cdn.svgporn.com/logos/sourcetrail.svg)
-## <a href="https://www.stitchdata.com/" target="_blank">Stitch</a>
-![stitch](https://cdn.svgporn.com/logos/stitch.svg)
-## <a href="https://strapi.io/" target="_blank">Strapi</a>
-![strapi](https://cdn.svgporn.com/logos/strapi.svg)
-## <a href="https://www.algolia.com/" target="_blank">Algolia</a>
-![algolia](https://cdn.svgporn.com/logos/algolia.svg)
-## <a href="https://github.com/google/brotli" target="_blank">Brotli</a>
-![brotli](https://cdn.svgporn.com/logos/brotli.svg)
-## <a href="https://github.com/browserslist/browserslist" target="_blank">Browserslist</a>
-![browserslist](https://cdn.svgporn.com/logos/browserslist.svg)
-## <a href="https://www.codacy.com/" target="_blank">Codacy</a>
-![codacy](https://cdn.svgporn.com/logos/codacy.svg)
-## <a href="https://www.kaiostech.com/" target="_blank">KaiOS</a>
-![kaios](https://cdn.svgporn.com/logos/kaios.svg)
-## <a href="https://www.sonarqube.org/" target="_blank">SonarQube</a>
-![sonarqube](https://cdn.svgporn.com/logos/sonarqube.svg)
 
 ---
 

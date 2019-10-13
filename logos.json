@@ -827,6 +827,14 @@
     ]
   },
   {
+    "name": "Beats",
+    "shortname": "beats",
+    "url": "https://www.elastic.co/products/beats",
+    "files": [
+      "beats.svg"
+    ]
+  },
+  {
     "name": "Bem",
     "shortname": "bem",
     "url": "https://en.bem.info/",
@@ -1148,6 +1156,14 @@
     ]
   },
   {
+    "name": "Bulma",
+    "shortname": "bulma",
+    "url": "https://bulma.io/",
+    "files": [
+      "bulma.svg"
+    ]
+  },
+  {
     "name": "Bēhance",
     "shortname": "behance",
     "url": "https://www.behance.net/",
@@ -1290,6 +1306,15 @@
     "url": "https://www.changetip.com/",
     "files": [
       "changetip.svg"
+    ]
+  },
+  {
+    "name": "Chargebee",
+    "shortname": "chargebee",
+    "url": "https://www.chargebee.com/",
+    "files": [
+      "chargebee-icon.svg",
+      "chargebee.svg"
     ]
   },
   {
@@ -3419,6 +3444,23 @@
     ]
   },
   {
+    "name": "Gridsome",
+    "shortname": "gridsome",
+    "url": "https://gridsome.org",
+    "files": [
+      "gridsome-icon.svg",
+      "gridsome.svg"
+    ]
+  },
+  {
+    "name": "Grommet",
+    "shortname": "grommet",
+    "url": "https://v2.grommet.io/",
+    "files": [
+      "grommet.svg"
+    ]
+  },
+  {
     "name": "Groove",
     "shortname": "groovehq",
     "url": "https://www.groovehq.com/",
@@ -4325,6 +4367,14 @@
     ]
   },
   {
+    "name": "Koa",
+    "shortname": "koa",
+    "url": "https://koajs.com",
+    "files": [
+      "koa.svg"
+    ]
+  },
+  {
     "name": "Kong",
     "shortname": "kong",
     "url": "http://netflix.github.io/falcor/",
@@ -4602,6 +4652,14 @@
     "url": "http://logmatic.io/",
     "files": [
       "logmatic.svg"
+    ]
+  },
+  {
+    "name": "Logstash",
+    "shortname": "logstash",
+    "url": "https://www.elastic.co/products/logstash",
+    "files": [
+      "logstash.svg"
     ]
   },
   {
@@ -5120,6 +5178,15 @@
     ]
   },
   {
+    "name": "Moltin",
+    "shortname": "moltin",
+    "url": "https://www.moltin.com/",
+    "files": [
+      "moltin-icon.svg",
+      "moltin.svg"
+    ]
+  },
+  {
     "name": "Moment.js",
     "shortname": "momentjs",
     "url": "http://momentjs.com/",
@@ -5488,6 +5555,14 @@
     "url": "https://github.com/github/octodns/",
     "files": [
       "octodns.svg"
+    ]
+  },
+  {
+    "name": "Octopus Deploy",
+    "shortname": "octopus-deploy",
+    "url": "https://octopus.com/",
+    "files": [
+      "octopus-deploy.svg"
     ]
   },
   {
@@ -8283,6 +8358,14 @@
     "url": "http://webcomponents.org/",
     "files": [
       "webcomponents.svg"
+    ]
+  },
+  {
+    "name": "Webflow",
+    "shortname": "webflow",
+    "url": "https://webflow.com",
+    "files": [
+      "webflow.svg"
     ]
   },
   {
