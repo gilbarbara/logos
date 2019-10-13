@@ -1,6 +1,6 @@
 SVG Logos
 ====================
-#### A collection of 1000+ svg vector logos.
+#### A collection of SVG logos for developers/DevOps/geeks
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
 [View All](http://svgporn.com)
@@ -18,6 +18,24 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://golang.org/" target="_blank">Go</a>
+![go](https://cdn.svgporn.com/logos/go.svg)
+![go](https://cdn.svgporn.com/logos/gopher.svg)
+## <a href="https://play.google.com/" target="_blank">Google Play</a>
+![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
+![google-play](https://cdn.svgporn.com/logos/google-play.svg)
+## <a href="https://julialang.org/" target="_blank">Julia</a>
+![julia](https://cdn.svgporn.com/logos/julia.svg)
+## <a href="https://www.reddit.com/" target="_blank">Reddit</a>
+![reddit](https://cdn.svgporn.com/logos/reddit-icon.svg)
+![reddit](https://cdn.svgporn.com/logos/reddit.svg)
+## <a href="https://visualstudio.microsoft.com/vs/" target="_blank">Visual Studio</a>
+![visual-studio](https://cdn.svgporn.com/logos/visual-studio.svg)
+## <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
+![visual-studio-code](https://cdn.svgporn.com/logos/visual-studio-code.svg)
+## <a href="https://zeit.co/" target="_blank">Zeit</a>
+![zeit](https://cdn.svgporn.com/logos/zeit-icon.svg)
+![zeit](https://cdn.svgporn.com/logos/zeit.svg)
 ## <a href="https://camel.apache.org" target="_blank">Apache Camel</a>
 ![apache-camel](https://cdn.svgporn.com/logos/apache-camel.svg)
 ## <a href="https://www.apple.com/ios/app-store/" target="_blank">Apple iOS App Store</a>
@@ -26,9 +44,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![flutter](https://cdn.svgporn.com/logos/flutter.svg)
 ## <a href="https://github.com/fuchsia-mirror" target="_blank">Fuchsia</a>
 ![fuchsia](https://cdn.svgporn.com/logos/fuchsia.svg)
-## <a href="https://play.google.com/" target="_blank">Google Play</a>
-![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
-![google-play](https://cdn.svgporn.com/logos/google-play.svg)
 ## <a href="https://jupyter.org" target="_blank">Jupyter</a>
 ![jupyter](https://cdn.svgporn.com/logos/jupyter.svg)
 ## <a href="https://developers.google.com/web/tools/puppeteer/" target="_blank">Puppeteer</a>
@@ -64,8 +79,8 @@ Please add your requests in the issues preferably with links to the vector files
 ![kafka](https://cdn.svgporn.com/logos/kafka-icon.svg)
 ![kafka](https://cdn.svgporn.com/logos/kafka.svg)
 ## <a href="https://reasonml.github.io/" target="_blank">Reason ML</a>
-![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
 ![reasonml](https://cdn.svgporn.com/logos/reasonml-icon.svg)
+![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
 ## <a href="https://slack.com/" target="_blank">slack</a>
 ![slack](https://cdn.svgporn.com/logos/slack-icon.svg)
 ![slack](https://cdn.svgporn.com/logos/slack.svg)
@@ -75,8 +90,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![element](https://cdn.svgporn.com/logos/element.svg)
 ## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
 ![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
-## <a href="https://julialang.org/" target="_blank">Julia</a>
-![julia](https://cdn.svgporn.com/logos/julia.svg)
 ## <a href="https://nestjs.com/" target="_blank">NestJS</a>
 ![nestjs](https://cdn.svgporn.com/logos/nestjs.svg)
 ## <a href="https://pytorch.org/" target="_blank">PyTorch</a>
@@ -115,16 +128,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![kaios](https://cdn.svgporn.com/logos/kaios.svg)
 ## <a href="https://www.sonarqube.org/" target="_blank">SonarQube</a>
 ![sonarqube](https://cdn.svgporn.com/logos/sonarqube.svg)
-## <a href="https://swagger.io/" target="_blank">Swagger</a>
-![swagger](https://cdn.svgporn.com/logos/swagger.svg)
-## <a href="https://telegram.org/" target="_blank">Telegram</a>
-![telegram](https://cdn.svgporn.com/logos/telegram.svg)
-## <a href="https://www.umu.com/" target="_blank">Umu</a>
-![umu](https://cdn.svgporn.com/logos/umu.svg)
-## <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a>
-![whatsapp](https://cdn.svgporn.com/logos/whatsapp.svg)
-## <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-![netlify](https://cdn.svgporn.com/logos/netlify.svg)
 
 ---
 

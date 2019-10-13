@@ -1165,10 +1165,10 @@
   },
   {
     "name": "C++",
-    "shortname": "c++",
+    "shortname": "c-plusplus",
     "url": "https://isocpp.org/",
     "files": [
-      "c++.svg"
+      "c-plusplus.svg"
     ]
   },
   {
@@ -3092,6 +3092,7 @@
     "shortname": "go",
     "url": "https://golang.org/",
     "files": [
+      "go.svg",
       "gopher.svg"
     ]
   },
@@ -6471,8 +6472,8 @@
     "shortname": "reasonml",
     "url": "https://reasonml.github.io/",
     "files": [
-      "reasonml.svg",
-      "reasonml-icon.svg"
+      "reasonml-icon.svg",
+      "reasonml.svg"
     ]
   },
   {
@@ -6488,6 +6489,7 @@
     "shortname": "reddit",
     "url": "https://www.reddit.com/",
     "files": [
+      "reddit-icon.svg",
       "reddit.svg"
     ]
   },
@@ -8148,6 +8150,14 @@
     ]
   },
   {
+    "name": "Visual Studio",
+    "shortname": "visual-studio",
+    "url": "https://visualstudio.microsoft.com/vs/",
+    "files": [
+      "visual-studio.svg"
+    ]
+  },
+  {
     "name": "Visual Studio Code",
     "shortname": "visual-studio-code",
     "url": "https://code.visualstudio.com/",
@@ -8641,6 +8651,7 @@
     "shortname": "zeit",
     "url": "https://zeit.co/",
     "files": [
+      "zeit-icon.svg",
       "zeit.svg"
     ]
   },
