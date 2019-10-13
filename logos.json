@@ -895,6 +895,7 @@
     "shortname": "bitrise",
     "url": "https://www.bitrise.io/",
     "files": [
+      "bitrise-icon.svg",
       "bitrise.svg"
     ]
   },
@@ -1797,6 +1798,7 @@
     "shortname": "couchdb",
     "url": "http://couchdb.apache.org/",
     "files": [
+      "couchdb-icon.svg",
       "couchdb.svg"
     ]
   },
@@ -1874,10 +1876,10 @@
   },
   {
     "name": "Cross Browser Testing",
-    "shortname": "crossbrowsertesting",
+    "shortname": "cross-browser-testing",
     "url": "http://crossbrowsertesting.com/",
     "files": [
-      "crossbrowsertesting.svg"
+      "cross-browser-testing.svg"
     ]
   },
   {
@@ -2182,6 +2184,7 @@
     "shortname": "docker",
     "url": "https://www.docker.com/",
     "files": [
+      "docker-icon.svg",
       "docker.svg"
     ]
   },
@@ -2511,7 +2514,7 @@
   {
     "name": "ES6",
     "shortname": "es6",
-    "url": "http://www.ecmascript.org/",
+    "url": "https://tc39.es/ecma262/",
     "files": [
       "es6.svg"
     ]
@@ -3247,6 +3250,7 @@
     "shortname": "google-developers",
     "url": "https://developers.google.com/",
     "files": [
+      "google-developers-icon.svg",
       "google-developers.svg"
     ]
   },
@@ -3573,14 +3577,6 @@
     ]
   },
   {
-    "name": "Harrow",
-    "shortname": "harrow",
-    "url": "https://www.harrow.io/",
-    "files": [
-      "harrow.svg"
-    ]
-  },
-  {
     "name": "Hashnode",
     "shortname": "hashnode",
     "url": "https://hashnode.com/",
@@ -3649,6 +3645,7 @@
     "shortname": "heroku",
     "url": "https://www.heroku.com/",
     "files": [
+      "heroku-icon.svg",
       "heroku.svg"
     ]
   },
@@ -4869,6 +4866,7 @@
     "shortname": "mariadb",
     "url": "https://mariadb.org/",
     "files": [
+      "mariadb-icon.svg",
       "mariadb.svg"
     ]
   },
@@ -6291,6 +6289,7 @@
     "shortname": "puppet",
     "url": "https://puppetlabs.com/",
     "files": [
+      "puppet-icon.svg",
       "puppet.svg"
     ]
   },
@@ -7382,6 +7381,7 @@
     "shortname": "stackoverflow",
     "url": "http://stackoverflow.com/",
     "files": [
+      "stackoverflow-icon.svg",
       "stackoverflow.svg"
     ]
   },
@@ -8446,14 +8446,6 @@
     "url": "http://www.weebly.com/",
     "files": [
       "weebly.svg"
-    ]
-  },
-  {
-    "name": "Wercker",
-    "shortname": "wercker",
-    "url": "http://wercker.com/",
-    "files": [
-      "wercker.svg"
     ]
   },
   {

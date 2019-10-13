@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
+![couchdb](https://cdn.svgporn.com/logos/couchdb-icon.svg)
+![couchdb](https://cdn.svgporn.com/logos/couchdb.svg)
+## <a href="http://crossbrowsertesting.com/" target="_blank">Cross Browser Testing</a>
+![cross-browser-testing](https://cdn.svgporn.com/logos/cross-browser-testing.svg)
+## <a href="https://www.docker.com/" target="_blank">docker</a>
+![docker](https://cdn.svgporn.com/logos/docker-icon.svg)
+![docker](https://cdn.svgporn.com/logos/docker.svg)
+## <a href="https://cloud.google.com/gcp/" target="_blank">Google Cloud Platform</a>
+![google-cloud-platform](https://cdn.svgporn.com/logos/google-cloud-platform.svg)
+## <a href="https://developers.google.com/" target="_blank">Google Developers</a>
+![google-developers](https://cdn.svgporn.com/logos/google-developers-icon.svg)
+![google-developers](https://cdn.svgporn.com/logos/google-developers.svg)
+## <a href="http://hapijs.com/" target="_blank">hapi</a>
+![hapi](https://cdn.svgporn.com/logos/hapi.svg)
+## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
+![heroku](https://cdn.svgporn.com/logos/heroku-icon.svg)
+![heroku](https://cdn.svgporn.com/logos/heroku.svg)
+## <a href="https://mariadb.org/" target="_blank">MariaDB</a>
+![mariadb](https://cdn.svgporn.com/logos/mariadb-icon.svg)
+![mariadb](https://cdn.svgporn.com/logos/mariadb.svg)
+## <a href="https://puppetlabs.com/" target="_blank">Puppet</a> *
+![puppet](https://cdn.svgporn.com/logos/puppet-icon.svg)
+![puppet](https://cdn.svgporn.com/logos/puppet.svg)
 ## <a href="https://www.elastic.co/products/beats" target="_blank">Beats</a>
 ![beats](https://cdn.svgporn.com/logos/beats.svg)
 ## <a href="https://bulma.io/" target="_blank">Bulma</a>
@@ -113,24 +137,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![element](https://cdn.svgporn.com/logos/element.svg)
 ## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
 ![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
-## <a href="https://nestjs.com/" target="_blank">NestJS</a>
-![nestjs](https://cdn.svgporn.com/logos/nestjs.svg)
-## <a href="https://pytorch.org/" target="_blank">PyTorch</a>
-![pytorch](https://cdn.svgporn.com/logos/pytorch.svg)
-## <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>
-![tensorflow](https://cdn.svgporn.com/logos/tensorflow.svg)
-## <a href="https://www.x-cart.com/" target="_blank">X-Cart</a>
-![xcart](https://cdn.svgporn.com/logos/xcart.svg)
-## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
-![optimizely](https://cdn.svgporn.com/logos/optimizely.svg)
-## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
-![airflow](https://cdn.svgporn.com/logos/airflow.svg)
-## <a href="https://www.codefactor.io/" target="_blank">CodeFactor</a>
-![codefactor](https://cdn.svgporn.com/logos/codefactor.svg)
-## <a href="https://dimerapp.com/" target="_blank">Dimer</a>
-![dimer](https://cdn.svgporn.com/logos/dimer.svg)
-## <a href="https://github.com/kubernetes/kops" target="_blank">kops</a>
-![kops](https://cdn.svgporn.com/logos/kops.svg)
 
 ---
 

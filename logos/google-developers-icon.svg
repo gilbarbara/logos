@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="189px" viewBox="0 0 256 189" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <path d="M5.29550498,85.9528279 C2.23483167,91.2589484 2.23483167,97.7950592 5.29550498,103.101179 L53.1507054,186.054008 L113.005461,186.054008 L30.2671667,42.6457308 L5.29550498,85.9528279 Z" id="path-1"></path>
+        <filter x="-3.3%" y="-2.8%" width="106.8%" height="105.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="0.2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="0.74859057%" cy="1.90057392%" fx="0.74859057%" fy="1.90057392%" r="59.8685633%" gradientTransform="translate(0.007486,0.019006),scale(1.000000,0.731512),rotate(180.000000),translate(-0.007486,-0.019006)" id="radialGradient-3">
+            <stop stop-color="#3E2723" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#3E2723" stop-opacity="0.02" offset="100%"></stop>
+        </radialGradient>
+        <path d="M252.409119,103.115482 C255.469792,97.8093614 255.469792,91.2732507 252.409119,85.9671302 L204.553918,3.01430221 L144.699162,3.01430221 L227.437457,146.436881 C227.437457,146.436881 252.409119,103.115482 252.409119,103.115482 Z" id="path-4"></path>
+        <filter x="-3.5%" y="-2.5%" width="106.8%" height="105.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.2" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="99.0104958%" cy="97.909114%" fx="99.0104958%" fy="97.909114%" r="59.8685633%" gradientTransform="translate(0.990105,0.979091),scale(1.000000,0.731512),translate(-0.990105,-0.979091)" id="radialGradient-6">
+            <stop stop-color="#BF360C" stop-opacity="0.2" offset="0%"></stop>
+            <stop stop-color="#BF360C" stop-opacity="0.02" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g>
+        <polygon fill="#DB4437" fill-rule="nonzero" points="53.1364032 3 30.2671667 42.6457308 60.2016957 94.534155 113.005461 3"></polygon>
+        <g>
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#4285F4" xlink:href="#path-1"></use>
+        </g>
+        <path d="M5.29550498,101.685261 C3.89388823,99.2395826 3.16447544,96.5507668 3.05005774,93.8190444 C2.92133784,97.0227398 3.65075063,100.240737 5.29550498,103.115482 L53.1507054,186.06831 L113.005461,186.06831 L112.175934,184.638089 L53.1364032,184.638089 C53.1364032,184.638089 5.29550498,101.685261 5.29550498,101.685261 Z" fill="#1A237E" fill-rule="nonzero" opacity="0.2"></path>
+        <polygon fill="#FFFFFF" fill-rule="nonzero" opacity="0.2" points="30.6819308 43.3751436 53.1364032 4.43022117 112.175934 4.43022117 113.005461 3 53.1364032 3 30.2671667 42.6457308"></polygon>
+        <polygon fill="#3E2723" fill-rule="nonzero" opacity="0.2" points="112.175934 3 59.8012338 93.8047422 60.2016957 94.534155 113.005461 3"></polygon>
+        <path d="M5.29550498,87.3830491 L30.2814688,44.0759521 L112.175934,186.06831 L113.005461,186.06831 L30.2671667,42.6457308 L5.29550498,85.9528279 C3.63644842,88.8275725 2.90703562,92.0455701 3.05005774,95.2492656 C3.15017322,92.5318453 3.87958602,89.8287273 5.29550498,87.3830491 Z" fill="#FFFFFF" fill-rule="nonzero" opacity="0.2"></path>
+        <polygon fill="url(#radialGradient-3)" fill-rule="nonzero" points="30.3100733 42.7029397 60.2016957 94.534155 68.2252365 80.6324052"></polygon>
+        <polygon fill="#FFC107" fill-rule="nonzero" points="204.56822 186.06831 227.437457 146.422579 197.502928 94.534155 144.699162 186.06831"></polygon>
+        <g>
+            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+            <use fill="#0F9D58" xlink:href="#path-4"></use>
+        </g>
+        <path d="M252.409119,87.3830491 C253.810735,89.8287273 254.540148,92.5175431 254.654566,95.2492656 C254.783286,92.0455701 254.053873,88.8275725 252.409119,85.9528279 L204.553918,3 L144.699162,3 L145.52869,4.43022117 L204.56822,4.43022117 L252.409119,87.3830491 Z" fill="#FFFFFF" fill-rule="nonzero" opacity="0.2"></path>
+        <polygon fill="#FFFFFF" fill-rule="nonzero" opacity="0.2" points="145.52869 186.06831 197.917692 95.2635677 197.502928 94.534155 144.699162 186.06831"></polygon>
+        <path d="M252.409119,101.685261 L227.423155,144.992358 L145.52869,3 L144.699162,3 L227.437457,146.422579 L252.409119,103.115482 C254.068175,100.240737 254.797588,97.0227398 254.654566,93.8190444 C254.55445,96.5364646 253.825038,99.2395826 252.409119,101.685261 Z" fill="#263238" fill-rule="nonzero" opacity="0.2"></path>
+        <polygon fill="url(#radialGradient-6)" fill-rule="nonzero" points="227.39455 146.36537 197.502928 94.534155 189.479387 108.435905"></polygon>
+    </g>
+</svg>
