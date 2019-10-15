@@ -787,14 +787,6 @@
     ]
   },
   {
-    "name": "Base",
-    "shortname": "base",
-    "url": "https://getbase.com/",
-    "files": [
-      "base.svg"
-    ]
-  },
-  {
     "name": "Basecamp",
     "shortname": "basecamp",
     "url": "https://basecamp.com/",
@@ -1393,7 +1385,7 @@
   {
     "name": "ClojureScript",
     "shortname": "cljs",
-    "url": "http://cljs.info/",
+    "url": "https://clojurescript.org/",
     "files": [
       "cljs.svg"
     ]
@@ -1819,14 +1811,6 @@
     ]
   },
   {
-    "name": "Coverity",
-    "shortname": "coverity",
-    "url": "http://www.coverity.com/",
-    "files": [
-      "coverity.svg"
-    ]
-  },
-  {
     "name": "cPanel",
     "shortname": "cpanel",
     "url": "http://cpanel.com/",
@@ -1867,27 +1851,11 @@
     ]
   },
   {
-    "name": "Crittercism",
-    "shortname": "crittercism",
-    "url": "https://www.crittercism.com/",
-    "files": [
-      "crittercism.svg"
-    ]
-  },
-  {
     "name": "Cross Browser Testing",
     "shortname": "cross-browser-testing",
     "url": "http://crossbrowsertesting.com/",
     "files": [
       "cross-browser-testing.svg"
-    ]
-  },
-  {
-    "name": "CrowdProcess",
-    "shortname": "crowdprocess",
-    "url": "https://crowdprocess.com/",
-    "files": [
-      "crowdprocess.svg"
     ]
   },
   {
@@ -2028,14 +1996,6 @@
     ]
   },
   {
-    "name": "DeliciousDB",
-    "shortname": "deliciousdb",
-    "url": "http://deliciousdb.com/",
-    "files": [
-      "delicious-burger.svg"
-    ]
-  },
-  {
     "name": "Delighted",
     "shortname": "delighted",
     "url": "https://delighted.com/",
@@ -2148,22 +2108,6 @@
     ]
   },
   {
-    "name": "distelli",
-    "shortname": "distelli",
-    "url": "http://distelli.com/",
-    "files": [
-      "distelli.svg"
-    ]
-  },
-  {
-    "name": "Divshot",
-    "shortname": "divshot",
-    "url": "https://divshot.com/",
-    "files": [
-      "divshot.svg"
-    ]
-  },
-  {
     "name": "Django",
     "shortname": "django",
     "url": "https://www.djangoproject.com/",
@@ -2219,14 +2163,6 @@
     "url": "https://dojotoolkit.org/",
     "files": [
       "dojo-toolkit.svg"
-    ]
-  },
-  {
-    "name": "dotCloud",
-    "shortname": "dotcloud",
-    "url": "https://www.dotcloud.com/",
-    "files": [
-      "dotcloud.svg"
     ]
   },
   {
@@ -2640,14 +2576,6 @@
     ]
   },
   {
-    "name": "Famo.us",
-    "shortname": "famous",
-    "url": "http://famous.org/",
-    "files": [
-      "famous.svg"
-    ]
-  },
-  {
     "name": "Fastlane",
     "shortname": "fastlane",
     "url": "https://fastlane.tools/",
@@ -2894,14 +2822,6 @@
     "url": "http://foundation.zurb.com/",
     "files": [
       "foundation.svg"
-    ]
-  },
-  {
-    "name": "Framed",
-    "shortname": "framed",
-    "url": "http://framed.io/",
-    "files": [
-      "framed.svg"
     ]
   },
   {
@@ -3561,6 +3481,14 @@
     ]
   },
   {
+    "name": "Hanami",
+    "shortname": "hanami",
+    "url": "https://hanamirb.org/",
+    "files": [
+      "hanami.svg"
+    ]
+  },
+  {
     "name": "Handlebars",
     "shortname": "handlebars",
     "url": "http://handlebarsjs.com/",
@@ -3695,14 +3623,6 @@
     "url": "http://www.highcharts.com/",
     "files": [
       "highcharts.svg"
-    ]
-  },
-  {
-    "name": "HipChat",
-    "shortname": "hipchat",
-    "url": "https://www.hipchat.com/",
-    "files": [
-      "hipchat.svg"
     ]
   },
   {
@@ -4131,14 +4051,6 @@
     ]
   },
   {
-    "name": "JSCS",
-    "shortname": "jscs",
-    "url": "http://jscs.info/",
-    "files": [
-      "jscs.svg"
-    ]
-  },
-  {
     "name": "jsDelivr",
     "shortname": "jsdelivr",
     "url": "http://www.jsdelivr.com/",
@@ -4260,14 +4172,6 @@
     ]
   },
   {
-    "name": "Keymetrics",
-    "shortname": "keymetrics",
-    "url": "https://keymetrics.io/",
-    "files": [
-      "keymetrics.svg"
-    ]
-  },
-  {
     "name": "KeystoneJS",
     "shortname": "keystonejs",
     "url": "http://keystonejs.com/",
@@ -4326,7 +4230,7 @@
   {
     "name": "kissmetrics",
     "shortname": "kissmetrics",
-    "url": "https://kissmetrics.com/",
+    "url": "https://www.kissmetricshq.com/",
     "files": [
       "kissmetrics.svg"
     ]
@@ -4526,7 +4430,7 @@
   {
     "name": "LevelDB",
     "shortname": "leveldb",
-    "url": "http://leveldb.org/",
+    "url": "https://github.com/google/leveldb",
     "files": [
       "leveldb.svg"
     ]
@@ -4590,7 +4494,7 @@
   {
     "name": "Linux Tux",
     "shortname": "linux-tux",
-    "url": "https://en.wikipedia.org/wiki/Tux",
+    "url": "https://en.wikipedia.org/wiki/Tux_(mascot)",
     "files": [
       "linux-tux.svg"
     ]
@@ -4689,14 +4593,6 @@
     "url": "https://www.losant.com/",
     "files": [
       "losant.svg"
-    ]
-  },
-  {
-    "name": "Lotus",
-    "shortname": "lotus",
-    "url": "http://lotusrb.org/",
-    "files": [
-      "lotus.svg"
     ]
   },
   {
@@ -4953,7 +4849,7 @@
   {
     "name": "Mean",
     "shortname": "meanio",
-    "url": "http://mean.io/",
+    "url": "http://meanjs.org/",
     "files": [
       "meanio.svg"
     ]
@@ -5106,7 +5002,7 @@
   {
     "name": "Mithril",
     "shortname": "mithril",
-    "url": "https://lhorie.github.io/mithril/",
+    "url": "https://mithril.js.org/",
     "files": [
       "mithril.svg"
     ]
@@ -5157,14 +5053,6 @@
     "url": "http://modernizr.com/",
     "files": [
       "modernizr.svg"
-    ]
-  },
-  {
-    "name": "Modulus",
-    "shortname": "modulus",
-    "url": "https://modulus.io/",
-    "files": [
-      "modulus.svg"
     ]
   },
   {
@@ -5700,14 +5588,6 @@
     ]
   },
   {
-    "name": "Opsmatic",
-    "shortname": "opsmatic",
-    "url": "https://opsmatic.com/",
-    "files": [
-      "opsmatic.svg"
-    ]
-  },
-  {
     "name": "Optimizely",
     "shortname": "optimizely",
     "url": "https://www.optimizely.com/",
@@ -5997,14 +5877,6 @@
     ]
   },
   {
-    "name": "Pixelapse",
-    "shortname": "pixelapse",
-    "url": "https://www.pixelapse.com/",
-    "files": [
-      "pixelapse.svg"
-    ]
-  },
-  {
     "name": "PKG",
     "shortname": "pkg",
     "url": "https://github.com/zeit/pkg",
@@ -6186,14 +6058,6 @@
     "url": "https://www.productboard.com/",
     "files": [
       "productboard.svg"
-    ]
-  },
-  {
-    "name": "Producteev",
-    "shortname": "producteev",
-    "url": "https://www.producteev.com/",
-    "files": [
-      "producteev.svg"
     ]
   },
   {
@@ -6459,14 +6323,6 @@
     "url": "http://rancher.com/",
     "files": [
       "rancher.svg"
-    ]
-  },
-  {
-    "name": "randomColor",
-    "shortname": "randomcolor",
-    "url": "http://llllll.li/randomColor/",
-    "files": [
-      "randomcolor.svg"
     ]
   },
   {
@@ -7402,14 +7258,6 @@
     ]
   },
   {
-    "name": "Stash",
-    "shortname": "stash",
-    "url": "https://www.atlassian.com/software/stash",
-    "files": [
-      "stash.svg"
-    ]
-  },
-  {
     "name": "StatusPage",
     "shortname": "statuspage",
     "url": "https://www.statuspage.io/",
@@ -7436,7 +7284,7 @@
   {
     "name": "Steroids",
     "shortname": "steroids",
-    "url": "http://www.appgyver.com/steroids",
+    "url": "https://www.appgyver.io/steroids",
     "files": [
       "steroids.svg"
     ]
@@ -7515,14 +7363,6 @@
     ]
   },
   {
-    "name": "StrongLoop",
-    "shortname": "strongloop",
-    "url": "https://strongloop.com/",
-    "files": [
-      "strongloop.svg"
-    ]
-  },
-  {
     "name": "Struts",
     "shortname": "struts",
     "url": "https://struts.apache.org/",
@@ -7589,7 +7429,7 @@
   {
     "name": "Supersonic",
     "shortname": "supersonic",
-    "url": "http://www.appgyver.com/supersonic",
+    "url": "https://www.appgyver.io/supersonic",
     "files": [
       "supersonic.svg"
     ]

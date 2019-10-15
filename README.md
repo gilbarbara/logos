@@ -65,6 +65,8 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://puppetlabs.com/" target="_blank">Puppet</a> *
 ![puppet](https://cdn.svgporn.com/logos/puppet-icon.svg)
 ![puppet](https://cdn.svgporn.com/logos/puppet.svg)
+## <a href="https://clojurescript.org/" target="_blank">ClojureScript</a>
+![cljs](https://cdn.svgporn.com/logos/cljs.svg)
 ## <a href="https://golang.org/" target="_blank">Go</a>
 ![go](https://cdn.svgporn.com/logos/go.svg)
 ![go](https://cdn.svgporn.com/logos/gopher.svg)
@@ -135,8 +137,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![adyen](https://cdn.svgporn.com/logos/adyen.svg)
 ## <a href="https://element.eleme.io/" target="_blank">Element</a>
 ![element](https://cdn.svgporn.com/logos/element.svg)
-## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
-![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
 
 ---
 
