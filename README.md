@@ -18,6 +18,78 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://appsignal.com/" target="_blank">AppSignal</a>
+![appsignal](https://cdn.svgporn.com/logos/appsignal-icon.svg)
+![appsignal](https://cdn.svgporn.com/logos/appsignal.svg)
+## <a href="http://www.basekit.com/" target="_blank">BaseKit</a>
+![basekit](https://cdn.svgporn.com/logos/basekit.svg)
+## <a href="http://brandfolder.com/" target="_blank">Brandfolder</a>
+![brandfolder](https://cdn.svgporn.com/logos/brandfolder-icon.svg)
+![brandfolder](https://cdn.svgporn.com/logos/brandfolder.svg)
+## <a href="https://www.campaignmonitor.com/" target="_blank">Campaign Monitor</a>
+![campaignmonitor](https://cdn.svgporn.com/logos/campaignmonitor-icon.svg)
+![campaignmonitor](https://cdn.svgporn.com/logos/campaignmonitor.svg)
+## <a href="https://www.codefund.io/" target="_blank">Codefund</a>
+![codefund](https://cdn.svgporn.com/logos/codefund-icon.svg)
+![codefund](https://cdn.svgporn.com/logos/codefund.svg)
+## <a href="https://craftcms.com/" target="_blank">Craft</a>
+![craft](https://cdn.svgporn.com/logos/craftcms.svg)
+## <a href="https://www.drupal.org/" target="_blank">Drupal</a>
+![drupal](https://cdn.svgporn.com/logos/drupal-icon.svg)
+![drupal](https://cdn.svgporn.com/logos/drupal.svg)
+## <a href="https://www.eventbrite.com/" target="_blank">Eventbrite</a>
+![eventbrite](https://cdn.svgporn.com/logos/eventbrite-icon.svg)
+![eventbrite](https://cdn.svgporn.com/logos/eventbrite.svg)
+## <a href="https://freedcamp.com/" target="_blank">freedcamp</a>
+![freedcamp](https://cdn.svgporn.com/logos/freedcamp-icon.svg)
+![freedcamp](https://cdn.svgporn.com/logos/freedcamp.svg)
+## <a href="https://gradle.org/" target="_blank">Gradle</a> *
+![gradle](https://cdn.svgporn.com/logos/gradle.svg)
+## <a href="https://www.haskell.org/" target="_blank">Haskell</a>
+![haskell](https://cdn.svgporn.com/logos/haskell-icon.svg)
+![haskell](https://cdn.svgporn.com/logos/haskell.svg)
+## <a href="https://ifttt.com/" target="_blank">IFTTT</a>
+![ifttt](https://cdn.svgporn.com/logos/ifttt.svg)
+## <a href="https://www.iron.io/" target="_blank">Iron</a>
+![iron](https://cdn.svgporn.com/logos/iron-icon.svg)
+![iron](https://cdn.svgporn.com/logos/iron.svg)
+## <a href="http://laravel.com/" target="_blank">Laravel</a>
+![laravel](https://cdn.svgporn.com/logos/laravel.svg)
+## <a href="http://leankit.com/" target="_blank">Leankit</a>
+![leankit](https://cdn.svgporn.com/logos/leankit-icon.svg)
+![leankit](https://cdn.svgporn.com/logos/leankit.svg)
+## <a href="http://loopback.io/" target="_blank">Loopback</a>
+![loopback](https://cdn.svgporn.com/logos/loopback-icon.svg)
+![loopback](https://cdn.svgporn.com/logos/loopback.svg)
+## <a href="https://www.apple.com/macos/" target="_blank">Mac OS</a>
+![macos](https://cdn.svgporn.com/logos/macOS.svg)
+## <a href="http://material-ui.com/" target="_blank">Material UI</a>
+![material-ui](https://cdn.svgporn.com/logos/material-ui.svg)
+## <a href="http://www.memsql.com/" target="_blank">MemSQL</a>
+![memsql](https://cdn.svgporn.com/logos/memsql-icon.svg)
+![memsql](https://cdn.svgporn.com/logos/memsql.svg)
+## <a href="https://m.io/" target="_blank">Mio</a>
+![mio](https://cdn.svgporn.com/logos/mio.svg)
+## <a href="https://mlab.com/" target="_blank">mLab</a>
+![mLab](https://cdn.svgporn.com/logos/mlab.svg)
+## <a href="https://github.com/tonsky/rum" target="_blank">Rum</a>
+![rum](https://cdn.svgporn.com/logos/rum.svg)
+## <a href="https://www.statuspage.io/" target="_blank">StatusPage</a> *
+![statuspage](https://cdn.svgporn.com/logos/statuspage.svg)
+## <a href="https://en.todoist.com/" target="_blank">Todoist</a>
+![todoist](https://cdn.svgporn.com/logos/todoist-icon.svg)
+![todoist](https://cdn.svgporn.com/logos/todoist.svg)
+## <a href="http://www.typeform.com/" target="_blank">Typeform</a>
+![typeform](https://cdn.svgporn.com/logos/typeform-icon.svg)
+![typeform](https://cdn.svgporn.com/logos/typeform.svg)
+## <a href="https://search.yahoo.com/" target="_blank">Yahoo!</a>
+![yahoo](https://cdn.svgporn.com/logos/yahoo.svg)
+## <a href="https://wicket.apache.org/" target="_blank">Wicket</a>
+![wicket](https://cdn.svgporn.com/logos/wicket-icon.svg)
+![wicket](https://cdn.svgporn.com/logos/wicket.svg)
+## <a href="https://www.bitrise.io/" target="_blank">Bitrise</a>
+![bitrise](https://cdn.svgporn.com/logos/bitrise-icon.svg)
+![bitrise](https://cdn.svgporn.com/logos/bitrise.svg)
 ## <a href="https://www.elastic.co/products/beats" target="_blank">Beats</a>
 ![beats](https://cdn.svgporn.com/logos/beats.svg)
 ## <a href="https://bulma.io/" target="_blank">Bulma</a>
@@ -73,70 +145,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://play.google.com/" target="_blank">Google Play</a>
 ![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
 ![google-play](https://cdn.svgporn.com/logos/google-play.svg)
-## <a href="https://julialang.org/" target="_blank">Julia</a>
-![julia](https://cdn.svgporn.com/logos/julia.svg)
-## <a href="https://www.reddit.com/" target="_blank">Reddit</a>
-![reddit](https://cdn.svgporn.com/logos/reddit-icon.svg)
-![reddit](https://cdn.svgporn.com/logos/reddit.svg)
-## <a href="https://visualstudio.microsoft.com/vs/" target="_blank">Visual Studio</a>
-![visual-studio](https://cdn.svgporn.com/logos/visual-studio.svg)
-## <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
-![visual-studio-code](https://cdn.svgporn.com/logos/visual-studio-code.svg)
-## <a href="https://zeit.co/" target="_blank">Zeit</a>
-![zeit](https://cdn.svgporn.com/logos/zeit-icon.svg)
-![zeit](https://cdn.svgporn.com/logos/zeit.svg)
-## <a href="https://camel.apache.org" target="_blank">Apache Camel</a>
-![apache-camel](https://cdn.svgporn.com/logos/apache-camel.svg)
-## <a href="https://www.apple.com/ios/app-store/" target="_blank">Apple iOS App Store</a>
-![apple-app-store](https://cdn.svgporn.com/logos/apple-app-store.svg)
-## <a href="https://flutter.dev" target="_blank">Flutter</a>
-![flutter](https://cdn.svgporn.com/logos/flutter.svg)
-## <a href="https://github.com/fuchsia-mirror" target="_blank">Fuchsia</a>
-![fuchsia](https://cdn.svgporn.com/logos/fuchsia.svg)
-## <a href="https://jupyter.org" target="_blank">Jupyter</a>
-![jupyter](https://cdn.svgporn.com/logos/jupyter.svg)
-## <a href="https://developers.google.com/web/tools/puppeteer/" target="_blank">Puppeteer</a>
-![puppeteer](https://cdn.svgporn.com/logos/puppeteer.svg)
-## <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a>
-![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss-icon.svg)
-![tailwindcss](https://cdn.svgporn.com/logos/tailwindcss.svg)
-## <a href="https://cloud.google.com/functions/" target="_blank">Google Cloud Functions</a>
-![google-cloud-functions](https://cdn.svgporn.com/logos/google-cloud-functions.svg)
-## <a href="https://cloud.google.com/run/" target="_blank">Google Cloud Run</a>
-![google-cloud-run](https://cdn.svgporn.com/logos/google-cloud-run.svg)
-## <a href="https://www.atlassian.com/software/bamboo" target="_blank">Bamboo</a>
-![bamboo](https://cdn.svgporn.com/logos/bamboo.svg)
-## <a href="https://codesandbox.io/" target="_blank">Code Sandbox</a>
-![codesandbox](https://cdn.svgporn.com/logos/codesandbox.svg)
-## <a href="https://dojo.io/" target="_blank">Dojo</a>
-![dojo](https://cdn.svgporn.com/logos/dojo-icon.svg)
-![dojo](https://cdn.svgporn.com/logos/dojo.svg)
-## <a href="https://www.haiku.ai/" target="_blank">Haiku</a>
-![haiku](https://cdn.svgporn.com/logos/haiku.svg)
-## <a href="https://www.prisma.io/" target="_blank">Prisma</a>
-![prisma](https://cdn.svgporn.com/logos/prisma.svg)
-## <a href="https://react-styleguidist.js.org/" target="_blank">React Styleguidist</a>
-![react-styleguidist](https://cdn.svgporn.com/logos/react-styleguidist.svg)
-## <a href="https://spreecommerce.org/" target="_blank">Spree Commerce</a>
-![spree](https://cdn.svgporn.com/logos/spree.svg)
-## <a href="https://storybook.js.org/" target="_blank">Storybook</a>
-![storybook](https://cdn.svgporn.com/logos/storybook-icon.svg)
-![storybook](https://cdn.svgporn.com/logos/storybook.svg)
-## <a href="http://facebook.github.io/jest/" target="_blank">Jest</a> *
-![jest](https://cdn.svgporn.com/logos/jest.svg)
-## <a href="http://kafka.apache.org/" target="_blank">Kafka</a> *
-![kafka](https://cdn.svgporn.com/logos/kafka-icon.svg)
-![kafka](https://cdn.svgporn.com/logos/kafka.svg)
-## <a href="https://reasonml.github.io/" target="_blank">Reason ML</a>
-![reasonml](https://cdn.svgporn.com/logos/reasonml-icon.svg)
-![reasonml](https://cdn.svgporn.com/logos/reasonml.svg)
-## <a href="https://slack.com/" target="_blank">slack</a>
-![slack](https://cdn.svgporn.com/logos/slack-icon.svg)
-![slack](https://cdn.svgporn.com/logos/slack.svg)
-## <a href="https://www.adyen.com/" target="_blank">Adyen</a>
-![adyen](https://cdn.svgporn.com/logos/adyen.svg)
-## <a href="https://element.eleme.io/" target="_blank">Element</a>
-![element](https://cdn.svgporn.com/logos/element.svg)
 
 ---
 

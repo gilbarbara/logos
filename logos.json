@@ -374,6 +374,7 @@
     "shortname": "appsignal",
     "url": "https://appsignal.com/",
     "files": [
+      "appsignal-icon.svg",
       "appsignal.svg"
     ]
   },
@@ -1016,6 +1017,7 @@
     "shortname": "brandfolder",
     "url": "http://brandfolder.com/",
     "files": [
+      "brandfolder-icon.svg",
       "brandfolder.svg"
     ]
   },
@@ -1209,6 +1211,7 @@
     "shortname": "campaignmonitor",
     "url": "https://www.campaignmonitor.com/",
     "files": [
+      "campaignmonitor-icon.svg",
       "campaignmonitor.svg"
     ]
   },
@@ -1579,6 +1582,7 @@
     "shortname": "codefund",
     "url": "https://www.codefund.io/",
     "files": [
+      "codefund-icon.svg",
       "codefund.svg"
     ]
   },
@@ -1823,7 +1827,7 @@
     "shortname": "craft",
     "url": "https://craftcms.com/",
     "files": [
-      "craft.svg"
+      "craftcms.svg"
     ]
   },
   {
@@ -2251,6 +2255,7 @@
     "shortname": "drupal",
     "url": "https://www.drupal.org/",
     "files": [
+      "drupal-icon.svg",
       "drupal.svg"
     ]
   },
@@ -2508,6 +2513,7 @@
     "shortname": "eventbrite",
     "url": "https://www.eventbrite.com/",
     "files": [
+      "eventbrite-icon.svg",
       "eventbrite.svg"
     ]
   },
@@ -2684,7 +2690,6 @@
     "shortname": "flickr",
     "url": "https://www.flickr.com/",
     "files": [
-      "flickr-icon.svg",
       "flickr.svg"
     ]
   },
@@ -2853,6 +2858,7 @@
     "shortname": "freedcamp",
     "url": "https://freedcamp.com/",
     "files": [
+      "freedcamp-icon.svg",
       "freedcamp.svg"
     ]
   },
@@ -3517,6 +3523,7 @@
     "shortname": "haskell",
     "url": "https://www.haskell.org/",
     "files": [
+      "haskell-icon.svg",
       "haskell.svg"
     ]
   },
@@ -3891,10 +3898,11 @@
     ]
   },
   {
-    "name": "Iron.io",
+    "name": "Iron",
     "shortname": "iron",
     "url": "https://www.iron.io/",
     "files": [
+      "iron-icon.svg",
       "iron.svg"
     ]
   },
@@ -4408,6 +4416,7 @@
     "shortname": "leankit",
     "url": "http://leankit.com/",
     "files": [
+      "leankit-icon.svg",
       "leankit.svg"
     ]
   },
@@ -4584,6 +4593,7 @@
     "shortname": "loopback",
     "url": "http://loopback.io/",
     "files": [
+      "loopback-icon.svg",
       "loopback.svg"
     ]
   },
@@ -4636,11 +4646,11 @@
     ]
   },
   {
-    "name": "Mac OS X",
-    "shortname": "macosx",
-    "url": "http://www.apple.com/osx/",
+    "name": "Mac OS",
+    "shortname": "macos",
+    "url": "https://www.apple.com/macos/",
     "files": [
-      "macosx.svg"
+      "macOS.svg"
     ]
   },
   {
@@ -4697,6 +4707,7 @@
     "shortname": "mailgun",
     "url": "http://www.mailgun.com/",
     "files": [
+      "mailgun-icon.svg",
       "mailgun.svg"
     ]
   },
@@ -4847,14 +4858,6 @@
     ]
   },
   {
-    "name": "Mean",
-    "shortname": "meanio",
-    "url": "http://meanjs.org/",
-    "files": [
-      "meanio.svg"
-    ]
-  },
-  {
     "name": "Medium",
     "shortname": "medium",
     "url": "https://medium.com/",
@@ -4875,6 +4878,7 @@
     "shortname": "memsql",
     "url": "http://www.memsql.com/",
     "files": [
+      "memsql-icon.svg",
       "memsql.svg"
     ]
   },
@@ -4916,14 +4920,6 @@
     "url": "https://mesosphere.com/",
     "files": [
       "mesosphere.svg"
-    ]
-  },
-  {
-    "name": "Message.io",
-    "shortname": "message.io",
-    "url": "http://message.io/",
-    "files": [
-      "message.io.svg"
     ]
   },
   {
@@ -4992,6 +4988,14 @@
     ]
   },
   {
+    "name": "Mio",
+    "shortname": "mio",
+    "url": "https://m.io/",
+    "files": [
+      "mio.svg"
+    ]
+  },
+  {
     "name": "Mist.io",
     "shortname": "mist",
     "url": "https://mist.io/",
@@ -5021,6 +5025,14 @@
     "url": "https://mixpanel.com/",
     "files": [
       "mixpanel.svg"
+    ]
+  },
+  {
+    "name": "mLab",
+    "shortname": "mLab",
+    "url": "https://mlab.com/",
+    "files": [
+      "mlab.svg"
     ]
   },
   {
@@ -5094,14 +5106,6 @@
     "url": "https://www.mongodb.org/",
     "files": [
       "mongodb.svg"
-    ]
-  },
-  {
-    "name": "MongoLab",
-    "shortname": "mongolab",
-    "url": "https://mongolab.com/",
-    "files": [
-      "mongolab.svg"
     ]
   },
   {
@@ -7274,14 +7278,6 @@
     ]
   },
   {
-    "name": "Steemit",
-    "shortname": "steemit",
-    "url": "https://steemit.com/",
-    "files": [
-      "steemit.svg"
-    ]
-  },
-  {
     "name": "Steroids",
     "shortname": "steroids",
     "url": "https://www.appgyver.io/steroids",
@@ -7592,6 +7588,7 @@
     "shortname": "teamwork",
     "url": "https://www.teamwork.com/",
     "files": [
+      "teamwork-icon.svg",
       "teamwork.svg"
     ]
   },
@@ -7672,6 +7669,7 @@
     "shortname": "todoist",
     "url": "https://en.todoist.com/",
     "files": [
+      "todoist-icon.svg",
       "todoist.svg"
     ]
   },
@@ -7705,14 +7703,6 @@
     "url": "http://trac.edgewall.org/",
     "files": [
       "trac.svg"
-    ]
-  },
-  {
-    "name": "Trace",
-    "shortname": "trace",
-    "url": "https://trace.risingstack.com/",
-    "files": [
-      "trace.svg"
     ]
   },
   {
@@ -7833,6 +7823,7 @@
     "shortname": "typeform",
     "url": "http://www.typeform.com/",
     "files": [
+      "typeform-icon.svg",
       "typeform.svg"
     ]
   },
@@ -8325,6 +8316,7 @@
     "shortname": "wicket",
     "url": "https://wicket.apache.org/",
     "files": [
+      "wicket-icon.svg",
       "wicket.svg"
     ]
   },
