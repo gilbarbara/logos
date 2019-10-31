@@ -3764,7 +3764,7 @@
   {
     "name": "Hyperapp",
     "shortname": "hyperapp",
-    "url": "https://hyperapp.js.org/",
+    "url": "https://hyperapp.dev/",
     "files": [
       "hyperapp.svg"
     ]
@@ -6389,7 +6389,7 @@
   {
     "name": "Rax",
     "shortname": "rax",
-    "url": "http://rax.taobaofed.org/",
+    "url": "https://rax.js.org",
     "files": [
       "rax.svg"
     ]
