@@ -1175,6 +1175,14 @@
     ]
   },
   {
+    "name": "C Sharp (C#) ",
+    "shortname": "c-sharp",
+    "url": "http://csharp.net/",
+    "files": [
+      "c-sharp.svg"
+    ]
+  },
+  {
     "name": "C++",
     "shortname": "c-plusplus",
     "url": "https://isocpp.org/",
@@ -1335,6 +1343,15 @@
     "url": "https://chevereto.com/",
     "files": [
       "chevereto.svg"
+    ]
+  },
+  {
+    "name": "Chromatic",
+    "shortname": "chromatic",
+    "url": "https://www.chromaticqa.com/",
+    "files": [
+      "chromatic-icon.svg",
+      "chromatic.svg"
     ]
   },
   {
@@ -2611,6 +2628,14 @@
     "url": "https://getfedora.org/",
     "files": [
       "fedora.svg"
+    ]
+  },
+  {
+    "name": "Figma",
+    "shortname": "figma",
+    "url": "https://www.figma.com/",
+    "files": [
+      "figma.svg"
     ]
   },
   {
@@ -4858,6 +4883,14 @@
     ]
   },
   {
+    "name": "MDX",
+    "shortname": "mdx",
+    "url": "https://mdxjs.com/",
+    "files": [
+      "mdx.svg"
+    ]
+  },
+  {
     "name": "Medium",
     "shortname": "medium",
     "url": "https://medium.com/",
@@ -5364,6 +5397,14 @@
     "url": "https://www.nomadproject.io/",
     "files": [
       "nomad.svg"
+    ]
+  },
+  {
+    "name": "Now",
+    "shortname": "now",
+    "url": "https://github.com/zeit/now",
+    "files": [
+      "now.svg"
     ]
   },
   {
@@ -6844,6 +6885,14 @@
     ]
   },
   {
+    "name": "Semantic Web",
+    "shortname": "semantic-web",
+    "url": "https://www.w3.org/standards/semanticweb/",
+    "files": [
+      "semantic-web.svg"
+    ]
+  },
+  {
     "name": "Semaphore",
     "shortname": "semaphore",
     "url": "https://semaphoreci.com/",
@@ -6972,6 +7021,14 @@
     ]
   },
   {
+    "name": "Signal",
+    "shortname": "signal",
+    "url": "https://signal.org/",
+    "files": [
+      "signal.svg"
+    ]
+  },
+  {
     "name": "Sinatra",
     "shortname": "sinatra",
     "url": "http://www.sinatrarb.com/",
@@ -7090,6 +7147,14 @@
     "url": "http://socket.io/",
     "files": [
       "socket.io.svg"
+    ]
+  },
+  {
+    "name": "Solid",
+    "shortname": "solid",
+    "url": "https://solid.mit.edu/",
+    "files": [
+      "solid.svg"
     ]
   },
   {
@@ -7471,6 +7536,15 @@
     ]
   },
   {
+    "name": "Svelte",
+    "shortname": "svelte",
+    "url": "https://svelte.dev/",
+    "files": [
+      "svelte-icon.svg",
+      "svelte.svg"
+    ]
+  },
+  {
     "name": "SVG",
     "shortname": "svg",
     "url": "http://www.w3.org/Graphics/SVG/",
@@ -7662,6 +7736,14 @@
     "url": "http://titon.io/en/toolkit",
     "files": [
       "titon.svg"
+    ]
+  },
+  {
+    "name": "TNW",
+    "shortname": "tnw",
+    "url": "https://thenextweb.com/",
+    "files": [
+      "tnw.svg"
     ]
   },
   {
@@ -8584,6 +8666,14 @@
     "url": "https://www.zenhub.io/",
     "files": [
       "zenhub.svg"
+    ]
+  },
+  {
+    "name": "Zeplin",
+    "shortname": "zeplin",
+    "url": "https://zeplin.io/",
+    "files": [
+      "zeplin.svg"
     ]
   },
   {

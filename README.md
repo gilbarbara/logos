@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.chromaticqa.com/" target="_blank">Chromatic</a>
+![chromatic](https://cdn.svgporn.com/logos/chromatic-icon.svg)
+![chromatic](https://cdn.svgporn.com/logos/chromatic.svg)
+## <a href="https://www.figma.com/" target="_blank">Figma</a>
+![figma](https://cdn.svgporn.com/logos/figma.svg)
+## <a href="https://mdxjs.com/" target="_blank">MDX</a>
+![mdx](https://cdn.svgporn.com/logos/mdx.svg)
+## <a href="https://github.com/zeit/now" target="_blank">Now</a>
+![now](https://cdn.svgporn.com/logos/now.svg)
+## <a href="https://solid.mit.edu/" target="_blank">Solid</a>
+![solid](https://cdn.svgporn.com/logos/solid.svg)
+## <a href="https://svelte.dev/" target="_blank">Svelte</a>
+![svelte](https://cdn.svgporn.com/logos/svelte-icon.svg)
+![svelte](https://cdn.svgporn.com/logos/svelte.svg)
+## <a href="https://thenextweb.com/" target="_blank">TNW</a>
+![tnw](https://cdn.svgporn.com/logos/tnw.svg)
+## <a href="https://zeplin.io/" target="_blank">Zeplin</a>
+![zeplin](https://cdn.svgporn.com/logos/zeplin.svg)
+## <a href="http://csharp.net/" target="_blank">C Sharp (C#) </a>
+![c-sharp](https://cdn.svgporn.com/logos/c-sharp.svg)
+## <a href="https://www.w3.org/standards/semanticweb/" target="_blank">Semantic Web</a>
+![semantic-web](https://cdn.svgporn.com/logos/semantic-web.svg)
+## <a href="https://signal.org/" target="_blank">Signal</a>
+![signal](https://cdn.svgporn.com/logos/signal.svg)
 ## <a href="https://appsignal.com/" target="_blank">AppSignal</a>
 ![appsignal](https://cdn.svgporn.com/logos/appsignal-icon.svg)
 ![appsignal](https://cdn.svgporn.com/logos/appsignal.svg)
@@ -116,35 +140,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
 ![couchdb](https://cdn.svgporn.com/logos/couchdb-icon.svg)
 ![couchdb](https://cdn.svgporn.com/logos/couchdb.svg)
-## <a href="http://crossbrowsertesting.com/" target="_blank">Cross Browser Testing</a>
-![cross-browser-testing](https://cdn.svgporn.com/logos/cross-browser-testing.svg)
-## <a href="https://www.docker.com/" target="_blank">docker</a>
-![docker](https://cdn.svgporn.com/logos/docker-icon.svg)
-![docker](https://cdn.svgporn.com/logos/docker.svg)
-## <a href="https://cloud.google.com/gcp/" target="_blank">Google Cloud Platform</a>
-![google-cloud-platform](https://cdn.svgporn.com/logos/google-cloud-platform.svg)
-## <a href="https://developers.google.com/" target="_blank">Google Developers</a>
-![google-developers](https://cdn.svgporn.com/logos/google-developers-icon.svg)
-![google-developers](https://cdn.svgporn.com/logos/google-developers.svg)
-## <a href="http://hapijs.com/" target="_blank">hapi</a>
-![hapi](https://cdn.svgporn.com/logos/hapi.svg)
-## <a href="https://www.heroku.com/" target="_blank">Heroku</a>
-![heroku](https://cdn.svgporn.com/logos/heroku-icon.svg)
-![heroku](https://cdn.svgporn.com/logos/heroku.svg)
-## <a href="https://mariadb.org/" target="_blank">MariaDB</a>
-![mariadb](https://cdn.svgporn.com/logos/mariadb-icon.svg)
-![mariadb](https://cdn.svgporn.com/logos/mariadb.svg)
-## <a href="https://puppetlabs.com/" target="_blank">Puppet</a> *
-![puppet](https://cdn.svgporn.com/logos/puppet-icon.svg)
-![puppet](https://cdn.svgporn.com/logos/puppet.svg)
-## <a href="https://clojurescript.org/" target="_blank">ClojureScript</a>
-![cljs](https://cdn.svgporn.com/logos/cljs.svg)
-## <a href="https://golang.org/" target="_blank">Go</a>
-![go](https://cdn.svgporn.com/logos/go.svg)
-![go](https://cdn.svgporn.com/logos/gopher.svg)
-## <a href="https://play.google.com/" target="_blank">Google Play</a>
-![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
-![google-play](https://cdn.svgporn.com/logos/google-play.svg)
 
 ---
 
