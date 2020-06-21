@@ -202,6 +202,14 @@
     ]
   },
   {
+    "name": "Ant Design",
+    "shortname": "ant-design",
+    "url": "https://ant.design/",
+    "files": [
+      "ant-design.svg"
+    ]
+  },
+  {
     "name": "Apache",
     "shortname": "apache",
     "url": "http://www.apache.org/",
@@ -1993,6 +2001,15 @@
     ]
   },
   {
+    "name": "DatoCMS",
+    "shortname": "datocms",
+    "url": "https://www.datocms.com/",
+    "files": [
+      "datocms-icon.svg",
+      "datocms.svg"
+    ]
+  },
+  {
     "name": "DC/OS",
     "shortname": "dcos",
     "url": "https://dcos.io/",
@@ -2022,6 +2039,14 @@
     "url": "https://delighted.com/",
     "files": [
       "delighted.svg"
+    ]
+  },
+  {
+    "name": "Deno",
+    "shortname": "deno",
+    "url": "https://deno.land/",
+    "files": [
+      "deno.svg"
     ]
   },
   {
@@ -2540,6 +2565,15 @@
     "url": "http://www.eventsentry.com/",
     "files": [
       "eventsentry.svg"
+    ]
+  },
+  {
+    "name": "Evergreen",
+    "shortname": "evergreen",
+    "url": "https://evergreen.segment.com/",
+    "files": [
+      "evergreen-icon.svg",
+      "evergreen.svg"
     ]
   },
   {
@@ -4124,6 +4158,14 @@
     ]
   },
   {
+    "name": "JSS",
+    "shortname": "jss",
+    "url": "https://cssinjs.org/",
+    "files": [
+      "jss.svg"
+    ]
+  },
+  {
     "name": "Juju",
     "shortname": "juju",
     "url": "http://juju.ubuntu.com/",
@@ -4679,6 +4721,14 @@
     ]
   },
   {
+    "name": "Madge",
+    "shortname": "madge",
+    "url": "https://github.com/pahen/madge",
+    "files": [
+      "madge.svg"
+    ]
+  },
+  {
     "name": "Maestro",
     "shortname": "maestro",
     "url": "http://www.maestrocard.com/",
@@ -4993,8 +5043,8 @@
     "shortname": "azure",
     "url": "https://azure.microsoft.com/",
     "files": [
-      "azure.svg",
-      "azure-icon.svg"
+      "azure-icon.svg",
+      "azure.svg"
     ]
   },
   {
@@ -5446,8 +5496,8 @@
     "shortname": "nuxt",
     "url": "https://nuxtjs.org/",
     "files": [
-      "nuxt.svg",
-      "nuxt-icon.svg"
+      "nuxt-icon.svg",
+      "nuxt.svg"
     ]
   },
   {
@@ -6081,6 +6131,15 @@
     "url": "https://www.prisma.io/",
     "files": [
       "prisma.svg"
+    ]
+  },
+  {
+    "name": "Prismic",
+    "shortname": "prismic",
+    "url": "https://prismic.io/",
+    "files": [
+      "prismic-icon.svg",
+      "prismic.svg"
     ]
   },
   {
@@ -7310,6 +7369,15 @@
     "files": [
       "stackoverflow-icon.svg",
       "stackoverflow.svg"
+    ]
+  },
+  {
+    "name": "Stackbit",
+    "shortname": "stackbit",
+    "url": "https://www.stackbit.com/",
+    "files": [
+      "stackbit-icon.svg",
+      "stackbit.svg"
     ]
   },
   {

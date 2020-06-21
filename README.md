@@ -18,14 +18,34 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://ant.design/" target="_blank">Ant Design</a>
+![ant-design](https://cdn.svgporn.com/logos/ant-design.svg)
+## <a href="https://www.datocms.com/" target="_blank">DatoCMS</a>
+![datocms](https://cdn.svgporn.com/logos/datocms-icon.svg)
+![datocms](https://cdn.svgporn.com/logos/datocms.svg)
+## <a href="https://deno.land/" target="_blank">Deno</a>
+![deno](https://cdn.svgporn.com/logos/deno.svg)
+## <a href="https://evergreen.segment.com/" target="_blank">Evergreen</a>
+![evergreen](https://cdn.svgporn.com/logos/evergreen-icon.svg)
+![evergreen](https://cdn.svgporn.com/logos/evergreen.svg)
+## <a href="https://cssinjs.org/" target="_blank">JSS</a>
+![jss](https://cdn.svgporn.com/logos/jss.svg)
+## <a href="https://github.com/pahen/madge" target="_blank">Madge</a>
+![madge](https://cdn.svgporn.com/logos/madge.svg)
+## <a href="https://prismic.io/" target="_blank">Prismic</a>
+![prismic](https://cdn.svgporn.com/logos/prismic-icon.svg)
+![prismic](https://cdn.svgporn.com/logos/prismic.svg)
+## <a href="https://www.stackbit.com/" target="_blank">Stackbit</a>
+![stackbit](https://cdn.svgporn.com/logos/stackbit-icon.svg)
+![stackbit](https://cdn.svgporn.com/logos/stackbit.svg)
 ## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
-![azure](https://cdn.svgporn.com/logos/azure.svg)
 ![azure](https://cdn.svgporn.com/logos/azure-icon.svg)
+![azure](https://cdn.svgporn.com/logos/azure.svg)
 ## <a href="https://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank">Microsoft Edge</a>
 ![microsoft-edge](https://cdn.svgporn.com/logos/microsoft-edge.svg)
 ## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
-![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
 ![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
+![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
 ## <a href="https://www.chromaticqa.com/" target="_blank">Chromatic</a>
 ![chromatic](https://cdn.svgporn.com/logos/chromatic-icon.svg)
 ![chromatic](https://cdn.svgporn.com/logos/chromatic.svg)
@@ -122,25 +142,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.bitrise.io/" target="_blank">Bitrise</a>
 ![bitrise](https://cdn.svgporn.com/logos/bitrise-icon.svg)
 ![bitrise](https://cdn.svgporn.com/logos/bitrise.svg)
-## <a href="https://www.elastic.co/products/beats" target="_blank">Beats</a>
-![beats](https://cdn.svgporn.com/logos/beats.svg)
-## <a href="https://bulma.io/" target="_blank">Bulma</a>
-![bulma](https://cdn.svgporn.com/logos/bulma.svg)
-## <a href="https://www.chargebee.com/" target="_blank">Chargebee</a>
-![chargebee](https://cdn.svgporn.com/logos/chargebee-icon.svg)
-![chargebee](https://cdn.svgporn.com/logos/chargebee.svg)
-## <a href="https://gridsome.org" target="_blank">Gridsome</a>
-![gridsome](https://cdn.svgporn.com/logos/gridsome-icon.svg)
-![gridsome](https://cdn.svgporn.com/logos/gridsome.svg)
-## <a href="https://v2.grommet.io/" target="_blank">Grommet</a>
-![grommet](https://cdn.svgporn.com/logos/grommet.svg)
-## <a href="https://koajs.com" target="_blank">Koa</a>
-![koa](https://cdn.svgporn.com/logos/koa.svg)
-## <a href="https://www.elastic.co/products/logstash" target="_blank">Logstash</a>
-![logstash](https://cdn.svgporn.com/logos/logstash.svg)
-## <a href="https://www.moltin.com/" target="_blank">Moltin</a>
-![moltin](https://cdn.svgporn.com/logos/moltin-icon.svg)
-![moltin](https://cdn.svgporn.com/logos/moltin.svg)
 
 ---
 
