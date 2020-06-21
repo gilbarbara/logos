@@ -4993,7 +4993,8 @@
     "shortname": "azure",
     "url": "https://azure.microsoft.com/",
     "files": [
-      "azure.svg"
+      "azure.svg",
+      "azure-icon.svg"
     ]
   },
   {
@@ -5445,7 +5446,8 @@
     "shortname": "nuxt",
     "url": "https://nuxtjs.org/",
     "files": [
-      "nuxt.svg"
+      "nuxt.svg",
+      "nuxt-icon.svg"
     ]
   },
   {

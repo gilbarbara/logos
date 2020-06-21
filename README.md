@@ -18,6 +18,14 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
+![azure](https://cdn.svgporn.com/logos/azure.svg)
+![azure](https://cdn.svgporn.com/logos/azure-icon.svg)
+## <a href="https://www.microsoft.com/en-us/windows/microsoft-edge" target="_blank">Microsoft Edge</a>
+![microsoft-edge](https://cdn.svgporn.com/logos/microsoft-edge.svg)
+## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
+![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
+![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
 ## <a href="https://www.chromaticqa.com/" target="_blank">Chromatic</a>
 ![chromatic](https://cdn.svgporn.com/logos/chromatic-icon.svg)
 ![chromatic](https://cdn.svgporn.com/logos/chromatic.svg)
@@ -133,13 +141,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.moltin.com/" target="_blank">Moltin</a>
 ![moltin](https://cdn.svgporn.com/logos/moltin-icon.svg)
 ![moltin](https://cdn.svgporn.com/logos/moltin.svg)
-## <a href="https://octopus.com/" target="_blank">Octopus Deploy</a>
-![octopus-deploy](https://cdn.svgporn.com/logos/octopus-deploy.svg)
-## <a href="https://webflow.com" target="_blank">Webflow</a>
-![webflow](https://cdn.svgporn.com/logos/webflow.svg)
-## <a href="http://couchdb.apache.org/" target="_blank">CouchDB</a>
-![couchdb](https://cdn.svgporn.com/logos/couchdb-icon.svg)
-![couchdb](https://cdn.svgporn.com/logos/couchdb.svg)
 
 ---
 
