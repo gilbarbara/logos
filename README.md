@@ -1,6 +1,6 @@
 SVG Logos
 ====================
-#### A collection of SVG logos for developers/DevOps/geeks
+#### A collection of SVG logos for front-end developers/DevOps/geeks/
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
 [View All](http://svgporn.com)
