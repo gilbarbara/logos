@@ -755,6 +755,14 @@
     ]
   },
   {
+    "name": "AWX",
+    "shortname": "awx",
+    "url": "https://github.com/ansible/awx/",
+    "files": [
+      "aws.svg"
+    ]
+  },
+  {
     "name": "Babel",
     "shortname": "babel",
     "url": "https://babeljs.io/",
@@ -4787,6 +4795,14 @@
     ]
   },
   {
+    "name": "ManageIQ",
+    "shortname": "manageiq",
+    "url": "https://www.manageiq.org/",
+    "files": [
+      "manageiq.svg"
+    ]
+  },
+  {
     "name": "Mandrill",
     "shortname": "mandrill",
     "url": "http://mandrill.com/",
@@ -5730,6 +5746,14 @@
     "url": "https://ottoproject.io/",
     "files": [
       "otto.svg"
+    ]
+  },
+  {
+    "name": "oVirt",
+    "shortname": "ovirt",
+    "url": "https://www.ovirt.org//",
+    "files": [
+      "ovirt.svg"
     ]
   },
   {
