@@ -298,6 +298,15 @@
     ]
   },
   {
+    "name": "Appcircle",
+    "shortname": "appcircle",
+    "url": "https://appcircle.io/",
+    "files": [
+      "appcircle-icon.svg",
+      "appcircle.svg"
+    ]
+  },
+  {
     "name": "AppCode",
     "shortname": "appcode",
     "url": "https://www.jetbrains.com/appcode/",
@@ -440,6 +449,14 @@
     "url": "https://asana.com/",
     "files": [
       "asana.svg"
+    ]
+  },
+  {
+    "name": "Asciidoctor",
+    "shortname": "asciidoctor",
+    "url": "https://github.com/asciidoctor",
+    "files": [
+      "asciidoctor.svg"
     ]
   },
   {
@@ -788,6 +805,14 @@
     ]
   },
   {
+    "name": "Balena",
+    "shortname": "balena",
+    "url": "https://www.balena.io/",
+    "files": [
+      "balena.svg"
+    ]
+  },
+  {
     "name": "Bamboo",
     "shortname": "bamboo",
     "url": "https://www.atlassian.com/software/bamboo",
@@ -816,8 +841,8 @@
     "shortname": "bash",
     "url": "https://www.gnu.org/software/bash/",
     "files": [
-      "bash.svg",
-      "bash-icon.svg"
+      "bash-icon.svg",
+      "bash.svg"
     ]
   },
   {
@@ -1723,6 +1748,14 @@
     "url": "https://getcomposer.org/",
     "files": [
       "composer.svg"
+    ]
+  },
+  {
+    "name": "Conan",
+    "shortname": "conan-io",
+    "url": "http://conan.io/",
+    "files": [
+      "conan-io.svg"
     ]
   },
   {
@@ -3119,6 +3152,14 @@
     ]
   },
   {
+    "name": "GoHorse",
+    "shortname": "gohorse",
+    "url": "https://medium.com/@dekaah/22-axioms-of-the-extreme-go-horse-methodology-xgh-9fa739ab55b4",
+    "files": [
+      "gohorse.svg"
+    ]
+  },
+  {
     "name": "Gomix",
     "shortname": "gomix",
     "url": "https://gomix.com/",
@@ -4497,6 +4538,14 @@
     ]
   },
   {
+    "name": "Let's Cloud",
+    "shortname": "lets-cloud",
+    "url": "https://www.letscloud.io/",
+    "files": [
+      "lets-cloud.svg"
+    ]
+  },
+  {
     "name": "Let's Encrypt",
     "shortname": "letsencrypt",
     "url": "https://letsencrypt.org/",
@@ -4654,6 +4703,14 @@
     "url": "http://www.looker.com/",
     "files": [
       "looker.svg"
+    ]
+  },
+  {
+    "name": "Loom",
+    "shortname": "loom",
+    "url": "https://www.loom.com/",
+    "files": [
+      "loom.svg"
     ]
   },
   {
@@ -7475,8 +7532,8 @@
     "shortname": "strapi",
     "url": "https://strapi.io/",
     "files": [
-      "strapi.svg",
-      "strapi-icon.svg"
+      "strapi-icon.svg",
+      "strapi.svg"
     ]
   },
   {
@@ -7622,6 +7679,14 @@
     "url": "http://www.w3.org/Graphics/SVG/",
     "files": [
       "svg.svg"
+    ]
+  },
+  {
+    "name": "Svgator",
+    "shortname": "svgator",
+    "url": "https://www.svgator.com/",
+    "files": [
+      "svgator.svg"
     ]
   },
   {
@@ -8111,6 +8176,14 @@
     ]
   },
   {
+    "name": "uWSGI",
+    "shortname": "uwsgi",
+    "url": "https://github.com/unbit/uwsgi",
+    "files": [
+      "uwsgi.svg"
+    ]
+  },
+  {
     "name": "V8",
     "shortname": "v8",
     "url": "https://developers.google.com/v8/",
@@ -8150,6 +8223,14 @@
     "url": "https://www.vaultproject.io/",
     "files": [
       "vault.svg"
+    ]
+  },
+  {
+    "name": "Vector",
+    "shortname": "vector-timber",
+    "url": "https://vector.dev/",
+    "files": [
+      "vector-timber.svg"
     ]
   },
   {

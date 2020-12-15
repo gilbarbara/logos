@@ -18,15 +18,36 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://appcircle.io/" target="_blank">Appcircle</a>
+![appcircle](https://cdn.svgporn.com/logos/appcircle-icon.svg)
+![appcircle](https://cdn.svgporn.com/logos/appcircle.svg)
+## <a href="https://github.com/asciidoctor" target="_blank">Asciidoctor</a>
+![asciidoctor](https://cdn.svgporn.com/logos/asciidoctor.svg)
+## <a href="https://www.balena.io/" target="_blank">Balena</a>
+![balena](https://cdn.svgporn.com/logos/balena.svg)
+## <a href="http://conan.io/" target="_blank">Conan</a>
+![conan-io](https://cdn.svgporn.com/logos/conan-io.svg)
+## <a href="https://medium.com/@dekaah/22-axioms-of-the-extreme-go-horse-methodology-xgh-9fa739ab55b4" target="_blank">GoHorse</a>
+![gohorse](https://cdn.svgporn.com/logos/gohorse.svg)
+## <a href="https://www.letscloud.io/" target="_blank">Let&#x27;s Cloud</a>
+![lets-cloud](https://cdn.svgporn.com/logos/lets-cloud.svg)
+## <a href="https://www.loom.com/" target="_blank">Loom</a>
+![loom](https://cdn.svgporn.com/logos/loom.svg)
+## <a href="https://www.svgator.com/" target="_blank">Svgator</a>
+![svgator](https://cdn.svgporn.com/logos/svgator.svg)
+## <a href="https://github.com/unbit/uwsgi" target="_blank">uWSGI</a>
+![uwsgi](https://cdn.svgporn.com/logos/uwsgi.svg)
+## <a href="https://vector.dev/" target="_blank">Vector</a>
+![vector-timber](https://cdn.svgporn.com/logos/vector-timber.svg)
 ## <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
-![bash](https://cdn.svgporn.com/logos/bash.svg)
 ![bash](https://cdn.svgporn.com/logos/bash-icon.svg)
+![bash](https://cdn.svgporn.com/logos/bash.svg)
 ## <a href="https://www.npmjs.com/" target="_blank">NPM</a>
 ![npm](https://cdn.svgporn.com/logos/npm.svg)
 ![npm](https://cdn.svgporn.com/logos/npm-icon.svg)
 ## <a href="https://strapi.io/" target="_blank">Strapi</a>
-![strapi](https://cdn.svgporn.com/logos/strapi.svg)
 ![strapi](https://cdn.svgporn.com/logos/strapi-icon.svg)
+![strapi](https://cdn.svgporn.com/logos/strapi.svg)
 ## <a href="https://ant.design/" target="_blank">Ant Design</a>
 ![ant-design](https://cdn.svgporn.com/logos/ant-design.svg)
 ## <a href="https://www.datocms.com/" target="_blank">DatoCMS</a>
@@ -119,30 +140,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://leankit.com/" target="_blank">Leankit</a>
 ![leankit](https://cdn.svgporn.com/logos/leankit-icon.svg)
 ![leankit](https://cdn.svgporn.com/logos/leankit.svg)
-## <a href="http://loopback.io/" target="_blank">Loopback</a>
-![loopback](https://cdn.svgporn.com/logos/loopback-icon.svg)
-![loopback](https://cdn.svgporn.com/logos/loopback.svg)
-## <a href="https://www.apple.com/macos/" target="_blank">Mac OS</a>
-![macos](https://cdn.svgporn.com/logos/macOS.svg)
-## <a href="http://material-ui.com/" target="_blank">Material UI</a>
-![material-ui](https://cdn.svgporn.com/logos/material-ui.svg)
-## <a href="http://www.memsql.com/" target="_blank">MemSQL</a>
-![memsql](https://cdn.svgporn.com/logos/memsql-icon.svg)
-![memsql](https://cdn.svgporn.com/logos/memsql.svg)
-## <a href="https://m.io/" target="_blank">Mio</a>
-![mio](https://cdn.svgporn.com/logos/mio.svg)
-## <a href="https://mlab.com/" target="_blank">mLab</a>
-![mLab](https://cdn.svgporn.com/logos/mlab.svg)
-## <a href="https://github.com/tonsky/rum" target="_blank">Rum</a>
-![rum](https://cdn.svgporn.com/logos/rum.svg)
-## <a href="https://www.statuspage.io/" target="_blank">StatusPage</a> *
-![statuspage](https://cdn.svgporn.com/logos/statuspage.svg)
-## <a href="https://en.todoist.com/" target="_blank">Todoist</a>
-![todoist](https://cdn.svgporn.com/logos/todoist-icon.svg)
-![todoist](https://cdn.svgporn.com/logos/todoist.svg)
-## <a href="http://www.typeform.com/" target="_blank">Typeform</a>
-![typeform](https://cdn.svgporn.com/logos/typeform-icon.svg)
-![typeform](https://cdn.svgporn.com/logos/typeform.svg)
 
 ---
 
