@@ -816,7 +816,8 @@
     "shortname": "bash",
     "url": "https://www.gnu.org/software/bash/",
     "files": [
-      "bash.svg"
+      "bash.svg",
+      "bash-icon.svg"
     ]
   },
   {
@@ -5472,7 +5473,7 @@
     "url": "https://www.npmjs.com/",
     "files": [
       "npm.svg",
-      "npm-2.svg"
+      "npm-icon.svg"
     ]
   },
   {
@@ -7474,7 +7475,8 @@
     "shortname": "strapi",
     "url": "https://strapi.io/",
     "files": [
-      "strapi.svg"
+      "strapi.svg",
+      "strapi-icon.svg"
     ]
   },
   {

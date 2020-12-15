@@ -18,6 +18,15 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.gnu.org/software/bash/" target="_blank">Bash</a>
+![bash](https://cdn.svgporn.com/logos/bash.svg)
+![bash](https://cdn.svgporn.com/logos/bash-icon.svg)
+## <a href="https://www.npmjs.com/" target="_blank">NPM</a>
+![npm](https://cdn.svgporn.com/logos/npm.svg)
+![npm](https://cdn.svgporn.com/logos/npm-icon.svg)
+## <a href="https://strapi.io/" target="_blank">Strapi</a>
+![strapi](https://cdn.svgporn.com/logos/strapi.svg)
+![strapi](https://cdn.svgporn.com/logos/strapi-icon.svg)
 ## <a href="https://ant.design/" target="_blank">Ant Design</a>
 ![ant-design](https://cdn.svgporn.com/logos/ant-design.svg)
 ## <a href="https://www.datocms.com/" target="_blank">DatoCMS</a>
@@ -134,14 +143,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.typeform.com/" target="_blank">Typeform</a>
 ![typeform](https://cdn.svgporn.com/logos/typeform-icon.svg)
 ![typeform](https://cdn.svgporn.com/logos/typeform.svg)
-## <a href="https://search.yahoo.com/" target="_blank">Yahoo!</a>
-![yahoo](https://cdn.svgporn.com/logos/yahoo.svg)
-## <a href="https://wicket.apache.org/" target="_blank">Wicket</a>
-![wicket](https://cdn.svgporn.com/logos/wicket-icon.svg)
-![wicket](https://cdn.svgporn.com/logos/wicket.svg)
-## <a href="https://www.bitrise.io/" target="_blank">Bitrise</a>
-![bitrise](https://cdn.svgporn.com/logos/bitrise-icon.svg)
-![bitrise](https://cdn.svgporn.com/logos/bitrise.svg)
 
 ---
 
