@@ -3342,6 +3342,7 @@
     "shortname": "google-pay",
     "url": "https://pay.google.com/about/",
     "files": [
+      "google-pay-icon.svg",
       "google-pay.svg"
     ]
   },
@@ -4513,11 +4514,11 @@
     ]
   },
   {
-    "name": "Leafjet",
-    "shortname": "leafjet",
+    "name": "Leaflet",
+    "shortname": "leaflet",
     "url": "http://leafletjs.com/",
     "files": [
-      "leafjet.svg"
+      "leaflet.svg"
     ]
   },
   {
@@ -4590,6 +4591,7 @@
     "shortname": "linkedin",
     "url": "https://www.linkedin.com/",
     "files": [
+      "linkedin-icon.svg",
       "linkedin.svg"
     ]
   },

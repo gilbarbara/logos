@@ -1,9 +1,9 @@
 SVG Logos
 ====================
-#### A collection of SVG logos for developers/DevOps/geeks
+#### A curated collection of SVG logos for developers/DevOps/geeks
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
-[View All](http://svgporn.com)
+[View All on svgporn.com](http://svgporn.com)
 
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
@@ -18,6 +18,16 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
+![google-pay](https://cdn.svgporn.com/logos/google-pay-icon.svg)
+![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
+## <a href="http://leafletjs.com/" target="_blank">Leaflet</a>
+![leaflet](https://cdn.svgporn.com/logos/leaflet.svg)
+## <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+![linkedin](https://cdn.svgporn.com/logos/linkedin-icon.svg)
+![linkedin](https://cdn.svgporn.com/logos/linkedin.svg)
+## <a href="https://www.nginx.com/" target="_blank">NGINX</a>
+![nginx](https://cdn.svgporn.com/logos/nginx.svg)
 ## <a href="https://appcircle.io/" target="_blank">Appcircle</a>
 ![appcircle](https://cdn.svgporn.com/logos/appcircle-icon.svg)
 ![appcircle](https://cdn.svgporn.com/logos/appcircle.svg)
@@ -130,16 +140,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.haskell.org/" target="_blank">Haskell</a>
 ![haskell](https://cdn.svgporn.com/logos/haskell-icon.svg)
 ![haskell](https://cdn.svgporn.com/logos/haskell.svg)
-## <a href="https://ifttt.com/" target="_blank">IFTTT</a>
-![ifttt](https://cdn.svgporn.com/logos/ifttt.svg)
-## <a href="https://www.iron.io/" target="_blank">Iron</a>
-![iron](https://cdn.svgporn.com/logos/iron-icon.svg)
-![iron](https://cdn.svgporn.com/logos/iron.svg)
-## <a href="http://laravel.com/" target="_blank">Laravel</a>
-![laravel](https://cdn.svgporn.com/logos/laravel.svg)
-## <a href="http://leankit.com/" target="_blank">Leankit</a>
-![leankit](https://cdn.svgporn.com/logos/leankit-icon.svg)
-![leankit](https://cdn.svgporn.com/logos/leankit.svg)
 
 ---
 
