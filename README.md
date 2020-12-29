@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://booqable.com/" target="_blank">Booqable</a>
+![booqable](https://cdn.svgporn.com/logos/booqable.svg)
+## <a href="https://buildkite.com/" target="_blank">Buildkite</a>
+![buildkite](https://cdn.svgporn.com/logos/buildkite-icon.svg)
+![buildkite](https://cdn.svgporn.com/logos/buildkite.svg)
+## <a href="https://cirrus-ci.org/" target="_blank">Cirrus</a>
+![cirrus-ci](https://cdn.svgporn.com/logos/cirrus-ci.svg)
+## <a href="https://www.envoyproxy.io/" target="_blank">Envoy Proxy</a>
+![envoyproxy](https://cdn.svgporn.com/logos/envoyproxy.svg)
+## <a href="https://www.getyourguide.com/" target="_blank">Get Your Guide</a>
+![getyourguide](https://cdn.svgporn.com/logos/getyourguide.svg)
+## <a href="https://www.purescript.org/" target="_blank">Purescript</a>
+![purescript](https://cdn.svgporn.com/logos/purescript-icon.svg)
+![purescript](https://cdn.svgporn.com/logos/purescript.svg)
+## <a href="https://skaffolder.com/" target="_blank">Skaffolder</a>
+![skaffolder](https://cdn.svgporn.com/logos/skaffolder.svg)
+## <a href="https://stimulus.hotwire.dev/" target="_blank">Stimulus</a>
+![stimulus](https://cdn.svgporn.com/logos/stimulus.svg)
+## <a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>
+![sublimetext](https://cdn.svgporn.com/logos/sublimetext-icon.svg)
+![sublimetext](https://cdn.svgporn.com/logos/sublimetext.svg)
+## <a href="https://www.torproject.org/" target="_blank">Tor</a>
+![tor](https://cdn.svgporn.com/logos/tor.svg)
 ## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
 ![google-pay](https://cdn.svgporn.com/logos/google-pay-icon.svg)
 ![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
@@ -113,33 +136,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://appsignal.com/" target="_blank">AppSignal</a>
 ![appsignal](https://cdn.svgporn.com/logos/appsignal-icon.svg)
 ![appsignal](https://cdn.svgporn.com/logos/appsignal.svg)
-## <a href="http://www.basekit.com/" target="_blank">BaseKit</a>
-![basekit](https://cdn.svgporn.com/logos/basekit.svg)
-## <a href="http://brandfolder.com/" target="_blank">Brandfolder</a>
-![brandfolder](https://cdn.svgporn.com/logos/brandfolder-icon.svg)
-![brandfolder](https://cdn.svgporn.com/logos/brandfolder.svg)
-## <a href="https://www.campaignmonitor.com/" target="_blank">Campaign Monitor</a>
-![campaignmonitor](https://cdn.svgporn.com/logos/campaignmonitor-icon.svg)
-![campaignmonitor](https://cdn.svgporn.com/logos/campaignmonitor.svg)
-## <a href="https://www.codefund.io/" target="_blank">Codefund</a>
-![codefund](https://cdn.svgporn.com/logos/codefund-icon.svg)
-![codefund](https://cdn.svgporn.com/logos/codefund.svg)
-## <a href="https://craftcms.com/" target="_blank">Craft</a>
-![craft](https://cdn.svgporn.com/logos/craftcms.svg)
-## <a href="https://www.drupal.org/" target="_blank">Drupal</a>
-![drupal](https://cdn.svgporn.com/logos/drupal-icon.svg)
-![drupal](https://cdn.svgporn.com/logos/drupal.svg)
-## <a href="https://www.eventbrite.com/" target="_blank">Eventbrite</a>
-![eventbrite](https://cdn.svgporn.com/logos/eventbrite-icon.svg)
-![eventbrite](https://cdn.svgporn.com/logos/eventbrite.svg)
-## <a href="https://freedcamp.com/" target="_blank">freedcamp</a>
-![freedcamp](https://cdn.svgporn.com/logos/freedcamp-icon.svg)
-![freedcamp](https://cdn.svgporn.com/logos/freedcamp.svg)
-## <a href="https://gradle.org/" target="_blank">Gradle</a> *
-![gradle](https://cdn.svgporn.com/logos/gradle.svg)
-## <a href="https://www.haskell.org/" target="_blank">Haskell</a>
-![haskell](https://cdn.svgporn.com/logos/haskell-icon.svg)
-![haskell](https://cdn.svgporn.com/logos/haskell.svg)
 
 ---
 
