@@ -160,6 +160,15 @@
     ]
   },
   {
+    "name": "AMP",
+    "shortname": "amp",
+    "url": "https://amp.dev/",
+    "files": [
+      "amp-icon.svg",
+      "amp.svg"
+    ]
+  },
+  {
     "name": "Ampersand.js",
     "shortname": "ampersand",
     "url": "https://ampersandjs.com/",
@@ -927,6 +936,14 @@
     ]
   },
   {
+    "name": "Blender",
+    "shortname": "blender",
+    "url": "https://www.blender.org/",
+    "files": [
+      "blender.svg"
+    ]
+  },
+  {
     "name": "Blocs",
     "shortname": "blocs",
     "url": "http://blocsapp.com/",
@@ -1288,6 +1305,15 @@
     "url": "http://canjs.com/",
     "files": [
       "canjs.svg"
+    ]
+  },
+  {
+    "name": "Capacitor",
+    "shortname": "capacitorjs",
+    "url": "https://capacitorjs.com/",
+    "files": [
+      "capacitorjs-icon.svg",
+      "capacitorjs.svg"
     ]
   },
   {
@@ -3792,6 +3818,14 @@
     ]
   },
   {
+    "name": "Homebrew",
+    "shortname": "homebrew",
+    "url": "https://brew.sh/",
+    "files": [
+      "homebrew.svg"
+    ]
+  },
+  {
     "name": "Hoodie",
     "shortname": "hoodie",
     "url": "http://hood.ie/",
@@ -4304,6 +4338,14 @@
     "url": "http://karma-runner.github.io/",
     "files": [
       "karma.svg"
+    ]
+  },
+  {
+    "name": "KDE",
+    "shortname": "kde",
+    "url": "https://kde.org/",
+    "files": [
+      "kde.svg"
     ]
   },
   {
@@ -5015,6 +5057,14 @@
     "url": "http://www.mattermost.org/",
     "files": [
       "mattermost.svg"
+    ]
+  },
+  {
+    "name": "Maven",
+    "shortname": "maven",
+    "url": "https://maven.apache.org/",
+    "files": [
+      "maven.svg"
     ]
   },
   {
@@ -8141,6 +8191,14 @@
     ]
   },
   {
+    "name": "TYPO3",
+    "shortname": "typo3",
+    "url": "https://typo3.com/",
+    "files": [
+      "typo3.svg"
+    ]
+  },
+  {
     "name": "ubuntu",
     "shortname": "ubuntu",
     "url": "http://www.ubuntu.com/",
@@ -8266,6 +8324,14 @@
     "url": "https://github.com/unbit/uwsgi",
     "files": [
       "uwsgi.svg"
+    ]
+  },
+  {
+    "name": "V",
+    "shortname": "vlang",
+    "url": "https://vlang.io/",
+    "files": [
+      "vlang.svg"
     ]
   },
   {
@@ -8517,6 +8583,15 @@
     "url": "https://webflow.com",
     "files": [
       "webflow.svg"
+    ]
+  },
+  {
+    "name": "Webhint",
+    "shortname": "webhint",
+    "url": "https://webhint.io/",
+    "files": [
+      "webhint-icon.svg",
+      "webhint.svg"
     ]
   },
   {
@@ -8936,6 +9011,14 @@
     "url": "http://www.zoho.com/",
     "files": [
       "zoho.svg"
+    ]
+  },
+  {
+    "name": "Zorin OS",
+    "shortname": "zorin-os",
+    "url": "https://zorinos.com/",
+    "files": [
+      "zorin-os.svg"
     ]
   },
   {

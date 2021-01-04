@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://amp.dev/" target="_blank">AMP</a>
+![amp](https://cdn.svgporn.com/logos/amp-icon.svg)
+![amp](https://cdn.svgporn.com/logos/amp.svg)
+## <a href="https://www.blender.org/" target="_blank">Blender</a>
+![blender](https://cdn.svgporn.com/logos/blender.svg)
+## <a href="https://capacitorjs.com/" target="_blank">Capacitor</a>
+![capacitorjs](https://cdn.svgporn.com/logos/capacitorjs-icon.svg)
+![capacitorjs](https://cdn.svgporn.com/logos/capacitorjs.svg)
+## <a href="https://brew.sh/" target="_blank">Homebrew</a>
+![homebrew](https://cdn.svgporn.com/logos/homebrew.svg)
+## <a href="https://kde.org/" target="_blank">KDE</a>
+![kde](https://cdn.svgporn.com/logos/kde.svg)
+## <a href="https://maven.apache.org/" target="_blank">Maven</a>
+![maven](https://cdn.svgporn.com/logos/maven.svg)
+## <a href="https://typo3.com/" target="_blank">TYPO3</a>
+![typo3](https://cdn.svgporn.com/logos/typo3.svg)
+## <a href="https://vlang.io/" target="_blank">V</a>
+![vlang](https://cdn.svgporn.com/logos/vlang.svg)
+## <a href="https://webhint.io/" target="_blank">Webhint</a>
+![webhint](https://cdn.svgporn.com/logos/webhint-icon.svg)
+![webhint](https://cdn.svgporn.com/logos/webhint.svg)
+## <a href="https://zorinos.com/" target="_blank">Zorin OS</a>
+![zorin-os](https://cdn.svgporn.com/logos/zorin-os.svg)
 ## <a href="https://booqable.com/" target="_blank">Booqable</a>
 ![booqable](https://cdn.svgporn.com/logos/booqable.svg)
 ## <a href="https://buildkite.com/" target="_blank">Buildkite</a>
@@ -114,28 +137,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![chromatic](https://cdn.svgporn.com/logos/chromatic.svg)
 ## <a href="https://www.figma.com/" target="_blank">Figma</a>
 ![figma](https://cdn.svgporn.com/logos/figma.svg)
-## <a href="https://mdxjs.com/" target="_blank">MDX</a>
-![mdx](https://cdn.svgporn.com/logos/mdx.svg)
-## <a href="https://github.com/zeit/now" target="_blank">Now</a>
-![now](https://cdn.svgporn.com/logos/now.svg)
-## <a href="https://solid.mit.edu/" target="_blank">Solid</a>
-![solid](https://cdn.svgporn.com/logos/solid.svg)
-## <a href="https://svelte.dev/" target="_blank">Svelte</a>
-![svelte](https://cdn.svgporn.com/logos/svelte-icon.svg)
-![svelte](https://cdn.svgporn.com/logos/svelte.svg)
-## <a href="https://thenextweb.com/" target="_blank">TNW</a>
-![tnw](https://cdn.svgporn.com/logos/tnw.svg)
-## <a href="https://zeplin.io/" target="_blank">Zeplin</a>
-![zeplin](https://cdn.svgporn.com/logos/zeplin.svg)
-## <a href="http://csharp.net/" target="_blank">C Sharp (C#) </a>
-![c-sharp](https://cdn.svgporn.com/logos/c-sharp.svg)
-## <a href="https://www.w3.org/standards/semanticweb/" target="_blank">Semantic Web</a>
-![semantic-web](https://cdn.svgporn.com/logos/semantic-web.svg)
-## <a href="https://signal.org/" target="_blank">Signal</a>
-![signal](https://cdn.svgporn.com/logos/signal.svg)
-## <a href="https://appsignal.com/" target="_blank">AppSignal</a>
-![appsignal](https://cdn.svgporn.com/logos/appsignal-icon.svg)
-![appsignal](https://cdn.svgporn.com/logos/appsignal.svg)
 
 ---
 
