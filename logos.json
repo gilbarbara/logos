@@ -24,14 +24,6 @@
     ]
   },
   {
-    "name": "6px",
-    "shortname": "6px",
-    "url": "https://6px.io/",
-    "files": [
-      "6px.svg"
-    ]
-  },
-  {
     "name": "AdMob",
     "shortname": "admob",
     "url": "https://www.google.com/admob/",
@@ -251,35 +243,11 @@
     ]
   },
   {
-    "name": "api.ai",
-    "shortname": "api-ai",
-    "url": "https://api.ai/",
-    "files": [
-      "api-ai.svg"
-    ]
-  },
-  {
     "name": "Apiary",
     "shortname": "apiary",
     "url": "https://apiary.io/",
     "files": [
       "apiary.svg"
-    ]
-  },
-  {
-    "name": "Apigee",
-    "shortname": "apigee",
-    "url": "http://apigee.com/",
-    "files": [
-      "apigee.svg"
-    ]
-  },
-  {
-    "name": "APItools",
-    "shortname": "apitools",
-    "url": "https://www.apitools.com/",
-    "files": [
-      "apitools.svg"
     ]
   },
   {
@@ -296,14 +264,6 @@
     "url": "http://appbase.io/",
     "files": [
       "appbase.svg"
-    ]
-  },
-  {
-    "name": "Appcelerator",
-    "shortname": "appcelerator",
-    "url": "http://www.appcelerator.com/",
-    "files": [
-      "appcelerator.svg"
     ]
   },
   {
@@ -329,22 +289,6 @@
     "url": "http://www.appdynamics.com/",
     "files": [
       "appdynamics.svg"
-    ]
-  },
-  {
-    "name": "AppFog",
-    "shortname": "appfog",
-    "url": "https://www.ctl.io/appfog/",
-    "files": [
-      "appfog.svg"
-    ]
-  },
-  {
-    "name": "AppHub",
-    "shortname": "apphub",
-    "url": "https://apphub.io/",
-    "files": [
-      "apphub.svg"
     ]
   },
   {
@@ -377,22 +321,6 @@
     "url": "https://www.apple.com/apple-pay/",
     "files": [
       "apple-pay.svg"
-    ]
-  },
-  {
-    "name": "Appmaker",
-    "shortname": "appmaker",
-    "url": "https://webmaker.org/appmaker",
-    "files": [
-      "appmaker.svg"
-    ]
-  },
-  {
-    "name": "Apportable",
-    "shortname": "apportable",
-    "url": "http://www.apportable.com/",
-    "files": [
-      "apportable.svg"
     ]
   },
   {
@@ -517,14 +445,6 @@
     ]
   },
   {
-    "name": "Aurous",
-    "shortname": "aurous",
-    "url": "https://aurous.me/",
-    "files": [
-      "aurous.svg"
-    ]
-  },
-  {
     "name": "Auth0",
     "shortname": "auth0",
     "url": "https://auth0.com/",
@@ -538,14 +458,6 @@
     "url": "https://www.authy.com/",
     "files": [
       "authy.svg"
-    ]
-  },
-  {
-    "name": "autocode",
-    "shortname": "autocode",
-    "url": "http://autocode.crystal.sh/",
-    "files": [
-      "autocode.svg"
     ]
   },
   {
@@ -698,14 +610,6 @@
     "url": "https://aws.amazon.com/lambda/",
     "files": [
       "aws-lambda.svg"
-    ]
-  },
-  {
-    "name": "AWS Mobile Hub",
-    "shortname": "aws-mobilehub",
-    "url": "http://aws.amazon.com/mobile/",
-    "files": [
-      "aws-mobilehub.svg"
     ]
   },
   {
@@ -895,14 +799,6 @@
     ]
   },
   {
-    "name": "BitBalloon",
-    "shortname": "bitballoon",
-    "url": "https://www.bitballoon.com/",
-    "files": [
-      "bitballoon.svg"
-    ]
-  },
-  {
     "name": "Bitbucket",
     "shortname": "bitbucket",
     "url": "https://bitbucket.org/",
@@ -968,14 +864,6 @@
     ]
   },
   {
-    "name": "Bluemix",
-    "shortname": "bluemix",
-    "url": "https://console.ng.bluemix.net/",
-    "files": [
-      "bluemix.svg"
-    ]
-  },
-  {
     "name": "Blueprint",
     "shortname": "blueprint",
     "url": "http://blueprintjs.com/",
@@ -1037,14 +925,6 @@
     "url": "http://bower.io/",
     "files": [
       "bower.svg"
-    ]
-  },
-  {
-    "name": "Bowtie",
-    "shortname": "bowtie",
-    "url": "https://bowtie.io/",
-    "files": [
-      "bowtie.svg"
     ]
   },
   {
@@ -1292,14 +1172,6 @@
     ]
   },
   {
-    "name": "Campfire",
-    "shortname": "campfire",
-    "url": "https://campfirenow.com/",
-    "files": [
-      "campfire.svg"
-    ]
-  },
-  {
     "name": "CanJS",
     "shortname": "canjs",
     "url": "http://canjs.com/",
@@ -1341,14 +1213,6 @@
     ]
   },
   {
-    "name": "Celluloid",
-    "shortname": "celluloid",
-    "url": "https://celluloid.io/",
-    "files": [
-      "celluloid.svg"
-    ]
-  },
-  {
     "name": "CentOS",
     "shortname": "centos",
     "url": "https://www.centos.org/",
@@ -1382,28 +1246,12 @@
     ]
   },
   {
-    "name": "ChangeTip",
-    "shortname": "changetip",
-    "url": "https://www.changetip.com/",
-    "files": [
-      "changetip.svg"
-    ]
-  },
-  {
     "name": "Chargebee",
     "shortname": "chargebee",
     "url": "https://www.chargebee.com/",
     "files": [
       "chargebee-icon.svg",
       "chargebee.svg"
-    ]
-  },
-  {
-    "name": "Chartblocks",
-    "shortname": "chartblocks",
-    "url": "http://aws.amazon.com/mobile/",
-    "files": [
-      "chartblocks.svg"
     ]
   },
   {
@@ -1464,14 +1312,6 @@
     ]
   },
   {
-    "name": "ClickDeploy",
-    "shortname": "clickdeploy",
-    "url": "https://clickdeploy.co/",
-    "files": [
-      "clickdeploy.svg"
-    ]
-  },
-  {
     "name": "CLion",
     "shortname": "clion",
     "url": "https://www.jetbrains.com/clion/",
@@ -1520,27 +1360,11 @@
     ]
   },
   {
-    "name": "Cloudant",
-    "shortname": "cloudant",
-    "url": "https://cloudant.com/",
-    "files": [
-      "cloudant.svg"
-    ]
-  },
-  {
     "name": "Cloudcraft",
     "shortname": "cloudcraft",
     "url": "https://cloudcraft.co/",
     "files": [
       "cloudcraft.svg"
-    ]
-  },
-  {
-    "name": "Cloudera",
-    "shortname": "cloudera",
-    "url": "http://www.cloudera.com/",
-    "files": [
-      "cloudera.svg"
     ]
   },
   {
@@ -1565,14 +1389,6 @@
     "url": "https://cloudlinux.com/",
     "files": [
       "cloudlinux.svg"
-    ]
-  },
-  {
-    "name": "ClusterHQ",
-    "shortname": "clusterhq",
-    "url": "https://clusterhq.com/",
-    "files": [
-      "clusterhq.svg"
     ]
   },
   {
@@ -1624,14 +1440,6 @@
     ]
   },
   {
-    "name": "Code School",
-    "shortname": "codeschool",
-    "url": "https://www.codeschool.com/",
-    "files": [
-      "codeschool.svg"
-    ]
-  },
-  {
     "name": "Codebase",
     "shortname": "codebase",
     "url": "https://www.codebasehq.com/",
@@ -1680,15 +1488,6 @@
     ]
   },
   {
-    "name": "Codefund",
-    "shortname": "codefund",
-    "url": "https://www.codefund.io/",
-    "files": [
-      "codefund-icon.svg",
-      "codefund.svg"
-    ]
-  },
-  {
     "name": "CodeIgniter",
     "shortname": "codeigniter",
     "url": "http://www.codeigniter.com/",
@@ -1703,14 +1502,6 @@
     "files": [
       "codepen-icon.svg",
       "codepen.svg"
-    ]
-  },
-  {
-    "name": "CodePicnic",
-    "shortname": "codepicnic",
-    "url": "https://codepicnic.com/",
-    "files": [
-      "codepicnic.svg"
     ]
   },
   {
@@ -1767,14 +1558,6 @@
     "url": "http://compass-style.org/",
     "files": [
       "compass.svg"
-    ]
-  },
-  {
-    "name": "Component",
-    "shortname": "component",
-    "url": "https://github.com/componentjs/component",
-    "files": [
-      "component.svg"
     ]
   },
   {
@@ -1839,14 +1622,6 @@
     "url": "https://www.consul.io/",
     "files": [
       "consul.svg"
-    ]
-  },
-  {
-    "name": "ContainerShip",
-    "shortname": "containership",
-    "url": "https://containership.io/",
-    "files": [
-      "containership.svg"
     ]
   },
   {
@@ -2000,7 +1775,7 @@
   {
     "name": "cssnext",
     "shortname": "cssnext",
-    "url": "http://cssnext.io/",
+    "url": "https://cssnext.github.io/",
     "files": [
       "cssnext.svg"
     ]
@@ -2070,14 +1845,6 @@
     ]
   },
   {
-    "name": "dat",
-    "shortname": "dat",
-    "url": "http://dat-data.com/",
-    "files": [
-      "dat.svg"
-    ]
-  },
-  {
     "name": "Database Labs",
     "shortname": "database-labs",
     "url": "https://www.databaselabs.io/",
@@ -2111,14 +1878,6 @@
     ]
   },
   {
-    "name": "Delicious",
-    "shortname": "delicious",
-    "url": "https://delicious.com/",
-    "files": [
-      "delicious.svg"
-    ]
-  },
-  {
     "name": "Delighted",
     "shortname": "delighted",
     "url": "https://delighted.com/",
@@ -2135,27 +1894,11 @@
     ]
   },
   {
-    "name": "Dependency CI",
-    "shortname": "dependencyci",
-    "url": "https://dependencyci.com/",
-    "files": [
-      "dependencyci.svg"
-    ]
-  },
-  {
     "name": "Deploy",
     "shortname": "deploy",
     "url": "https://www.deployhq.com/",
     "files": [
       "deploy.svg"
-    ]
-  },
-  {
-    "name": "deppbot",
-    "shortname": "deppbot",
-    "url": "https://www.deppbot.com/",
-    "files": [
-      "deppbot.svg"
     ]
   },
   {
@@ -2172,14 +1915,6 @@
     "url": "https://www.designernews.co/",
     "files": [
       "designernews.svg"
-    ]
-  },
-  {
-    "name": "Desk.com",
-    "shortname": "desk",
-    "url": "http://www.desk.com/",
-    "files": [
-      "desk.svg"
     ]
   },
   {
@@ -2297,22 +2032,6 @@
     ]
   },
   {
-    "name": "DoubleClick",
-    "shortname": "doubleclick",
-    "url": "https://www.doubleclickbygoogle.com/",
-    "files": [
-      "doubleclick.svg"
-    ]
-  },
-  {
-    "name": "DreamFactory",
-    "shortname": "dreamfactory",
-    "url": "https://www.dreamfactory.com/",
-    "files": [
-      "dreamfactory.svg"
-    ]
-  },
-  {
     "name": "DreamHost",
     "shortname": "dreamhost",
     "url": "https://www.dreamhost.com/",
@@ -2403,14 +2122,6 @@
     ]
   },
   {
-    "name": "Eager",
-    "shortname": "eager",
-    "url": "https://eager.io/",
-    "files": [
-      "eager.svg"
-    ]
-  },
-  {
     "name": "EBANX",
     "shortname": "ebanx",
     "url": "https://www.ebanx.com",
@@ -2432,14 +2143,6 @@
     "url": "https://egghead.io/",
     "files": [
       "egghead.svg"
-    ]
-  },
-  {
-    "name": "ElasticBox",
-    "shortname": "elasticbox",
-    "url": "https://elasticbox.com/",
-    "files": [
-      "elasticbox.svg"
     ]
   },
   {
@@ -2702,14 +2405,6 @@
     ]
   },
   {
-    "name": "Fabric",
-    "shortname": "fabric_io",
-    "url": "https://get.fabric.io/",
-    "files": [
-      "fabric_io.svg"
-    ]
-  },
-  {
     "name": "Facebook",
     "shortname": "facebook",
     "url": "https://www.facebook.com/",
@@ -2830,14 +2525,6 @@
     ]
   },
   {
-    "name": "flexible.gs",
-    "shortname": "flexible-gs",
-    "url": "http://flexible.gs/",
-    "files": [
-      "flexible-gs.svg"
-    ]
-  },
-  {
     "name": "flickr",
     "shortname": "flickr",
     "url": "https://www.flickr.com/",
@@ -2851,14 +2538,6 @@
     "url": "https://flightjs.github.io/",
     "files": [
       "flight.svg"
-    ]
-  },
-  {
-    "name": "Flocker",
-    "shortname": "flocker",
-    "url": "https://clusterhq.com/flocker/",
-    "files": [
-      "flocker.svg"
     ]
   },
   {
@@ -2915,14 +2594,6 @@
     "url": "http://fluxxor.com/",
     "files": [
       "fluxxor.svg"
-    ]
-  },
-  {
-    "name": "Fly",
-    "shortname": "flyjs",
-    "url": "https://github.com/flyjs/fly",
-    "files": [
-      "flyjs.svg"
     ]
   },
   {
@@ -3055,27 +2726,11 @@
     ]
   },
   {
-    "name": "Gauge",
-    "shortname": "gaugeio",
-    "url": "http://getgauge.io/",
-    "files": [
-      "gaugeio.svg"
-    ]
-  },
-  {
     "name": "geekbot",
     "shortname": "geekbot",
     "url": "https://geekbot.io/",
     "files": [
       "geekbot.svg"
-    ]
-  },
-  {
-    "name": "Get Satisfaction",
-    "shortname": "get-satisfaction",
-    "url": "https://getsatisfaction.com/",
-    "files": [
-      "get-satisfaction.svg"
     ]
   },
   {
@@ -3227,28 +2882,12 @@
     ]
   },
   {
-    "name": "Gomix",
-    "shortname": "gomix",
-    "url": "https://gomix.com/",
-    "files": [
-      "gomix.svg"
-    ]
-  },
-  {
     "name": "Google",
     "shortname": "google",
     "url": "http://www.google.com/",
     "files": [
       "google-icon.svg",
       "google.svg"
-    ]
-  },
-  {
-    "name": "Google +",
-    "shortname": "googleplus",
-    "url": "https://plus.google.com/",
-    "files": [
-      "google-plus.svg"
     ]
   },
   {
@@ -3273,14 +2912,6 @@
     "url": "http://www.google.com/adsense/",
     "files": [
       "google-adsense.svg"
-    ]
-  },
-  {
-    "name": "Google AdWords",
-    "shortname": "google-adwords",
-    "url": "http://www.google.com/adwords/",
-    "files": [
-      "google-adwords.svg"
     ]
   },
   {
@@ -3313,14 +2944,6 @@
     "url": "https://cloud.google.com/functions/",
     "files": [
       "google-cloud-functions.svg"
-    ]
-  },
-  {
-    "name": "Google Cloud Platform",
-    "shortname": "google-cloud-platform",
-    "url": "https://cloud.google.com/gcp/",
-    "files": [
-      "google-cloud-platform.svg"
     ]
   },
   {
@@ -3370,14 +2993,6 @@
     "url": "http://gmail.com/",
     "files": [
       "google-gmail.svg"
-    ]
-  },
-  {
-    "name": "Google Inbox",
-    "shortname": "google-inbox",
-    "url": "https://www.google.com/inbox/",
-    "files": [
-      "google-inbox.svg"
     ]
   },
   {
@@ -3439,22 +3054,6 @@
     ]
   },
   {
-    "name": "Google Wallet",
-    "shortname": "google-wallet",
-    "url": "https://pay.google.com/about/",
-    "files": [
-      "google-wallet.svg"
-    ]
-  },
-  {
-    "name": "Gordon",
-    "shortname": "gordon",
-    "url": "https://github.com/jorgebastida/gordon",
-    "files": [
-      "gordon.svg"
-    ]
-  },
-  {
     "name": "Gradle",
     "shortname": "gradle",
     "url": "https://gradle.org/",
@@ -3479,22 +3078,6 @@
     ]
   },
   {
-    "name": "Grape",
-    "shortname": "grape",
-    "url": "http://intridea.github.io/grape/",
-    "files": [
-      "grape.svg"
-    ]
-  },
-  {
-    "name": "Graphcool",
-    "shortname": "graphcool",
-    "url": "https://www.graph.cool/",
-    "files": [
-      "graphcool.svg"
-    ]
-  },
-  {
     "name": "Graphene",
     "shortname": "graphene",
     "url": "http://graphene-python.org/",
@@ -3508,14 +3091,6 @@
     "url": "http://graphql.org/",
     "files": [
       "graphql.svg"
-    ]
-  },
-  {
-    "name": "Gratipay",
-    "shortname": "gratipay",
-    "url": "https://gratipay.com/",
-    "files": [
-      "gratipay.svg"
     ]
   },
   {
@@ -3762,14 +3337,6 @@
     ]
   },
   {
-    "name": "Heron",
-    "shortname": "heron",
-    "url": "http://twitter.github.io/heron/",
-    "files": [
-      "heron.svg"
-    ]
-  },
-  {
     "name": "Hexo",
     "shortname": "hexo",
     "url": "https://hexo.io/",
@@ -3831,14 +3398,6 @@
     "url": "http://hood.ie/",
     "files": [
       "hoodie.svg"
-    ]
-  },
-  {
-    "name": "Horizon",
-    "shortname": "horizon",
-    "url": "https://horizon.io/",
-    "files": [
-      "horizon.svg"
     ]
   },
   {
@@ -4048,14 +3607,6 @@
     "url": "http://www.invisionapp.com/",
     "files": [
       "invision.svg"
-    ]
-  },
-  {
-    "name": "io.js",
-    "shortname": "io",
-    "url": "https://iojs.org/",
-    "files": [
-      "io.svg"
     ]
   },
   {
@@ -4413,14 +3964,6 @@
     ]
   },
   {
-    "name": "Kinvey",
-    "shortname": "kinvey",
-    "url": "http://www.kinvey.com/",
-    "files": [
-      "kinvey.svg"
-    ]
-  },
-  {
     "name": "kirby",
     "shortname": "kirby",
     "url": "http://getkirby.com/",
@@ -4479,17 +4022,9 @@
   {
     "name": "Kong",
     "shortname": "kong",
-    "url": "http://netflix.github.io/falcor/",
+    "url": "https://konghq.com/",
     "files": [
       "kong.svg"
-    ]
-  },
-  {
-    "name": "Kontena",
-    "shortname": "kontena",
-    "url": "http://www.kontena.io/",
-    "files": [
-      "kontena.svg"
     ]
   },
   {
@@ -4506,14 +4041,6 @@
     "url": "https://kore.io/",
     "files": [
       "koreio.svg"
-    ]
-  },
-  {
-    "name": "kore",
-    "shortname": "kore",
-    "url": "https://www.kore.com/",
-    "files": [
-      "kore.svg"
     ]
   },
   {
@@ -4581,14 +4108,6 @@
     ]
   },
   {
-    "name": "LaunchKit",
-    "shortname": "launchkit",
-    "url": "https://launchkit.io/",
-    "files": [
-      "launchkit.svg"
-    ]
-  },
-  {
     "name": "Launchrock",
     "shortname": "launchrock",
     "url": "https://www.launchrock.com/",
@@ -4643,14 +4162,6 @@
     "url": "https://github.com/google/leveldb",
     "files": [
       "leveldb.svg"
-    ]
-  },
-  {
-    "name": "Librato",
-    "shortname": "librato",
-    "url": "https://www.librato.com/",
-    "files": [
-      "librato.svg"
     ]
   },
   {
@@ -4727,14 +4238,6 @@
     ]
   },
   {
-    "name": "Locent",
-    "shortname": "locent",
-    "url": "https://locent.com/",
-    "files": [
-      "locent.svg"
-    ]
-  },
-  {
     "name": "Lodash",
     "shortname": "lodash",
     "url": "https://lodash.com/",
@@ -4748,22 +4251,6 @@
     "url": "https://logentries.com/",
     "files": [
       "logentries.svg"
-    ]
-  },
-  {
-    "name": "loggly",
-    "shortname": "loggly",
-    "url": "http://loggly.com/",
-    "files": [
-      "loggly.svg"
-    ]
-  },
-  {
-    "name": "Logmatic",
-    "shortname": "logmatic",
-    "url": "http://logmatic.io/",
-    "files": [
-      "logmatic.svg"
     ]
   },
   {
@@ -4848,14 +4335,6 @@
     ]
   },
   {
-    "name": "lynda.com",
-    "shortname": "lynda",
-    "url": "http://www.lynda.com/",
-    "files": [
-      "lynda.svg"
-    ]
-  },
-  {
     "name": "Mac OS",
     "shortname": "macos",
     "url": "https://www.apple.com/macos/",
@@ -4874,7 +4353,7 @@
   {
     "name": "Maestro",
     "shortname": "maestro",
-    "url": "http://www.maestrocard.com/",
+    "url": "https://brand.mastercard.com/brandcenter/more-about-our-brands.html",
     "files": [
       "maestro.svg"
     ]
@@ -4893,14 +4372,6 @@
     "url": "http://magento.com/",
     "files": [
       "magento.svg"
-    ]
-  },
-  {
-    "name": "Magneto",
-    "shortname": "magneto",
-    "url": "http://getmagneto.com/",
-    "files": [
-      "magneto.svg"
     ]
   },
   {
@@ -4927,31 +4398,6 @@
     "files": [
       "mailgun-icon.svg",
       "mailgun.svg"
-    ]
-  },
-  {
-    "name": "Mandrill",
-    "shortname": "mandrill",
-    "url": "http://mandrill.com/",
-    "files": [
-      "mandrill-shield.svg",
-      "mandrill.svg"
-    ]
-  },
-  {
-    "name": "manifoldJS",
-    "shortname": "manifoldjs",
-    "url": "http://www.manifoldjs.com/",
-    "files": [
-      "manifoldjs.svg"
-    ]
-  },
-  {
-    "name": "Mantl",
-    "shortname": "mantl",
-    "url": "https://mantl.io/",
-    "files": [
-      "mantl.svg"
     ]
   },
   {
@@ -5030,7 +4476,7 @@
   {
     "name": "Mastercard",
     "shortname": "mastercard",
-    "url": "http://www.mastercard.com/",
+    "url": "https://www.mastercard.com/",
     "files": [
       "mastercard.svg"
     ]
@@ -5133,27 +4579,11 @@
     ]
   },
   {
-    "name": "Mern",
-    "shortname": "mern",
-    "url": "http://mern.io/",
-    "files": [
-      "mern.svg"
-    ]
-  },
-  {
     "name": "Mesos",
     "shortname": "mesos",
     "url": "http://mesos.apache.org/",
     "files": [
       "mesos.svg"
-    ]
-  },
-  {
-    "name": "Mesosphere",
-    "shortname": "mesosphere",
-    "url": "https://mesosphere.com/",
-    "files": [
-      "mesosphere.svg"
     ]
   },
   {
@@ -5273,7 +4703,7 @@
   {
     "name": "MobX",
     "shortname": "mobx",
-    "url": "https://mobxjs.github.io/mobx/",
+    "url": "https://mobx.js.org/",
     "files": [
       "mobx.svg"
     ]
@@ -5400,14 +4830,6 @@
     ]
   },
   {
-    "name": "Myth",
-    "shortname": "myth",
-    "url": "http://www.myth.io/",
-    "files": [
-      "myth.svg"
-    ]
-  },
-  {
     "name": "Namecheap",
     "shortname": "namecheap",
     "url": "https://www.namecheap.com/",
@@ -5445,14 +4867,6 @@
     "url": "http://neo4j.com/",
     "files": [
       "neo4j.svg"
-    ]
-  },
-  {
-    "name": "Neonmetrics",
-    "shortname": "neonmetrics",
-    "url": "http://neonmetrics.com/",
-    "files": [
-      "neonmetrics.svg"
     ]
   },
   {
@@ -5494,14 +4908,6 @@
     "url": "https://www.netlify.com/",
     "files": [
       "netlify.svg"
-    ]
-  },
-  {
-    "name": "Netuitive",
-    "shortname": "netuitive",
-    "url": "http://www.netuitive.com/",
-    "files": [
-      "netuitive.svg"
     ]
   },
   {
@@ -5578,14 +4984,6 @@
     ]
   },
   {
-    "name": "Nodejitsu",
-    "shortname": "nodejitsu",
-    "url": "https://www.nodejitsu.com/",
-    "files": [
-      "nodejitsu.svg"
-    ]
-  },
-  {
     "name": "nodemon",
     "shortname": "nodemon",
     "url": "http://nodemon.io/",
@@ -5599,14 +4997,6 @@
     "url": "https://www.nomadproject.io/",
     "files": [
       "nomad.svg"
-    ]
-  },
-  {
-    "name": "Now",
-    "shortname": "now",
-    "url": "https://github.com/zeit/now",
-    "files": [
-      "now.svg"
     ]
   },
   {
@@ -5632,14 +5022,6 @@
     "url": "http://nuclide.io/",
     "files": [
       "nuclide.svg"
-    ]
-  },
-  {
-    "name": "NuoDB",
-    "shortname": "nuodb",
-    "url": "http://www.kinto-storage.org/",
-    "files": [
-      "nuodb.svg"
     ]
   },
   {
@@ -5700,14 +5082,6 @@
     ]
   },
   {
-    "name": "olapic",
-    "shortname": "olapic",
-    "url": "http://www.olapic.com/",
-    "files": [
-      "olapic.svg"
-    ]
-  },
-  {
     "name": "Olark",
     "shortname": "olark",
     "url": "https://www.olark.com/",
@@ -5721,14 +5095,6 @@
     "url": "https://onesignal.com/",
     "files": [
       "onesignal.svg"
-    ]
-  },
-  {
-    "name": "opbeat",
-    "shortname": "opbeat",
-    "url": "https://opbeat.com/",
-    "files": [
-      "opbeat.svg"
     ]
   },
   {
@@ -5820,14 +5186,6 @@
     ]
   },
   {
-    "name": "Opsee",
-    "shortname": "opsee",
-    "url": "https://opsee.com/",
-    "files": [
-      "opsee.svg"
-    ]
-  },
-  {
     "name": "OpsGenie",
     "shortname": "opsgenie",
     "url": "https://www.opsgenie.com/",
@@ -5873,14 +5231,6 @@
     "url": "https://osquery.io/",
     "files": [
       "osquery.svg"
-    ]
-  },
-  {
-    "name": "Otto",
-    "shortname": "otto",
-    "url": "https://ottoproject.io/",
-    "files": [
-      "otto.svg"
     ]
   },
   {
@@ -6004,14 +5354,6 @@
     ]
   },
   {
-    "name": "Periscope",
-    "shortname": "periscope",
-    "url": "https://www.periscopedata.com/",
-    "files": [
-      "periscope.svg"
-    ]
-  },
-  {
     "name": "Perl",
     "shortname": "perl",
     "url": "https://www.perl.org/",
@@ -6061,30 +5403,6 @@
     ]
   },
   {
-    "name": "Picasa",
-    "shortname": "picasa",
-    "url": "https://picasa.google.com/",
-    "files": [
-      "picasa.svg"
-    ]
-  },
-  {
-    "name": "Pingdom",
-    "shortname": "pingdom",
-    "url": "https://www.pingdom.com/",
-    "files": [
-      "pingdom.svg"
-    ]
-  },
-  {
-    "name": "Pingy",
-    "shortname": "pingy",
-    "url": "https://pin.gy/",
-    "files": [
-      "pingy.svg"
-    ]
-  },
-  {
     "name": "Pinterest",
     "shortname": "pinterest",
     "url": "https://www.pinterest.com/",
@@ -6114,14 +5432,6 @@
     "url": "http://www.pivotaltracker.com/",
     "files": [
       "pivotal_tracker.svg"
-    ]
-  },
-  {
-    "name": "Pixate",
-    "shortname": "pixate",
-    "url": "http://www.pixate.com/",
-    "files": [
-      "pixate.svg"
     ]
   },
   {
@@ -6173,14 +5483,6 @@
     ]
   },
   {
-    "name": "Podio",
-    "shortname": "podio",
-    "url": "https://podio.com/",
-    "files": [
-      "podio.svg"
-    ]
-  },
-  {
     "name": "POEditor",
     "shortname": "poeditor",
     "url": "https://poeditor.com/",
@@ -6194,14 +5496,6 @@
     "url": "https://www.polymer-project.org/1.0/",
     "files": [
       "polymer.svg"
-    ]
-  },
-  {
-    "name": "Positionly",
-    "shortname": "positionly",
-    "url": "https://positionly.com/",
-    "files": [
-      "positionly.svg"
     ]
   },
   {
@@ -6496,14 +5790,6 @@
     ]
   },
   {
-    "name": "Qordoba",
-    "shortname": "qordoba",
-    "url": "https://www.qordoba.com/",
-    "files": [
-      "qordoba.svg"
-    ]
-  },
-  {
     "name": "Qt",
     "shortname": "qt",
     "url": "http://www.qt.io/",
@@ -6673,14 +5959,6 @@
     ]
   },
   {
-    "name": "Recast.AI",
-    "shortname": "recast.ai",
-    "url": "https://recast.ai/",
-    "files": [
-      "recast.ai.svg"
-    ]
-  },
-  {
     "name": "Reddit",
     "shortname": "reddit",
     "url": "https://www.reddit.com/",
@@ -6714,14 +5992,6 @@
     ]
   },
   {
-    "name": "Redspread",
-    "shortname": "redspread",
-    "url": "https://redspread.com/",
-    "files": [
-      "redspread.svg"
-    ]
-  },
-  {
     "name": "Redux",
     "shortname": "redux",
     "url": "http://redux.js.org/",
@@ -6746,14 +6016,6 @@
     ]
   },
   {
-    "name": "Refactor.io",
-    "shortname": "refactor",
-    "url": "https://www.refactor.io/",
-    "files": [
-      "refactor.svg"
-    ]
-  },
-  {
     "name": "Reindex",
     "shortname": "reindex",
     "url": "https://www.reindex.io/",
@@ -6770,27 +6032,11 @@
     ]
   },
   {
-    "name": "Remergr",
-    "shortname": "remergr",
-    "url": "https://remergr.io/",
-    "files": [
-      "remergr.svg"
-    ]
-  },
-  {
     "name": "RequireJS",
     "shortname": "require",
     "url": "http://requirejs.org/",
     "files": [
       "require.svg"
-    ]
-  },
-  {
-    "name": "Rest",
-    "shortname": "rest",
-    "url": "http://www.w3.org/2001/sw/wiki/REST",
-    "files": [
-      "rest.svg"
     ]
   },
   {
@@ -6820,17 +6066,9 @@
   {
     "name": "Riot",
     "shortname": "riotjs",
-    "url": "http://riotjs.com/",
+    "url": "https://riot.js.org/",
     "files": [
       "riot.svg"
-    ]
-  },
-  {
-    "name": "rkt",
-    "shortname": "rkt",
-    "url": "https://github.com/coreos/rkt",
-    "files": [
-      "rkt.svg"
     ]
   },
   {
@@ -6884,7 +6122,7 @@
   {
     "name": "RuboCop",
     "shortname": "rubocop",
-    "url": "http://batsov.com/rubocop/",
+    "url": "https://rubocop.org/",
     "files": [
       "rubocop.svg"
     ]
@@ -6919,22 +6157,6 @@
     "url": "https://github.com/tonsky/rum",
     "files": [
       "rum.svg"
-    ]
-  },
-  {
-    "name": "RunAbove",
-    "shortname": "run-above",
-    "url": "https://www.runabove.com/",
-    "files": [
-      "run-above.svg"
-    ]
-  },
-  {
-    "name": "Runnable",
-    "shortname": "runnable",
-    "url": "https://runnable.io/",
-    "files": [
-      "runnable.svg"
     ]
   },
   {
@@ -6994,14 +6216,6 @@
     ]
   },
   {
-    "name": "SaltStack",
-    "shortname": "saltstack",
-    "url": "http://saltstack.com/",
-    "files": [
-      "saltstack.svg"
-    ]
-  },
-  {
     "name": "Sameroom",
     "shortname": "sameroom",
     "url": "https://sameroom.io/",
@@ -7055,14 +6269,6 @@
     "url": "https://www.scaledrone.com/",
     "files": [
       "scaledrone.svg"
-    ]
-  },
-  {
-    "name": "Scaphold",
-    "shortname": "scaphold",
-    "url": "https://scaphold.io/",
-    "files": [
-      "scaphold.svg"
     ]
   },
   {
@@ -7180,7 +6386,7 @@
   {
     "name": "Sherlock",
     "shortname": "sherlock",
-    "url": "https://sherlock.knowtify.io/",
+    "url": "https://www.sherlockscore.com/",
     "files": [
       "sherlock.svg"
     ]
@@ -7255,14 +6461,6 @@
     "url": "http://www.sinatrarb.com/",
     "files": [
       "sinatra.svg"
-    ]
-  },
-  {
-    "name": "Siphon",
-    "shortname": "siphon",
-    "url": "https://getsiphon.com/",
-    "files": [
-      "siphon.svg"
     ]
   },
   {
@@ -7381,7 +6579,7 @@
   {
     "name": "Solid",
     "shortname": "solid",
-    "url": "https://solid.mit.edu/",
+    "url": "https://solidproject.org/",
     "files": [
       "solid.svg"
     ]
@@ -7477,7 +6675,7 @@
   {
     "name": "Spinnaker",
     "shortname": "spinnaker",
-    "url": "spinnaker",
+    "url": "https://spinnaker.io/",
     "files": [
       "spinnaker.svg"
     ]
@@ -7496,14 +6694,6 @@
     "url": "https://spring.io/",
     "files": [
       "spring.svg"
-    ]
-  },
-  {
-    "name": "SQLdep",
-    "shortname": "sqldep",
-    "url": "https://sqldep.com/",
-    "files": [
-      "sqldep.svg"
     ]
   },
   {
@@ -7557,14 +6747,6 @@
     ]
   },
   {
-    "name": "Stacksmith",
-    "shortname": "stacksmith",
-    "url": "https://stacksmith.bitnami.com/",
-    "files": [
-      "stacksmith.svg"
-    ]
-  },
-  {
     "name": "StatusPage",
     "shortname": "statuspage",
     "url": "https://www.statuspage.io/",
@@ -7578,14 +6760,6 @@
     "url": "http://store.steampowered.com/",
     "files": [
       "steam.svg"
-    ]
-  },
-  {
-    "name": "Steroids",
-    "shortname": "steroids",
-    "url": "https://www.appgyver.io/steroids",
-    "files": [
-      "steroids.svg"
     ]
   },
   {
@@ -7629,14 +6803,6 @@
     ]
   },
   {
-    "name": "Stormpath",
-    "shortname": "stormpath",
-    "url": "https://stormpath.com/",
-    "files": [
-      "stormpath.svg"
-    ]
-  },
-  {
     "name": "Storybook",
     "shortname": "storybook",
     "url": "https://storybook.js.org/",
@@ -7657,7 +6823,7 @@
   {
     "name": "Strider",
     "shortname": "strider",
-    "url": "http://stridercd.com/",
+    "url": "https://strider-cd.github.io/",
     "files": [
       "strider.svg"
     ]
@@ -7733,30 +6899,6 @@
     "url": "https://github.com/postcss/sugarss",
     "files": [
       "sugarss.svg"
-    ]
-  },
-  {
-    "name": "Supergiant",
-    "shortname": "supergiant",
-    "url": "http://supergiant.io/",
-    "files": [
-      "supergiant.svg"
-    ]
-  },
-  {
-    "name": "Supersonic",
-    "shortname": "supersonic",
-    "url": "https://www.appgyver.io/supersonic",
-    "files": [
-      "supersonic.svg"
-    ]
-  },
-  {
-    "name": "supportkit",
-    "shortname": "supportkit",
-    "url": "https://supportkit.io/",
-    "files": [
-      "supportkit.svg"
     ]
   },
   {
@@ -7884,7 +7026,7 @@
   {
     "name": "tapcart",
     "shortname": "tapcart",
-    "url": "https://tapcart.co/",
+    "url": "https://tapcart.com/",
     "files": [
       "tapcart.svg"
     ]
@@ -7916,7 +7058,7 @@
   {
     "name": "Teamgrid",
     "shortname": "teamgrid",
-    "url": "http://www.teamgridapp.com/",
+    "url": "https://teamgridapp.com/",
     "files": [
       "teamgrid.svg"
     ]
@@ -7928,14 +7070,6 @@
     "files": [
       "teamwork-icon.svg",
       "teamwork.svg"
-    ]
-  },
-  {
-    "name": "Tecnotic",
-    "shortname": "tectonic",
-    "url": "https://tectonic.com/",
-    "files": [
-      "tectonic.svg"
     ]
   },
   {
@@ -7976,30 +7110,6 @@
     "url": "http://www.testlodge.com/",
     "files": [
       "testlodge.svg"
-    ]
-  },
-  {
-    "name": "Testmunk",
-    "shortname": "testmunk",
-    "url": "https://testmunk.com/",
-    "files": [
-      "testmunk.svg"
-    ]
-  },
-  {
-    "name": "Thimble",
-    "shortname": "thimble",
-    "url": "https://thimble.mozilla.org/",
-    "files": [
-      "thimble.svg"
-    ]
-  },
-  {
-    "name": "Titon",
-    "shortname": "titon",
-    "url": "http://titon.io/en/toolkit",
-    "files": [
-      "titon.svg"
     ]
   },
   {
@@ -8062,7 +7172,7 @@
   {
     "name": "Travis CI",
     "shortname": "travis-ci",
-    "url": "https://travis-ci.org/",
+    "url": "https://www.travis-ci.com/",
     "files": [
       "travis-ci.svg"
     ]
@@ -8102,7 +7212,7 @@
   {
     "name": "tsū˜",
     "shortname": "tsu",
-    "url": "http://www.tsu.co/",
+    "url": "https://www.tsusocial.com/",
     "files": [
       "tsu.svg"
     ]
@@ -8127,25 +7237,9 @@
   {
     "name": "Turret",
     "shortname": "turret",
-    "url": "http://bigfishtv.github.io/turret/",
+    "url": "https://turretcss.com/",
     "files": [
       "turret.svg"
-    ]
-  },
-  {
-    "name": "tuts+",
-    "shortname": "tutsplus",
-    "url": "http://tutsplus.com/",
-    "files": [
-      "tutsplus.svg"
-    ]
-  },
-  {
-    "name": "Tutum",
-    "shortname": "tutum",
-    "url": "https://www.tutum.co/",
-    "files": [
-      "tutum.svg"
     ]
   },
   {
@@ -8393,14 +7487,6 @@
     ]
   },
   {
-    "name": "VictorOps",
-    "shortname": "victorops",
-    "url": "https://victorops.com/",
-    "files": [
-      "victorops.svg"
-    ]
-  },
-  {
     "name": "Vim",
     "shortname": "vim",
     "url": "http://www.vim.org/",
@@ -8415,14 +7501,6 @@
     "files": [
       "vimeo-icon.svg",
       "vimeo.svg"
-    ]
-  },
-  {
-    "name": "Vine",
-    "shortname": "vine",
-    "url": "https://vine.co/",
-    "files": [
-      "vine.svg"
     ]
   },
   {
@@ -8476,7 +7554,7 @@
   {
     "name": "Void",
     "shortname": "void",
-    "url": "http://www.voidlinux.eu/",
+    "url": "https://voidlinux.org/",
     "files": [
       "void.svg"
     ]
@@ -8732,14 +7810,6 @@
     ]
   },
   {
-    "name": "WiredTree",
-    "shortname": "wiredtree",
-    "url": "https://www.wiredtree.com/",
-    "files": [
-      "wiredtree.svg"
-    ]
-  },
-  {
     "name": "Wix",
     "shortname": "wix",
     "url": "http://www.wix.com/",
@@ -8802,14 +7872,6 @@
     "url": "https://www.x-cart.com/",
     "files": [
       "xcart.svg"
-    ]
-  },
-  {
-    "name": "X-Ray Goggles",
-    "shortname": "x-ray-goggles",
-    "url": "https://webmaker.org/goggles",
-    "files": [
-      "x-ray-goggles.svg"
     ]
   },
   {
@@ -8987,22 +8049,6 @@
     "url": "https://zeplin.io/",
     "files": [
       "zeplin.svg"
-    ]
-  },
-  {
-    "name": "Zest",
-    "shortname": "zest",
-    "url": "http://zestdocs.org/",
-    "files": [
-      "zest.svg"
-    ]
-  },
-  {
-    "name": "ZigBee",
-    "shortname": "zigbee",
-    "url": "http://www.zigbee.org/",
-    "files": [
-      "zigbee.svg"
     ]
   },
   {
