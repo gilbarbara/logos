@@ -18,6 +18,58 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://cloud.google.com/dialogflow" target="_blank">Dialogflow</a>
+![dialogflow](https://cdn.svgporn.com/logos/dialogflow.svg)
+## <a href="https://www.google.com/admob/" target="_blank">Google AdMob</a>
+![google-admob](https://cdn.svgporn.com/logos/google-admob.svg)
+## <a href="http://www.google.com/adsense/" target="_blank">Google AdSense</a> *
+![google-adsense](https://cdn.svgporn.com/logos/google-adsense.svg)
+## <a href="http://www.google.com/analytics/" target="_blank">Google Analytics</a>
+![google-analytics](https://cdn.svgporn.com/logos/google-analytics.svg)
+## <a href="https://www.google.com/calendar/about/" target="_blank">Google Calendar</a>
+![google-calendar](https://cdn.svgporn.com/logos/google-calendar.svg)
+## <a href="https://workspace.google.com/products/currents/" target="_blank">Google Currents</a>
+![google-currents](https://cdn.svgporn.com/logos/google-currents.svg)
+## <a href="https://marketingplatform.google.com/about/data-studio/" target="_blank">Google Data Studio</a>
+![google-data-studio](https://cdn.svgporn.com/logos/google-data-studio.svg)
+## <a href="https://developers.google.com/" target="_blank">Google Developers</a>
+![google-developers](https://cdn.svgporn.com/logos/google-developers.svg)
+## <a href="https://www.google.com/drive/" target="_blank">Google Drive</a>
+![google-drive](https://cdn.svgporn.com/logos/google-drive.svg)
+## <a href="https://www.google.com/fit/" target="_blank">Google Fit</a>
+![google-fit](https://cdn.svgporn.com/logos/google-fit.svg)
+## <a href="http://gmail.com/" target="_blank">Google Gmail</a>
+![google-gmail](https://cdn.svgporn.com/logos/google-gmail.svg)
+## <a href="https://madeby.google.com/home/" target="_blank">Google Home</a>
+![google-home](https://cdn.svgporn.com/logos/google-home.svg)
+## <a href="https://www.google.com/keep/" target="_blank">Google Keep</a>
+![google-keep](https://cdn.svgporn.com/logos/google-keep.svg)
+## <a href="https://cloud.google.com/maps-platform/" target="_blank">Google Maps</a>
+![google-maps](https://cdn.svgporn.com/logos/google-maps.svg)
+## <a href="https://meet.google.com/" target="_blank">Google Meet</a>
+![google-meet](https://cdn.svgporn.com/logos/google-meet.svg)
+## <a href="https://one.google.com/" target="_blank">Google One</a>
+![google-one](https://cdn.svgporn.com/logos/google-one.svg)
+## <a href="https://marketingplatform.google.com/about/optimize/" target="_blank">Google Optimize</a>
+![google-optimize](https://cdn.svgporn.com/logos/google-optimize.svg)
+## <a href="https://photos.google.com/" target="_blank">Google Photos</a>
+![google-photos](https://cdn.svgporn.com/logos/google-photos.svg)
+## <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank">Google Tag Manager</a>
+![google-tag-manager](https://cdn.svgporn.com/logos/google-tag-manager.svg)
+## <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">Lighthouse</a>
+![lighthouse](https://cdn.svgporn.com/logos/lighthouse.svg)
+## <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>
+![tensorflow](https://cdn.svgporn.com/logos/tensorflow.svg)
+## <a href="https://wearos.google.com/" target="_blank">Wear OS</a>
+![wear-os](https://cdn.svgporn.com/logos/wearos.svg)
+## <a href="https://developers.google.com/web/fundamentals" target="_blank">Web Fundamentals</a>
+![web-fundamentals](https://cdn.svgporn.com/logos/web-fundamentals.svg)
+## <a href="https://web.dev/" target="_blank">web.dev</a>
+![web.dev](https://cdn.svgporn.com/logos/web.dev-icon.svg)
+![web.dev](https://cdn.svgporn.com/logos/web.dev.svg)
+## <a href="https://www.youtube.com/" target="_blank">YouTube</a>
+![youtube](https://cdn.svgporn.com/logos/youtube-icon.svg)
+![youtube](https://cdn.svgporn.com/logos/youtube.svg)
 ## <a href="https://500px.com/" target="_blank">500px</a>
 ![500px](https://cdn.svgporn.com/logos/500px.svg)
 ## <a href="https://www.adroll.com/" target="_blank">AdRoll</a>
@@ -85,73 +137,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![flattr](https://cdn.svgporn.com/logos/flattr.svg)
 ## <a href="https://frontapp.com/" target="_blank">Front</a>
 ![frontapp](https://cdn.svgporn.com/logos/frontapp.svg)
-## <a href="http://graphene-python.org/" target="_blank">Graphene</a>
-![graphene](https://cdn.svgporn.com/logos/graphene.svg)
-## <a href="https://www.groovehq.com/" target="_blank">Groove</a>
-![groovehq](https://cdn.svgporn.com/logos/groovehq.svg)
-## <a href="https://hashnode.com/" target="_blank">Hashnode</a>
-![hashnode](https://cdn.svgporn.com/logos/hashnode-icon.svg)
-![hashnode](https://cdn.svgporn.com/logos/hashnode.svg)
-## <a href="https://www.helpscout.net/" target="_blank">Help Scout</a>
-![helpscout](https://cdn.svgporn.com/logos/helpscout-icon.svg)
-![helpscout](https://cdn.svgporn.com/logos/helpscout.svg)
-## <a href="https://www.hostgator.com/" target="_blank">HostGator</a>
-![hostgator](https://cdn.svgporn.com/logos/hostgator-icon.svg)
-![hostgator](https://cdn.svgporn.com/logos/hostgator.svg)
-## <a href="https://jamstack.org/" target="_blank">Jamstack</a>
-![jamstack](https://cdn.svgporn.com/logos/jamstack-icon.svg)
-![jamstack](https://cdn.svgporn.com/logos/jamstack.svg)
-## <a href="https://www.khanacademy.org/" target="_blank">Khan Academy</a>
-![khan_academy](https://cdn.svgporn.com/logos/khan_academy-icon.svg)
-![khan_academy](https://cdn.svgporn.com/logos/khan_academy.svg)
-## <a href="http://www.kinto-storage.org/" target="_blank">Kinto</a>
-![kinto](https://cdn.svgporn.com/logos/kinto-icon.svg)
-![kinto](https://cdn.svgporn.com/logos/kinto.svg)
-## <a href="https://konghq.com/" target="_blank">Kong</a>
-![kong](https://cdn.svgporn.com/logos/kong-icon.svg)
-![kong](https://cdn.svgporn.com/logos/kong.svg)
-## <a href="http://www.looker.com/" target="_blank">Looker</a>
-![looker](https://cdn.svgporn.com/logos/looker-icon.svg)
-![looker](https://cdn.svgporn.com/logos/looker.svg)
-## <a href="https://marvelapp.com/" target="_blank">Marvel</a>
-![marvel](https://cdn.svgporn.com/logos/marvel.svg)
-## <a href="https://medium.com/" target="_blank">Medium</a>
-![medium](https://cdn.svgporn.com/logos/medium-icon.svg)
-![medium](https://cdn.svgporn.com/logos/medium.svg)
-## <a href="http://www.mockflow.com/" target="_blank">Mockflow</a> *
-![mockflow](https://cdn.svgporn.com/logos/mockflow.svg)
-## <a href="http://modx.com/" target="_blank">MODX</a>
-![modx](https://cdn.svgporn.com/logos/modx-icon.svg)
-![modx](https://cdn.svgporn.com/logos/modx.svg)
-## <a href="https://monday.com" target="_blank">Monday</a>
-![monday](https://cdn.svgporn.com/logos/monday-icon.svg)
-![monday](https://cdn.svgporn.com/logos/monday.svg)
-## <a href="https://www.mparticle.com/" target="_blank">mParticle</a>
-![mparticle](https://cdn.svgporn.com/logos/mparticle-icon.svg)
-![mparticle](https://cdn.svgporn.com/logos/mparticle.svg)
-## <a href="https://zeit.co/next" target="_blank">Next.js</a>
-![nextjs](https://cdn.svgporn.com/logos/nextjs-icon.svg)
-![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
-## <a href="https://www.olark.com/" target="_blank">Olark</a>
-![olark](https://cdn.svgporn.com/logos/olark.svg)
-## <a href="https://www.opsgenie.com/" target="_blank">OpsGenie</a>
-![opsgenie](https://cdn.svgporn.com/logos/opsgenie.svg)
-## <a href="https://www.patreon.com/" target="_blank">Patreon</a>
-![patreon](https://cdn.svgporn.com/logos/patreon.svg)
-## <a href="https://github.com/zeit/pkg" target="_blank">PKG</a>
-![pkg](https://cdn.svgporn.com/logos/pkg.svg)
-## <a href="https://pusher.com/" target="_blank">Pusher</a>
-![pusher](https://cdn.svgporn.com/logos/pusher-icon.svg)
-![pusher](https://cdn.svgporn.com/logos/pusher.svg)
-## <a href="https://rollbar.com/" target="_blank">Rollbar</a>
-![rollbar](https://cdn.svgporn.com/logos/rollbar-icon.svg)
-![rollbar](https://cdn.svgporn.com/logos/rollbar.svg)
-## <a href="https://www.section.io/" target="_blank">Section</a>
-![sectionio](https://cdn.svgporn.com/logos/section-icon.svg)
-![sectionio](https://cdn.svgporn.com/logos/section.svg)
-## <a href="https://segment.com/" target="_blank">Segment</a>
-![segment](https://cdn.svgporn.com/logos/segment-icon.svg)
-![segment](https://cdn.svgporn.com/logos/segment.svg)
 
 ---
 

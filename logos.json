@@ -24,14 +24,6 @@
     ]
   },
   {
-    "name": "AdMob",
-    "shortname": "admob",
-    "url": "https://www.google.com/admob/",
-    "files": [
-      "admob.svg"
-    ]
-  },
-  {
     "name": "AdRoll",
     "shortname": "adroll",
     "url": "https://www.adroll.com/",
@@ -1930,6 +1922,14 @@
     ]
   },
   {
+    "name": "Dialogflow",
+    "shortname": "dialogflow",
+    "url": "https://cloud.google.com/dialogflow",
+    "files": [
+      "dialogflow.svg"
+    ]
+  },
+  {
     "name": "DigitalOcean",
     "shortname": "digitalocean",
     "url": "https://www.digitalocean.com/",
@@ -2912,6 +2912,14 @@
     ]
   },
   {
+    "name": "Google AdMob",
+    "shortname": "google-admob",
+    "url": "https://www.google.com/admob/",
+    "files": [
+      "google-admob.svg"
+    ]
+  },
+  {
     "name": "Google Ads",
     "shortname": "google-ads",
     "url": "https://ads.google.com/home/",
@@ -2968,6 +2976,14 @@
     ]
   },
   {
+    "name": "Google Currents",
+    "shortname": "google-currents",
+    "url": "https://workspace.google.com/products/currents/",
+    "files": [
+      "google-currents.svg"
+    ]
+  },
+  {
     "name": "Google Data Studio",
     "shortname": "google-data-studio",
     "url": "https://marketingplatform.google.com/about/data-studio/",
@@ -2980,7 +2996,6 @@
     "shortname": "google-developers",
     "url": "https://developers.google.com/",
     "files": [
-      "google-developers-icon.svg",
       "google-developers.svg"
     ]
   },
@@ -2990,6 +3005,14 @@
     "url": "https://www.google.com/drive/",
     "files": [
       "google-drive.svg"
+    ]
+  },
+  {
+    "name": "Google Fit",
+    "shortname": "google-fit",
+    "url": "https://www.google.com/fit/",
+    "files": [
+      "google-fit.svg"
     ]
   },
   {
@@ -3009,6 +3032,30 @@
     ]
   },
   {
+    "name": "Google Home",
+    "shortname": "google-home",
+    "url": "https://madeby.google.com/home/",
+    "files": [
+      "google-home.svg"
+    ]
+  },
+  {
+    "name": "Google Keep",
+    "shortname": "google-keep",
+    "url": "https://www.google.com/keep/",
+    "files": [
+      "google-keep.svg"
+    ]
+  },
+  {
+    "name": "Google Maps",
+    "shortname": "google-maps",
+    "url": "https://cloud.google.com/maps-platform/",
+    "files": [
+      "google-maps.svg"
+    ]
+  },
+  {
     "name": "Google Marketing Platform",
     "shortname": "google-marketing-platform",
     "url": "https://marketingplatform.google.com/about/",
@@ -3022,6 +3069,14 @@
     "url": "https://meet.google.com/",
     "files": [
       "google-meet.svg"
+    ]
+  },
+  {
+    "name": "Google One",
+    "shortname": "google-one",
+    "url": "https://one.google.com/",
+    "files": [
+      "google-one.svg"
     ]
   },
   {
@@ -4201,6 +4256,14 @@
     "url": "http://liftweb.net/",
     "files": [
       "liftweb.svg"
+    ]
+  },
+  {
+    "name": "Lighthouse",
+    "shortname": "lighthouse",
+    "url": "https://developers.google.com/web/tools/lighthouse",
+    "files": [
+      "lighthouse.svg"
     ]
   },
   {
@@ -7713,11 +7776,36 @@
     ]
   },
   {
+    "name": "Wear OS",
+    "shortname": "wear-os",
+    "url": "https://wearos.google.com/",
+    "files": [
+      "wearos.svg"
+    ]
+  },
+  {
     "name": "Weave",
     "shortname": "weave",
     "url": "http://weave.works/",
     "files": [
       "weave.svg"
+    ]
+  },
+  {
+    "name": "Web Fundamentals",
+    "shortname": "web-fundamentals",
+    "url": "https://developers.google.com/web/fundamentals",
+    "files": [
+      "web-fundamentals.svg"
+    ]
+  },
+  {
+    "name": "web.dev",
+    "shortname": "web.dev",
+    "url": "https://web.dev/",
+    "files": [
+      "web.dev-icon.svg",
+      "web.dev.svg"
     ]
   },
   {
@@ -8074,6 +8162,7 @@
     "shortname": "youtube",
     "url": "https://www.youtube.com/",
     "files": [
+      "youtube-icon.svg",
       "youtube.svg"
     ]
   },
