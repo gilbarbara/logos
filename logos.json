@@ -52,6 +52,7 @@
     "shortname": "aerospike",
     "url": "http://www.aerospike.com/",
     "files": [
+      "aerospike-icon.svg",
       "aerospike.svg"
     ]
   },
@@ -260,10 +261,11 @@
   },
   {
     "name": "Appbase",
-    "shortname": "appbase",
+    "shortname": "appbaseio",
     "url": "http://appbase.io/",
     "files": [
-      "appbase.svg"
+      "appbaseio-icon.svg",
+      "appbaseio.svg"
     ]
   },
   {
@@ -417,14 +419,16 @@
     "shortname": "atom",
     "url": "https://atom.io/",
     "files": [
+      "atom-icon.svg",
       "atom.svg"
     ]
   },
   {
-    "name": "atomic",
+    "name": "Atomic",
     "shortname": "atomic",
     "url": "https://atomic.io/",
     "files": [
+      "atomic-icon.svg",
       "atomic.svg"
     ]
   },
@@ -1086,6 +1090,7 @@
     "shortname": "bugsnag",
     "url": "https://bugsnag.com/",
     "files": [
+      "bugsnag-icon.svg",
       "bugsnag.svg"
     ]
   },
@@ -1159,6 +1164,7 @@
     "shortname": "cakephp",
     "url": "http://cakephp.org/",
     "files": [
+      "cakephp-icon.svg",
       "cakephp.svg"
     ]
   },
@@ -1356,6 +1362,7 @@
     "shortname": "cloudacademy",
     "url": "https://cloudacademy.com/",
     "files": [
+      "cloudacademy-icon.svg",
       "cloudacademy.svg"
     ]
   },
@@ -1484,6 +1491,7 @@
     "shortname": "codefactor",
     "url": "https://www.codefactor.io/",
     "files": [
+      "codefactor-icon.svg",
       "codefactor.svg"
     ]
   },
@@ -1793,6 +1801,7 @@
     "shortname": "customerio",
     "url": "http://customer.io/",
     "files": [
+      "customerio-icon.svg",
       "customerio.svg"
     ]
   },
@@ -1821,14 +1830,6 @@
     ]
   },
   {
-    "name": "dapulse",
-    "shortname": "dapulse",
-    "url": "https://dapulse.com/",
-    "files": [
-      "dapulse.svg"
-    ]
-  },
-  {
     "name": "Dart",
     "shortname": "dart",
     "url": "https://dart.dev/",
@@ -1841,6 +1842,7 @@
     "shortname": "dashlane",
     "url": "https://www.dashlane.com/",
     "files": [
+      "dashlane-icon.svg",
       "dashlane.svg"
     ]
   },
@@ -1866,6 +1868,7 @@
     "shortname": "dcos",
     "url": "https://dcos.io/",
     "files": [
+      "dcos-icon.svg",
       "dcos.svg"
     ]
   },
@@ -1882,6 +1885,7 @@
     "shortname": "delighted",
     "url": "https://delighted.com/",
     "files": [
+      "delighted-icon.svg",
       "delighted.svg"
     ]
   },
@@ -1894,11 +1898,11 @@
     ]
   },
   {
-    "name": "Deploy",
-    "shortname": "deploy",
+    "name": "Deploy HQ",
+    "shortname": "deployhq",
     "url": "https://www.deployhq.com/",
     "files": [
-      "deploy.svg"
+      "deployhq.svg"
     ]
   },
   {
@@ -1978,6 +1982,7 @@
     "shortname": "django",
     "url": "https://www.djangoproject.com/",
     "files": [
+      "django-icon.svg",
       "django.svg"
     ]
   },
@@ -2069,6 +2074,7 @@
     "shortname": "drone",
     "url": "https://drone.io/",
     "files": [
+      "drone-icon.svg",
       "drone.svg"
     ]
   },
@@ -2134,6 +2140,7 @@
     "shortname": "eclipse",
     "url": "https://eclipse.org/",
     "files": [
+      "eclipse-icon.svg",
       "eclipse.svg"
     ]
   },
@@ -2247,6 +2254,7 @@
     "shortname": "engine-yard",
     "url": "https://www.engineyard.com/",
     "files": [
+      "engine-yard-icon.svg",
       "engine-yard.svg"
     ]
   },
@@ -2377,6 +2385,7 @@
     "shortname": "expo",
     "url": "https://expo.io/",
     "files": [
+      "expo-icon.svg",
       "expo.svg"
     ]
   },
@@ -2513,6 +2522,7 @@
     "shortname": "flattr",
     "url": "https://flattr.com/",
     "files": [
+      "flattr-icon.svg",
       "flattr.svg"
     ]
   },
@@ -2625,7 +2635,8 @@
     "shortname": "forest",
     "url": "http://www.forestadmin.com/",
     "files": [
-      "forest.svg"
+      "forestadmin-icon.svg",
+      "forestadmin.svg"
     ]
   },
   {
@@ -2657,6 +2668,7 @@
     "shortname": "framework7",
     "url": "https://framework7.io/",
     "files": [
+      "framework7-icon.svg",
       "framework7.svg"
     ]
   },
@@ -2714,6 +2726,7 @@
     "shortname": "game-analytics",
     "url": "https://gameanalytics.com/",
     "files": [
+      "game-analytics-icon.svg",
       "game-analytics.svg"
     ]
   },
@@ -3114,6 +3127,7 @@
     "shortname": "graylog",
     "url": "https://www.graylog.org/",
     "files": [
+      "graylog-icon.svg",
       "graylog.svg"
     ]
   },
@@ -3219,6 +3233,7 @@
     "shortname": "haiku",
     "url": "https://www.haiku.ai/",
     "files": [
+      "haiku-icon.svg",
       "haiku.svg"
     ]
   },
@@ -3259,6 +3274,7 @@
     "shortname": "hashnode",
     "url": "https://hashnode.com/",
     "files": [
+      "hashnode-icon.svg",
       "hashnode.svg"
     ]
   },
@@ -3316,6 +3332,7 @@
     "shortname": "helpscout",
     "url": "https://www.helpscout.net/",
     "files": [
+      "helpscout-icon.svg",
       "helpscout.svg"
     ]
   },
@@ -3413,6 +3430,7 @@
     "shortname": "hostgator",
     "url": "https://www.hostgator.com/",
     "files": [
+      "hostgator-icon.svg",
       "hostgator.svg"
     ]
   },
@@ -3590,6 +3608,7 @@
     "shortname": "intercom",
     "url": "https://www.intercom.io/",
     "files": [
+      "intercom-icon.svg",
       "intercom.svg"
     ]
   },
@@ -3606,6 +3625,7 @@
     "shortname": "invision",
     "url": "http://www.invisionapp.com/",
     "files": [
+      "invision-icon.svg",
       "invision.svg"
     ]
   },
@@ -3614,6 +3634,7 @@
     "shortname": "ionic",
     "url": "http://ionicframework.com/",
     "files": [
+      "ionic-icon.svg",
       "ionic.svg"
     ]
   },
@@ -3639,6 +3660,7 @@
     "shortname": "itsalive",
     "url": "https://itsalive.io/",
     "files": [
+      "itsalive-icon.svg",
       "itsalive.svg"
     ]
   },
@@ -3655,6 +3677,7 @@
     "shortname": "jamstack",
     "url": "https://jamstack.org/",
     "files": [
+      "jamstack-icon.svg",
       "jamstack.svg"
     ]
   },
@@ -3703,6 +3726,7 @@
     "shortname": "jelastic",
     "url": "http://jelastic.com/",
     "files": [
+      "jelastic-icon.svg",
       "jelastic.svg"
     ]
   },
@@ -3735,6 +3759,7 @@
     "shortname": "jhipster",
     "url": "https://jhipster.github.io/",
     "files": [
+      "jhipster-icon.svg",
       "jhipster.svg"
     ]
   },
@@ -3920,6 +3945,7 @@
     "shortname": "keycdn",
     "url": "https://www.keycdn.com/",
     "files": [
+      "keycdn-icon.svg",
       "keycdn.svg"
     ]
   },
@@ -3936,6 +3962,7 @@
     "shortname": "khan_academy",
     "url": "https://www.khanacademy.org/",
     "files": [
+      "khan_academy-icon.svg",
       "khan_academy.svg"
     ]
   },
@@ -3952,6 +3979,7 @@
     "shortname": "kickstarter",
     "url": "https://www.kickstarter.com/",
     "files": [
+      "kickstarter-icon.svg",
       "kickstarter.svg"
     ]
   },
@@ -3960,6 +3988,7 @@
     "shortname": "kinto",
     "url": "http://www.kinto-storage.org/",
     "files": [
+      "kinto-icon.svg",
       "kinto.svg"
     ]
   },
@@ -3968,6 +3997,7 @@
     "shortname": "kirby",
     "url": "http://getkirby.com/",
     "files": [
+      "kirby-icon.svg",
       "kirby.svg"
     ]
   },
@@ -4024,6 +4054,7 @@
     "shortname": "kong",
     "url": "https://konghq.com/",
     "files": [
+      "kong-icon.svg",
       "kong.svg"
     ]
   },
@@ -4274,6 +4305,7 @@
     "shortname": "looker",
     "url": "http://www.looker.com/",
     "files": [
+      "looker-icon.svg",
       "looker.svg"
     ]
   },
@@ -4413,6 +4445,7 @@
     "shortname": "mapbox",
     "url": "https://www.mapbox.com/",
     "files": [
+      "mapbox-icon.svg",
       "mapbox.svg"
     ]
   },
@@ -4429,6 +4462,7 @@
     "shortname": "mapzen",
     "url": "https://mapzen.com/",
     "files": [
+      "mapzen-icon.svg",
       "mapzen.svg"
     ]
   },
@@ -4502,6 +4536,7 @@
     "shortname": "mattermost",
     "url": "http://www.mattermost.org/",
     "files": [
+      "mattermost-icon.svg",
       "mattermost.svg"
     ]
   },
@@ -4542,6 +4577,7 @@
     "shortname": "medium",
     "url": "https://medium.com/",
     "files": [
+      "medium-icon.svg",
       "medium.svg"
     ]
   },
@@ -4737,6 +4773,7 @@
     "shortname": "modx",
     "url": "http://modx.com/",
     "files": [
+      "modx-icon.svg",
       "modx.svg"
     ]
   },
@@ -4755,6 +4792,15 @@
     "url": "http://momentjs.com/",
     "files": [
       "momentjs.svg"
+    ]
+  },
+  {
+    "name": "Monday",
+    "shortname": "monday",
+    "url": "https://monday.com",
+    "files": [
+      "monday-icon.svg",
+      "monday.svg"
     ]
   },
   {
@@ -4802,6 +4848,7 @@
     "shortname": "morpheus",
     "url": "https://www.morpheusdata.com",
     "files": [
+      "morpheus-icon.svg",
       "morpheus.svg"
     ]
   },
@@ -4818,6 +4865,7 @@
     "shortname": "mparticle",
     "url": "https://www.mparticle.com/",
     "files": [
+      "mparticle-icon.svg",
       "mparticle.svg"
     ]
   },
@@ -4923,6 +4971,7 @@
     "shortname": "nextjs",
     "url": "https://zeit.co/next",
     "files": [
+      "nextjs-icon.svg",
       "nextjs.svg"
     ]
   },
@@ -5174,6 +5223,7 @@
     "shortname": "openstack",
     "url": "https://www.openstack.org/",
     "files": [
+      "openstack-icon.svg",
       "openstack.svg"
     ]
   },
@@ -5286,6 +5336,7 @@
     "shortname": "passbolt",
     "url": "https://www.passbolt.com/",
     "files": [
+      "passbolt-icon.svg",
       "passbolt.svg"
     ]
   },
@@ -5342,6 +5393,7 @@
     "shortname": "percy",
     "url": "https://percy.io/",
     "files": [
+      "percy-icon.svg",
       "percy.svg"
     ]
   },
@@ -5447,6 +5499,7 @@
     "shortname": "planless",
     "url": "https://www.planless.io/",
     "files": [
+      "planless-icon.svg",
       "planless.svg"
     ]
   },
@@ -5608,6 +5661,7 @@
     "shortname": "productboard",
     "url": "https://www.productboard.com/",
     "files": [
+      "productboard-icon.svg",
       "productboard.svg"
     ]
   },
@@ -5746,6 +5800,7 @@
     "shortname": "pusher",
     "url": "https://pusher.com/",
     "files": [
+      "pusher-icon.svg",
       "pusher.svg"
     ]
   },
@@ -5834,6 +5889,7 @@
     "shortname": "rabbitmq",
     "url": "http://www.rabbitmq.com/",
     "files": [
+      "rabbitmq-icon.svg",
       "rabbitmq.svg"
     ]
   },
@@ -5874,6 +5930,7 @@
     "shortname": "rancher",
     "url": "http://rancher.com/",
     "files": [
+      "rancher-icon.svg",
       "rancher.svg"
     ]
   },
@@ -6076,6 +6133,7 @@
     "shortname": "rocket-chat",
     "url": "https://rocket.chat/",
     "files": [
+      "rocket-chat-icon.svg",
       "rocket-chat.svg"
     ]
   },
@@ -6092,6 +6150,7 @@
     "shortname": "rollbar",
     "url": "https://rollbar.com/",
     "files": [
+      "rollbar-icon.svg",
       "rollbar.svg"
     ]
   },
@@ -6276,15 +6335,17 @@
     "shortname": "scribd",
     "url": "https://www.scribd.com/",
     "files": [
+      "scribd-icon.svg",
       "scribd.svg"
     ]
   },
   {
-    "name": "section.io",
+    "name": "Section",
     "shortname": "sectionio",
     "url": "https://www.section.io/",
     "files": [
-      "sectionio.svg"
+      "section-icon.svg",
+      "section.svg"
     ]
   },
   {
@@ -6292,6 +6353,7 @@
     "shortname": "segment",
     "url": "https://segment.com/",
     "files": [
+      "segment-icon.svg",
       "segment.svg"
     ]
   },
@@ -6324,7 +6386,7 @@
     "shortname": "semaphore",
     "url": "https://semaphoreci.com/",
     "files": [
-      "semaphore.svg"
+      "semaphoreci.svg"
     ]
   },
   {
@@ -6340,6 +6402,7 @@
     "shortname": "sendgrid",
     "url": "https://sendgrid.com/",
     "files": [
+      "sendgrid-icon.svg",
       "sendgrid.svg"
     ]
   },
@@ -6356,6 +6419,7 @@
     "shortname": "sensu",
     "url": "https://sensuapp.org/",
     "files": [
+      "sensu-icon.svg",
       "sensu.svg"
     ]
   },
@@ -6364,6 +6428,7 @@
     "shortname": "sentry",
     "url": "https://getsentry.com/welcome/",
     "files": [
+      "sentry-icon.svg",
       "sentry.svg"
     ]
   },
@@ -6388,6 +6453,7 @@
     "shortname": "sherlock",
     "url": "https://www.sherlockscore.com/",
     "files": [
+      "sherlock-icon.svg",
       "sherlock.svg"
     ]
   },
@@ -6444,6 +6510,7 @@
     "shortname": "sidekiq",
     "url": "http://sidekiq.org/",
     "files": [
+      "sidekiq-icon.svg",
       "sidekiq.svg"
     ]
   },
@@ -6693,6 +6760,7 @@
     "shortname": "spring",
     "url": "https://spring.io/",
     "files": [
+      "spring-icon.svg",
       "spring.svg"
     ]
   },
@@ -6995,6 +7063,7 @@
     "shortname": "sysdig",
     "url": "http://www.sysdig.org/",
     "files": [
+      "sysdig-icon.svg",
       "sysdig.svg"
     ]
   },
@@ -7028,6 +7097,7 @@
     "shortname": "tapcart",
     "url": "https://tapcart.com/",
     "files": [
+      "tapcart-icon.svg",
       "tapcart.svg"
     ]
   },
@@ -7101,6 +7171,7 @@
     "shortname": "terraform",
     "url": "https://www.terraform.io/",
     "files": [
+      "terraform-icon.svg",
       "terraform.svg"
     ]
   },
@@ -7182,6 +7253,7 @@
     "shortname": "treasuredata",
     "url": "https://www.treasuredata.com/",
     "files": [
+      "treasuredata-icon.svg",
       "treasuredata.svg"
     ]
   },
@@ -7247,6 +7319,7 @@
     "shortname": "twilio",
     "url": "https://www.twilio.com/",
     "files": [
+      "twilio-icon.svg",
       "twilio.svg"
     ]
   },
@@ -7313,6 +7386,7 @@
     "shortname": "udemy",
     "url": "https://www.udemy.com/",
     "files": [
+      "udemy-icon.svg",
       "udemy.svg"
     ]
   },
@@ -7337,6 +7411,7 @@
     "shortname": "unbounce",
     "url": "http://unbounce.com/",
     "files": [
+      "unbounce-icon.svg",
       "unbounce.svg"
     ]
   },
@@ -7369,6 +7444,7 @@
     "shortname": "unito",
     "url": "https://unito.io",
     "files": [
+      "unito-icon.svg",
       "unito.svg"
     ]
   },
@@ -7401,14 +7477,16 @@
     "shortname": "user-testing",
     "url": "http://www.usertesting.com/",
     "files": [
+      "user-testing-icon.svg",
       "user-testing.svg"
     ]
   },
   {
-    "name": "uservoice",
+    "name": "UserVoice",
     "shortname": "uservoice",
     "url": "https://www.uservoice.com/",
     "files": [
+      "uservoice-icon.svg",
       "uservoice.svg"
     ]
   },
@@ -7459,6 +7537,7 @@
     "shortname": "vagrant",
     "url": "https://www.vagrantup.com/",
     "files": [
+      "vagrant-icon.svg",
       "vagrant.svg"
     ]
   },
@@ -7467,6 +7546,7 @@
     "shortname": "vault",
     "url": "https://www.vaultproject.io/",
     "files": [
+      "vault-icon.svg",
       "vault.svg"
     ]
   },
@@ -7536,18 +7616,11 @@
     ]
   },
   {
-    "name": "Visual Website Optimizer",
-    "shortname": "visual_website_optimizer",
-    "url": "https://vwo.com/",
-    "files": [
-      "visual_website_optimizer.svg"
-    ]
-  },
-  {
     "name": "Vivaldi",
     "shortname": "vivaldi",
     "url": "https://vivaldi.com/",
     "files": [
+      "vivaldi-icon.svg",
       "vivaldi.svg"
     ]
   },
@@ -7589,6 +7662,14 @@
     "url": "https://www.vultr.com/",
     "files": [
       "vultr.svg"
+    ]
+  },
+  {
+    "name": "VWO",
+    "shortname": "vwo",
+    "url": "https://vwo.com/",
+    "files": [
+      "vwo.svg"
     ]
   },
   {
@@ -7822,6 +7903,7 @@
     "shortname": "woocommerce",
     "url": "http://www.woothemes.com/woocommerce/",
     "files": [
+      "woocommerce-icon.svg",
       "woocommerce.svg"
     ]
   },
@@ -7919,6 +8001,7 @@
     "shortname": "xwiki",
     "url": "http://www.xwiki.org/",
     "files": [
+      "xwiki-icon.svg",
       "xwiki.svg"
     ]
   },
@@ -8007,6 +8090,7 @@
     "shortname": "zapier",
     "url": "https://zapier.com/",
     "files": [
+      "zapier-icon.svg",
       "zapier.svg"
     ]
   },
@@ -8032,6 +8116,7 @@
     "shortname": "zendesk",
     "url": "https://www.zendesk.com/",
     "files": [
+      "zendesk-icon.svg",
       "zendesk.svg"
     ]
   },
@@ -8040,6 +8125,7 @@
     "shortname": "zenhub",
     "url": "https://www.zenhub.io/",
     "files": [
+      "zenhub-icon.svg",
       "zenhub.svg"
     ]
   },
@@ -8080,6 +8166,7 @@
     "shortname": "zulip",
     "url": "https://zulip.com/",
     "files": [
+      "zulip-icon.svg",
       "zulip.svg"
     ]
   }
