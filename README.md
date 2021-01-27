@@ -18,6 +18,12 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.redhat.com/" target="_blank">RedHat</a>
+![redhat](https://cdn.svgporn.com/logos/redhat-icon.svg)
+![redhat](https://cdn.svgporn.com/logos/redhat.svg)
+## <a href="https://vercel.com/" target="_blank">Vercel</a>
+![vercel](https://cdn.svgporn.com/logos/vercel-icon.svg)
+![vercel](https://cdn.svgporn.com/logos/vercel.svg)
 ## <a href="https://cloud.google.com/dialogflow" target="_blank">Dialogflow</a>
 ![dialogflow](https://cdn.svgporn.com/logos/dialogflow.svg)
 ## <a href="https://www.google.com/admob/" target="_blank">Google AdMob</a>
@@ -132,11 +138,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>
 ![engine-yard](https://cdn.svgporn.com/logos/engine-yard-icon.svg)
 ![engine-yard](https://cdn.svgporn.com/logos/engine-yard.svg)
-## <a href="https://flattr.com/" target="_blank">Flattr</a>
-![flattr](https://cdn.svgporn.com/logos/flattr-icon.svg)
-![flattr](https://cdn.svgporn.com/logos/flattr.svg)
-## <a href="https://frontapp.com/" target="_blank">Front</a>
-![frontapp](https://cdn.svgporn.com/logos/frontapp.svg)
 
 ---
 

@@ -6092,6 +6092,7 @@
     "shortname": "redhat",
     "url": "http://www.redhat.com/",
     "files": [
+      "redhat-icon.svg",
       "redhat.svg"
     ]
   },
@@ -7622,6 +7623,15 @@
     ]
   },
   {
+    "name": "Vercel",
+    "shortname": "vercel",
+    "url": "https://vercel.com/",
+    "files": [
+      "vercel-icon.svg",
+      "vercel.svg"
+    ]
+  },
+  {
     "name": "VerneMQ",
     "shortname": "vernemq",
     "url": "https://verne.mq/",
@@ -8181,15 +8191,6 @@
     "files": [
       "zapier-icon.svg",
       "zapier.svg"
-    ]
-  },
-  {
-    "name": "Zeit",
-    "shortname": "zeit",
-    "url": "https://zeit.co/",
-    "files": [
-      "zeit-icon.svg",
-      "zeit.svg"
     ]
   },
   {
