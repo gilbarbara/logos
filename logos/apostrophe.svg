@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="258px" viewBox="0 0 256 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <defs>
+        <linearGradient x1="77.3888889%" y1="-5.28571429%" x2="14.7642857%" y2="120.915079%" id="linearGradient-1">
+            <stop stop-color="#CC9300" offset="0%"></stop>
+            <stop stop-color="#EA433A" offset="48%"></stop>
+            <stop stop-color="#B327BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.370954%" y1="-50.1128609%" x2="16.7104112%" y2="64.2169729%" id="linearGradient-2">
+            <stop stop-color="#CC9300" offset="0%"></stop>
+            <stop stop-color="#EA433A" offset="26%"></stop>
+            <stop stop-color="#B327BF" offset="48%"></stop>
+            <stop stop-color="#6666FF" offset="76%"></stop>
+            <stop stop-color="#00BF9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.17664234%" y1="104.057989%" x2="96.9007299%" y2="11.7542117%" id="linearGradient-3">
+            <stop stop-color="#B327BF" offset="0%"></stop>
+            <stop stop-color="#6666FF" offset="48%"></stop>
+            <stop stop-color="#00C09A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+		<g>
+				<path d="M122.656274,254.559013 C89.5173155,259.999737 76.6574212,258.021292 63.3029155,253.56979 C50.1511104,249.110624 38.7322206,240.632963 30.6585683,229.333835 L29.1747344,227.850001 C21.7555646,217.463164 16.31484,205.592492 11.3687268,174.92659 L3.45494571,123.487013 C-1.98577882,89.853443 -0.501944859,76.9935487 4.44416835,63.639043 C9.05803531,50.5662868 17.291552,39.0736698 28.1855117,30.5000845 L30.163957,29.0162506 C40.5507948,21.5970807 52.4214665,16.1563562 82.592757,11.210243 L133.043112,3.29646188 C166.18207,-2.14426265 179.041965,-0.165817368 192.39647,4.28568452 C205.548275,8.74485109 216.967165,17.2225116 225.040817,28.5216392 L226.524651,30.5000845 C233.943821,40.8869223 239.384546,52.757594 244.330659,83.4234958 L252.24444,134.368462 C257.685165,168.002032 256.201331,180.861926 251.255217,194.216432 C246.80243,207.372483 238.538514,218.907532 227.513874,227.35539 L225.535429,228.839224 C215.148591,236.258394 203.277919,241.699118 173.106629,246.645232 L122.656274,254.559013 Z" fill="#000000"></path>
+				<circle stroke="url(#linearGradient-1)" stroke-width="2.42" stroke-linejoin="round" cx="179.091426" cy="131.895405" r="31.1605132"></circle>
+				<polygon stroke="url(#linearGradient-2)" stroke-width="2.43" stroke-linejoin="round" transform="translate(87.113916, 86.277886) rotate(-9.180000) translate(-87.113916, -86.277886) " points="58.8468792 58.0108487 115.380953 58.0108487 115.380953 114.544923 58.8468792 114.544923"></polygon>
+				<polygon stroke="url(#linearGradient-3)" stroke-width="2.42" stroke-linejoin="round" points="104.850266 146.733745 148.870674 203.119435 81.1089231 214.000885"></polygon>
+		</g>
+</svg>

@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://apostrophecms.com/" target="_blank">Apostrophe</a>
+![apostrophe](https://cdn.svgporn.com/logos/apostrophe.svg)
+## <a href="https://www.datadoghq.com/" target="_blank">Datadog</a>
+![datadog](https://cdn.svgporn.com/logos/datadog.svg)
+## <a href="https://editorconfig.org/" target="_blank">EditorConfig</a>
+![editorconfig](https://cdn.svgporn.com/logos/editorconfig.svg)
+## <a href="https://glitch.com/" target="_blank">Glitch</a>
+![glitch](https://cdn.svgporn.com/logos/glitch-icon.svg)
+![glitch](https://cdn.svgporn.com/logos/glitch.svg)
+## <a href="https://www.mailjet.com/" target="_blank">Mailjet</a>
+![mailjet](https://cdn.svgporn.com/logos/mailjet.svg)
+## <a href="https://joinmastodon.org/" target="_blank">Mastodon</a>
+![mastodon](https://cdn.svgporn.com/logos/mastodon-icon.svg)
+![mastodon](https://cdn.svgporn.com/logos/mastodon.svg)
+## <a href="https://www.pixijs.com/" target="_blank">PixiJS</a>
+![pixijs](https://cdn.svgporn.com/logos/pixijs.svg)
+## <a href="https://www.react-spring.io/" target="_blank">React Spring</a>
+![react-spring](https://cdn.svgporn.com/logos/react-spring.svg)
+## <a href="https://webix.com/" target="_blank">Webix</a>
+![webix](https://cdn.svgporn.com/logos/webix-icon.svg)
+![webix](https://cdn.svgporn.com/logos/webix.svg)
+## <a href="https://xstate.js.org/" target="_blank">XState</a>
+![xstate](https://cdn.svgporn.com/logos/xstate.svg)
 ## <a href="http://www.redhat.com/" target="_blank">RedHat</a>
 ![redhat](https://cdn.svgporn.com/logos/redhat-icon.svg)
 ![redhat](https://cdn.svgporn.com/logos/redhat.svg)
@@ -111,33 +134,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://customer.io/" target="_blank">Customer.io</a>
 ![customerio](https://cdn.svgporn.com/logos/customerio-icon.svg)
 ![customerio](https://cdn.svgporn.com/logos/customerio.svg)
-## <a href="https://www.dashlane.com/" target="_blank">Dashlane</a>
-![dashlane](https://cdn.svgporn.com/logos/dashlane-icon.svg)
-![dashlane](https://cdn.svgporn.com/logos/dashlane.svg)
-## <a href="https://dcos.io/" target="_blank">DC/OS</a>
-![dcos](https://cdn.svgporn.com/logos/dcos-icon.svg)
-![dcos](https://cdn.svgporn.com/logos/dcos.svg)
-## <a href="https://delighted.com/" target="_blank">Delighted</a>
-![delighted](https://cdn.svgporn.com/logos/delighted-icon.svg)
-![delighted](https://cdn.svgporn.com/logos/delighted.svg)
-## <a href="https://www.deployhq.com/" target="_blank">Deploy HQ</a>
-![deployhq](https://cdn.svgporn.com/logos/deployhq.svg)
-## <a href="https://www.djangoproject.com/" target="_blank">Django</a>
-![django](https://cdn.svgporn.com/logos/django-icon.svg)
-![django](https://cdn.svgporn.com/logos/django.svg)
-## <a href="https://www.drift.com/" target="_blank">Drift</a>
-![drift](https://cdn.svgporn.com/logos/drift.svg)
-## <a href="https://www.getdrip.com/" target="_blank">Drip</a>
-![drip](https://cdn.svgporn.com/logos/drip.svg)
-## <a href="https://drone.io/" target="_blank">Drone</a>
-![drone](https://cdn.svgporn.com/logos/drone-icon.svg)
-![drone](https://cdn.svgporn.com/logos/drone.svg)
-## <a href="https://www.drupal.org/" target="_blank">Drupal</a>
-![drupal](https://cdn.svgporn.com/logos/drupal-icon.svg)
-![drupal](https://cdn.svgporn.com/logos/drupal.svg)
-## <a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>
-![engine-yard](https://cdn.svgporn.com/logos/engine-yard-icon.svg)
-![engine-yard](https://cdn.svgporn.com/logos/engine-yard.svg)
 
 ---
 

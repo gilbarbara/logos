@@ -252,6 +252,14 @@
     ]
   },
   {
+    "name": "Apostrophe",
+    "shortname": "apostrophe",
+    "url": "https://apostrophecms.com/",
+    "files": [
+      "apostrophe.svg"
+    ]
+  },
+  {
     "name": "Appbase",
     "shortname": "appbaseio",
     "url": "http://appbase.io/",
@@ -1847,6 +1855,14 @@
     ]
   },
   {
+    "name": "Datadog",
+    "shortname": "datadog",
+    "url": "https://www.datadoghq.com/",
+    "files": [
+      "datadog.svg"
+    ]
+  },
+  {
     "name": "DatoCMS",
     "shortname": "datocms",
     "url": "https://www.datocms.com/",
@@ -2142,6 +2158,14 @@
     "files": [
       "eclipse-icon.svg",
       "eclipse.svg"
+    ]
+  },
+  {
+    "name": "EditorConfig",
+    "shortname": "editorconfig",
+    "url": "https://editorconfig.org/",
+    "files": [
+      "editorconfig.svg"
     ]
   },
   {
@@ -2859,6 +2883,15 @@
     "url": "http://www.glintinc.com/",
     "files": [
       "glint.svg"
+    ]
+  },
+  {
+    "name": "Glitch",
+    "shortname": "glitch",
+    "url": "https://glitch.com/",
+    "files": [
+      "glitch-icon.svg",
+      "glitch.svg"
     ]
   },
   {
@@ -4496,6 +4529,14 @@
     ]
   },
   {
+    "name": "Mailjet",
+    "shortname": "mailjet",
+    "url": "https://www.mailjet.com/",
+    "files": [
+      "mailjet.svg"
+    ]
+  },
+  {
     "name": "Manuscript",
     "shortname": "manuscript",
     "url": "https://manuscript.com",
@@ -4576,6 +4617,15 @@
     "url": "https://www.mastercard.com/",
     "files": [
       "mastercard.svg"
+    ]
+  },
+  {
+    "name": "Mastodon",
+    "shortname": "mastodon",
+    "url": "https://joinmastodon.org/",
+    "files": [
+      "mastodon-icon.svg",
+      "mastodon.svg"
     ]
   },
   {
@@ -5550,6 +5600,14 @@
     ]
   },
   {
+    "name": "PixiJS",
+    "shortname": "pixijs",
+    "url": "https://www.pixijs.com/",
+    "files": [
+      "pixijs.svg"
+    ]
+  },
+  {
     "name": "PKG",
     "shortname": "pkg",
     "url": "https://github.com/zeit/pkg",
@@ -6027,6 +6085,14 @@
     "url": "https://facebook.github.io/react/",
     "files": [
       "react.svg"
+    ]
+  },
+  {
+    "name": "React Spring",
+    "shortname": "react-spring",
+    "url": "https://www.react-spring.io/",
+    "files": [
+      "react-spring.svg"
     ]
   },
   {
@@ -7860,6 +7926,15 @@
     ]
   },
   {
+    "name": "Webix",
+    "shortname": "webix",
+    "url": "https://webix.com/",
+    "files": [
+      "webix-icon.svg",
+      "webix.svg"
+    ]
+  },
+  {
     "name": "Webmin",
     "shortname": "webmin",
     "url": "http://www.webmin.com/",
@@ -8084,6 +8159,14 @@
     "url": "https://www.xplenty.com/",
     "files": [
       "xplenty.svg"
+    ]
+  },
+  {
+    "name": "XState",
+    "shortname": "xstate",
+    "url": "https://xstate.js.org/",
+    "files": [
+      "xstate.svg"
     ]
   },
   {
