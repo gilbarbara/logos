@@ -5556,7 +5556,8 @@
     "shortname": "php",
     "url": "http://php.net/",
     "files": [
-      "php.svg"
+      "php.svg",
+      "php-alt.svg"
     ]
   },
   {
@@ -7492,6 +7493,7 @@
     "shortname": "typo3",
     "url": "https://typo3.com/",
     "files": [
+      "typo3-icon.svg",
       "typo3.svg"
     ]
   },
