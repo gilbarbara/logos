@@ -1236,6 +1236,14 @@
     ]
   },
   {
+    "name": "Ceylon",
+    "shortname": "ceylon",
+    "url": "https://ceylon-lang.org/",
+    "files": [
+      "ceylon.svg"
+    ]
+  },
+  {
     "name": "Chai",
     "shortname": "chai",
     "url": "http://chaijs.com/",
@@ -3675,6 +3683,14 @@
     ]
   },
   {
+    "name": "Insomnia",
+    "shortname": "insomnia",
+    "url": "https://insomnia.rest/",
+    "files": [
+      "insomnia.svg"
+    ]
+  },
+  {
     "name": "Instagram",
     "shortname": "instagram",
     "url": "https://instagram.com/",
@@ -5187,6 +5203,14 @@
     ]
   },
   {
+    "name": "NumPy",
+    "shortname": "numpy",
+    "url": "https://numpy.org/",
+    "files": [
+      "numpy.svg"
+    ]
+  },
+  {
     "name": "Nuxt",
     "shortname": "nuxt",
     "url": "https://nuxtjs.org/",
@@ -5682,6 +5706,14 @@
     ]
   },
   {
+    "name": "Postgraphile",
+    "shortname": "postgraphile",
+    "url": "https://www.graphile.org/postgraphile/",
+    "files": [
+      "postgraphile.svg"
+    ]
+  },
+  {
     "name": "PostgreSQL",
     "shortname": "postgresql",
     "url": "http://www.postgresql.org/",
@@ -5967,11 +5999,28 @@
     ]
   },
   {
+    "name": "Qlik",
+    "shortname": "qlik",
+    "url": "https://www.qlik.com/",
+    "files": [
+      "qlik.svg"
+    ]
+  },
+  {
     "name": "Qt",
     "shortname": "qt",
     "url": "http://www.qt.io/",
     "files": [
       "qt.svg"
+    ]
+  },
+  {
+    "name": "Quarkus",
+    "shortname": "quarkus",
+    "url": "https://quarkus.io/",
+    "files": [
+      "quarkus-icon.svg",
+      "quarkus.svg"
     ]
   },
   {
@@ -7207,6 +7256,15 @@
     ]
   },
   {
+    "name": "Tableau",
+    "shortname": "tableau",
+    "url": "https://www.tableau.com/",
+    "files": [
+      "tableau-icon.svg",
+      "tableau.svg"
+    ]
+  },
+  {
     "name": "Taiga",
     "shortname": "taiga",
     "url": "https://taiga.io/",
@@ -8047,6 +8105,14 @@
     "files": [
       "wicket-icon.svg",
       "wicket.svg"
+    ]
+  },
+  {
+    "name": "Wildfly",
+    "shortname": "wildfly",
+    "url": "https://www.wildfly.org",
+    "files": [
+      "wildfly.svg"
     ]
   },
   {

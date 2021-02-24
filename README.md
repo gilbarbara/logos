@@ -18,6 +18,24 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://ceylon-lang.org/" target="_blank">Ceylon</a>
+![ceylon](https://cdn.svgporn.com/logos/ceylon.svg)
+## <a href="https://insomnia.rest/" target="_blank">Insomnia</a>
+![insomnia](https://cdn.svgporn.com/logos/insomnia.svg)
+## <a href="https://numpy.org/" target="_blank">NumPy</a>
+![numpy](https://cdn.svgporn.com/logos/numpy.svg)
+## <a href="https://www.graphile.org/postgraphile/" target="_blank">Postgraphile</a>
+![postgraphile](https://cdn.svgporn.com/logos/postgraphile.svg)
+## <a href="https://www.qlik.com/" target="_blank">Qlik</a>
+![qlik](https://cdn.svgporn.com/logos/qlik.svg)
+## <a href="https://quarkus.io/" target="_blank">Quarkus</a>
+![quarkus](https://cdn.svgporn.com/logos/quarkus-icon.svg)
+![quarkus](https://cdn.svgporn.com/logos/quarkus.svg)
+## <a href="https://www.tableau.com/" target="_blank">Tableau</a>
+![tableau](https://cdn.svgporn.com/logos/tableau-icon.svg)
+![tableau](https://cdn.svgporn.com/logos/tableau.svg)
+## <a href="https://www.wildfly.org" target="_blank">Wildfly</a>
+![wildfly](https://cdn.svgporn.com/logos/wildfly.svg)
 ## <a href="https://apostrophecms.com/" target="_blank">Apostrophe</a>
 ![apostrophe](https://cdn.svgporn.com/logos/apostrophe.svg)
 ## <a href="https://www.datadoghq.com/" target="_blank">Datadog</a>
@@ -111,29 +129,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://appbase.io/" target="_blank">Appbase</a>
 ![appbaseio](https://cdn.svgporn.com/logos/appbaseio-icon.svg)
 ![appbaseio](https://cdn.svgporn.com/logos/appbaseio.svg)
-## <a href="http://appium.io/" target="_blank">Appium</a>
-![appium](https://cdn.svgporn.com/logos/appium.svg)
-## <a href="https://atom.io/" target="_blank">Atom</a>
-![atom](https://cdn.svgporn.com/logos/atom-icon.svg)
-![atom](https://cdn.svgporn.com/logos/atom.svg)
-## <a href="https://atomic.io/" target="_blank">Atomic</a>
-![atomic](https://cdn.svgporn.com/logos/atomic-icon.svg)
-![atomic](https://cdn.svgporn.com/logos/atomic.svg)
-## <a href="https://bugsnag.com/" target="_blank">Bugsnag</a>
-![bugsnag](https://cdn.svgporn.com/logos/bugsnag-icon.svg)
-![bugsnag](https://cdn.svgporn.com/logos/bugsnag.svg)
-## <a href="http://cakephp.org/" target="_blank">CakePHP</a>
-![cakephp](https://cdn.svgporn.com/logos/cakephp-icon.svg)
-![cakephp](https://cdn.svgporn.com/logos/cakephp.svg)
-## <a href="https://cloudacademy.com/" target="_blank">CloudAcademy</a>
-![cloudacademy](https://cdn.svgporn.com/logos/cloudacademy-icon.svg)
-![cloudacademy](https://cdn.svgporn.com/logos/cloudacademy.svg)
-## <a href="https://www.codefactor.io/" target="_blank">CodeFactor</a>
-![codefactor](https://cdn.svgporn.com/logos/codefactor-icon.svg)
-![codefactor](https://cdn.svgporn.com/logos/codefactor.svg)
-## <a href="http://customer.io/" target="_blank">Customer.io</a>
-![customerio](https://cdn.svgporn.com/logos/customerio-icon.svg)
-![customerio](https://cdn.svgporn.com/logos/customerio.svg)
 
 ---
 
