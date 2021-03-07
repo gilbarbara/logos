@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://codersrank.io/" target="_blank">CodersRank</a>
+![codersrank](https://cdn.svgporn.com/logos/codersrank.svg)
+## <a href="https://www.dynatrace.com/" target="_blank">Dynatrace</a>
+![dynatrace](https://cdn.svgporn.com/logos/dynatrace-icon.svg)
+![dynatrace](https://cdn.svgporn.com/logos/dynatrace.svg)
+## <a href="https://www.fastify.io/" target="_blank">Fastify</a>
+![fastify](https://cdn.svgporn.com/logos/fastify-icon.svg)
+![fastify](https://cdn.svgporn.com/logos/fastify.svg)
+## <a href="https://www.hotjar.com/" target="_blank">Hotjar</a>
+![hotjar](https://cdn.svgporn.com/logos/hotjar.svg)
+## <a href="https://www.jfrog.com/" target="_blank">JFrog</a>
+![jfrog](https://cdn.svgporn.com/logos/jfrog.svg)
+## <a href="https://www.solarwinds.com/" target="_blank">SolarWinds</a>
+![solarwinds](https://cdn.svgporn.com/logos/solarwinds.svg)
+## <a href="https://www.splunk.com/" target="_blank">Splunk</a>
+![splunk](https://cdn.svgporn.com/logos/splunk.svg)
+## <a href="https://www.taskade.com/" target="_blank">Taskade</a>
+![taskade](https://cdn.svgporn.com/logos/taskade-icon.svg)
+![taskade](https://cdn.svgporn.com/logos/taskade.svg)
 ## <a href="https://ceylon-lang.org/" target="_blank">Ceylon</a>
 ![ceylon](https://cdn.svgporn.com/logos/ceylon.svg)
 ## <a href="https://insomnia.rest/" target="_blank">Insomnia</a>
@@ -109,26 +128,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![tensorflow](https://cdn.svgporn.com/logos/tensorflow.svg)
 ## <a href="https://wearos.google.com/" target="_blank">Wear OS</a>
 ![wear-os](https://cdn.svgporn.com/logos/wearos.svg)
-## <a href="https://developers.google.com/web/fundamentals" target="_blank">Web Fundamentals</a>
-![web-fundamentals](https://cdn.svgporn.com/logos/web-fundamentals.svg)
-## <a href="https://web.dev/" target="_blank">web.dev</a>
-![web.dev](https://cdn.svgporn.com/logos/web.dev-icon.svg)
-![web.dev](https://cdn.svgporn.com/logos/web.dev.svg)
-## <a href="https://www.youtube.com/" target="_blank">YouTube</a>
-![youtube](https://cdn.svgporn.com/logos/youtube-icon.svg)
-![youtube](https://cdn.svgporn.com/logos/youtube.svg)
-## <a href="https://500px.com/" target="_blank">500px</a>
-![500px](https://cdn.svgporn.com/logos/500px.svg)
-## <a href="https://www.adroll.com/" target="_blank">AdRoll</a>
-![adroll](https://cdn.svgporn.com/logos/adroll.svg)
-## <a href="http://www.aerospike.com/" target="_blank">Aerospike</a>
-![aerospike](https://cdn.svgporn.com/logos/aerospike-icon.svg)
-![aerospike](https://cdn.svgporn.com/logos/aerospike.svg)
-## <a href="https://airbrake.io/" target="_blank">Airbrake</a>
-![airbrake](https://cdn.svgporn.com/logos/airbrake.svg)
-## <a href="http://appbase.io/" target="_blank">Appbase</a>
-![appbaseio](https://cdn.svgporn.com/logos/appbaseio-icon.svg)
-![appbaseio](https://cdn.svgporn.com/logos/appbaseio.svg)
 
 ---
 

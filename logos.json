@@ -1529,6 +1529,14 @@
     ]
   },
   {
+    "name": "CodersRank",
+    "shortname": "codersrank",
+    "url": "https://codersrank.io/",
+    "files": [
+      "codersrank.svg"
+    ]
+  },
+  {
     "name": "coderwall",
     "shortname": "coderwall",
     "url": "https://coderwall.com/",
@@ -2152,6 +2160,15 @@
     ]
   },
   {
+    "name": "Dynatrace",
+    "shortname": "dynatrace",
+    "url": "https://www.dynatrace.com/",
+    "files": [
+      "dynatrace-icon.svg",
+      "dynatrace.svg"
+    ]
+  },
+  {
     "name": "EBANX",
     "shortname": "ebanx",
     "url": "https://www.ebanx.com",
@@ -2459,6 +2476,15 @@
     "url": "http://netflix.github.io/falcor/",
     "files": [
       "falcor.svg"
+    ]
+  },
+  {
+    "name": "Fastify",
+    "shortname": "fastify",
+    "url": "https://www.fastify.io/",
+    "files": [
+      "fastify-icon.svg",
+      "fastify.svg"
     ]
   },
   {
@@ -3531,6 +3557,14 @@
     ]
   },
   {
+    "name": "Hotjar",
+    "shortname": "hotjar",
+    "url": "https://www.hotjar.com/",
+    "files": [
+      "hotjar.svg"
+    ]
+  },
+  {
     "name": "Hound",
     "shortname": "houndci",
     "url": "https://houndci.com/",
@@ -3856,6 +3890,14 @@
     "url": "https://www.jetbrains.com/",
     "files": [
       "jetbrains.svg"
+    ]
+  },
+  {
+    "name": "JFrog",
+    "shortname": "jfrog",
+    "url": "https://www.jfrog.com/",
+    "files": [
+      "jfrog.svg"
     ]
   },
   {
@@ -6824,6 +6866,14 @@
     ]
   },
   {
+    "name": "SolarWinds",
+    "shortname": "solarwinds",
+    "url": "https://www.solarwinds.com/",
+    "files": [
+      "solarwinds.svg"
+    ]
+  },
+  {
     "name": "Solid",
     "shortname": "solid",
     "url": "https://solidproject.org/",
@@ -6925,6 +6975,14 @@
     "url": "https://spinnaker.io/",
     "files": [
       "spinnaker.svg"
+    ]
+  },
+  {
+    "name": "Splunk",
+    "shortname": "splunk",
+    "url": "https://www.splunk.com/",
+    "files": [
+      "splunk.svg"
     ]
   },
   {
@@ -7296,6 +7354,15 @@
     "url": "http://www.targetprocess.com/",
     "files": [
       "targetprocess.svg"
+    ]
+  },
+  {
+    "name": "Taskade",
+    "shortname": "taskade",
+    "url": "https://www.taskade.com/",
+    "files": [
+      "taskade-icon.svg",
+      "taskade.svg"
     ]
   },
   {
