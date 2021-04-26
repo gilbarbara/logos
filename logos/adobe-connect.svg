@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512.8 500" enable-background="new 0 0 512.8 500" xml:space="preserve">
+<path fill="#00261A" d="M90.8,0H422c50.2,0,90.8,40.7,90.8,90.8v318.4c0,50.2-40.7,90.8-90.8,90.8H90.8C40.7,500,0,459.3,0,409.2
+	V90.8C0,40.7,40.7,0,90.8,0z"/>
+<g id="Group_3">
+	<rect id="Rectangle_2" x="117.8" y="294.5" fill="#52CCA3" width="94.5" height="94.5"/>
+	<rect id="Rectangle_3" x="310.7" y="304.2" fill="#52CCA3" width="75.1" height="75.1"/>
+	<rect id="Rectangle_4" x="310.7" y="120.6" fill="#52CCA3" width="75.1" height="75.1"/>
+	<rect id="Rectangle_5" x="127.5" y="121" fill="#52CCA3" width="75.1" height="75.1"/>
+	<path id="Path_3" fill="#CAFCEB" d="M385.9,120.6v75.1l-151.6,76.8l76.5-151.9L385.9,120.6 M395.5,110.9h-90.7l-92.5,183.6
+		l183.2-92.8L395.5,110.9L395.5,110.9z"/>
+	<path id="Path_4" fill="#CAFCEB" d="M385.9,304.2v75.1h-75l-75.1-75.1H385.9 M395.6,294.5H212.3l94.5,94.5h88.7L395.6,294.5
+		L395.6,294.5z"/>
+	<path id="Path_5" fill="#CAFCEB" d="M202.6,121v150.1L127.5,196V121H202.6 M212.3,111.3h-94.5V200l94.5,94.5L212.3,111.3
+		L212.3,111.3z"/>
+</g>
+</svg>
