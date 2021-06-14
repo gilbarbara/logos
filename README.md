@@ -18,6 +18,12 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://discordapp.com/" target="_blank">Discord</a>
+![discord](https://cdn.svgporn.com/logos/discord-icon.svg)
+![discord](https://cdn.svgporn.com/logos/discord.svg)
+## <a href="https://www.getpostman.com/" target="_blank">Postman</a>
+![postman](https://cdn.svgporn.com/logos/postman-icon.svg)
+![postman](https://cdn.svgporn.com/logos/postman.svg)
 ## <a href="https://codersrank.io/" target="_blank">CodersRank</a>
 ![codersrank](https://cdn.svgporn.com/logos/codersrank.svg)
 ## <a href="https://www.dynatrace.com/" target="_blank">Dynatrace</a>
@@ -124,10 +130,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![google-tag-manager](https://cdn.svgporn.com/logos/google-tag-manager.svg)
 ## <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">Lighthouse</a>
 ![lighthouse](https://cdn.svgporn.com/logos/lighthouse.svg)
-## <a href="https://www.tensorflow.org/" target="_blank">TensorFlow</a>
-![tensorflow](https://cdn.svgporn.com/logos/tensorflow.svg)
-## <a href="https://wearos.google.com/" target="_blank">Wear OS</a>
-![wear-os](https://cdn.svgporn.com/logos/wearos.svg)
 
 ---
 

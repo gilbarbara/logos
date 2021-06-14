@@ -1990,6 +1990,7 @@
     "shortname": "discord",
     "url": "https://discordapp.com/",
     "files": [
+      "discord-icon.svg",
       "discord.svg"
     ]
   },
@@ -5768,6 +5769,7 @@
     "shortname": "postman",
     "url": "https://www.getpostman.com/",
     "files": [
+      "postman-icon.svg",
       "postman.svg"
     ]
   },
