@@ -2357,6 +2357,14 @@
     ]
   },
   {
+    "name": "esbuild",
+    "shortname": "esbuild",
+    "url": "https://esbuild.github.io/",
+    "files": [
+      "esbuild.svg"
+    ]
+  },
+  {
     "name": "ESDoc",
     "shortname": "esdoc",
     "url": "https://esdoc.org/",
@@ -5496,6 +5504,15 @@
     ]
   },
   {
+    "name": "Parcel",
+    "shortname": "parcel",
+    "url": "https://parceljs.org/",
+    "files": [
+      "parcel-icon.svg",
+      "parcel.svg"
+    ]
+  },
+  {
     "name": "Parse",
     "shortname": "parse",
     "url": "https://parse.com/",
@@ -6003,6 +6020,14 @@
     ]
   },
   {
+    "name": "PWA",
+    "shortname": "pwa",
+    "url": "https://web.dev/progressive-web-apps/",
+    "files": [
+      "pwa.svg"
+    ]
+  },
+  {
     "name": "PyCharm",
     "shortname": "pycharm",
     "url": "https://www.jetbrains.com/pycharm/",
@@ -6384,6 +6409,15 @@
     "url": "http://rollupjs.org/",
     "files": [
       "rollupjs.svg"
+    ]
+  },
+  {
+    "name": "Rome",
+    "shortname": "rome",
+    "url": "https://rome.tools/",
+    "files": [
+      "rome-icon.svg",
+      "rome.svg"
     ]
   },
   {
@@ -6844,6 +6878,14 @@
     ]
   },
   {
+    "name": "Snowpack",
+    "shortname": "snowpack",
+    "url": "https://www.snowpack.dev/",
+    "files": [
+      "snowpack.svg"
+    ]
+  },
+  {
     "name": "Snupps",
     "shortname": "snupps",
     "url": "https://www.snupps.com/",
@@ -7275,6 +7317,14 @@
     ]
   },
   {
+    "name": "SWC",
+    "shortname": "swc",
+    "url": "https://swc.rs/",
+    "files": [
+      "swc.svg"
+    ]
+  },
+  {
     "name": "Swift",
     "shortname": "swift",
     "url": "https://developer.apple.com/swift/",
@@ -7431,6 +7481,15 @@
     "files": [
       "terraform-icon.svg",
       "terraform.svg"
+    ]
+  },
+  {
+    "name": "Terser",
+    "shortname": "terser",
+    "url": "https://terser.org/",
+    "files": [
+      "terser-icon.svg",
+      "terser.svg"
     ]
   },
   {
@@ -7881,6 +7940,14 @@
     "url": "https://code.visualstudio.com/",
     "files": [
       "visual-studio-code.svg"
+    ]
+  },
+  {
+    "name": "Vite",
+    "shortname": "vitejs",
+    "url": "https://vitejs.dev/",
+    "files": [
+      "vitejs.svg"
     ]
   },
   {

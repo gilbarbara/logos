@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://esbuild.github.io/" target="_blank">esbuild</a>
+![esbuild](https://cdn.svgporn.com/logos/esbuild.svg)
+## <a href="https://parceljs.org/" target="_blank">Parcel</a>
+![parcel](https://cdn.svgporn.com/logos/parcel-icon.svg)
+![parcel](https://cdn.svgporn.com/logos/parcel.svg)
+## <a href="https://web.dev/progressive-web-apps/" target="_blank">PWA</a>
+![pwa](https://cdn.svgporn.com/logos/pwa.svg)
+## <a href="https://rome.tools/" target="_blank">Rome</a>
+![rome](https://cdn.svgporn.com/logos/rome-icon.svg)
+![rome](https://cdn.svgporn.com/logos/rome.svg)
+## <a href="https://www.snowpack.dev/" target="_blank">Snowpack</a>
+![snowpack](https://cdn.svgporn.com/logos/snowpack.svg)
+## <a href="https://swc.rs/" target="_blank">SWC</a>
+![swc](https://cdn.svgporn.com/logos/swc.svg)
+## <a href="https://terser.org/" target="_blank">Terser</a>
+![terser](https://cdn.svgporn.com/logos/terser-icon.svg)
+![terser](https://cdn.svgporn.com/logos/terser.svg)
+## <a href="https://vitejs.dev/" target="_blank">Vite</a>
+![vitejs](https://cdn.svgporn.com/logos/vitejs.svg)
 ## <a href="https://discordapp.com/" target="_blank">Discord</a>
 ![discord](https://cdn.svgporn.com/logos/discord-icon.svg)
 ![discord](https://cdn.svgporn.com/logos/discord.svg)
@@ -114,22 +133,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![google-gmail](https://cdn.svgporn.com/logos/google-gmail.svg)
 ## <a href="https://madeby.google.com/home/" target="_blank">Google Home</a>
 ![google-home](https://cdn.svgporn.com/logos/google-home.svg)
-## <a href="https://www.google.com/keep/" target="_blank">Google Keep</a>
-![google-keep](https://cdn.svgporn.com/logos/google-keep.svg)
-## <a href="https://cloud.google.com/maps-platform/" target="_blank">Google Maps</a>
-![google-maps](https://cdn.svgporn.com/logos/google-maps.svg)
-## <a href="https://meet.google.com/" target="_blank">Google Meet</a>
-![google-meet](https://cdn.svgporn.com/logos/google-meet.svg)
-## <a href="https://one.google.com/" target="_blank">Google One</a>
-![google-one](https://cdn.svgporn.com/logos/google-one.svg)
-## <a href="https://marketingplatform.google.com/about/optimize/" target="_blank">Google Optimize</a>
-![google-optimize](https://cdn.svgporn.com/logos/google-optimize.svg)
-## <a href="https://photos.google.com/" target="_blank">Google Photos</a>
-![google-photos](https://cdn.svgporn.com/logos/google-photos.svg)
-## <a href="https://marketingplatform.google.com/about/tag-manager/" target="_blank">Google Tag Manager</a>
-![google-tag-manager](https://cdn.svgporn.com/logos/google-tag-manager.svg)
-## <a href="https://developers.google.com/web/tools/lighthouse" target="_blank">Lighthouse</a>
-![lighthouse](https://cdn.svgporn.com/logos/lighthouse.svg)
 
 ---
 
