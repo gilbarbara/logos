@@ -24,6 +24,126 @@
     ]
   },
   {
+    "name": "Adobe After Effects",
+    "shortname": "after-effects",
+    "url": "https://www.adobe.com/products/aftereffects.html",
+    "files": [
+      "adobe-after-effects.svg"
+    ]
+  },
+  {
+    "name": "Adobe Animate",
+    "shortname": "adobe-animate",
+    "url": "https://www.adobe.com/products/animate.html",
+    "files": [
+      "adobe-animate.svg"
+    ]
+  },
+  {
+    "name": "Adobe Audition",
+    "shortname": "audition",
+    "url": "https://www.adobe.com/products/audition.html",
+    "files": [
+      "adobe-audition.svg"
+    ]
+  },
+  {
+    "name": "Adobe Bridge",
+    "shortname": "bridge",
+    "url": "https://www.adobe.com/products/bridge.html",
+    "files": [
+      "adobe-bridge.svg"
+    ]
+  },
+  {
+    "name": "Adobe Character Animator",
+    "shortname": "character-animator",
+    "url": "https://www.adobe.com/products/bridge.html",
+    "files": [
+      "adobe-character-animator.svg"
+    ]
+  },
+  {
+    "name": "Adobe Connect",
+    "shortname": "adobe-connect",
+    "url": "https://www.adobe.com/products/bridge.html",
+    "files": [
+      "adobe-connect.svg"
+    ]
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "shortname": "creative-cloud",
+    "url": "https://www.adobe.com/creativecloud.html",
+    "files": [
+      "adobe-creative-cloud.svg"
+    ]
+  },
+  {
+    "name": "Adobe Deamweaver",
+    "shortname": "adobe-dreamweaver",
+    "url": "https://www.adobe.com/products/dreamweaver.html",
+    "files": [
+      "adobe-dreamweaver.svg"
+    ]
+  },
+  {
+    "name": "Adobe Illustrator",
+    "shortname": "illustrator",
+    "url": "https://www.adobe.com/products/illustrator.html",
+    "files": [
+      "adobe-illustrator.svg"
+    ]
+  },
+  {
+    "name": "Adobe InCopy",
+    "shortname": "adobe-incopy",
+    "url": "https://www.adobe.com/products/incopy.html",
+    "files": [
+      "adobe-incopy.svg"
+    ]
+  },
+  {
+    "name": "Adobe InDesign",
+    "shortname": "indesign",
+    "url": "https://www.adobe.com/products/indesign.html",
+    "files": [
+      "adobe-indesign.svg"
+    ]
+  },
+  {
+    "name": "Adobe Photoshop",
+    "shortname": "photoshop",
+    "url": "https://www.adobe.com/products/photoshop.html",
+    "files": [
+      "adobe-photoshop.svg"
+    ]
+  },
+  {
+    "name": "Adobe Prelude",
+    "shortname": "prelude",
+    "url": "https://www.adobe.com/products/prelude.html",
+    "files": [
+      "adobe-prelude.svg"
+    ]
+  },
+  {
+    "name": "Adobe Premiere",
+    "shortname": "premiere",
+    "url": "https://www.adobe.com/products/premiere.html",
+    "files": [
+      "adobe-premiere.svg"
+    ]
+  },
+  {
+    "name": "Adobe XD",
+    "shortname": "adobe-xd",
+    "url": "https://www.adobe.com/products/xd.html",
+    "files": [
+      "adobe-xd.svg"
+    ]
+  },
+  {
     "name": "AdRoll",
     "shortname": "adroll",
     "url": "https://www.adroll.com/",
