@@ -113,6 +113,15 @@
     ]
   },
   {
+    "name": "Alpine.js",
+    "shortname": "alpinejs",
+    "url": "https://alpinejs.dev/",
+    "files": [
+      "alpinejs-icon.svg",
+      "alpinejs.svg"
+    ]
+  },
+  {
     "name": "Altair",
     "shortname": "altair",
     "url": "https://altair.sirmuel.design/",
@@ -505,6 +514,14 @@
     ]
   },
   {
+    "name": "AWS Ampliify",
+    "shortname": "aws-amplify",
+    "url": "https://aws.amazon.com/amplify/",
+    "files": [
+      "aws-amplify.svg"
+    ]
+  },
+  {
     "name": "AWS API Gateway",
     "shortname": "aws-api-gateway",
     "url": "https://aws.amazon.com/api-gateway/",
@@ -849,6 +866,15 @@
     "url": "https://www.blender.org/",
     "files": [
       "blender.svg"
+    ]
+  },
+  {
+    "name": "Blitz",
+    "shortname": "bllitzjs",
+    "url": "https://blitzjs.com/",
+    "files": [
+      "blitzjs-icon.svg",
+      "blitzjs.svg"
     ]
   },
   {
@@ -1785,6 +1811,14 @@
     "url": "https://crate.io/",
     "files": [
       "crateio.svg"
+    ]
+  },
+  {
+    "name": "Create React App",
+    "shortname": "create-react-app",
+    "url": "https://create-react-app.dev/",
+    "files": [
+      "create-react-app.svg"
     ]
   },
   {
@@ -4501,6 +4535,15 @@
     ]
   },
   {
+    "name": "Lit",
+    "shortname": "lit",
+    "url": "https://lit.dev/",
+    "files": [
+      "lit-icon.svg",
+      "lit.svg"
+    ]
+  },
+  {
     "name": "Litmus",
     "shortname": "litmus",
     "url": "http://litmus.com/",
@@ -4686,6 +4729,14 @@
     "url": "https://www.mailjet.com/",
     "files": [
       "mailjet.svg"
+    ]
+  },
+  {
+    "name": "Malina.js",
+    "shortname": "malinajs",
+    "url": "https://github.com/malinajs/malinajs",
+    "files": [
+      "malinajs.svg"
     ]
   },
   {
@@ -5975,6 +6026,15 @@
     ]
   },
   {
+    "name": "Prerender",
+    "shortname": "prerender",
+    "url": "https://prerender.io/",
+    "files": [
+      "prerender-icon.svg",
+      "prerender.svg"
+    ]
+  },
+  {
     "name": "PrestaShop",
     "shortname": "prestashop",
     "url": "https://www.prestashop.com/",
@@ -6503,6 +6563,15 @@
     "url": "https://github.com/vercel/release",
     "files": [
       "release.svg"
+    ]
+  },
+  {
+    "name": "Remix",
+    "shortname": "remix",
+    "url": "https://remix.run/",
+    "files": [
+      "remix-icon.svg",
+      "remix.svg"
     ]
   },
   {
@@ -7111,6 +7180,15 @@
     ]
   },
   {
+    "name": "Solid",
+    "shortname": "solidjs",
+    "url": "https://www.solidjs.com/",
+    "files": [
+      "solidjs-icon.svg",
+      "solidjs.svg"
+    ]
+  },
+  {
     "name": "Solidity",
     "shortname": "solidity",
     "url": "https://soliditylang.org/",
@@ -7306,6 +7384,15 @@
     ]
   },
   {
+    "name": "Stencil",
+    "shortname": "stenciljs",
+    "url": "https://stenciljs.com/",
+    "files": [
+      "stenciljs-icon.svg",
+      "stenciljs.svg"
+    ]
+  },
+  {
     "name": "Stetho",
     "shortname": "stetho",
     "url": "http://facebook.github.io/stetho/",
@@ -7409,6 +7496,14 @@
     "url": "http://stylelint.io/",
     "files": [
       "stylelint.svg"
+    ]
+  },
+  {
+    "name": "Stylis",
+    "shortname": "stylis",
+    "url": "https://stylis.js.org/",
+    "files": [
+      "stylis.svg"
     ]
   },
   {

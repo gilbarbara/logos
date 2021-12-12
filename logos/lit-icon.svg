@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="320px" viewBox="0 0 256 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>Lit</title>
+    <g>
+				<polygon fill="#00E8FF" points="64 192 89.9257031 147.272598 128.15876 128.15876 192.133047 192.133047 202.966055 253.886973 192 320 128 256 89.9257031 230.385117"></polygon>
+				<path d="M128,256 L128,128 L192,64 L192,192 L128,256 Z M0,256 L64,320 L73.2016406,259.398301 L64,192 L26.457793,215.709199 L0,256 Z" fill="#283198"></path>
+				<path d="M64,192 L64,64 L128,0 L128,128 L64,192 Z M192,320 L192,192 L256,128 L256,256 L192,320 Z M0,256 L0,128 L64,192 L0,256 Z" fill="#324FFF"></path>
+				<polygon fill="#00FFFF" points="64 320 64 192 128 256"></polygon>
+    </g>
+</svg>

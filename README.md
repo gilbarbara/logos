@@ -18,6 +18,35 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a>
+![alpinejs](https://cdn.svgporn.com/logos/alpinejs-icon.svg)
+![alpinejs](https://cdn.svgporn.com/logos/alpinejs.svg)
+## <a href="https://aws.amazon.com/amplify/" target="_blank">AWS Ampliify</a>
+![aws-amplify](https://cdn.svgporn.com/logos/aws-amplify.svg)
+## <a href="https://blitzjs.com/" target="_blank">Blitz</a>
+![bllitzjs](https://cdn.svgporn.com/logos/blitzjs-icon.svg)
+![bllitzjs](https://cdn.svgporn.com/logos/blitzjs.svg)
+## <a href="https://create-react-app.dev/" target="_blank">Create React App</a>
+![create-react-app](https://cdn.svgporn.com/logos/create-react-app.svg)
+## <a href="https://lit.dev/" target="_blank">Lit</a>
+![lit](https://cdn.svgporn.com/logos/lit-icon.svg)
+![lit](https://cdn.svgporn.com/logos/lit.svg)
+## <a href="https://github.com/malinajs/malinajs" target="_blank">Malina.js</a>
+![malinajs](https://cdn.svgporn.com/logos/malinajs.svg)
+## <a href="https://prerender.io/" target="_blank">Prerender</a>
+![prerender](https://cdn.svgporn.com/logos/prerender-icon.svg)
+![prerender](https://cdn.svgporn.com/logos/prerender.svg)
+## <a href="https://remix.run/" target="_blank">Remix</a>
+![remix](https://cdn.svgporn.com/logos/remix-icon.svg)
+![remix](https://cdn.svgporn.com/logos/remix.svg)
+## <a href="https://www.solidjs.com/" target="_blank">Solid</a>
+![solidjs](https://cdn.svgporn.com/logos/solidjs-icon.svg)
+![solidjs](https://cdn.svgporn.com/logos/solidjs.svg)
+## <a href="https://stenciljs.com/" target="_blank">Stencil</a>
+![stenciljs](https://cdn.svgporn.com/logos/stenciljs-icon.svg)
+![stenciljs](https://cdn.svgporn.com/logos/stenciljs.svg)
+## <a href="https://stylis.js.org/" target="_blank">Stylis</a>
+![stylis](https://cdn.svgporn.com/logos/stylis.svg)
 ## <a href="https://www.corda.net/" target="_blank">Corda</a>
 ![corda](https://cdn.svgporn.com/logos/corda.svg)
 ## <a href="https://trufflesuite.com/drizzle/" target="_blank">Drizzle</a>
@@ -108,33 +137,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://terser.org/" target="_blank">Terser</a>
 ![terser](https://cdn.svgporn.com/logos/terser-icon.svg)
 ![terser](https://cdn.svgporn.com/logos/terser.svg)
-## <a href="https://vitejs.dev/" target="_blank">Vite</a>
-![vitejs](https://cdn.svgporn.com/logos/vitejs.svg)
-## <a href="https://discordapp.com/" target="_blank">Discord</a>
-![discord](https://cdn.svgporn.com/logos/discord-icon.svg)
-![discord](https://cdn.svgporn.com/logos/discord.svg)
-## <a href="https://www.getpostman.com/" target="_blank">Postman</a>
-![postman](https://cdn.svgporn.com/logos/postman-icon.svg)
-![postman](https://cdn.svgporn.com/logos/postman.svg)
-## <a href="https://codersrank.io/" target="_blank">CodersRank</a>
-![codersrank](https://cdn.svgporn.com/logos/codersrank.svg)
-## <a href="https://www.dynatrace.com/" target="_blank">Dynatrace</a>
-![dynatrace](https://cdn.svgporn.com/logos/dynatrace-icon.svg)
-![dynatrace](https://cdn.svgporn.com/logos/dynatrace.svg)
-## <a href="https://www.fastify.io/" target="_blank">Fastify</a>
-![fastify](https://cdn.svgporn.com/logos/fastify-icon.svg)
-![fastify](https://cdn.svgporn.com/logos/fastify.svg)
-## <a href="https://www.hotjar.com/" target="_blank">Hotjar</a>
-![hotjar](https://cdn.svgporn.com/logos/hotjar.svg)
-## <a href="https://www.jfrog.com/" target="_blank">JFrog</a>
-![jfrog](https://cdn.svgporn.com/logos/jfrog.svg)
-## <a href="https://www.solarwinds.com/" target="_blank">SolarWinds</a>
-![solarwinds](https://cdn.svgporn.com/logos/solarwinds.svg)
-## <a href="https://www.splunk.com/" target="_blank">Splunk</a>
-![splunk](https://cdn.svgporn.com/logos/splunk.svg)
-## <a href="https://www.taskade.com/" target="_blank">Taskade</a>
-![taskade](https://cdn.svgporn.com/logos/taskade-icon.svg)
-![taskade](https://cdn.svgporn.com/logos/taskade.svg)
 ## <a href="https://ceylon-lang.org/" target="_blank">Ceylon</a>
 ![ceylon](https://cdn.svgporn.com/logos/ceylon.svg)
 ## <a href="https://insomnia.rest/" target="_blank">Insomnia</a>
