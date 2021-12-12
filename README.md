@@ -18,6 +18,37 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aws.amazon.com/lightsail/" target="_blank">AWS Lightsail</a>
+![aws-lightsail](https://cdn.svgporn.com/logos/aws-lightsail.svg)
+## <a href="https://libcinder.org/" target="_blank">Cinder</a>
+![cinder](https://cdn.svgporn.com/logos/cinder.svg)
+## <a href="http://commitizen.github.io/cz-cli/" target="_blank">Commitizen</a>
+![commitizen](https://cdn.svgporn.com/logos/commitizen.svg)
+## <a href="https://www.gnome.org/" target="_blank">GNOME</a>
+![gnome](https://cdn.svgporn.com/logos/gnome-icon.svg)
+![gnome](https://cdn.svgporn.com/logos/gnome.svg)
+## <a href="https://manjaro.org/" target="_blank">Manjaro</a>
+![manjaro](https://cdn.svgporn.com/logos/manjaro.svg)
+## <a href="https://onedrive.com/" target="_blank">Microsoft OneDrive</a>
+![microsoft-onedrive](https://cdn.svgporn.com/logos/microsoft-onedrive.svg)
+## <a href="https://powerbi.microsoft.com/" target="_blank">Microsoft Power BI</a>
+![microsoft-power-bi](https://cdn.svgporn.com/logos/microsoft-power-bi.svg)
+## <a href="https://teams.com/" target="_blank">Microsoft Teams</a>
+![microsoft-teams](https://cdn.svgporn.com/logos/microsoft-teams.svg)
+## <a href="https://multipass.run/" target="_blank">Multipass</a>
+![multipass](https://cdn.svgporn.com/logos/multipass.svg)
+## <a href="https://www.pagerduty.com/" target="_blank">PagerDuty</a>
+![pagerduty](https://cdn.svgporn.com/logos/pagerduty-icon.svg)
+![pagerduty](https://cdn.svgporn.com/logos/pagerduty.svg)
+## <a href="https://github.com/vercel/release" target="_blank">Release</a>
+![release](https://cdn.svgporn.com/logos/release.svg)
+## <a href="https://rockylinux.org/" target="_blank">Rocky Linux</a>
+![rocky-linux](https://cdn.svgporn.com/logos/rocky-linux-icon.svg)
+![rocky-linux](https://cdn.svgporn.com/logos/rocky-linux.svg)
+## <a href="https://semantic-release.gitbook.io/semantic-release/" target="_blank">semantic-release</a>
+![semantic-release](https://cdn.svgporn.com/logos/semantic-release.svg)
+## <a href="https://swr.vercel.app/" target="_blank">SWR</a>
+![swr](https://cdn.svgporn.com/logos/swr.svg)
 ## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
 ![microsoft-azure](https://cdn.svgporn.com/logos/microsoft-azure.svg)
 ## <a href="http://dev.mysql.com/" target="_blank">MySQL</a>

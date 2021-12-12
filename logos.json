@@ -617,6 +617,14 @@
     ]
   },
   {
+    "name": "AWS Lightsail",
+    "shortname": "aws-lightsail",
+    "url": "https://aws.amazon.com/lightsail/",
+    "files": [
+      "aws-lightsail.svg"
+    ]
+  },
+  {
     "name": "AWS Opworks",
     "shortname": "aws-opsworks",
     "url": "https://aws.amazon.com/opsworks/",
@@ -1302,6 +1310,14 @@
     ]
   },
   {
+    "name": "Cinder",
+    "shortname": "cinder",
+    "url": "https://libcinder.org/",
+    "files": [
+      "cinder.svg"
+    ]
+  },
+  {
     "name": "CircleCI",
     "shortname": "circleci",
     "url": "https://circleci.com/",
@@ -1574,6 +1590,14 @@
     "url": "http://coffeescript.org/",
     "files": [
       "coffeescript.svg"
+    ]
+  },
+  {
+    "name": "Commitizen",
+    "shortname": "commitizen",
+    "url": "http://commitizen.github.io/cz-cli/",
+    "files": [
+      "commitizen.svg"
     ]
   },
   {
@@ -2935,6 +2959,15 @@
     "files": [
       "glitch-icon.svg",
       "glitch.svg"
+    ]
+  },
+  {
+    "name": "GNOME",
+    "shortname": "gnome",
+    "url": "https://www.gnome.org/",
+    "files": [
+      "gnome-icon.svg",
+      "gnome.svg"
     ]
   },
   {
@@ -4604,6 +4637,14 @@
     ]
   },
   {
+    "name": "Manjaro",
+    "shortname": "manjaro",
+    "url": "https://manjaro.org/",
+    "files": [
+      "manjaro.svg"
+    ]
+  },
+  {
     "name": "Manuscript",
     "shortname": "manuscript",
     "url": "https://manuscript.com",
@@ -4851,6 +4892,31 @@
       "microsoft-edge.svg"
     ]
   },
+  {
+    "name": "Microsoft OneDrive",
+    "shortname": "microsoft-onedrive",
+    "url": "https://onedrive.com/",
+    "files": [
+      "microsoft-onedrive.svg"
+    ]
+  },
+  {
+    "name": "Microsoft Power BI",
+    "shortname": "microsoft-power-bi",
+    "url": "https://powerbi.microsoft.com/",
+    "files": [
+      "microsoft-power-bi.svg"
+    ]
+  },
+  {
+    "name": "Microsoft Teams",
+    "shortname": "microsoft-teams",
+    "url": "https://teams.com/",
+    "files": [
+      "microsoft-teams.svg"
+    ]
+  },
+  {
     "name": "Microsoft Windows",
     "shortname": "microsoft-windows",
     "url": "https://www.microsoft.com/windows",
@@ -5053,6 +5119,14 @@
     "files": [
       "mparticle-icon.svg",
       "mparticle.svg"
+    ]
+  },
+  {
+    "name": "Multipass",
+    "shortname": "multipass",
+    "url": "https://multipass.run/",
+    "files": [
+      "multipass.svg"
     ]
   },
   {
@@ -5500,6 +5574,15 @@
     "url": "http://pagekite.net/",
     "files": [
       "pagekite.svg"
+    ]
+  },
+  {
+    "name": "PagerDuty",
+    "shortname": "pagerduty",
+    "url": "https://www.pagerduty.com/",
+    "files": [
+      "pagerduty-icon.svg",
+      "pagerduty.svg"
     ]
   },
   {
@@ -6345,6 +6428,14 @@
     ]
   },
   {
+    "name": "Release",
+    "shortname": "release",
+    "url": "https://github.com/vercel/release",
+    "files": [
+      "release.svg"
+    ]
+  },
+  {
     "name": "RequireJS",
     "shortname": "require",
     "url": "http://requirejs.org/",
@@ -6399,6 +6490,15 @@
     "url": "http://rocksdb.org/",
     "files": [
       "rocksdb.svg"
+    ]
+  },
+  {
+    "name": "Rocky Linux",
+    "shortname": "rocky-linux",
+    "url": "https://rockylinux.org/",
+    "files": [
+      "rocky-linux-icon.svg",
+      "rocky-linux.svg"
     ]
   },
   {
@@ -6644,6 +6744,14 @@
     "url": "https://www.w3.org/standards/semanticweb/",
     "files": [
       "semantic-web.svg"
+    ]
+  },
+  {
+    "name": "semantic-release",
+    "shortname": "semantic-release",
+    "url": "https://semantic-release.gitbook.io/semantic-release/",
+    "files": [
+      "semantic-release.svg"
     ]
   },
   {
@@ -7345,6 +7453,14 @@
     "url": "https://swiftype.com/",
     "files": [
       "swiftype.svg"
+    ]
+  },
+  {
+    "name": "SWR",
+    "shortname": "swr",
+    "url": "https://swr.vercel.app/",
+    "files": [
+      "swr.svg"
     ]
   },
   {
