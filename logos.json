@@ -462,6 +462,7 @@
     "shortname": "auth0",
     "url": "https://auth0.com/",
     "files": [
+      "auth0-icon.svg",
       "auth0.svg"
     ]
   },

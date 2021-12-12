@@ -21,6 +21,9 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a>
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs-icon.svg)
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs.svg)
+## <a href="https://auth0.com/" target="_blank">Auth0</a>
+![auth0](https://cdn.svgporn.com/logos/auth0-icon.svg)
+![auth0](https://cdn.svgporn.com/logos/auth0.svg)
 ## <a href="https://aws.amazon.com/amplify/" target="_blank">AWS Ampliify</a>
 ![aws-amplify](https://cdn.svgporn.com/logos/aws-amplify.svg)
 ## <a href="https://blitzjs.com/" target="_blank">Blitz</a>
@@ -33,6 +36,8 @@ Please add your requests in the issues preferably with links to the vector files
 ![lit](https://cdn.svgporn.com/logos/lit.svg)
 ## <a href="https://github.com/malinajs/malinajs" target="_blank">Malina.js</a>
 ![malinajs](https://cdn.svgporn.com/logos/malinajs.svg)
+## <a href="https://mithril.js.org/" target="_blank">Mithril</a>
+![mithril](https://cdn.svgporn.com/logos/mithril.svg)
 ## <a href="https://prerender.io/" target="_blank">Prerender</a>
 ![prerender](https://cdn.svgporn.com/logos/prerender-icon.svg)
 ![prerender](https://cdn.svgporn.com/logos/prerender.svg)
@@ -137,10 +142,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://terser.org/" target="_blank">Terser</a>
 ![terser](https://cdn.svgporn.com/logos/terser-icon.svg)
 ![terser](https://cdn.svgporn.com/logos/terser.svg)
-## <a href="https://ceylon-lang.org/" target="_blank">Ceylon</a>
-![ceylon](https://cdn.svgporn.com/logos/ceylon.svg)
-## <a href="https://insomnia.rest/" target="_blank">Insomnia</a>
-![insomnia](https://cdn.svgporn.com/logos/insomnia.svg)
 
 ---
 
