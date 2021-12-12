@@ -1698,6 +1698,14 @@
     ]
   },
   {
+    "name": "Corda",
+    "shortname": "corda",
+    "url": "https://www.corda.net/",
+    "files": [
+      "corda.svg"
+    ]
+  },
+  {
     "name": "Cordova",
     "shortname": "cordova",
     "url": "https://cordova.apache.org/",
@@ -2127,6 +2135,15 @@
     ]
   },
   {
+    "name": "Drizzle",
+    "shortname": "drizzle",
+    "url": "https://trufflesuite.com/drizzle/",
+    "files": [
+      "drizzle-icon.svg",
+      "drizzle.svg"
+    ]
+  },
+  {
     "name": "Drone",
     "shortname": "drone",
     "url": "https://drone.io/",
@@ -2425,7 +2442,16 @@
     "shortname": "ethereum",
     "url": "https://www.ethereum.org/",
     "files": [
-      "ethereum.svg"
+      "ethereum.svg",
+      "ethereum-color.svg"
+    ]
+  },
+  {
+    "name": "Ethers",
+    "shortname": "ethers",
+    "url": "https://ethers.io/",
+    "files": [
+      "ethers.svg"
     ]
   },
   {
@@ -2822,6 +2848,15 @@
     ]
   },
   {
+    "name": "Ganache",
+    "shortname": "ganache",
+    "url": "https://trufflesuite.com/ganache/",
+    "files": [
+      "ganache-icon.svg",
+      "ganache.svg"
+    ]
+  },
+  {
     "name": "Gatsby",
     "shortname": "gatsby",
     "url": "https://www.gatsbyjs.org/",
@@ -2976,6 +3011,14 @@
     "url": "https://www.gnu.org/",
     "files": [
       "gnu.svg"
+    ]
+  },
+  {
+    "name": "GNUnet",
+    "shortname": "gnunet",
+    "url": "https://www.gnunet.org/en/index.html",
+    "files": [
+      "gnu-net.svg"
     ]
   },
   {
@@ -3431,6 +3474,15 @@
     "url": "http://hapijs.com/",
     "files": [
       "hapi.svg"
+    ]
+  },
+  {
+    "name": "Hardhat",
+    "shortname": "hardhat",
+    "url": "https://hardhat.org/",
+    "files": [
+      "hardhat-icon.svg",
+      "hardhat.svg"
     ]
   },
   {
@@ -4852,6 +4904,15 @@
     ]
   },
   {
+    "name": "MetaMask",
+    "shortname": "metamask",
+    "url": "https://metamask.io/",
+    "files": [
+      "metamask-icon.svg",
+      "metamask.svg"
+    ]
+  },
+  {
     "name": "Meteor",
     "shortname": "meteor",
     "url": "https://www.meteor.com/",
@@ -5494,6 +5555,15 @@
     "files": [
       "openstack-icon.svg",
       "openstack.svg"
+    ]
+  },
+  {
+    "name": "OpenZeppelin",
+    "shortname": "open-zeppelin",
+    "url": "https://openzeppelin.com/",
+    "files": [
+      "open-zeppelin-icon.svg",
+      "open-zeppelin.svg"
     ]
   },
   {
@@ -7041,6 +7111,14 @@
     ]
   },
   {
+    "name": "Solidity",
+    "shortname": "solidity",
+    "url": "https://soliditylang.org/",
+    "files": [
+      "solidity.svg"
+    ]
+  },
+  {
     "name": "Solr",
     "shortname": "solr",
     "url": "http://lucene.apache.org/solr/",
@@ -7714,6 +7792,15 @@
     ]
   },
   {
+    "name": "Truffle",
+    "shortname": "truffle",
+    "url": "https://trufflesuite.com/",
+    "files": [
+      "truffle-icon.svg",
+      "truffle.svg"
+    ]
+  },
+  {
     "name": "tsuru",
     "shortname": "tsuru",
     "url": "https://tsuru.io/",
@@ -8141,8 +8228,9 @@
   {
     "name": "Waffle",
     "shortname": "waffle",
-    "url": "https://waffle.io/",
+    "url": "https://getwaffle.io/",
     "files": [
+      "waffle-icon.svg",
       "waffle.svg"
     ]
   },
@@ -8201,6 +8289,14 @@
     "files": [
       "web.dev-icon.svg",
       "web.dev.svg"
+    ]
+  },
+  {
+    "name": "web3js",
+    "shortname": "web3js",
+    "url": "https://github.com/ChainSafe/web3.js",
+    "files": [
+      "web3js.svg"
     ]
   },
   {
