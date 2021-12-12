@@ -18,6 +18,14 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
+![microsoft-azure](https://cdn.svgporn.com/logos/microsoft-azure.svg)
+## <a href="http://dev.mysql.com/" target="_blank">MySQL</a>
+![mysql](https://cdn.svgporn.com/logos/mysql-icon.svg)
+![mysql](https://cdn.svgporn.com/logos/mysql.svg)
+## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
+![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
+![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
 ## <a href="https://esbuild.github.io/" target="_blank">esbuild</a>
 ![esbuild](https://cdn.svgporn.com/logos/esbuild.svg)
 ## <a href="https://parceljs.org/" target="_blank">Parcel</a>
@@ -127,12 +135,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![google-developers](https://cdn.svgporn.com/logos/google-developers.svg)
 ## <a href="https://www.google.com/drive/" target="_blank">Google Drive</a>
 ![google-drive](https://cdn.svgporn.com/logos/google-drive.svg)
-## <a href="https://www.google.com/fit/" target="_blank">Google Fit</a>
-![google-fit](https://cdn.svgporn.com/logos/google-fit.svg)
-## <a href="http://gmail.com/" target="_blank">Google Gmail</a>
-![google-gmail](https://cdn.svgporn.com/logos/google-gmail.svg)
-## <a href="https://madeby.google.com/home/" target="_blank">Google Home</a>
-![google-home](https://cdn.svgporn.com/logos/google-home.svg)
 
 ---
 

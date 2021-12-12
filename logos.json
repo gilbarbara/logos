@@ -4837,11 +4837,10 @@
   },
   {
     "name": "Microsoft Azure",
-    "shortname": "azure",
+    "shortname": "microsoft-azure",
     "url": "https://azure.microsoft.com/",
     "files": [
-      "azure-icon.svg",
-      "azure.svg"
+      "microsoft-azure.svg"
     ]
   },
   {
@@ -4850,6 +4849,13 @@
     "url": "https://www.microsoft.com/en-us/windows/microsoft-edge",
     "files": [
       "microsoft-edge.svg"
+    ]
+  },
+    "name": "Microsoft Windows",
+    "shortname": "microsoft-windows",
+    "url": "https://www.microsoft.com/windows",
+    "files": [
+      "microsoft-windows.svg"
     ]
   },
   {
@@ -5054,6 +5060,7 @@
     "shortname": "mysql",
     "url": "http://dev.mysql.com/",
     "files": [
+      "mysql-icon.svg",
       "mysql.svg"
     ]
   },
@@ -8249,14 +8256,6 @@
     "url": "https://www.wildfly.org",
     "files": [
       "wildfly.svg"
-    ]
-  },
-  {
-    "name": "Windows",
-    "shortname": "microsoft-windows",
-    "url": "https://www.microsoft.com/windows",
-    "files": [
-      "microsoft-windows.svg"
     ]
   },
   {
