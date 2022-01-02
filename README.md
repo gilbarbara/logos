@@ -24,29 +24,10 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://amplitude.com/" target="_blank">Amplitude</a>
 ![amplitude](https://cdn.svgporn.com/logos/amplitude-icon.svg)
 ![amplitude](https://cdn.svgporn.com/logos/amplitude.svg)
-## <a href="https://astro.build/" target="_blank">Astro</a>
-![astro](https://cdn.svgporn.com/logos/astro.svg)
-## <a href="https://axios-http.com/" target="_blank">Axios</a>
-![axios](https://cdn.svgporn.com/logos/axios.svg)
-## <a href="https://curl.se/" target="_blank">curl</a>
-![curl](https://cdn.svgporn.com/logos/curl.svg)
-## <a href="https://github.com/whatwg/fetch" target="_blank">fetch</a>
-![fetch](https://cdn.svgporn.com/logos/fetch.svg)
 ## <a href="https://www.huggy.io/" target="_blank">Huggy</a>
 ![huggy](https://cdn.svgporn.com/logos/huggy.svg)
-## <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>
-![matplotlib](https://cdn.svgporn.com/logos/matplotlib-icon.svg)
-![matplotlib](https://cdn.svgporn.com/logos/matplotlib.svg)
-## <a href="https://openframeworks.cc/" target="_blank">openFrameworks</a>
-![openframeworks](https://cdn.svgporn.com/logos/openframeworks.svg)
-## <a href="https://openjsf.org/" target="_blank">OpenJS Foundation</a>
-![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation-icon.svg)
-![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation.svg)
 ## <a href="https://www.samsung.com/" target="_blank">Samsung</a>
 ![samsung](https://cdn.svgporn.com/logos/samsung.svg)
-## <a href="https://www.snowflake.com/" target="_blank">snowflake</a>
-![snowflake](https://cdn.svgporn.com/logos/snowflake-icon.svg)
-![snowflake](https://cdn.svgporn.com/logos/snowflake.svg)
 ## <a href="https://www.spotify.com/" target="_blank">Spotify</a>
 ![spotify](https://cdn.svgporn.com/logos/spotify-icon.svg)
 ![spotify](https://cdn.svgporn.com/logos/spotify.svg)
@@ -58,6 +39,25 @@ Please add your requests in the issues preferably with links to the vector files
 ![tiktok](https://cdn.svgporn.com/logos/tiktok.svg)
 ## <a href="https://www.workplace.com/" target="_blank">Workplace</a>
 ![workplace](https://cdn.svgporn.com/logos/workplace.svg)
+## <a href="https://astro.build/" target="_blank">Astro</a>
+![astro](https://cdn.svgporn.com/logos/astro.svg)
+## <a href="https://axios-http.com/" target="_blank">Axios</a>
+![axios](https://cdn.svgporn.com/logos/axios.svg)
+## <a href="https://curl.se/" target="_blank">curl</a>
+![curl](https://cdn.svgporn.com/logos/curl.svg)
+## <a href="https://github.com/whatwg/fetch" target="_blank">fetch</a>
+![fetch](https://cdn.svgporn.com/logos/fetch.svg)
+## <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>
+![matplotlib](https://cdn.svgporn.com/logos/matplotlib-icon.svg)
+![matplotlib](https://cdn.svgporn.com/logos/matplotlib.svg)
+## <a href="https://openframeworks.cc/" target="_blank">openFrameworks</a>
+![openframeworks](https://cdn.svgporn.com/logos/openframeworks.svg)
+## <a href="https://openjsf.org/" target="_blank">OpenJS Foundation</a>
+![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation-icon.svg)
+![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation.svg)
+## <a href="https://www.snowflake.com/" target="_blank">snowflake</a>
+![snowflake](https://cdn.svgporn.com/logos/snowflake-icon.svg)
+![snowflake](https://cdn.svgporn.com/logos/snowflake.svg)
 ## <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a>
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs-icon.svg)
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs.svg)
