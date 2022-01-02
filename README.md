@@ -18,6 +18,12 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.activecampaign.com/" target="_blank">ActiveCampaign</a>
+![active-campaign](https://cdn.svgporn.com/logos/active-campaign-icon.svg)
+![active-campaign](https://cdn.svgporn.com/logos/active-campaign.svg)
+## <a href="https://amplitude.com/" target="_blank">Amplitude</a>
+![amplitude](https://cdn.svgporn.com/logos/amplitude-icon.svg)
+![amplitude](https://cdn.svgporn.com/logos/amplitude.svg)
 ## <a href="https://astro.build/" target="_blank">Astro</a>
 ![astro](https://cdn.svgporn.com/logos/astro.svg)
 ## <a href="https://axios-http.com/" target="_blank">Axios</a>
@@ -26,6 +32,8 @@ Please add your requests in the issues preferably with links to the vector files
 ![curl](https://cdn.svgporn.com/logos/curl.svg)
 ## <a href="https://github.com/whatwg/fetch" target="_blank">fetch</a>
 ![fetch](https://cdn.svgporn.com/logos/fetch.svg)
+## <a href="https://www.huggy.io/" target="_blank">Huggy</a>
+![huggy](https://cdn.svgporn.com/logos/huggy.svg)
 ## <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>
 ![matplotlib](https://cdn.svgporn.com/logos/matplotlib-icon.svg)
 ![matplotlib](https://cdn.svgporn.com/logos/matplotlib.svg)
@@ -34,9 +42,22 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://openjsf.org/" target="_blank">OpenJS Foundation</a>
 ![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation-icon.svg)
 ![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation.svg)
+## <a href="https://www.samsung.com/" target="_blank">Samsung</a>
+![samsung](https://cdn.svgporn.com/logos/samsung.svg)
 ## <a href="https://www.snowflake.com/" target="_blank">snowflake</a>
 ![snowflake](https://cdn.svgporn.com/logos/snowflake-icon.svg)
 ![snowflake](https://cdn.svgporn.com/logos/snowflake.svg)
+## <a href="https://www.spotify.com/" target="_blank">Spotify</a>
+![spotify](https://cdn.svgporn.com/logos/spotify-icon.svg)
+![spotify](https://cdn.svgporn.com/logos/spotify.svg)
+## <a href="https://tidal.com/" target="_blank">Tidal</a>
+![tidal](https://cdn.svgporn.com/logos/tidal-icon.svg)
+![tidal](https://cdn.svgporn.com/logos/tidal.svg)
+## <a href="https://www.tiktok.com/" target="_blank">TikTok</a>
+![tiktok](https://cdn.svgporn.com/logos/tiktok-icon.svg)
+![tiktok](https://cdn.svgporn.com/logos/tiktok.svg)
+## <a href="https://www.workplace.com/" target="_blank">Workplace</a>
+![workplace](https://cdn.svgporn.com/logos/workplace.svg)
 ## <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a>
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs-icon.svg)
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs.svg)
@@ -122,25 +143,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![microsoft-power-bi](https://cdn.svgporn.com/logos/microsoft-power-bi.svg)
 ## <a href="https://teams.com/" target="_blank">Microsoft Teams</a>
 ![microsoft-teams](https://cdn.svgporn.com/logos/microsoft-teams.svg)
-## <a href="https://multipass.run/" target="_blank">Multipass</a>
-![multipass](https://cdn.svgporn.com/logos/multipass.svg)
-## <a href="https://www.pagerduty.com/" target="_blank">PagerDuty</a>
-![pagerduty](https://cdn.svgporn.com/logos/pagerduty-icon.svg)
-![pagerduty](https://cdn.svgporn.com/logos/pagerduty.svg)
-## <a href="https://github.com/vercel/release" target="_blank">Release</a>
-![release](https://cdn.svgporn.com/logos/release.svg)
-## <a href="https://rockylinux.org/" target="_blank">Rocky Linux</a>
-![rocky-linux](https://cdn.svgporn.com/logos/rocky-linux-icon.svg)
-![rocky-linux](https://cdn.svgporn.com/logos/rocky-linux.svg)
-## <a href="https://semantic-release.gitbook.io/semantic-release/" target="_blank">semantic-release</a>
-![semantic-release](https://cdn.svgporn.com/logos/semantic-release.svg)
-## <a href="https://swr.vercel.app/" target="_blank">SWR</a>
-![swr](https://cdn.svgporn.com/logos/swr.svg)
-## <a href="https://azure.microsoft.com/" target="_blank">Microsoft Azure</a>
-![microsoft-azure](https://cdn.svgporn.com/logos/microsoft-azure.svg)
-## <a href="http://dev.mysql.com/" target="_blank">MySQL</a>
-![mysql](https://cdn.svgporn.com/logos/mysql-icon.svg)
-![mysql](https://cdn.svgporn.com/logos/mysql.svg)
 
 ---
 

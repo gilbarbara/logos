@@ -24,6 +24,15 @@
     ]
   },
   {
+    "name": "ActiveCampaign",
+    "shortname": "active-campaign",
+    "url": "https://www.activecampaign.com/",
+    "files": [
+      "active-campaign-icon.svg",
+      "active-campaign.svg"
+    ]
+  },
+  {
     "name": "AdRoll",
     "shortname": "adroll",
     "url": "https://www.adroll.com/",
@@ -168,6 +177,15 @@
     "url": "https://ampersandjs.com/",
     "files": [
       "ampersand.svg"
+    ]
+  },
+  {
+    "name": "Amplitude",
+    "shortname": "amplitude",
+    "url": "https://amplitude.com/",
+    "files": [
+      "amplitude-icon.svg",
+      "amplitude.svg"
     ]
   },
   {
@@ -3758,6 +3776,14 @@
     ]
   },
   {
+    "name": "Huggy",
+    "shortname": "huggy",
+    "url": "https://www.huggy.io/",
+    "files": [
+      "huggy.svg"
+    ]
+  },
+  {
     "name": "Hugo",
     "shortname": "hugo",
     "url": "https://gohugo.io/",
@@ -6846,6 +6872,14 @@
     ]
   },
   {
+    "name": "Samsung",
+    "shortname": "samsung",
+    "url": "https://www.samsung.com/",
+    "files": [
+      "samsung.svg"
+    ]
+  },
+  {
     "name": "Sanity",
     "shortname": "sanity",
     "url": "https://www.sanity.io/",
@@ -7369,6 +7403,15 @@
     ]
   },
   {
+    "name": "Spotify",
+    "shortname": "spotify",
+    "url": "https://www.spotify.com/",
+    "files": [
+      "spotify-icon.svg",
+      "spotify.svg"
+    ]
+  },
+  {
     "name": "Spree Commerce",
     "shortname": "spree",
     "url": "https://spreecommerce.org/",
@@ -7862,6 +7905,24 @@
     "url": "http://www.testlodge.com/",
     "files": [
       "testlodge.svg"
+    ]
+  },
+  {
+    "name": "Tidal",
+    "shortname": "tidal",
+    "url": "https://tidal.com/",
+    "files": [
+      "tidal-icon.svg",
+      "tidal.svg"
+    ]
+  },
+  {
+    "name": "TikTok",
+    "shortname": "tiktok",
+    "url": "https://www.tiktok.com/",
+    "files": [
+      "tiktok-icon.svg",
+      "tiktok.svg"
     ]
   },
   {
@@ -8681,6 +8742,14 @@
     "url": "http://www.workboard.com/",
     "files": [
       "workboard.svg"
+    ]
+  },
+  {
+    "name": "Workplace",
+    "shortname": "workplace",
+    "url": "https://www.workplace.com/",
+    "files": [
+      "workplace.svg"
     ]
   },
   {
