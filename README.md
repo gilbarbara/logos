@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://astro.build/" target="_blank">Astro</a>
+![astro](https://cdn.svgporn.com/logos/astro.svg)
+## <a href="https://axios-http.com/" target="_blank">Axios</a>
+![axios](https://cdn.svgporn.com/logos/axios.svg)
+## <a href="https://curl.se/" target="_blank">curl</a>
+![curl](https://cdn.svgporn.com/logos/curl.svg)
+## <a href="https://github.com/whatwg/fetch" target="_blank">fetch</a>
+![fetch](https://cdn.svgporn.com/logos/fetch.svg)
+## <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>
+![matplotlib](https://cdn.svgporn.com/logos/matplotlib-icon.svg)
+![matplotlib](https://cdn.svgporn.com/logos/matplotlib.svg)
+## <a href="https://openframeworks.cc/" target="_blank">openFrameworks</a>
+![openframeworks](https://cdn.svgporn.com/logos/openframeworks.svg)
+## <a href="https://openjsf.org/" target="_blank">OpenJS Foundation</a>
+![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation-icon.svg)
+![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation.svg)
+## <a href="https://www.snowflake.com/" target="_blank">snowflake</a>
+![snowflake](https://cdn.svgporn.com/logos/snowflake-icon.svg)
+![snowflake](https://cdn.svgporn.com/logos/snowflake.svg)
 ## <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a>
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs-icon.svg)
 ![alpinejs](https://cdn.svgporn.com/logos/alpinejs.svg)
@@ -122,26 +141,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://dev.mysql.com/" target="_blank">MySQL</a>
 ![mysql](https://cdn.svgporn.com/logos/mysql-icon.svg)
 ![mysql](https://cdn.svgporn.com/logos/mysql.svg)
-## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
-![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
-![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
-## <a href="https://esbuild.github.io/" target="_blank">esbuild</a>
-![esbuild](https://cdn.svgporn.com/logos/esbuild.svg)
-## <a href="https://parceljs.org/" target="_blank">Parcel</a>
-![parcel](https://cdn.svgporn.com/logos/parcel-icon.svg)
-![parcel](https://cdn.svgporn.com/logos/parcel.svg)
-## <a href="https://web.dev/progressive-web-apps/" target="_blank">PWA</a>
-![pwa](https://cdn.svgporn.com/logos/pwa.svg)
-## <a href="https://rome.tools/" target="_blank">Rome</a>
-![rome](https://cdn.svgporn.com/logos/rome-icon.svg)
-![rome](https://cdn.svgporn.com/logos/rome.svg)
-## <a href="https://www.snowpack.dev/" target="_blank">Snowpack</a>
-![snowpack](https://cdn.svgporn.com/logos/snowpack.svg)
-## <a href="https://swc.rs/" target="_blank">SWC</a>
-![swc](https://cdn.svgporn.com/logos/swc.svg)
-## <a href="https://terser.org/" target="_blank">Terser</a>
-![terser](https://cdn.svgporn.com/logos/terser-icon.svg)
-![terser](https://cdn.svgporn.com/logos/terser.svg)
 
 ---
 

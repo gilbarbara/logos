@@ -408,6 +408,14 @@
     ]
   },
   {
+    "name": "Astro",
+    "shortname": "astro",
+    "url": "https://astro.build/",
+    "files": [
+      "astro.svg"
+    ]
+  },
+  {
     "name": "Astronomer",
     "shortname": "astronomer",
     "url": "https://www.astronomer.io/",
@@ -712,6 +720,14 @@
     "url": "https://aws.amazon.com/waf/",
     "files": [
       "aws-waf.svg"
+    ]
+  },
+  {
+    "name": "Axios",
+    "shortname": "axios",
+    "url": "https://axios-http.com/",
+    "files": [
+      "axios.svg"
     ]
   },
   {
@@ -1880,6 +1896,14 @@
     ]
   },
   {
+    "name": "curl",
+    "shortname": "curl",
+    "url": "https://curl.se/",
+    "files": [
+      "curl.svg"
+    ]
+  },
+  {
     "name": "Customer.io",
     "shortname": "customerio",
     "url": "http://customer.io/",
@@ -2611,6 +2635,14 @@
     "url": "https://getfedora.org/",
     "files": [
       "fedora.svg"
+    ]
+  },
+  {
+    "name": "fetch",
+    "shortname": "fetch",
+    "url": "https://github.com/whatwg/fetch",
+    "files": [
+      "fetch.svg"
     ]
   },
   {
@@ -4857,6 +4889,15 @@
     ]
   },
   {
+    "name": "Matplotlib",
+    "shortname": "matplotlib",
+    "url": "https://matplotlib.org/",
+    "files": [
+      "matplotlib-icon.svg",
+      "matplotlib.svg"
+    ]
+  },
+  {
     "name": "Mattermost",
     "shortname": "mattermost",
     "url": "http://www.mattermost.org/",
@@ -5582,6 +5623,23 @@
     "url": "http://opencv.org/",
     "files": [
       "opencv.svg"
+    ]
+  },
+  {
+    "name": "openFrameworks",
+    "shortname": "openframeworks",
+    "url": "https://openframeworks.cc/",
+    "files": [
+      "openframeworks.svg"
+    ]
+  },
+  {
+    "name": "OpenJS Foundation",
+    "shortname": "openjs-foundation",
+    "url": "https://openjsf.org/",
+    "files": [
+      "openjs-foundation-icon.svg",
+      "openjs-foundation.svg"
     ]
   },
   {
@@ -7130,6 +7188,15 @@
     "url": "http://snapsvg.io/",
     "files": [
       "snap-svg.svg"
+    ]
+  },
+  {
+    "name": "snowflake",
+    "shortname": "snowflake",
+    "url": "https://www.snowflake.com/",
+    "files": [
+      "snowflake-icon.svg",
+      "snowflake.svg"
     ]
   },
   {
