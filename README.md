@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://github.com/features/actions" target="_blank">GitHub Actions</a>
+![github-actions](https://cdn.svgporn.com/logos/github-actions.svg)
+## <a href="https://copilot.github.com/" target="_blank">GitHub Copilot</a>
+![github-copilot](https://cdn.svgporn.com/logos/github-copilot.svg)
+## <a href="https://immerjs.github.io/immer/" target="_blank">Immer</a>
+![immer](https://cdn.svgporn.com/logos/immer-icon.svg)
+![immer](https://cdn.svgporn.com/logos/immer.svg)
+## <a href="https://jwt.io/" target="_blank">JWT</a>
+![jwt](https://cdn.svgporn.com/logos/jwt-icon.svg)
+![jwt](https://cdn.svgporn.com/logos/jwt.svg)
+## <a href="https://lerna.js.org/" target="_blank">Lerna</a>
+![lerna](https://cdn.svgporn.com/logos/lerna.svg)
+## <a href="https://nx.dev/" target="_blank">Nx</a>
+![nx](https://cdn.svgporn.com/logos/nx.svg)
+## <a href="https://openai.com/" target="_blank">Open AI</a>
+![openai](https://cdn.svgporn.com/logos/openai-icon.svg)
+![openai](https://cdn.svgporn.com/logos/openai.svg)
+## <a href="https://turborepo.org/" target="_blank">Turborepo</a>
+![turborepo](https://cdn.svgporn.com/logos/turborepo-icon.svg)
+![turborepo](https://cdn.svgporn.com/logos/turborepo.svg)
 ## <a href="https://www.activecampaign.com/" target="_blank">ActiveCampaign</a>
 ![active-campaign](https://cdn.svgporn.com/logos/active-campaign-icon.svg)
 ![active-campaign](https://cdn.svgporn.com/logos/active-campaign.svg)
@@ -126,23 +146,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![waffle](https://cdn.svgporn.com/logos/waffle.svg)
 ## <a href="https://github.com/ChainSafe/web3.js" target="_blank">web3js</a>
 ![web3js](https://cdn.svgporn.com/logos/web3js.svg)
-## <a href="https://aws.amazon.com/lightsail/" target="_blank">AWS Lightsail</a>
-![aws-lightsail](https://cdn.svgporn.com/logos/aws-lightsail.svg)
-## <a href="https://libcinder.org/" target="_blank">Cinder</a>
-![cinder](https://cdn.svgporn.com/logos/cinder.svg)
-## <a href="http://commitizen.github.io/cz-cli/" target="_blank">Commitizen</a>
-![commitizen](https://cdn.svgporn.com/logos/commitizen.svg)
-## <a href="https://www.gnome.org/" target="_blank">GNOME</a>
-![gnome](https://cdn.svgporn.com/logos/gnome-icon.svg)
-![gnome](https://cdn.svgporn.com/logos/gnome.svg)
-## <a href="https://manjaro.org/" target="_blank">Manjaro</a>
-![manjaro](https://cdn.svgporn.com/logos/manjaro.svg)
-## <a href="https://onedrive.com/" target="_blank">Microsoft OneDrive</a>
-![microsoft-onedrive](https://cdn.svgporn.com/logos/microsoft-onedrive.svg)
-## <a href="https://powerbi.microsoft.com/" target="_blank">Microsoft Power BI</a>
-![microsoft-power-bi](https://cdn.svgporn.com/logos/microsoft-power-bi.svg)
-## <a href="https://teams.com/" target="_blank">Microsoft Teams</a>
-![microsoft-teams](https://cdn.svgporn.com/logos/microsoft-teams.svg)
 
 ---
 

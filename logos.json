@@ -3009,6 +3009,22 @@
     ]
   },
   {
+    "name": "GitHub Actions",
+    "shortname": "github-actions",
+    "url": "https://github.com/features/actions",
+    "files": [
+      "github-actions.svg"
+    ]
+  },
+  {
+    "name": "GitHub Copilot",
+    "shortname": "github-copilot",
+    "url": "https://copilot.github.com/",
+    "files": [
+      "github-copilot.svg"
+    ]
+  },
+  {
     "name": "GitKraken",
     "shortname": "gitkraken",
     "url": "https://www.gitkraken.com/",
@@ -3848,6 +3864,15 @@
     ]
   },
   {
+    "name": "Immer",
+    "shortname": "immer",
+    "url": "https://immerjs.github.io/immer/",
+    "files": [
+      "immer-icon.svg",
+      "immer.svg"
+    ]
+  },
+  {
     "name": "Immutable",
     "shortname": "immutable",
     "url": "https://facebook.github.io/immutable-js/",
@@ -4217,6 +4242,15 @@
     ]
   },
   {
+    "name": "JWT",
+    "shortname": "jwt",
+    "url": "https://jwt.io/",
+    "files": [
+      "jwt-icon.svg",
+      "jwt.svg"
+    ]
+  },
+  {
     "name": "Kafka",
     "shortname": "kafka",
     "url": "http://kafka.apache.org/",
@@ -4494,6 +4528,14 @@
     "files": [
       "leankit-icon.svg",
       "leankit.svg"
+    ]
+  },
+  {
+    "name": "Lerna",
+    "shortname": "lerna",
+    "url": "https://lerna.js.org/",
+    "files": [
+      "lerna.svg"
     ]
   },
   {
@@ -5540,6 +5582,14 @@
     ]
   },
   {
+    "name": "Nx",
+    "shortname": "nx",
+    "url": "https://nx.dev/",
+    "files": [
+      "nx.svg"
+    ]
+  },
+  {
     "name": "O'Reilly",
     "shortname": "oreilly",
     "url": "http://www.oreilly.com/",
@@ -5593,6 +5643,15 @@
     "url": "https://onesignal.com/",
     "files": [
       "onesignal.svg"
+    ]
+  },
+  {
+    "name": "Open AI",
+    "shortname": "openai",
+    "url": "https://openai.com/",
+    "files": [
+      "openai-icon.svg",
+      "openai.svg"
     ]
   },
   {
@@ -8055,6 +8114,15 @@
     "url": "http://tunein.com/",
     "files": [
       "tunein.svg"
+    ]
+  },
+  {
+    "name": "Turborepo",
+    "shortname": "turborepo",
+    "url": "https://turborepo.org/",
+    "files": [
+      "turborepo-icon.svg",
+      "turborepo.svg"
     ]
   },
   {
