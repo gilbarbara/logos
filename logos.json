@@ -3489,6 +3489,14 @@
     ]
   },
   {
+    "name": "Gun",
+    "shortname": "gunjs",
+    "url": "https://gun.js.org/",
+    "files": [
+      "gunjs.svg"
+    ]
+  },
+  {
     "name": "Gunicorn",
     "shortname": "gunicorn",
     "url": "http://gunicorn.org/",
@@ -4587,6 +4595,15 @@
     ]
   },
   {
+    "name": "Lightstep",
+    "shortname": "lightstep",
+    "url": "https://lightstep.com/",
+    "files": [
+      "lightstep-icon.svg",
+      "lightstep.svg"
+    ]
+  },
+  {
     "name": "lighttpd",
     "shortname": "lighttpd",
     "url": "http://www.lighttpd.net/",
@@ -5385,6 +5402,15 @@
     ]
   },
   {
+    "name": "NATS",
+    "shortname": "nats",
+    "url": "https://nats.io/",
+    "files": [
+      "nats-icon.svg",
+      "nats.svg"
+    ]
+  },
+  {
     "name": "Neat",
     "shortname": "neat",
     "url": "http://neat.bourbon.io/",
@@ -5750,6 +5776,15 @@
     "files": [
       "openstack-icon.svg",
       "openstack.svg"
+    ]
+  },
+  {
+    "name": "OpenTelemetry",
+    "shortname": "opentelemetry",
+    "url": "https://opentelemetry.io/",
+    "files": [
+      "opentelemetry-icon.svg",
+      "opentelemetry.svg"
     ]
   },
   {
@@ -6727,6 +6762,15 @@
     ]
   },
   {
+    "name": "ReScript",
+    "shortname": "rescript",
+    "url": "https://rescript-lang.org/",
+    "files": [
+      "rescript-icon.svg",
+      "rescript.svg"
+    ]
+  },
+  {
     "name": "rest.li",
     "shortname": "rest-li",
     "url": "https://github.com/linkedin/rest.li",
@@ -6740,6 +6784,15 @@
     "url": "http://www.rethinkdb.com/",
     "files": [
       "rethinkdb.svg"
+    ]
+  },
+  {
+    "name": "Retool",
+    "shortname": "retool",
+    "url": "https://retool.com/",
+    "files": [
+      "retool-icon.svg",
+      "retool.svg"
     ]
   },
   {
@@ -7543,6 +7596,15 @@
     "url": "https://www.statuspage.io/",
     "files": [
       "statuspage.svg"
+    ]
+  },
+  {
+    "name": "stdlib",
+    "shortname": "stdlib",
+    "url": "https://stdlib.io/",
+    "files": [
+      "stdlib-icon.svg",
+      "stdlib.svg"
     ]
   },
   {
@@ -8605,6 +8667,14 @@
     "url": "http://webcomponents.org/",
     "files": [
       "webcomponents.svg"
+    ]
+  },
+  {
+    "name": "WebdriverIO",
+    "shortname": "webdriverio",
+    "url": "https://webdriver.io/",
+    "files": [
+      "webdriverio.svg"
     ]
   },
   {

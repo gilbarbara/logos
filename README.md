@@ -18,6 +18,28 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://gun.js.org/" target="_blank">Gun</a>
+![gunjs](https://cdn.svgporn.com/logos/gunjs.svg)
+## <a href="https://lightstep.com/" target="_blank">Lightstep</a>
+![lightstep](https://cdn.svgporn.com/logos/lightstep-icon.svg)
+![lightstep](https://cdn.svgporn.com/logos/lightstep.svg)
+## <a href="https://nats.io/" target="_blank">NATS</a>
+![nats](https://cdn.svgporn.com/logos/nats-icon.svg)
+![nats](https://cdn.svgporn.com/logos/nats.svg)
+## <a href="https://opentelemetry.io/" target="_blank">OpenTelemetry</a>
+![opentelemetry](https://cdn.svgporn.com/logos/opentelemetry-icon.svg)
+![opentelemetry](https://cdn.svgporn.com/logos/opentelemetry.svg)
+## <a href="https://rescript-lang.org/" target="_blank">ReScript</a>
+![rescript](https://cdn.svgporn.com/logos/rescript-icon.svg)
+![rescript](https://cdn.svgporn.com/logos/rescript.svg)
+## <a href="https://retool.com/" target="_blank">Retool</a>
+![retool](https://cdn.svgporn.com/logos/retool-icon.svg)
+![retool](https://cdn.svgporn.com/logos/retool.svg)
+## <a href="https://stdlib.io/" target="_blank">stdlib</a>
+![stdlib](https://cdn.svgporn.com/logos/stdlib-icon.svg)
+![stdlib](https://cdn.svgporn.com/logos/stdlib.svg)
+## <a href="https://webdriver.io/" target="_blank">WebdriverIO</a>
+![webdriverio](https://cdn.svgporn.com/logos/webdriverio.svg)
 ## <a href="https://github.com/features/actions" target="_blank">GitHub Actions</a>
 ![github-actions](https://cdn.svgporn.com/logos/github-actions.svg)
 ## <a href="https://copilot.github.com/" target="_blank">GitHub Copilot</a>
@@ -125,27 +147,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://trufflesuite.com/ganache/" target="_blank">Ganache</a>
 ![ganache](https://cdn.svgporn.com/logos/ganache-icon.svg)
 ![ganache](https://cdn.svgporn.com/logos/ganache.svg)
-## <a href="https://www.gnunet.org/en/index.html" target="_blank">GNUnet</a>
-![gnunet](https://cdn.svgporn.com/logos/gnu-net.svg)
-## <a href="https://hardhat.org/" target="_blank">Hardhat</a>
-![hardhat](https://cdn.svgporn.com/logos/hardhat-icon.svg)
-![hardhat](https://cdn.svgporn.com/logos/hardhat.svg)
-## <a href="https://metamask.io/" target="_blank">MetaMask</a>
-![metamask](https://cdn.svgporn.com/logos/metamask-icon.svg)
-![metamask](https://cdn.svgporn.com/logos/metamask.svg)
-## <a href="https://openzeppelin.com/" target="_blank">OpenZeppelin</a>
-![open-zeppelin](https://cdn.svgporn.com/logos/open-zeppelin-icon.svg)
-![open-zeppelin](https://cdn.svgporn.com/logos/open-zeppelin.svg)
-## <a href="https://soliditylang.org/" target="_blank">Solidity</a>
-![solidity](https://cdn.svgporn.com/logos/solidity.svg)
-## <a href="https://trufflesuite.com/" target="_blank">Truffle</a>
-![truffle](https://cdn.svgporn.com/logos/truffle-icon.svg)
-![truffle](https://cdn.svgporn.com/logos/truffle.svg)
-## <a href="https://getwaffle.io/" target="_blank">Waffle</a>
-![waffle](https://cdn.svgporn.com/logos/waffle-icon.svg)
-![waffle](https://cdn.svgporn.com/logos/waffle.svg)
-## <a href="https://github.com/ChainSafe/web3.js" target="_blank">web3js</a>
-![web3js](https://cdn.svgporn.com/logos/web3js.svg)
 
 ---
 
