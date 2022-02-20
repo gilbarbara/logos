@@ -2435,11 +2435,12 @@
     ]
   },
   {
-    "name": "Envoy Proxy",
-    "shortname": "envoyproxy",
+    "name": "Envoy",
+    "shortname": "envoy",
     "url": "https://www.envoyproxy.io/",
     "files": [
-      "envoyproxy.svg"
+      "envoy-icon.svg",
+      "envoy.svg"
     ]
   },
   {
@@ -8260,6 +8261,7 @@
     "shortname": "udacity",
     "url": "https://udacity.com",
     "files": [
+      "udacity-icon.svg",
       "udacity.svg"
     ]
   },
