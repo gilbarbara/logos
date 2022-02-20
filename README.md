@@ -18,6 +18,8 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://deno.land/" target="_blank">Deno</a>
+![deno](https://cdn.svgporn.com/logos/deno.svg)
 ## <a href="https://gun.js.org/" target="_blank">Gun</a>
 ![gunjs](https://cdn.svgporn.com/logos/gunjs.svg)
 ## <a href="https://lightstep.com/" target="_blank">Lightstep</a>
@@ -144,9 +146,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![ethereum](https://cdn.svgporn.com/logos/ethereum-color.svg)
 ## <a href="https://ethers.io/" target="_blank">Ethers</a>
 ![ethers](https://cdn.svgporn.com/logos/ethers.svg)
-## <a href="https://trufflesuite.com/ganache/" target="_blank">Ganache</a>
-![ganache](https://cdn.svgporn.com/logos/ganache-icon.svg)
-![ganache](https://cdn.svgporn.com/logos/ganache.svg)
 
 ---
 
