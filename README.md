@@ -18,8 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://adonisjs.com/" target="_blank">Adonis</a>
+![adonisjs](https://cdn.svgporn.com/logos/adonisjs-icon.svg)
+![adonisjs](https://cdn.svgporn.com/logos/adonisjs.svg)
 ## <a href="https://deno.land/" target="_blank">Deno</a>
 ![deno](https://cdn.svgporn.com/logos/deno.svg)
+## <a href="https://grpc.io/" target="_blank">gRPC</a>
+![grpc](https://cdn.svgporn.com/logos/grpc.svg)
+## <a href="https://hermesengine.dev/" target="_blank">Hermes</a>
+![hermes](https://cdn.svgporn.com/logos/hermes.svg)
+## <a href="https://imba.io/" target="_blank">Imba</a>
+![imba](https://cdn.svgporn.com/logos/imba-icon.svg)
+![imba](https://cdn.svgporn.com/logos/imba.svg)
+## <a href="https://pnpm.io/" target="_blank">pnPM</a>
+![pnpm](https://cdn.svgporn.com/logos/pnpm.svg)
+## <a href="https://tauri.studio/" target="_blank">Tauri</a>
+![tauri](https://cdn.svgporn.com/logos/tauri.svg)
+## <a href="https://tuple.app/" target="_blank">Tuple</a>
+![tuple](https://cdn.svgporn.com/logos/tuple.svg)
+## <a href="https://wmr.dev/" target="_blank">WMR</a>
+![wmr](https://cdn.svgporn.com/logos/wmr.svg)
 ## <a href="https://gun.js.org/" target="_blank">Gun</a>
 ![gunjs](https://cdn.svgporn.com/logos/gunjs.svg)
 ## <a href="https://lightstep.com/" target="_blank">Lightstep</a>
@@ -125,27 +143,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://prerender.io/" target="_blank">Prerender</a>
 ![prerender](https://cdn.svgporn.com/logos/prerender-icon.svg)
 ![prerender](https://cdn.svgporn.com/logos/prerender.svg)
-## <a href="https://remix.run/" target="_blank">Remix</a>
-![remix](https://cdn.svgporn.com/logos/remix-icon.svg)
-![remix](https://cdn.svgporn.com/logos/remix.svg)
-## <a href="https://www.solidjs.com/" target="_blank">Solid</a>
-![solidjs](https://cdn.svgporn.com/logos/solidjs-icon.svg)
-![solidjs](https://cdn.svgporn.com/logos/solidjs.svg)
-## <a href="https://stenciljs.com/" target="_blank">Stencil</a>
-![stenciljs](https://cdn.svgporn.com/logos/stenciljs-icon.svg)
-![stenciljs](https://cdn.svgporn.com/logos/stenciljs.svg)
-## <a href="https://stylis.js.org/" target="_blank">Stylis</a>
-![stylis](https://cdn.svgporn.com/logos/stylis.svg)
-## <a href="https://www.corda.net/" target="_blank">Corda</a>
-![corda](https://cdn.svgporn.com/logos/corda.svg)
-## <a href="https://trufflesuite.com/drizzle/" target="_blank">Drizzle</a>
-![drizzle](https://cdn.svgporn.com/logos/drizzle-icon.svg)
-![drizzle](https://cdn.svgporn.com/logos/drizzle.svg)
-## <a href="https://www.ethereum.org/" target="_blank">Ethereum</a> *
-![ethereum](https://cdn.svgporn.com/logos/ethereum.svg)
-![ethereum](https://cdn.svgporn.com/logos/ethereum-color.svg)
-## <a href="https://ethers.io/" target="_blank">Ethers</a>
-![ethers](https://cdn.svgporn.com/logos/ethers.svg)
 
 ---
 

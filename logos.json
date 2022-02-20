@@ -33,6 +33,15 @@
     ]
   },
   {
+    "name": "Adonis",
+    "shortname": "adonisjs",
+    "url": "https://adonisjs.com/",
+    "files": [
+      "adonisjs-icon.svg",
+      "adonisjs.svg"
+    ]
+  },
+  {
     "name": "AdRoll",
     "shortname": "adroll",
     "url": "https://www.adroll.com/",
@@ -3474,6 +3483,14 @@
     ]
   },
   {
+    "name": "gRPC",
+    "shortname": "grpc",
+    "url": "https://grpc.io/",
+    "files": [
+      "grpc.svg"
+    ]
+  },
+  {
     "name": "Grunt",
     "shortname": "grunt",
     "url": "http://gruntjs.com/",
@@ -3660,6 +3677,14 @@
     "files": [
       "helpscout-icon.svg",
       "helpscout.svg"
+    ]
+  },
+  {
+    "name": "Hermes",
+    "shortname": "hermes",
+    "url": "https://hermesengine.dev/",
+    "files": [
+      "hermes.svg"
     ]
   },
   {
@@ -3870,6 +3895,15 @@
     "url": "https://github.com/imagemin/imagemin",
     "files": [
       "imagemin.svg"
+    ]
+  },
+  {
+    "name": "Imba",
+    "shortname": "imba",
+    "url": "https://imba.io/",
+    "files": [
+      "imba-icon.svg",
+      "imba.svg"
     ]
   },
   {
@@ -6133,6 +6167,14 @@
     ]
   },
   {
+    "name": "pnPM",
+    "shortname": "pnpm",
+    "url": "https://pnpm.io/",
+    "files": [
+      "pnpm.svg"
+    ]
+  },
+  {
     "name": "POEditor",
     "shortname": "poeditor",
     "url": "https://poeditor.com/",
@@ -7955,6 +7997,14 @@
     ]
   },
   {
+    "name": "Tauri",
+    "shortname": "tauri",
+    "url": "https://tauri.studio/",
+    "files": [
+      "tauri.svg"
+    ]
+  },
+  {
     "name": "Tealium",
     "shortname": "tealium",
     "url": "https://tealium.com",
@@ -8177,6 +8227,14 @@
     "url": "http://tunein.com/",
     "files": [
       "tunein.svg"
+    ]
+  },
+  {
+    "name": "Tuple",
+    "shortname": "tuple",
+    "url": "https://tuple.app/",
+    "files": [
+      "tuple.svg"
     ]
   },
   {
@@ -8848,6 +8906,14 @@
     "url": "http://www.wix.com/",
     "files": [
       "wix.svg"
+    ]
+  },
+  {
+    "name": "WMR",
+    "shortname": "wmr",
+    "url": "https://wmr.dev/",
+    "files": [
+      "wmr.svg"
     ]
   },
   {
