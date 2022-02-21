@@ -18,131 +18,106 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
-## <a href="https://adonisjs.com/" target="_blank">Adonis</a>
-![adonisjs](https://cdn.svgporn.com/logos/adonisjs-icon.svg)
-![adonisjs](https://cdn.svgporn.com/logos/adonisjs.svg)
-## <a href="https://deno.land/" target="_blank">Deno</a>
-![deno](https://cdn.svgporn.com/logos/deno.svg)
-## <a href="https://grpc.io/" target="_blank">gRPC</a>
-![grpc](https://cdn.svgporn.com/logos/grpc.svg)
-## <a href="https://hermesengine.dev/" target="_blank">Hermes</a>
-![hermes](https://cdn.svgporn.com/logos/hermes.svg)
-## <a href="https://imba.io/" target="_blank">Imba</a>
-![imba](https://cdn.svgporn.com/logos/imba-icon.svg)
-![imba](https://cdn.svgporn.com/logos/imba.svg)
-## <a href="https://pnpm.io/" target="_blank">pnPM</a>
-![pnpm](https://cdn.svgporn.com/logos/pnpm.svg)
-## <a href="https://tauri.studio/" target="_blank">Tauri</a>
-![tauri](https://cdn.svgporn.com/logos/tauri.svg)
-## <a href="https://tuple.app/" target="_blank">Tuple</a>
-![tuple](https://cdn.svgporn.com/logos/tuple.svg)
-## <a href="https://wmr.dev/" target="_blank">WMR</a>
-![wmr](https://cdn.svgporn.com/logos/wmr.svg)
-## <a href="https://gun.js.org/" target="_blank">Gun</a>
-![gunjs](https://cdn.svgporn.com/logos/gunjs.svg)
-## <a href="https://lightstep.com/" target="_blank">Lightstep</a>
-![lightstep](https://cdn.svgporn.com/logos/lightstep-icon.svg)
-![lightstep](https://cdn.svgporn.com/logos/lightstep.svg)
-## <a href="https://nats.io/" target="_blank">NATS</a>
-![nats](https://cdn.svgporn.com/logos/nats-icon.svg)
-![nats](https://cdn.svgporn.com/logos/nats.svg)
-## <a href="https://opentelemetry.io/" target="_blank">OpenTelemetry</a>
-![opentelemetry](https://cdn.svgporn.com/logos/opentelemetry-icon.svg)
-![opentelemetry](https://cdn.svgporn.com/logos/opentelemetry.svg)
-## <a href="https://rescript-lang.org/" target="_blank">ReScript</a>
-![rescript](https://cdn.svgporn.com/logos/rescript-icon.svg)
-![rescript](https://cdn.svgporn.com/logos/rescript.svg)
-## <a href="https://retool.com/" target="_blank">Retool</a>
-![retool](https://cdn.svgporn.com/logos/retool-icon.svg)
-![retool](https://cdn.svgporn.com/logos/retool.svg)
-## <a href="https://stdlib.io/" target="_blank">stdlib</a>
-![stdlib](https://cdn.svgporn.com/logos/stdlib-icon.svg)
-![stdlib](https://cdn.svgporn.com/logos/stdlib.svg)
-## <a href="https://webdriver.io/" target="_blank">WebdriverIO</a>
-![webdriverio](https://cdn.svgporn.com/logos/webdriverio.svg)
-## <a href="https://github.com/features/actions" target="_blank">GitHub Actions</a>
-![github-actions](https://cdn.svgporn.com/logos/github-actions.svg)
-## <a href="https://copilot.github.com/" target="_blank">GitHub Copilot</a>
-![github-copilot](https://cdn.svgporn.com/logos/github-copilot.svg)
-## <a href="https://immerjs.github.io/immer/" target="_blank">Immer</a>
-![immer](https://cdn.svgporn.com/logos/immer-icon.svg)
-![immer](https://cdn.svgporn.com/logos/immer.svg)
-## <a href="https://jwt.io/" target="_blank">JWT</a>
-![jwt](https://cdn.svgporn.com/logos/jwt-icon.svg)
-![jwt](https://cdn.svgporn.com/logos/jwt.svg)
-## <a href="https://lerna.js.org/" target="_blank">Lerna</a>
-![lerna](https://cdn.svgporn.com/logos/lerna.svg)
-## <a href="https://nx.dev/" target="_blank">Nx</a>
-![nx](https://cdn.svgporn.com/logos/nx.svg)
-## <a href="https://openai.com/" target="_blank">Open AI</a>
-![openai](https://cdn.svgporn.com/logos/openai-icon.svg)
-![openai](https://cdn.svgporn.com/logos/openai.svg)
-## <a href="https://turborepo.org/" target="_blank">Turborepo</a>
-![turborepo](https://cdn.svgporn.com/logos/turborepo-icon.svg)
-![turborepo](https://cdn.svgporn.com/logos/turborepo.svg)
-## <a href="https://www.activecampaign.com/" target="_blank">ActiveCampaign</a>
-![active-campaign](https://cdn.svgporn.com/logos/active-campaign-icon.svg)
-![active-campaign](https://cdn.svgporn.com/logos/active-campaign.svg)
-## <a href="https://amplitude.com/" target="_blank">Amplitude</a>
-![amplitude](https://cdn.svgporn.com/logos/amplitude-icon.svg)
-![amplitude](https://cdn.svgporn.com/logos/amplitude.svg)
-## <a href="https://www.huggy.io/" target="_blank">Huggy</a>
-![huggy](https://cdn.svgporn.com/logos/huggy.svg)
-## <a href="https://www.samsung.com/" target="_blank">Samsung</a>
-![samsung](https://cdn.svgporn.com/logos/samsung.svg)
-## <a href="https://www.spotify.com/" target="_blank">Spotify</a>
-![spotify](https://cdn.svgporn.com/logos/spotify-icon.svg)
-![spotify](https://cdn.svgporn.com/logos/spotify.svg)
-## <a href="https://tidal.com/" target="_blank">Tidal</a>
-![tidal](https://cdn.svgporn.com/logos/tidal-icon.svg)
-![tidal](https://cdn.svgporn.com/logos/tidal.svg)
-## <a href="https://www.tiktok.com/" target="_blank">TikTok</a>
-![tiktok](https://cdn.svgporn.com/logos/tiktok-icon.svg)
-![tiktok](https://cdn.svgporn.com/logos/tiktok.svg)
-## <a href="https://www.workplace.com/" target="_blank">Workplace</a>
-![workplace](https://cdn.svgporn.com/logos/workplace.svg)
-## <a href="https://astro.build/" target="_blank">Astro</a>
-![astro](https://cdn.svgporn.com/logos/astro.svg)
-## <a href="https://axios-http.com/" target="_blank">Axios</a>
-![axios](https://cdn.svgporn.com/logos/axios.svg)
-## <a href="https://curl.se/" target="_blank">curl</a>
-![curl](https://cdn.svgporn.com/logos/curl.svg)
-## <a href="https://github.com/whatwg/fetch" target="_blank">fetch</a>
-![fetch](https://cdn.svgporn.com/logos/fetch.svg)
-## <a href="https://matplotlib.org/" target="_blank">Matplotlib</a>
-![matplotlib](https://cdn.svgporn.com/logos/matplotlib-icon.svg)
-![matplotlib](https://cdn.svgporn.com/logos/matplotlib.svg)
-## <a href="https://openframeworks.cc/" target="_blank">openFrameworks</a>
-![openframeworks](https://cdn.svgporn.com/logos/openframeworks.svg)
-## <a href="https://openjsf.org/" target="_blank">OpenJS Foundation</a>
-![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation-icon.svg)
-![openjs-foundation](https://cdn.svgporn.com/logos/openjs-foundation.svg)
-## <a href="https://www.snowflake.com/" target="_blank">snowflake</a>
-![snowflake](https://cdn.svgporn.com/logos/snowflake-icon.svg)
-![snowflake](https://cdn.svgporn.com/logos/snowflake.svg)
-## <a href="https://alpinejs.dev/" target="_blank">Alpine.js</a>
-![alpinejs](https://cdn.svgporn.com/logos/alpinejs-icon.svg)
-![alpinejs](https://cdn.svgporn.com/logos/alpinejs.svg)
-## <a href="https://auth0.com/" target="_blank">Auth0</a>
-![auth0](https://cdn.svgporn.com/logos/auth0-icon.svg)
-![auth0](https://cdn.svgporn.com/logos/auth0.svg)
-## <a href="https://aws.amazon.com/amplify/" target="_blank">AWS Ampliify</a>
-![aws-amplify](https://cdn.svgporn.com/logos/aws-amplify.svg)
-## <a href="https://blitzjs.com/" target="_blank">Blitz</a>
-![bllitzjs](https://cdn.svgporn.com/logos/blitzjs-icon.svg)
-![bllitzjs](https://cdn.svgporn.com/logos/blitzjs.svg)
-## <a href="https://create-react-app.dev/" target="_blank">Create React App</a>
-![create-react-app](https://cdn.svgporn.com/logos/create-react-app.svg)
-## <a href="https://lit.dev/" target="_blank">Lit</a>
-![lit](https://cdn.svgporn.com/logos/lit-icon.svg)
-![lit](https://cdn.svgporn.com/logos/lit.svg)
-## <a href="https://github.com/malinajs/malinajs" target="_blank">Malina.js</a>
-![malinajs](https://cdn.svgporn.com/logos/malinajs.svg)
-## <a href="https://mithril.js.org/" target="_blank">Mithril</a>
-![mithril](https://cdn.svgporn.com/logos/mithril.svg)
-## <a href="https://prerender.io/" target="_blank">Prerender</a>
-![prerender](https://cdn.svgporn.com/logos/prerender-icon.svg)
-![prerender](https://cdn.svgporn.com/logos/prerender.svg)
+## <a href="https://aws.amazon.com/api-gateway/" target="_blank">AWS API Gateway</a>
+![aws-api-gateway](https://cdn.svgporn.com/logos/aws-api-gateway.svg)
+## <a href="https://aws.amazon.com/app-mesh" target="_blank">AWS App Mesh</a>
+![aws-app-mesh](https://cdn.svgporn.com/logos/aws-app-mesh.svg)
+## <a href="https://aws.amazon.com/appflow/" target="_blank">AWS AppFlow</a>
+![aws-appflow](https://cdn.svgporn.com/logos/aws-appflow.svg)
+## <a href="https://aws.amazon.com/appsync/" target="_blank">AWS AppSync</a>
+![aws-appsync](https://cdn.svgporn.com/logos/aws-appsync.svg)
+## <a href="https://aws.amazon.com/athena" target="_blank">AWS Athena</a>
+![aws-athena](https://cdn.svgporn.com/logos/aws-athena.svg)
+## <a href="https://aws.amazon.com/rds/aurora" target="_blank">AWS Aurora</a>
+![aws-aurora](https://cdn.svgporn.com/logos/aws-aurora.svg)
+## <a href="https://aws.amazon.com/backup/" target="_blank">AWS Backup</a>
+![aws-backup](https://cdn.svgporn.com/logos/aws-backup.svg)
+## <a href="https://aws.amazon.com/batch/" target="_blank">AWS Batch</a>
+![aws-batch](https://cdn.svgporn.com/logos/aws-batch.svg)
+## <a href="https://aws.amazon.com/certificate-manager/" target="_blank">AWS Certificate Manager</a>
+![aws-certificate-manager](https://cdn.svgporn.com/logos/aws-certificate-manager.svg)
+## <a href="https://aws.amazon.com/cloudformation/" target="_blank">AWS CloudFormation</a>
+![aws-cloudformation](https://cdn.svgporn.com/logos/aws-cloudformation.svg)
+## <a href="https://aws.amazon.com/cloudfront/" target="_blank">AWS CloudFront</a>
+![aws-cloudfront](https://cdn.svgporn.com/logos/aws-cloudfront.svg)
+## <a href="https://aws.amazon.com/cloudsearch/" target="_blank">AWS CloudSearch</a>
+![aws-cloudsearch](https://cdn.svgporn.com/logos/aws-cloudsearch.svg)
+## <a href="https://aws.amazon.com/cloudtrail/" target="_blank">AWS CloudTrail</a>
+![aws-cloudtrail](https://cdn.svgporn.com/logos/aws-cloudtrail.svg)
+## <a href="https://aws.amazon.com/cloudwatch/" target="_blank">AWS CloudWatch</a>
+![aws-cloudwatch](https://cdn.svgporn.com/logos/aws-cloudwatch.svg)
+## <a href="https://aws.amazon.com/codebuild/" target="_blank">AWS CodeBuild</a>
+![aws-codebuild](https://cdn.svgporn.com/logos/aws-codebuild.svg)
+## <a href="https://aws.amazon.com/codecommit/" target="_blank">AWS CodeCommit</a>
+![aws-codecommit](https://cdn.svgporn.com/logos/aws-codecommit.svg)
+## <a href="https://aws.amazon.com/codedeploy/" target="_blank">AWS CodeDeploy</a>
+![aws-codedeploy](https://cdn.svgporn.com/logos/aws-codedeploy.svg)
+## <a href="https://aws.amazon.com/codepipeline/" target="_blank">AWS CodePipeline</a>
+![aws-codepipeline](https://cdn.svgporn.com/logos/aws-codepipeline.svg)
+## <a href="https://aws.amazon.com/codestar/" target="_blank">AWS CodeStar</a>
+![aws-codestar](https://cdn.svgporn.com/logos/aws-codestar.svg)
+## <a href="https://aws.amazon.com/cognito/" target="_blank">AWS Cognito</a>
+![aws-cognito](https://cdn.svgporn.com/logos/aws-cognito.svg)
+## <a href="https://aws.amazon.com/config/" target="_blank">AWS Config</a>
+![aws-config](https://cdn.svgporn.com/logos/aws-config.svg)
+## <a href="https://aws.amazon.com/documentdb/" target="_blank">AWS DocumentDB</a>
+![aws-documentdb](https://cdn.svgporn.com/logos/aws-documentdb.svg)
+## <a href="https://aws.amazon.com/dynamodb/" target="_blank">AWS DynamoDB</a>
+![aws-dynamodb](https://cdn.svgporn.com/logos/aws-dynamodb.svg)
+## <a href="https://aws.amazon.com/ec2/" target="_blank">AWS EC2 (Elastic Compute Cloud)</a>
+![aws-ec2](https://cdn.svgporn.com/logos/aws-ec2.svg)
+## <a href="https://aws.amazon.com/ecs/" target="_blank">AWS ECS (Elastic Container Service)</a>
+![aws-ecs](https://cdn.svgporn.com/logos/aws-ecs.svg)
+## <a href="https://aws.amazon.com/eks/" target="_blank">AWS EKS (Elastic Kubernetes Service)</a>
+![aws-eks](https://cdn.svgporn.com/logos/aws-eks.svg)
+## <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">AWS Elastic Beanstalk</a>
+![aws-elastic-beanstalk](https://cdn.svgporn.com/logos/aws-elastic-beanstalk.svg)
+## <a href="https://aws.amazon.com/elasticache/" target="_blank">AWS ElastiCache</a>
+![aws-elasticache](https://cdn.svgporn.com/logos/aws-elasticache.svg)
+## <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank">AWS ELB (Elastic Load Balancing)</a>
+![aws-elb](https://cdn.svgporn.com/logos/aws-elb.svg)
+## <a href="https://aws.amazon.com/eventbridge/" target="_blank">AWS EventBridge</a>
+![aws-eventbridge](https://cdn.svgporn.com/logos/aws-eventbridge.svg)
+## <a href="https://aws.amazon.com/fargate/" target="_blank">AWS Fargate</a>
+![aws-fargate](https://cdn.svgporn.com/logos/aws-fargate.svg)
+## <a href="https://aws.amazon.com/glacier/" target="_blank">AWS Glacier</a>
+![aws-glacier](https://cdn.svgporn.com/logos/aws-glacier.svg)
+## <a href="https://aws.amazon.com/glue/" target="_blank">AWS Glue</a>
+![aws-glue](https://cdn.svgporn.com/logos/aws-glue.svg)
+## <a href="https://aws.amazon.com/iam/" target="_blank">AWS IAM (Identity and Access Management)</a>
+![aws-iam](https://cdn.svgporn.com/logos/aws-iam.svg)
+## <a href="https://aws.amazon.com/keyspaces/" target="_blank">AWS Keyspaces</a>
+![aws-keyspaces](https://cdn.svgporn.com/logos/aws-keyspaces.svg)
+## <a href="https://aws.amazon.com/kinesis/" target="_blank">AWS Kinesis</a>
+![aws-kinesis](https://cdn.svgporn.com/logos/aws-kinesis.svg)
+## <a href="https://aws.amazon.com/kms/" target="_blank">AWS KMS (Key Management Service)</a>
+![aws-kms](https://cdn.svgporn.com/logos/aws-kms.svg)
+## <a href="https://aws.amazon.com/lake-formation/" target="_blank">AWS Lake Formation</a>
+![aws-lake-formation](https://cdn.svgporn.com/logos/aws-lake-formation.svg)
+## <a href="https://aws.amazon.com/lambda/" target="_blank">AWS Lambda</a>
+![aws-lambda](https://cdn.svgporn.com/logos/aws-lambda.svg)
+## <a href="https://aws.amazon.com/amazon-mq/" target="_blank">AWS MQ</a>
+![aws-mq](https://cdn.svgporn.com/logos/aws-mq.svg)
+## <a href="https://aws.amazon.com/msk/" target="_blank">AWS MSK (Managed Streaming for Kafka)</a>
+![aws-msk](https://cdn.svgporn.com/logos/aws-msk.svg)
+## <a href="https://aws.amazon.com/neptune/" target="_blank">AWS Neptune</a>
+![aws-neptune](https://cdn.svgporn.com/logos/aws-neptune.svg)
+## <a href="https://aws.amazon.com/opensearch-service/" target="_blank">AWS Open Search</a>
+![aws-open-search](https://cdn.svgporn.com/logos/aws-open-search.svg)
+## <a href="https://aws.amazon.com/opsworks/" target="_blank">AWS Opworks</a>
+![aws-opsworks](https://cdn.svgporn.com/logos/aws-opsworks.svg)
+## <a href="https://aws.amazon.com/quicksight/" target="_blank">AWS QuickSight</a>
+![aws-quicksight](https://cdn.svgporn.com/logos/aws-quicksight.svg)
+## <a href="https://aws.amazon.com/rds/" target="_blank">AWS RDS (Relational Database Service)</a>
+![aws-rds](https://cdn.svgporn.com/logos/aws-rds.svg)
+## <a href="https://aws.amazon.com/redshift/" target="_blank">AWS Redshift</a>
+![aws-redshift](https://cdn.svgporn.com/logos/aws-redshift.svg)
+## <a href="https://aws.amazon.com/route53/" target="_blank">AWS Route 53</a>
+![aws-route53](https://cdn.svgporn.com/logos/aws-route53.svg)
+## <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3 (Simple Storage Service)</a>
+![aws-s3](https://cdn.svgporn.com/logos/aws-s3.svg)
+## <a href="https://aws.amazon.com/secrets-manager/" target="_blank">AWS Secrets Manager</a>
+![aws-secrets-manager](https://cdn.svgporn.com/logos/aws-secrets-manager.svg)
 
 ---
 

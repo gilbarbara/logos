@@ -566,6 +566,70 @@
     ]
   },
   {
+    "name": "AWS App Mesh",
+    "shortname": "aws-app-mesh",
+    "url": "https://aws.amazon.com/app-mesh",
+    "files": [
+      "aws-app-mesh.svg"
+    ]
+  },
+  {
+    "name": "AWS AppFlow",
+    "shortname": "aws-appflow",
+    "url": "https://aws.amazon.com/appflow/",
+    "files": [
+      "aws-appflow.svg"
+    ]
+  },
+  {
+    "name": "AWS AppSync",
+    "shortname": "aws-appsync",
+    "url": "https://aws.amazon.com/appsync/",
+    "files": [
+      "aws-appsync.svg"
+    ]
+  },
+  {
+    "name": "AWS Athena",
+    "shortname": "aws-athena",
+    "url": "https://aws.amazon.com/athena",
+    "files": [
+      "aws-athena.svg"
+    ]
+  },
+  {
+    "name": "AWS Aurora",
+    "shortname": "aws-aurora",
+    "url": "https://aws.amazon.com/rds/aurora",
+    "files": [
+      "aws-aurora.svg"
+    ]
+  },
+  {
+    "name": "AWS Backup",
+    "shortname": "aws-backup",
+    "url": "https://aws.amazon.com/backup/",
+    "files": [
+      "aws-backup.svg"
+    ]
+  },
+  {
+    "name": "AWS Batch",
+    "shortname": "aws-batch",
+    "url": "https://aws.amazon.com/batch/",
+    "files": [
+      "aws-batch.svg"
+    ]
+  },
+  {
+    "name": "AWS Certificate Manager",
+    "shortname": "aws-certificate-manager",
+    "url": "https://aws.amazon.com/certificate-manager/",
+    "files": [
+      "aws-certificate-manager.svg"
+    ]
+  },
+  {
     "name": "AWS CloudFormation",
     "shortname": "aws-cloudformation",
     "url": "https://aws.amazon.com/cloudformation/",
@@ -590,11 +654,35 @@
     ]
   },
   {
+    "name": "AWS CloudTrail",
+    "shortname": "aws-cloudtrail",
+    "url": "https://aws.amazon.com/cloudtrail/",
+    "files": [
+      "aws-cloudtrail.svg"
+    ]
+  },
+  {
     "name": "AWS CloudWatch",
     "shortname": "aws-cloudwatch",
     "url": "https://aws.amazon.com/cloudwatch/",
     "files": [
       "aws-cloudwatch.svg"
+    ]
+  },
+  {
+    "name": "AWS CodeBuild",
+    "shortname": "aws-codebuild",
+    "url": "https://aws.amazon.com/codebuild/",
+    "files": [
+      "aws-codebuild.svg"
+    ]
+  },
+  {
+    "name": "AWS CodeCommit",
+    "shortname": "aws-codecommit",
+    "url": "https://aws.amazon.com/codecommit/",
+    "files": [
+      "aws-codecommit.svg"
     ]
   },
   {
@@ -606,11 +694,43 @@
     ]
   },
   {
+    "name": "AWS CodePipeline",
+    "shortname": "aws-codepipeline",
+    "url": "https://aws.amazon.com/codepipeline/",
+    "files": [
+      "aws-codepipeline.svg"
+    ]
+  },
+  {
+    "name": "AWS CodeStar",
+    "shortname": "aws-codestar",
+    "url": "https://aws.amazon.com/codestar/",
+    "files": [
+      "aws-codestar.svg"
+    ]
+  },
+  {
     "name": "AWS Cognito",
     "shortname": "aws-cognito",
     "url": "https://aws.amazon.com/cognito/",
     "files": [
       "aws-cognito.svg"
+    ]
+  },
+  {
+    "name": "AWS Config",
+    "shortname": "aws-config",
+    "url": "https://aws.amazon.com/config/",
+    "files": [
+      "aws-config.svg"
+    ]
+  },
+  {
+    "name": "AWS DocumentDB",
+    "shortname": "aws-documentdb",
+    "url": "https://aws.amazon.com/documentdb/",
+    "files": [
+      "aws-documentdb.svg"
     ]
   },
   {
@@ -630,11 +750,59 @@
     ]
   },
   {
-    "name": "AWS Elastic Cache",
-    "shortname": "aws-elastic-cache",
+    "name": "AWS ECS (Elastic Container Service)",
+    "shortname": "aws-ecs",
+    "url": "https://aws.amazon.com/ecs/",
+    "files": [
+      "aws-ecs.svg"
+    ]
+  },
+  {
+    "name": "AWS EKS (Elastic Kubernetes Service)",
+    "shortname": "aws-eks",
+    "url": "https://aws.amazon.com/eks/",
+    "files": [
+      "aws-eks.svg"
+    ]
+  },
+  {
+    "name": "AWS Elastic Beanstalk",
+    "shortname": "aws-elastic-beanstalk",
+    "url": "https://aws.amazon.com/elasticbeanstalk/",
+    "files": [
+      "aws-elastic-beanstalk.svg"
+    ]
+  },
+  {
+    "name": "AWS ElastiCache",
+    "shortname": "aws-elasticache",
     "url": "https://aws.amazon.com/elasticache/",
     "files": [
-      "aws-elastic-cache.svg"
+      "aws-elasticache.svg"
+    ]
+  },
+  {
+    "name": "AWS ELB (Elastic Load Balancing)",
+    "shortname": "aws-elb",
+    "url": "https://aws.amazon.com/elasticloadbalancing/",
+    "files": [
+      "aws-elb.svg"
+    ]
+  },
+  {
+    "name": "AWS EventBridge",
+    "shortname": "aws-eventbridge",
+    "url": "https://aws.amazon.com/eventbridge/",
+    "files": [
+      "aws-eventbridge.svg"
+    ]
+  },
+  {
+    "name": "AWS Fargate",
+    "shortname": "aws-fargate",
+    "url": "https://aws.amazon.com/fargate/",
+    "files": [
+      "aws-fargate.svg"
     ]
   },
   {
@@ -646,6 +814,14 @@
     ]
   },
   {
+    "name": "AWS Glue",
+    "shortname": "aws-glue",
+    "url": "https://aws.amazon.com/glue/",
+    "files": [
+      "aws-glue.svg"
+    ]
+  },
+  {
     "name": "AWS IAM (Identity and Access Management)",
     "shortname": "aws-iam",
     "url": "https://aws.amazon.com/iam/",
@@ -654,11 +830,35 @@
     ]
   },
   {
+    "name": "AWS Keyspaces",
+    "shortname": "aws-keyspaces",
+    "url": "https://aws.amazon.com/keyspaces/",
+    "files": [
+      "aws-keyspaces.svg"
+    ]
+  },
+  {
     "name": "AWS Kinesis",
     "shortname": "aws-kinesis",
     "url": "https://aws.amazon.com/kinesis/",
     "files": [
       "aws-kinesis.svg"
+    ]
+  },
+  {
+    "name": "AWS KMS (Key Management Service)",
+    "shortname": "aws-kms",
+    "url": "https://aws.amazon.com/kms/",
+    "files": [
+      "aws-kms.svg"
+    ]
+  },
+  {
+    "name": "AWS Lake Formation",
+    "shortname": "aws-lake-formation",
+    "url": "https://aws.amazon.com/lake-formation/",
+    "files": [
+      "aws-lake-formation.svg"
     ]
   },
   {
@@ -678,6 +878,38 @@
     ]
   },
   {
+    "name": "AWS MQ",
+    "shortname": "aws-mq",
+    "url": "https://aws.amazon.com/amazon-mq/",
+    "files": [
+      "aws-mq.svg"
+    ]
+  },
+  {
+    "name": "AWS MSK (Managed Streaming for Kafka)",
+    "shortname": "aws-msk",
+    "url": "https://aws.amazon.com/msk/",
+    "files": [
+      "aws-msk.svg"
+    ]
+  },
+  {
+    "name": "AWS Neptune",
+    "shortname": "aws-neptune",
+    "url": "https://aws.amazon.com/neptune/",
+    "files": [
+      "aws-neptune.svg"
+    ]
+  },
+  {
+    "name": "AWS Open Search",
+    "shortname": "aws-open-search",
+    "url": "https://aws.amazon.com/opensearch-service/",
+    "files": [
+      "aws-open-search.svg"
+    ]
+  },
+  {
     "name": "AWS Opworks",
     "shortname": "aws-opsworks",
     "url": "https://aws.amazon.com/opsworks/",
@@ -688,7 +920,7 @@
   {
     "name": "AWS QuickSight",
     "shortname": "aws-quicksight",
-    "url": "https://quicksight.aws/",
+    "url": "https://aws.amazon.com/quicksight/",
     "files": [
       "aws-quicksight.svg"
     ]
@@ -699,6 +931,14 @@
     "url": "https://aws.amazon.com/rds/",
     "files": [
       "aws-rds.svg"
+    ]
+  },
+  {
+    "name": "AWS Redshift",
+    "shortname": "aws-redshift",
+    "url": "https://aws.amazon.com/redshift/",
+    "files": [
+      "aws-redshift.svg"
     ]
   },
   {
@@ -718,11 +958,27 @@
     ]
   },
   {
+    "name": "AWS Secrets Manager",
+    "shortname": "aws-secrets-manager",
+    "url": "https://aws.amazon.com/secrets-manager/",
+    "files": [
+      "aws-secrets-manager.svg"
+    ]
+  },
+  {
     "name": "AWS SES (Simple Email Service)",
     "shortname": "aws-ses",
     "url": "https://aws.amazon.com/ses/",
     "files": [
       "aws-ses.svg"
+    ]
+  },
+  {
+    "name": "AWS Shield",
+    "shortname": "aws-shield",
+    "url": "https://aws.amazon.com/shield/",
+    "files": [
+      "aws-shield.svg"
     ]
   },
   {
@@ -742,11 +998,51 @@
     ]
   },
   {
+    "name": "AWS Step Functions",
+    "shortname": "aws-step-functions",
+    "url": "https://aws.amazon.com/step-functions/",
+    "files": [
+      "aws-step-functions.svg"
+    ]
+  },
+  {
+    "name": "AWS Systems Manager",
+    "shortname": "aws-systems-manager",
+    "url": "https://aws.amazon.com/systems-manager/",
+    "files": [
+      "aws-systems-manager.svg"
+    ]
+  },
+  {
+    "name": "AWS Timestream",
+    "shortname": "aws-timestream",
+    "url": "https://aws.amazon.com/timestream/",
+    "files": [
+      "aws-timestream.svg"
+    ]
+  },
+  {
+    "name": "AWS VPC (Virtual Private Cloud)",
+    "shortname": "aws-vpc",
+    "url": "https://aws.amazon.com/vpc/",
+    "files": [
+      "aws-vpc.svg"
+    ]
+  },
+  {
     "name": "AWS WAF (Web Application Firewall)",
     "shortname": "aws-waf",
     "url": "https://aws.amazon.com/waf/",
     "files": [
       "aws-waf.svg"
+    ]
+  },
+  {
+    "name": "AWS X-Ray",
+    "shortname": "aws-xray",
+    "url": "https://aws.amazon.com/xray/",
+    "files": [
+      "aws-xray.svg"
     ]
   },
   {
