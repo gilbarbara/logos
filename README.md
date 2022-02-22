@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://argoproj.github.io/" target="_blank">Argo</a>
+![argo](https://cdn.svgporn.com/logos/argo-icon.svg)
+![argo](https://cdn.svgporn.com/logos/argo.svg)
+## <a href="https://www.getdbt.com/" target="_blank">dbt</a>
+![dbt](https://cdn.svgporn.com/logos/dbt-icon.svg)
+![dbt](https://cdn.svgporn.com/logos/dbt.svg)
+## <a href="https://www.framer.com/" target="_blank">Framer</a>
+![framer](https://cdn.svgporn.com/logos/framer.svg)
+## <a href="https://helm.sh/" target="_blank">Helm</a>
+![helm](https://cdn.svgporn.com/logos/helm.svg)
+## <a href="https://httpie.io/" target="_blank">HTTPie</a>
+![httpie](https://cdn.svgporn.com/logos/httpie-icon.svg)
+![httpie](https://cdn.svgporn.com/logos/httpie.svg)
+## <a href="https://spidermonkey.dev/" target="_blank">SpiderMonkey</a>
+![spidermonkey](https://cdn.svgporn.com/logos/spidermonkey-icon.svg)
+![spidermonkey](https://cdn.svgporn.com/logos/spidermonkey.svg)
+## <a href="https://toml.io/" target="_blank">TOML</a>
+![toml](https://cdn.svgporn.com/logos/toml.svg)
+## <a href="https://yaml.org/" target="_blank">YAML</a>
+![yaml](https://cdn.svgporn.com/logos/yaml.svg)
 ## <a href="https://aws.amazon.com/api-gateway/" target="_blank">AWS API Gateway</a>
 ![aws-api-gateway](https://cdn.svgporn.com/logos/aws-api-gateway.svg)
 ## <a href="https://aws.amazon.com/app-mesh" target="_blank">AWS App Mesh</a>
@@ -102,22 +122,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![aws-msk](https://cdn.svgporn.com/logos/aws-msk.svg)
 ## <a href="https://aws.amazon.com/neptune/" target="_blank">AWS Neptune</a>
 ![aws-neptune](https://cdn.svgporn.com/logos/aws-neptune.svg)
-## <a href="https://aws.amazon.com/opensearch-service/" target="_blank">AWS Open Search</a>
-![aws-open-search](https://cdn.svgporn.com/logos/aws-open-search.svg)
-## <a href="https://aws.amazon.com/opsworks/" target="_blank">AWS Opworks</a>
-![aws-opsworks](https://cdn.svgporn.com/logos/aws-opsworks.svg)
-## <a href="https://aws.amazon.com/quicksight/" target="_blank">AWS QuickSight</a>
-![aws-quicksight](https://cdn.svgporn.com/logos/aws-quicksight.svg)
-## <a href="https://aws.amazon.com/rds/" target="_blank">AWS RDS (Relational Database Service)</a>
-![aws-rds](https://cdn.svgporn.com/logos/aws-rds.svg)
-## <a href="https://aws.amazon.com/redshift/" target="_blank">AWS Redshift</a>
-![aws-redshift](https://cdn.svgporn.com/logos/aws-redshift.svg)
-## <a href="https://aws.amazon.com/route53/" target="_blank">AWS Route 53</a>
-![aws-route53](https://cdn.svgporn.com/logos/aws-route53.svg)
-## <a href="https://aws.amazon.com/s3/" target="_blank">AWS S3 (Simple Storage Service)</a>
-![aws-s3](https://cdn.svgporn.com/logos/aws-s3.svg)
-## <a href="https://aws.amazon.com/secrets-manager/" target="_blank">AWS Secrets Manager</a>
-![aws-secrets-manager](https://cdn.svgporn.com/logos/aws-secrets-manager.svg)
 
 ---
 

@@ -411,6 +411,15 @@
     ]
   },
   {
+    "name": "Argo",
+    "shortname": "argo",
+    "url": "https://argoproj.github.io/",
+    "files": [
+      "argo-icon.svg",
+      "argo.svg"
+    ]
+  },
+  {
     "name": "Armory",
     "shortname": "armory",
     "url": "http://www.armory.io/",
@@ -2302,6 +2311,15 @@
     ]
   },
   {
+    "name": "dbt",
+    "shortname": "dbt",
+    "url": "https://www.getdbt.com/",
+    "files": [
+      "dbt-icon.svg",
+      "dbt.svg"
+    ]
+  },
+  {
     "name": "DC/OS",
     "shortname": "dcos",
     "url": "https://dcos.io/",
@@ -3172,6 +3190,14 @@
     ]
   },
   {
+    "name": "Framer",
+    "shortname": "framer",
+    "url": "https://www.framer.com/",
+    "files": [
+      "framer.svg"
+    ]
+  },
+  {
     "name": "Framework7",
     "shortname": "framework7",
     "url": "https://framework7.io/",
@@ -3967,6 +3993,14 @@
     ]
   },
   {
+    "name": "Helm",
+    "shortname": "helm",
+    "url": "https://helm.sh/",
+    "files": [
+      "helm.svg"
+    ]
+  },
+  {
     "name": "Help Scout",
     "shortname": "helpscout",
     "url": "https://www.helpscout.net/",
@@ -4111,6 +4145,15 @@
     "url": "https://html5boilerplate.com/",
     "files": [
       "html5-boilerplate.svg"
+    ]
+  },
+  {
+    "name": "HTTPie",
+    "shortname": "httpie",
+    "url": "https://httpie.io/",
+    "files": [
+      "httpie-icon.svg",
+      "httpie.svg"
     ]
   },
   {
@@ -7838,6 +7881,15 @@
     ]
   },
   {
+    "name": "SpiderMonkey",
+    "shortname": "spidermonkey",
+    "url": "https://spidermonkey.dev/",
+    "files": [
+      "spidermonkey-icon.svg",
+      "spidermonkey.svg"
+    ]
+  },
+  {
     "name": "Spinnaker",
     "shortname": "spinnaker",
     "url": "https://spinnaker.io/",
@@ -8416,6 +8468,14 @@
     "url": "http://todomvc.com/",
     "files": [
       "todomvc.svg"
+    ]
+  },
+  {
+    "name": "TOML",
+    "shortname": "toml",
+    "url": "https://toml.io/",
+    "files": [
+      "toml.svg"
     ]
   },
   {
@@ -9341,6 +9401,14 @@
     "url": "https://search.yahoo.com/",
     "files": [
       "yahoo.svg"
+    ]
+  },
+  {
+    "name": "YAML",
+    "shortname": "yaml",
+    "url": "https://yaml.org/",
+    "files": [
+      "yaml.svg"
     ]
   },
   {
