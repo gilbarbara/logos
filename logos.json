@@ -5752,6 +5752,14 @@
     ]
   },
   {
+    "name": "Naive",
+    "shortname": "naive",
+    "url": "https://www.naiveui.com/",
+    "files": [
+      "naive.svg"
+    ]
+  },
+  {
     "name": "Namecheap",
     "shortname": "namecheap",
     "url": "https://www.namecheap.com/",
