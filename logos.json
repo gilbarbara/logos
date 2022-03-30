@@ -3472,6 +3472,14 @@
     ]
   },
   {
+    "name": "Godot Engine",
+    "shortname": "godotengine",
+    "url": "https://godotengine.org/",
+    "files": [
+	"godot.svg"
+    ]
+  },
+  {
     "name": "GoHorse",
     "shortname": "gohorse",
     "url": "https://medium.com/@dekaah/22-axioms-of-the-extreme-go-horse-methodology-xgh-9fa739ab55b4",
