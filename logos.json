@@ -1595,6 +1595,15 @@
     ]
   },
   {
+    "name": "Cardano",
+    "shortname": "cardano",
+    "url": "https://cardano.org/",
+    "files": [
+      "cardano-icon.svg",
+      "cardano.svg"
+    ]
+  },
+  {
     "name": "Cassandra",
     "shortname": "cassandra",
     "url": "http://cassandra.apache.org/",
@@ -3983,6 +3992,15 @@
     "url": "http://hbase.apache.org/",
     "files": [
       "hbase.svg"
+    ]
+  },
+  {
+    "name": "Headless UI",
+    "shortname": "headlessui",
+    "url": "https://headlessui.dev/",
+    "files": [
+      "headlessui-icon.svg",
+      "headlessui.svg"
     ]
   },
   {
@@ -8423,6 +8441,14 @@
     ]
   },
   {
+    "name": "Testing Library",
+    "shortname": "testing-library",
+    "url": "https://testing-library.com/",
+    "files": [
+      "testing-library.svg"
+    ]
+  },
+  {
     "name": "TestLodge",
     "shortname": "testlodge",
     "url": "http://www.testlodge.com/",
@@ -8553,6 +8579,14 @@
     "files": [
       "truffle-icon.svg",
       "truffle.svg"
+    ]
+  },
+  {
+    "name": "ts-node",
+    "shortname": "tsnode",
+    "url": "https://typestrong.org/ts-node/",
+    "files": [
+      "tsnode.svg"
     ]
   },
   {
@@ -8758,6 +8792,14 @@
     ]
   },
   {
+    "name": "unocss",
+    "shortname": "unocss",
+    "url": "https://unocss.antfu.me/",
+    "files": [
+      "unocss.svg"
+    ]
+  },
+  {
     "name": "Upcase",
     "shortname": "upcase",
     "url": "https://upcase.com/",
@@ -8869,6 +8911,15 @@
     ]
   },
   {
+    "name": "Verdaccio",
+    "shortname": "verdaccio",
+    "url": "https://verdaccio.org/",
+    "files": [
+      "verdaccio-icon.svg",
+      "verdaccio.svg"
+    ]
+  },
+  {
     "name": "VerneMQ",
     "shortname": "vernemq",
     "url": "https://verne.mq/",
@@ -8934,6 +8985,14 @@
     ]
   },
   {
+    "name": "Vitest",
+    "shortname": "vitest",
+    "url": "https://vitest.dev/",
+    "files": [
+      "vitest.svg"
+    ]
+  },
+  {
     "name": "Vivaldi",
     "shortname": "vivaldi",
     "url": "https://vivaldi.com/",
@@ -8964,6 +9023,14 @@
     "url": "https://vuetifyjs.com/",
     "files": [
       "vuetifyjs.svg"
+    ]
+  },
+  {
+    "name": "VueUse",
+    "shortname": "vueuse",
+    "url": "https://vueuse.org/",
+    "files": [
+      "vueuse.svg"
     ]
   },
   {

@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://cardano.org/" target="_blank">Cardano</a>
+![cardano](https://cdn.svgporn.com/logos/cardano-icon.svg)
+![cardano](https://cdn.svgporn.com/logos/cardano.svg)
+## <a href="https://headlessui.dev/" target="_blank">Headless UI</a>
+![headlessui](https://cdn.svgporn.com/logos/headlessui-icon.svg)
+![headlessui](https://cdn.svgporn.com/logos/headlessui.svg)
+## <a href="https://testing-library.com/" target="_blank">Testing Library</a>
+![testing-library](https://cdn.svgporn.com/logos/testing-library.svg)
+## <a href="https://typestrong.org/ts-node/" target="_blank">ts-node</a>
+![tsnode](https://cdn.svgporn.com/logos/tsnode.svg)
+## <a href="https://unocss.antfu.me/" target="_blank">unocss</a>
+![unocss](https://cdn.svgporn.com/logos/unocss.svg)
+## <a href="https://verdaccio.org/" target="_blank">Verdaccio</a>
+![verdaccio](https://cdn.svgporn.com/logos/verdaccio-icon.svg)
+![verdaccio](https://cdn.svgporn.com/logos/verdaccio.svg)
+## <a href="https://vitest.dev/" target="_blank">Vitest</a>
+![vitest](https://cdn.svgporn.com/logos/vitest.svg)
+## <a href="https://vueuse.org/" target="_blank">VueUse</a>
+![vueuse](https://cdn.svgporn.com/logos/vueuse.svg)
 ## <a href="https://booqable.com/" target="_blank">Booqable</a>
 ![booqable](https://cdn.svgporn.com/logos/booqable-icon.svg)
 ![booqable](https://cdn.svgporn.com/logos/booqable.svg)
@@ -109,22 +128,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![aws-elb](https://cdn.svgporn.com/logos/aws-elb.svg)
 ## <a href="https://aws.amazon.com/eventbridge/" target="_blank">AWS EventBridge</a>
 ![aws-eventbridge](https://cdn.svgporn.com/logos/aws-eventbridge.svg)
-## <a href="https://aws.amazon.com/fargate/" target="_blank">AWS Fargate</a>
-![aws-fargate](https://cdn.svgporn.com/logos/aws-fargate.svg)
-## <a href="https://aws.amazon.com/glacier/" target="_blank">AWS Glacier</a>
-![aws-glacier](https://cdn.svgporn.com/logos/aws-glacier.svg)
-## <a href="https://aws.amazon.com/glue/" target="_blank">AWS Glue</a>
-![aws-glue](https://cdn.svgporn.com/logos/aws-glue.svg)
-## <a href="https://aws.amazon.com/iam/" target="_blank">AWS IAM (Identity and Access Management)</a>
-![aws-iam](https://cdn.svgporn.com/logos/aws-iam.svg)
-## <a href="https://aws.amazon.com/keyspaces/" target="_blank">AWS Keyspaces</a>
-![aws-keyspaces](https://cdn.svgporn.com/logos/aws-keyspaces.svg)
-## <a href="https://aws.amazon.com/kinesis/" target="_blank">AWS Kinesis</a>
-![aws-kinesis](https://cdn.svgporn.com/logos/aws-kinesis.svg)
-## <a href="https://aws.amazon.com/kms/" target="_blank">AWS KMS (Key Management Service)</a>
-![aws-kms](https://cdn.svgporn.com/logos/aws-kms.svg)
-## <a href="https://aws.amazon.com/lake-formation/" target="_blank">AWS Lake Formation</a>
-![aws-lake-formation](https://cdn.svgporn.com/logos/aws-lake-formation.svg)
 
 ---
 
