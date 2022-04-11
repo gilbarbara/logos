@@ -1271,6 +1271,7 @@
     "shortname": "booqable",
     "url": "https://booqable.com/",
     "files": [
+      "booqable-icon.svg",
       "booqable.svg"
     ]
   },
@@ -4828,6 +4829,7 @@
     "shortname": "kotlin",
     "url": "http://kotlinlang.org/",
     "files": [
+      "kotlin-icon.svg",
       "kotlin.svg"
     ]
   },
@@ -5622,6 +5624,7 @@
     "shortname": "mockflow",
     "url": "http://www.mockflow.com/",
     "files": [
+      "mockflow-icon.svg",
       "mockflow.svg"
     ]
   },

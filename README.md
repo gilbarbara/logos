@@ -18,6 +18,17 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://booqable.com/" target="_blank">Booqable</a>
+![booqable](https://cdn.svgporn.com/logos/booqable-icon.svg)
+![booqable](https://cdn.svgporn.com/logos/booqable.svg)
+## <a href="http://kotlinlang.org/" target="_blank">Kotlin</a>
+![kotlin](https://cdn.svgporn.com/logos/kotlin-icon.svg)
+![kotlin](https://cdn.svgporn.com/logos/kotlin.svg)
+## <a href="http://www.mockflow.com/" target="_blank">Mockflow</a> *
+![mockflow](https://cdn.svgporn.com/logos/mockflow-icon.svg)
+![mockflow](https://cdn.svgporn.com/logos/mockflow.svg)
+## <a href="http://neo4j.com/" target="_blank">Neo4j</a>
+![neo4j](https://cdn.svgporn.com/logos/neo4j.svg)
 ## <a href="https://argoproj.github.io/" target="_blank">Argo</a>
 ![argo](https://cdn.svgporn.com/logos/argo-icon.svg)
 ![argo](https://cdn.svgporn.com/logos/argo.svg)
@@ -114,14 +125,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![aws-kms](https://cdn.svgporn.com/logos/aws-kms.svg)
 ## <a href="https://aws.amazon.com/lake-formation/" target="_blank">AWS Lake Formation</a>
 ![aws-lake-formation](https://cdn.svgporn.com/logos/aws-lake-formation.svg)
-## <a href="https://aws.amazon.com/lambda/" target="_blank">AWS Lambda</a>
-![aws-lambda](https://cdn.svgporn.com/logos/aws-lambda.svg)
-## <a href="https://aws.amazon.com/amazon-mq/" target="_blank">AWS MQ</a>
-![aws-mq](https://cdn.svgporn.com/logos/aws-mq.svg)
-## <a href="https://aws.amazon.com/msk/" target="_blank">AWS MSK (Managed Streaming for Kafka)</a>
-![aws-msk](https://cdn.svgporn.com/logos/aws-msk.svg)
-## <a href="https://aws.amazon.com/neptune/" target="_blank">AWS Neptune</a>
-![aws-neptune](https://cdn.svgporn.com/logos/aws-neptune.svg)
 
 ---
 
