@@ -18,6 +18,24 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://brain.js.org/" target="_blank"> Brain.js</a>
+![brainjs](https://cdn.svgporn.com/logos/brainjs.svg)
+## <a href="https://amplication.com/" target="_blank">Amplication</a>
+![amplication](https://cdn.svgporn.com/logos/amplication-icon.svg)
+![amplication](https://cdn.svgporn.com/logos/amplication.svg)
+## <a href="https://fortran-lang.org/" target="_blank">Fortran</a>
+![fortran](https://cdn.svgporn.com/logos/fortran.svg)
+## <a href="https://mint-lang.com/" target="_blank">Mint</a>
+![mint-lang](https://cdn.svgporn.com/logos/mint-lang.svg)
+## <a href="https://nim-lang.org/" target="_blank">Nim</a>
+![nim-lang](https://cdn.svgporn.com/logos/nim-lang.svg)
+## <a href="https://playwright.dev/" target="_blank">Playwright</a>
+![playwright](https://cdn.svgporn.com/logos/playwright.svg)
+## <a href="https://redwoodjs.com/" target="_blank">RedwoodJS</a>
+![redwoodjs](https://cdn.svgporn.com/logos/redwoodjs.svg)
+## <a href="https://supabase.com/" target="_blank">Supabase</a>
+![supabase](https://cdn.svgporn.com/logos/supabase-icon.svg)
+![supabase](https://cdn.svgporn.com/logos/supabase.svg)
 ## <a href="https://cardano.org/" target="_blank">Cardano</a>
 ![cardano](https://cdn.svgporn.com/logos/cardano-icon.svg)
 ![cardano](https://cdn.svgporn.com/logos/cardano.svg)
@@ -112,22 +130,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![aws-config](https://cdn.svgporn.com/logos/aws-config.svg)
 ## <a href="https://aws.amazon.com/documentdb/" target="_blank">AWS DocumentDB</a>
 ![aws-documentdb](https://cdn.svgporn.com/logos/aws-documentdb.svg)
-## <a href="https://aws.amazon.com/dynamodb/" target="_blank">AWS DynamoDB</a>
-![aws-dynamodb](https://cdn.svgporn.com/logos/aws-dynamodb.svg)
-## <a href="https://aws.amazon.com/ec2/" target="_blank">AWS EC2 (Elastic Compute Cloud)</a>
-![aws-ec2](https://cdn.svgporn.com/logos/aws-ec2.svg)
-## <a href="https://aws.amazon.com/ecs/" target="_blank">AWS ECS (Elastic Container Service)</a>
-![aws-ecs](https://cdn.svgporn.com/logos/aws-ecs.svg)
-## <a href="https://aws.amazon.com/eks/" target="_blank">AWS EKS (Elastic Kubernetes Service)</a>
-![aws-eks](https://cdn.svgporn.com/logos/aws-eks.svg)
-## <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">AWS Elastic Beanstalk</a>
-![aws-elastic-beanstalk](https://cdn.svgporn.com/logos/aws-elastic-beanstalk.svg)
-## <a href="https://aws.amazon.com/elasticache/" target="_blank">AWS ElastiCache</a>
-![aws-elasticache](https://cdn.svgporn.com/logos/aws-elasticache.svg)
-## <a href="https://aws.amazon.com/elasticloadbalancing/" target="_blank">AWS ELB (Elastic Load Balancing)</a>
-![aws-elb](https://cdn.svgporn.com/logos/aws-elb.svg)
-## <a href="https://aws.amazon.com/eventbridge/" target="_blank">AWS EventBridge</a>
-![aws-eventbridge](https://cdn.svgporn.com/logos/aws-eventbridge.svg)
 
 ---
 

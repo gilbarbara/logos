@@ -1,5 +1,13 @@
 [
   {
+    "name": " Brain.js",
+    "shortname": "brainjs",
+    "url": "https://brain.js.org/",
+    "files": [
+      "brainjs.svg"
+    ]
+  },
+  {
     "name": ".NET",
     "shortname": "dotnet",
     "url": "http://www.microsoft.com/net",
@@ -186,6 +194,15 @@
     "url": "https://ampersandjs.com/",
     "files": [
       "ampersand.svg"
+    ]
+  },
+  {
+    "name": "Amplication",
+    "shortname": "amplication",
+    "url": "https://amplication.com/",
+    "files": [
+      "amplication-icon.svg",
+      "amplication.svg"
     ]
   },
   {
@@ -3192,6 +3209,14 @@
     ]
   },
   {
+    "name": "Fortran",
+    "shortname": "fortran",
+    "url": "https://fortran-lang.org/",
+    "files": [
+      "fortran.svg"
+    ]
+  },
+  {
     "name": "Foundation",
     "shortname": "foundation",
     "url": "http://foundation.zurb.com/",
@@ -5574,6 +5599,14 @@
     ]
   },
   {
+    "name": "Mint",
+    "shortname": "mint-lang",
+    "url": "https://mint-lang.com/",
+    "files": [
+      "mint-lang.svg"
+    ]
+  },
+  {
     "name": "Mio",
     "shortname": "mio",
     "url": "https://m.io/",
@@ -5893,6 +5926,14 @@
     "url": "http://nightwatchjs.org/",
     "files": [
       "nightwatch.svg"
+    ]
+  },
+  {
+    "name": "Nim",
+    "shortname": "nim-lang",
+    "url": "https://nim-lang.org/",
+    "files": [
+      "nim-lang.svg"
     ]
   },
   {
@@ -6519,6 +6560,14 @@
     ]
   },
   {
+    "name": "Playwright",
+    "shortname": "playwright",
+    "url": "https://playwright.dev/",
+    "files": [
+      "playwright.svg"
+    ]
+  },
+  {
     "name": "PM2",
     "shortname": "pm2",
     "url": "https://github.com/Unitech/pm2",
@@ -6919,7 +6968,7 @@
     ]
   },
   {
-    "name": "R",
+    "name": "R (Language)",
     "shortname": "r-lang",
     "url": "https://www.r-project.org/",
     "files": [
@@ -7121,6 +7170,14 @@
     "url": "https://redux-saga.js.org/",
     "files": [
       "redux-saga.svg"
+    ]
+  },
+  {
+    "name": "RedwoodJS",
+    "shortname": "redwoodjs",
+    "url": "https://redwoodjs.com/",
+    "files": [
+      "redwoodjs.svg"
     ]
   },
   {
@@ -8181,6 +8238,15 @@
     "url": "https://github.com/postcss/sugarss",
     "files": [
       "sugarss.svg"
+    ]
+  },
+  {
+    "name": "Supabase",
+    "shortname": "supabase",
+    "url": "https://supabase.com/",
+    "files": [
+      "supabase-icon.svg",
+      "supabase.svg"
     ]
   },
   {
