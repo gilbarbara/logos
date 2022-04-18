@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.assembla.com/" target="_blank">Assembla</a>
+![assembla](https://cdn.svgporn.com/logos/assembla-icon.svg)
+![assembla](https://cdn.svgporn.com/logos/assembla.svg)
+## <a href="https://dgraph.io/" target="_blank">Dgraph</a>
+![dgraph](https://cdn.svgporn.com/logos/dgraph-icon.svg)
+![dgraph](https://cdn.svgporn.com/logos/dgraph.svg)
+## <a href="https://www.naiveui.com/" target="_blank">Naive UI</a>
+![naiveui](https://cdn.svgporn.com/logos/naiveui.svg)
+## <a href="https://nocodb.com/" target="_blank">NocoDB</a>
+![nocodb](https://cdn.svgporn.com/logos/nocodb.svg)
+## <a href="https://partytown.builder.io/" target="_blank">Partytown</a>
+![partytown](https://cdn.svgporn.com/logos/partytown-icon.svg)
+![partytown](https://cdn.svgporn.com/logos/partytown.svg)
+## <a href="https://react-query.tanstack.com/" target="_blank">React Query</a>
+![react-query](https://cdn.svgporn.com/logos/react-query-icon.svg)
+![react-query](https://cdn.svgporn.com/logos/react-query.svg)
+## <a href="https://threejs.org/" target="_blank">three.js</a>
+![threejs](https://cdn.svgporn.com/logos/threejs.svg)
+## <a href="https://www.unrealengine.com/" target="_blank">Unreal Engine</a>
+![unrealengine](https://cdn.svgporn.com/logos/unrealengine-icon.svg)
+![unrealengine](https://cdn.svgporn.com/logos/unrealengine.svg)
 ## <a href="https://brain.js.org/" target="_blank"> Brain.js</a>
 ![brainjs](https://cdn.svgporn.com/logos/brainjs.svg)
 ## <a href="https://amplication.com/" target="_blank">Amplication</a>
@@ -114,22 +135,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![aws-cloudtrail](https://cdn.svgporn.com/logos/aws-cloudtrail.svg)
 ## <a href="https://aws.amazon.com/cloudwatch/" target="_blank">AWS CloudWatch</a>
 ![aws-cloudwatch](https://cdn.svgporn.com/logos/aws-cloudwatch.svg)
-## <a href="https://aws.amazon.com/codebuild/" target="_blank">AWS CodeBuild</a>
-![aws-codebuild](https://cdn.svgporn.com/logos/aws-codebuild.svg)
-## <a href="https://aws.amazon.com/codecommit/" target="_blank">AWS CodeCommit</a>
-![aws-codecommit](https://cdn.svgporn.com/logos/aws-codecommit.svg)
-## <a href="https://aws.amazon.com/codedeploy/" target="_blank">AWS CodeDeploy</a>
-![aws-codedeploy](https://cdn.svgporn.com/logos/aws-codedeploy.svg)
-## <a href="https://aws.amazon.com/codepipeline/" target="_blank">AWS CodePipeline</a>
-![aws-codepipeline](https://cdn.svgporn.com/logos/aws-codepipeline.svg)
-## <a href="https://aws.amazon.com/codestar/" target="_blank">AWS CodeStar</a>
-![aws-codestar](https://cdn.svgporn.com/logos/aws-codestar.svg)
-## <a href="https://aws.amazon.com/cognito/" target="_blank">AWS Cognito</a>
-![aws-cognito](https://cdn.svgporn.com/logos/aws-cognito.svg)
-## <a href="https://aws.amazon.com/config/" target="_blank">AWS Config</a>
-![aws-config](https://cdn.svgporn.com/logos/aws-config.svg)
-## <a href="https://aws.amazon.com/documentdb/" target="_blank">AWS DocumentDB</a>
-![aws-documentdb](https://cdn.svgporn.com/logos/aws-documentdb.svg)
 
 ---
 

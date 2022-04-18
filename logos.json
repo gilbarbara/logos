@@ -461,6 +461,15 @@
     ]
   },
   {
+    "name": "Assembla",
+    "shortname": "assembla",
+    "url": "https://www.assembla.com/",
+    "files": [
+      "assembla-icon.svg",
+      "assembla.svg"
+    ]
+  },
+  {
     "name": "Astro",
     "shortname": "astro",
     "url": "https://astro.build/",
@@ -2410,6 +2419,15 @@
     "url": "http://www.deviantart.com/",
     "files": [
       "deviantart.svg"
+    ]
+  },
+  {
+    "name": "Dgraph",
+    "shortname": "dgraph",
+    "url": "https://dgraph.io/",
+    "files": [
+      "dgraph-icon.svg",
+      "dgraph.svg"
     ]
   },
   {
@@ -5806,6 +5824,14 @@
     ]
   },
   {
+    "name": "Naive UI",
+    "shortname": "naiveui",
+    "url": "https://www.naiveui.com/",
+    "files": [
+      "naiveui.svg"
+    ]
+  },
+  {
     "name": "Namecheap",
     "shortname": "namecheap",
     "url": "https://www.namecheap.com/",
@@ -5934,6 +5960,14 @@
     "url": "https://nim-lang.org/",
     "files": [
       "nim-lang.svg"
+    ]
+  },
+  {
+    "name": "NocoDB",
+    "shortname": "nocodb",
+    "url": "https://nocodb.com/",
+    "files": [
+      "nocodb.svg"
     ]
   },
   {
@@ -6352,6 +6386,15 @@
     "url": "https://www.parsehub.com/",
     "files": [
       "parsehub.svg"
+    ]
+  },
+  {
+    "name": "Partytown",
+    "shortname": "partytown",
+    "url": "https://partytown.builder.io/",
+    "files": [
+      "partytown-icon.svg",
+      "partytown.svg"
     ]
   },
   {
@@ -7055,6 +7098,15 @@
     "url": "https://facebook.github.io/react/",
     "files": [
       "react.svg"
+    ]
+  },
+  {
+    "name": "React Query",
+    "shortname": "react-query",
+    "url": "https://react-query.tanstack.com/",
+    "files": [
+      "react-query-icon.svg",
+      "react-query.svg"
     ]
   },
   {
@@ -8523,6 +8575,14 @@
     ]
   },
   {
+    "name": "three.js",
+    "shortname": "threejs",
+    "url": "https://threejs.org/",
+    "files": [
+      "threejs.svg"
+    ]
+  },
+  {
     "name": "Tidal",
     "shortname": "tidal",
     "url": "https://tidal.com/",
@@ -8863,6 +8923,15 @@
     "url": "https://unocss.antfu.me/",
     "files": [
       "unocss.svg"
+    ]
+  },
+  {
+    "name": "Unreal Engine",
+    "shortname": "unrealengine",
+    "url": "https://www.unrealengine.com/",
+    "files": [
+      "unrealengine-icon.svg",
+      "unrealengine.svg"
     ]
   },
   {
