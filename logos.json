@@ -79,6 +79,7 @@
     "shortname": "airbnb",
     "url": "https://www.airbnb.com/",
     "files": [
+      "airbnb-icon.svg",
       "airbnb.svg"
     ]
   },
@@ -95,6 +96,7 @@
     "shortname": "airflow",
     "url": "https://airflow.apache.org/",
     "files": [
+      "airflow-icon.svg",
       "airflow.svg"
     ]
   },
@@ -220,7 +222,8 @@
     "url": "https://www.android.com/",
     "files": [
       "android-icon.svg",
-      "android.svg"
+      "android.svg",
+      "android-vertical.svg"
     ]
   },
   {
@@ -343,6 +346,7 @@
     "shortname": "appdynamics",
     "url": "http://www.appdynamics.com/",
     "files": [
+      "appdynamics-icon.svg",
       "appdynamics.svg"
     ]
   },
@@ -408,6 +412,7 @@
     "shortname": "arangodb",
     "url": "https://www.arangodb.com/",
     "files": [
+      "arangodb-icon.svg",
       "arangodb.svg"
     ]
   },
@@ -441,6 +446,7 @@
     "shortname": "armory",
     "url": "http://www.armory.io/",
     "files": [
+      "armory-icon.svg",
       "armory.svg"
     ]
   },
@@ -449,6 +455,7 @@
     "shortname": "asana",
     "url": "https://asana.com/",
     "files": [
+      "asana-icon.svg",
       "asana.svg"
     ]
   },
@@ -1142,6 +1149,7 @@
     "shortname": "basecamp",
     "url": "https://basecamp.com/",
     "files": [
+      "basecamp-icon.svg",
       "basecamp.svg"
     ]
   },
@@ -1362,6 +1370,7 @@
     "shortname": "branch",
     "url": "https://branch.io/",
     "files": [
+      "branch-icon.svg",
       "branch.svg"
     ]
   },
@@ -1387,6 +1396,7 @@
     "shortname": "braze",
     "url": "https://www.braze.com/",
     "files": [
+      "braze-icon.svg",
       "braze.svg"
     ]
   },
@@ -1484,6 +1494,7 @@
     "shortname": "bugherd",
     "url": "http://bugherd.com/",
     "files": [
+      "bugherd-icon.svg",
       "bugherd.svg"
     ]
   },
@@ -1822,6 +1833,7 @@
     "shortname": "cloudinary",
     "url": "https://cloudinary.com/",
     "files": [
+      "cloudinary-icon.svg",
       "cloudinary.svg"
     ]
   },
@@ -1878,6 +1890,7 @@
     "shortname": "codesandbox",
     "url": "https://codesandbox.io/",
     "files": [
+      "codesandbox-icon.svg",
       "codesandbox.svg"
     ]
   },
@@ -1918,6 +1931,7 @@
     "shortname": "codecov",
     "url": "http://codecov.io/",
     "files": [
+      "codecov-icon.svg",
       "codecov.svg"
     ]
   },
@@ -1935,6 +1949,7 @@
     "shortname": "codeigniter",
     "url": "http://www.codeigniter.com/",
     "files": [
+      "codeigniter-icon.svg",
       "codeigniter.svg"
     ]
   },
@@ -1960,6 +1975,7 @@
     "shortname": "codersrank",
     "url": "https://codersrank.io/",
     "files": [
+      "codersrank-icon.svg",
       "codersrank.svg"
     ]
   },
@@ -2054,7 +2070,7 @@
   {
     "name": "Concourse",
     "shortname": "concourse",
-    "url": "https://concourse.ci/",
+    "url": "https://concourse-ci.org/",
     "files": [
       "concourse.svg"
     ]
@@ -2096,6 +2112,7 @@
     "shortname": "convox",
     "url": "http://convox.com/",
     "files": [
+      "convox-icon.svg",
       "convox.svg"
     ]
   },
@@ -2293,6 +2310,7 @@
     "shortname": "cypress",
     "url": "https://www.cypress.io/",
     "files": [
+      "cypress-icon.svg",
       "cypress.svg"
     ]
   },
@@ -3110,6 +3128,7 @@
     "shortname": "flickr",
     "url": "https://www.flickr.com/",
     "files": [
+      "flickr-icon.svg",
       "flickr.svg"
     ]
   },
@@ -3190,6 +3209,7 @@
     "shortname": "fomo",
     "url": "https://www.usefomo.com/",
     "files": [
+      "fomo-icon.svg",
       "fomo.svg"
     ]
   },
@@ -4051,6 +4071,7 @@
     "shortname": "heap",
     "url": "https://heapanalytics.com/",
     "files": [
+      "heap-icon.svg",
       "heap.svg"
     ]
   },
@@ -4182,6 +4203,7 @@
     "shortname": "hotjar",
     "url": "https://www.hotjar.com/",
     "files": [
+      "hotjar-icon.svg",
       "hotjar.svg"
     ]
   },
@@ -6287,6 +6309,7 @@
     "shortname": "optimizely",
     "url": "https://www.optimizely.com/",
     "files": [
+      "optimizely-icon.svg",
       "optimizely.svg"
     ]
   },
@@ -6942,6 +6965,7 @@
     "shortname": "pytorch",
     "url": "https://pytorch.org/",
     "files": [
+      "pytorch-icon.svg",
       "pytorch.svg"
     ]
   },
@@ -8314,6 +8338,7 @@
     "shortname": "survicate",
     "url": "http://survicate.com/",
     "files": [
+      "survicate-icon.svg",
       "survicate.svg"
     ]
   },
@@ -9409,6 +9434,7 @@
     "shortname": "whalar",
     "url": "https://whalar.com/",
     "files": [
+      "whalar-icon.svg",
       "whalar.svg"
     ]
   },
@@ -9516,6 +9542,7 @@
     "shortname": "workplace",
     "url": "https://www.workplace.com/",
     "files": [
+      "workplace-icon.svg",
       "workplace.svg"
     ]
   },

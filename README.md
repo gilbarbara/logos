@@ -18,123 +18,136 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
-## <a href="https://www.assembla.com/" target="_blank">Assembla</a>
-![assembla](https://cdn.svgporn.com/logos/assembla-icon.svg)
-![assembla](https://cdn.svgporn.com/logos/assembla.svg)
-## <a href="https://dgraph.io/" target="_blank">Dgraph</a>
-![dgraph](https://cdn.svgporn.com/logos/dgraph-icon.svg)
-![dgraph](https://cdn.svgporn.com/logos/dgraph.svg)
-## <a href="https://www.naiveui.com/" target="_blank">Naive UI</a>
-![naiveui](https://cdn.svgporn.com/logos/naiveui.svg)
-## <a href="https://nocodb.com/" target="_blank">NocoDB</a>
-![nocodb](https://cdn.svgporn.com/logos/nocodb.svg)
-## <a href="https://partytown.builder.io/" target="_blank">Partytown</a>
-![partytown](https://cdn.svgporn.com/logos/partytown-icon.svg)
-![partytown](https://cdn.svgporn.com/logos/partytown.svg)
-## <a href="https://react-query.tanstack.com/" target="_blank">React Query</a>
-![react-query](https://cdn.svgporn.com/logos/react-query-icon.svg)
-![react-query](https://cdn.svgporn.com/logos/react-query.svg)
-## <a href="https://threejs.org/" target="_blank">three.js</a>
-![threejs](https://cdn.svgporn.com/logos/threejs.svg)
-## <a href="https://www.unrealengine.com/" target="_blank">Unreal Engine</a>
-![unrealengine](https://cdn.svgporn.com/logos/unrealengine-icon.svg)
-![unrealengine](https://cdn.svgporn.com/logos/unrealengine.svg)
-## <a href="https://brain.js.org/" target="_blank"> Brain.js</a>
-![brainjs](https://cdn.svgporn.com/logos/brainjs.svg)
-## <a href="https://amplication.com/" target="_blank">Amplication</a>
-![amplication](https://cdn.svgporn.com/logos/amplication-icon.svg)
-![amplication](https://cdn.svgporn.com/logos/amplication.svg)
+## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
+![dotnet](https://cdn.svgporn.com/logos/dotnet.svg)
+## <a href="http://www.aerospike.com/" target="_blank">Aerospike</a>
+![aerospike](https://cdn.svgporn.com/logos/aerospike-icon.svg)
+![aerospike](https://cdn.svgporn.com/logos/aerospike.svg)
+## <a href="https://www.airbnb.com/" target="_blank">Airbnb</a>
+![airbnb](https://cdn.svgporn.com/logos/airbnb-icon.svg)
+![airbnb](https://cdn.svgporn.com/logos/airbnb.svg)
+## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
+![airflow](https://cdn.svgporn.com/logos/airflow-icon.svg)
+![airflow](https://cdn.svgporn.com/logos/airflow.svg)
+## <a href="https://www.android.com/" target="_blank">Android</a>
+![android](https://cdn.svgporn.com/logos/android-icon.svg)
+![android](https://cdn.svgporn.com/logos/android.svg)
+![android](https://cdn.svgporn.com/logos/android-vertical.svg)
+## <a href="http://www.appdynamics.com/" target="_blank">AppDynamics</a>
+![appdynamics](https://cdn.svgporn.com/logos/appdynamics-icon.svg)
+![appdynamics](https://cdn.svgporn.com/logos/appdynamics.svg)
+## <a href="http://apptentive.com/" target="_blank">Apptentive</a>
+![apptentive](https://cdn.svgporn.com/logos/apptentive.svg)
+## <a href="https://www.arangodb.com/" target="_blank">ArangoDB</a>
+![arangodb](https://cdn.svgporn.com/logos/arangodb-icon.svg)
+![arangodb](https://cdn.svgporn.com/logos/arangodb.svg)
+## <a href="http://www.armory.io/" target="_blank">Armory</a>
+![armory](https://cdn.svgporn.com/logos/armory-icon.svg)
+![armory](https://cdn.svgporn.com/logos/armory.svg)
+## <a href="https://asana.com/" target="_blank">Asana</a>
+![asana](https://cdn.svgporn.com/logos/asana-icon.svg)
+![asana](https://cdn.svgporn.com/logos/asana.svg)
+## <a href="https://www.authy.com/" target="_blank">Authy</a>
+![authy](https://cdn.svgporn.com/logos/authy.svg)
+## <a href="https://basecamp.com/" target="_blank">Basecamp</a>
+![basecamp](https://cdn.svgporn.com/logos/basecamp-icon.svg)
+![basecamp](https://cdn.svgporn.com/logos/basecamp.svg)
+## <a href="https://batch.com/" target="_blank">batch</a>
+![batch](https://cdn.svgporn.com/logos/batch.svg)
+## <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
+![bootstrap](https://cdn.svgporn.com/logos/bootstrap.svg)
+## <a href="https://branch.io/" target="_blank">Branch</a>
+![branch](https://cdn.svgporn.com/logos/branch-icon.svg)
+![branch](https://cdn.svgporn.com/logos/branch.svg)
+## <a href="https://www.braze.com/" target="_blank">Braze</a>
+![braze](https://cdn.svgporn.com/logos/braze-icon.svg)
+![braze](https://cdn.svgporn.com/logos/braze.svg)
+## <a href="http://brunch.io/" target="_blank">Brunch</a>
+![brunch](https://cdn.svgporn.com/logos/brunch.svg)
+## <a href="http://bugherd.com/" target="_blank">BugHerd</a>
+![bugherd](https://cdn.svgporn.com/logos/bugherd-icon.svg)
+![bugherd](https://cdn.svgporn.com/logos/bugherd.svg)
+## <a href="http://csharp.net/" target="_blank">C Sharp (C#) </a>
+![c-sharp](https://cdn.svgporn.com/logos/c-sharp.svg)
+## <a href="https://isocpp.org/" target="_blank">C++</a>
+![c-plusplus](https://cdn.svgporn.com/logos/c-plusplus.svg)
+## <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>
+![cloudinary](https://cdn.svgporn.com/logos/cloudinary-icon.svg)
+![cloudinary](https://cdn.svgporn.com/logos/cloudinary.svg)
+## <a href="https://codesandbox.io/" target="_blank">Code Sandbox</a>
+![codesandbox](https://cdn.svgporn.com/logos/codesandbox-icon.svg)
+![codesandbox](https://cdn.svgporn.com/logos/codesandbox.svg)
+## <a href="http://codeception.com/" target="_blank">Codeception</a>
+![codeception](https://cdn.svgporn.com/logos/codeception.svg)
+## <a href="http://codecov.io/" target="_blank">Codecov</a>
+![codecov](https://cdn.svgporn.com/logos/codecov-icon.svg)
+![codecov](https://cdn.svgporn.com/logos/codecov.svg)
+## <a href="http://www.codeigniter.com/" target="_blank">CodeIgniter</a>
+![codeigniter](https://cdn.svgporn.com/logos/codeigniter-icon.svg)
+![codeigniter](https://cdn.svgporn.com/logos/codeigniter.svg)
+## <a href="http://codepen.io/" target="_blank">Codepen</a>
+![codepen](https://cdn.svgporn.com/logos/codepen-icon.svg)
+![codepen](https://cdn.svgporn.com/logos/codepen.svg)
+## <a href="https://codersrank.io/" target="_blank">CodersRank</a>
+![codersrank](https://cdn.svgporn.com/logos/codersrank-icon.svg)
+![codersrank](https://cdn.svgporn.com/logos/codersrank.svg)
+## <a href="http://componentkit.org/" target="_blank">ComponentKit</a>
+![componentkit](https://cdn.svgporn.com/logos/componentkit.svg)
+## <a href="https://www.compose.io/" target="_blank">Compose</a>
+![compose](https://cdn.svgporn.com/logos/compose.svg)
+## <a href="https://www.consul.io/" target="_blank">Consul</a>
+![consul](https://cdn.svgporn.com/logos/consul.svg)
+## <a href="http://convox.com/" target="_blank">Convox</a>
+![convox](https://cdn.svgporn.com/logos/convox-icon.svg)
+![convox](https://cdn.svgporn.com/logos/convox.svg)
+## <a href="https://crate.io/" target="_blank">CrateIO</a>
+![crateio](https://cdn.svgporn.com/logos/crateio.svg)
+## <a href="https://cucumber.io/" target="_blank">Cucumber</a>
+![cucumber](https://cdn.svgporn.com/logos/cucumber.svg)
+## <a href="https://www.cypress.io/" target="_blank">Cypress</a> *
+![cypress](https://cdn.svgporn.com/logos/cypress-icon.svg)
+![cypress](https://cdn.svgporn.com/logos/cypress.svg)
+## <a href="https://dart.dev/" target="_blank">Dart</a>
+![dart](https://cdn.svgporn.com/logos/dart.svg)
+## <a href="https://www.ebanx.com" target="_blank">EBANX</a>
+![ebanx](https://cdn.svgporn.com/logos/ebanx.svg)
+## <a href="https://www.facebook.com/" target="_blank">Facebook</a>
+![facebook](https://cdn.svgporn.com/logos/facebook.svg)
+## <a href="https://www.flickr.com/" target="_blank">flickr</a>
+![flickr](https://cdn.svgporn.com/logos/flickr-icon.svg)
+![flickr](https://cdn.svgporn.com/logos/flickr.svg)
+## <a href="https://www.usefomo.com/" target="_blank">Fomo</a>
+![fomo](https://cdn.svgporn.com/logos/fomo-icon.svg)
+![fomo](https://cdn.svgporn.com/logos/fomo.svg)
 ## <a href="https://fortran-lang.org/" target="_blank">Fortran</a>
 ![fortran](https://cdn.svgporn.com/logos/fortran.svg)
-## <a href="https://mint-lang.com/" target="_blank">Mint</a>
-![mint-lang](https://cdn.svgporn.com/logos/mint-lang.svg)
-## <a href="https://nim-lang.org/" target="_blank">Nim</a>
-![nim-lang](https://cdn.svgporn.com/logos/nim-lang.svg)
-## <a href="https://playwright.dev/" target="_blank">Playwright</a>
-![playwright](https://cdn.svgporn.com/logos/playwright.svg)
-## <a href="https://redwoodjs.com/" target="_blank">RedwoodJS</a>
-![redwoodjs](https://cdn.svgporn.com/logos/redwoodjs.svg)
-## <a href="https://supabase.com/" target="_blank">Supabase</a>
-![supabase](https://cdn.svgporn.com/logos/supabase-icon.svg)
-![supabase](https://cdn.svgporn.com/logos/supabase.svg)
-## <a href="https://cardano.org/" target="_blank">Cardano</a>
-![cardano](https://cdn.svgporn.com/logos/cardano-icon.svg)
-![cardano](https://cdn.svgporn.com/logos/cardano.svg)
-## <a href="https://headlessui.dev/" target="_blank">Headless UI</a>
-![headlessui](https://cdn.svgporn.com/logos/headlessui-icon.svg)
-![headlessui](https://cdn.svgporn.com/logos/headlessui.svg)
-## <a href="https://testing-library.com/" target="_blank">Testing Library</a>
-![testing-library](https://cdn.svgporn.com/logos/testing-library.svg)
-## <a href="https://typestrong.org/ts-node/" target="_blank">ts-node</a>
-![tsnode](https://cdn.svgporn.com/logos/tsnode.svg)
-## <a href="https://unocss.antfu.me/" target="_blank">unocss</a>
-![unocss](https://cdn.svgporn.com/logos/unocss.svg)
-## <a href="https://verdaccio.org/" target="_blank">Verdaccio</a>
-![verdaccio](https://cdn.svgporn.com/logos/verdaccio-icon.svg)
-![verdaccio](https://cdn.svgporn.com/logos/verdaccio.svg)
-## <a href="https://vitest.dev/" target="_blank">Vitest</a>
-![vitest](https://cdn.svgporn.com/logos/vitest.svg)
-## <a href="https://vueuse.org/" target="_blank">VueUse</a>
-![vueuse](https://cdn.svgporn.com/logos/vueuse.svg)
-## <a href="https://booqable.com/" target="_blank">Booqable</a>
-![booqable](https://cdn.svgporn.com/logos/booqable-icon.svg)
-![booqable](https://cdn.svgporn.com/logos/booqable.svg)
-## <a href="http://kotlinlang.org/" target="_blank">Kotlin</a>
-![kotlin](https://cdn.svgporn.com/logos/kotlin-icon.svg)
-![kotlin](https://cdn.svgporn.com/logos/kotlin.svg)
-## <a href="http://www.mockflow.com/" target="_blank">Mockflow</a> *
-![mockflow](https://cdn.svgporn.com/logos/mockflow-icon.svg)
-![mockflow](https://cdn.svgporn.com/logos/mockflow.svg)
-## <a href="http://neo4j.com/" target="_blank">Neo4j</a>
-![neo4j](https://cdn.svgporn.com/logos/neo4j.svg)
-## <a href="https://argoproj.github.io/" target="_blank">Argo</a>
-![argo](https://cdn.svgporn.com/logos/argo-icon.svg)
-![argo](https://cdn.svgporn.com/logos/argo.svg)
-## <a href="https://www.getdbt.com/" target="_blank">dbt</a>
-![dbt](https://cdn.svgporn.com/logos/dbt-icon.svg)
-![dbt](https://cdn.svgporn.com/logos/dbt.svg)
-## <a href="https://www.framer.com/" target="_blank">Framer</a>
-![framer](https://cdn.svgporn.com/logos/framer.svg)
-## <a href="https://helm.sh/" target="_blank">Helm</a>
-![helm](https://cdn.svgporn.com/logos/helm.svg)
-## <a href="https://httpie.io/" target="_blank">HTTPie</a>
-![httpie](https://cdn.svgporn.com/logos/httpie-icon.svg)
-![httpie](https://cdn.svgporn.com/logos/httpie.svg)
-## <a href="https://spidermonkey.dev/" target="_blank">SpiderMonkey</a>
-![spidermonkey](https://cdn.svgporn.com/logos/spidermonkey-icon.svg)
-![spidermonkey](https://cdn.svgporn.com/logos/spidermonkey.svg)
-## <a href="https://toml.io/" target="_blank">TOML</a>
-![toml](https://cdn.svgporn.com/logos/toml.svg)
-## <a href="https://yaml.org/" target="_blank">YAML</a>
-![yaml](https://cdn.svgporn.com/logos/yaml.svg)
-## <a href="https://aws.amazon.com/api-gateway/" target="_blank">AWS API Gateway</a>
-![aws-api-gateway](https://cdn.svgporn.com/logos/aws-api-gateway.svg)
-## <a href="https://aws.amazon.com/app-mesh" target="_blank">AWS App Mesh</a>
-![aws-app-mesh](https://cdn.svgporn.com/logos/aws-app-mesh.svg)
-## <a href="https://aws.amazon.com/appflow/" target="_blank">AWS AppFlow</a>
-![aws-appflow](https://cdn.svgporn.com/logos/aws-appflow.svg)
-## <a href="https://aws.amazon.com/appsync/" target="_blank">AWS AppSync</a>
-![aws-appsync](https://cdn.svgporn.com/logos/aws-appsync.svg)
-## <a href="https://aws.amazon.com/athena" target="_blank">AWS Athena</a>
-![aws-athena](https://cdn.svgporn.com/logos/aws-athena.svg)
-## <a href="https://aws.amazon.com/rds/aurora" target="_blank">AWS Aurora</a>
-![aws-aurora](https://cdn.svgporn.com/logos/aws-aurora.svg)
-## <a href="https://aws.amazon.com/backup/" target="_blank">AWS Backup</a>
-![aws-backup](https://cdn.svgporn.com/logos/aws-backup.svg)
-## <a href="https://aws.amazon.com/batch/" target="_blank">AWS Batch</a>
-![aws-batch](https://cdn.svgporn.com/logos/aws-batch.svg)
-## <a href="https://aws.amazon.com/certificate-manager/" target="_blank">AWS Certificate Manager</a>
-![aws-certificate-manager](https://cdn.svgporn.com/logos/aws-certificate-manager.svg)
-## <a href="https://aws.amazon.com/cloudformation/" target="_blank">AWS CloudFormation</a>
-![aws-cloudformation](https://cdn.svgporn.com/logos/aws-cloudformation.svg)
-## <a href="https://aws.amazon.com/cloudfront/" target="_blank">AWS CloudFront</a>
-![aws-cloudfront](https://cdn.svgporn.com/logos/aws-cloudfront.svg)
-## <a href="https://aws.amazon.com/cloudsearch/" target="_blank">AWS CloudSearch</a>
-![aws-cloudsearch](https://cdn.svgporn.com/logos/aws-cloudsearch.svg)
-## <a href="https://aws.amazon.com/cloudtrail/" target="_blank">AWS CloudTrail</a>
-![aws-cloudtrail](https://cdn.svgporn.com/logos/aws-cloudtrail.svg)
-## <a href="https://aws.amazon.com/cloudwatch/" target="_blank">AWS CloudWatch</a>
-![aws-cloudwatch](https://cdn.svgporn.com/logos/aws-cloudwatch.svg)
+## <a href="https://heapanalytics.com/" target="_blank">Heap</a>
+![heap](https://cdn.svgporn.com/logos/heap-icon.svg)
+![heap](https://cdn.svgporn.com/logos/heap.svg)
+## <a href="https://www.hotjar.com/" target="_blank">Hotjar</a>
+![hotjar](https://cdn.svgporn.com/logos/hotjar-icon.svg)
+![hotjar](https://cdn.svgporn.com/logos/hotjar.svg)
+## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
+![optimizely](https://cdn.svgporn.com/logos/optimizely-icon.svg)
+![optimizely](https://cdn.svgporn.com/logos/optimizely.svg)
+## <a href="https://www.perl.org/" target="_blank">Perl</a>
+![perl](https://cdn.svgporn.com/logos/perl.svg)
+## <a href="https://pytorch.org/" target="_blank">PyTorch</a>
+![pytorch](https://cdn.svgporn.com/logos/pytorch-icon.svg)
+![pytorch](https://cdn.svgporn.com/logos/pytorch.svg)
+## <a href="https://stripe.com/" target="_blank">Stripe</a>
+![stripe](https://cdn.svgporn.com/logos/stripe.svg)
+## <a href="http://survicate.com/" target="_blank">survicate</a>
+![survicate](https://cdn.svgporn.com/logos/survicate-icon.svg)
+![survicate](https://cdn.svgporn.com/logos/survicate.svg)
+## <a href="https://tapcart.com/" target="_blank">tapcart</a>
+![tapcart](https://cdn.svgporn.com/logos/tapcart-icon.svg)
+![tapcart](https://cdn.svgporn.com/logos/tapcart.svg)
+## <a href="https://tealium.com" target="_blank">Tealium</a>
+![tealium](https://cdn.svgporn.com/logos/tealium.svg)
+## <a href="https://whalar.com/" target="_blank">Whalar</a>
+![whalar](https://cdn.svgporn.com/logos/whalar-icon.svg)
+![whalar](https://cdn.svgporn.com/logos/whalar.svg)
 
 ---
 
