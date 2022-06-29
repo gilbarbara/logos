@@ -1573,14 +1573,6 @@
     ]
   },
   {
-    "name": "Caffe2",
-    "shortname": "caffe2",
-    "url": "https://caffe2.ai/",
-    "files": [
-      "caffe2.svg"
-    ]
-  },
-  {
     "name": "CakePHP",
     "shortname": "cakephp",
     "url": "http://cakephp.org/",
@@ -1963,14 +1955,6 @@
     ]
   },
   {
-    "name": "CodePush",
-    "shortname": "codepush",
-    "url": "https://microsoft.github.io/code-push/",
-    "files": [
-      "codepush.svg"
-    ]
-  },
-  {
     "name": "CodersRank",
     "shortname": "codersrank",
     "url": "https://codersrank.io/",
@@ -1988,27 +1972,11 @@
     ]
   },
   {
-    "name": "Codeship",
-    "shortname": "codeship",
-    "url": "https://codeship.com/",
-    "files": [
-      "codeship.svg"
-    ]
-  },
-  {
     "name": "Codio",
     "shortname": "codio",
     "url": "https://codio.com/",
     "files": [
       "codio.svg"
-    ]
-  },
-  {
-    "name": "Codrops",
-    "shortname": "codrops",
-    "url": "http://tympanus.net/codrops/",
-    "files": [
-      "codrops.svg"
     ]
   },
   {
@@ -2142,15 +2110,6 @@
     ]
   },
   {
-    "name": "CoreOS",
-    "shortname": "coreos",
-    "url": "https://coreos.com/",
-    "files": [
-      "coreos-icon.svg",
-      "coreos.svg"
-    ]
-  },
-  {
     "name": "Couchbase",
     "shortname": "couchbase",
     "url": "http://www.couchbase.com/",
@@ -2229,14 +2188,6 @@
     "url": "http://www.createjs.com/",
     "files": [
       "createjs.svg"
-    ]
-  },
-  {
-    "name": "Cross Browser Testing",
-    "shortname": "cross-browser-testing",
-    "url": "http://crossbrowsertesting.com/",
-    "files": [
-      "cross-browser-testing.svg"
     ]
   },
   {
@@ -2851,14 +2802,6 @@
     "url": "http://www.erlang.org/",
     "files": [
       "erlang.svg"
-    ]
-  },
-  {
-    "name": "ES6",
-    "shortname": "es6",
-    "url": "https://tc39.es/ecma262/",
-    "files": [
-      "es6.svg"
     ]
   },
   {
@@ -4835,14 +4778,6 @@
     ]
   },
   {
-    "name": "kissmetrics",
-    "shortname": "kissmetrics",
-    "url": "https://www.kissmetricshq.com/",
-    "files": [
-      "kissmetrics.svg"
-    ]
-  },
-  {
     "name": "Kitematic",
     "shortname": "kitematic",
     "url": "https://kitematic.com/",
@@ -5264,14 +5199,6 @@
     "url": "https://www.mageia.org/",
     "files": [
       "mageia.svg"
-    ]
-  },
-  {
-    "name": "Magento",
-    "shortname": "magento",
-    "url": "http://magento.com/",
-    "files": [
-      "magento.svg"
     ]
   },
   {
@@ -5734,15 +5661,6 @@
     "files": [
       "modx-icon.svg",
       "modx.svg"
-    ]
-  },
-  {
-    "name": "Moltin",
-    "shortname": "moltin",
-    "url": "https://www.moltin.com/",
-    "files": [
-      "moltin-icon.svg",
-      "moltin.svg"
     ]
   },
   {
@@ -6830,14 +6748,6 @@
     ]
   },
   {
-    "name": "Prospect",
-    "shortname": "prospect",
-    "url": "https://prospect.io/",
-    "files": [
-      "prospect.svg"
-    ]
-  },
-  {
     "name": "Protactor",
     "shortname": "protactor",
     "url": "http://www.protractortest.org/",
@@ -7890,14 +7800,6 @@
     ]
   },
   {
-    "name": "Snupps",
-    "shortname": "snupps",
-    "url": "https://www.snupps.com/",
-    "files": [
-      "snupps.svg"
-    ]
-  },
-  {
     "name": "Snyk",
     "shortname": "snyk",
     "url": "https://snyk.io/",
@@ -8000,14 +7902,6 @@
     "url": "http://sparkjava.com/",
     "files": [
       "spark.svg"
-    ]
-  },
-  {
-    "name": "Sparkcentral",
-    "shortname": "sparkcentral",
-    "url": "http://www.sparkcentral.com/",
-    "files": [
-      "sparkcentral.svg"
     ]
   },
   {
@@ -8746,14 +8640,6 @@
     "url": "https://tsuru.io/",
     "files": [
       "tsuru.svg"
-    ]
-  },
-  {
-    "name": "tsū˜",
-    "shortname": "tsu",
-    "url": "https://www.tsusocial.com/",
-    "files": [
-      "tsu.svg"
     ]
   },
   {
