@@ -18,6 +18,31 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://ffmpeg.org/" target="_blank">FFmpeg</a>
+![ffmpeg](https://cdn.svgporn.com/logos/ffmpeg-icon.svg)
+![ffmpeg](https://cdn.svgporn.com/logos/ffmpeg.svg)
+## <a href="https://godotengine.org/" target="_blank">Godot</a>
+![godot](https://cdn.svgporn.com/logos/godot-icon.svg)
+![godot](https://cdn.svgporn.com/logos/godot.svg)
+## <a href="https://micropython.org/" target="_blank">MicroPython</a>
+![micropython](https://cdn.svgporn.com/logos/micro-python.svg)
+## <a href="https://www.mida.org/" target="_blank">Mida</a>
+![mida](https://cdn.svgporn.com/logos/mida-icon.svg)
+![mida](https://cdn.svgporn.com/logos/mida.svg)
+## <a href="https://p5js.org/" target="_blank">p5.js</a>
+![p5js](https://cdn.svgporn.com/logos/p5js.svg)
+## <a href="https://processing.org/" target="_blank">Processing</a>
+![processing](https://cdn.svgporn.com/logos/processing.svg)
+## <a href="https://pypi.org/" target="_blank">PyPI</a>
+![pypi](https://cdn.svgporn.com/logos/pypi.svg)
+## <a href="https://seaborn.pydata.org/" target="_blank">seaborn</a>
+![seaborn](https://cdn.svgporn.com/logos/seaborn-icon.svg)
+![seaborn](https://cdn.svgporn.com/logos/seaborn.svg)
+## <a href="https://streamlit.io/" target="_blank">Streamlit</a>
+![streamlit](https://cdn.svgporn.com/logos/streamlit.svg)
+## <a href="https://www.thymeleaf.org/" target="_blank">Thymeleaf</a>
+![thymeleaf](https://cdn.svgporn.com/logos/thymeleaf-icon.svg)
+![thymeleaf](https://cdn.svgporn.com/logos/thymeleaf.svg)
 ## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
 ![dotnet](https://cdn.svgporn.com/logos/dotnet.svg)
 ## <a href="http://www.aerospike.com/" target="_blank">Aerospike</a>
@@ -121,33 +146,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![fomo](https://cdn.svgporn.com/logos/fomo.svg)
 ## <a href="https://fortran-lang.org/" target="_blank">Fortran</a>
 ![fortran](https://cdn.svgporn.com/logos/fortran.svg)
-## <a href="https://heapanalytics.com/" target="_blank">Heap</a>
-![heap](https://cdn.svgporn.com/logos/heap-icon.svg)
-![heap](https://cdn.svgporn.com/logos/heap.svg)
-## <a href="https://www.hotjar.com/" target="_blank">Hotjar</a>
-![hotjar](https://cdn.svgporn.com/logos/hotjar-icon.svg)
-![hotjar](https://cdn.svgporn.com/logos/hotjar.svg)
-## <a href="https://www.optimizely.com/" target="_blank">Optimizely</a>
-![optimizely](https://cdn.svgporn.com/logos/optimizely-icon.svg)
-![optimizely](https://cdn.svgporn.com/logos/optimizely.svg)
-## <a href="https://www.perl.org/" target="_blank">Perl</a>
-![perl](https://cdn.svgporn.com/logos/perl.svg)
-## <a href="https://pytorch.org/" target="_blank">PyTorch</a>
-![pytorch](https://cdn.svgporn.com/logos/pytorch-icon.svg)
-![pytorch](https://cdn.svgporn.com/logos/pytorch.svg)
-## <a href="https://stripe.com/" target="_blank">Stripe</a>
-![stripe](https://cdn.svgporn.com/logos/stripe.svg)
-## <a href="http://survicate.com/" target="_blank">survicate</a>
-![survicate](https://cdn.svgporn.com/logos/survicate-icon.svg)
-![survicate](https://cdn.svgporn.com/logos/survicate.svg)
-## <a href="https://tapcart.com/" target="_blank">tapcart</a>
-![tapcart](https://cdn.svgporn.com/logos/tapcart-icon.svg)
-![tapcart](https://cdn.svgporn.com/logos/tapcart.svg)
-## <a href="https://tealium.com" target="_blank">Tealium</a>
-![tealium](https://cdn.svgporn.com/logos/tealium.svg)
-## <a href="https://whalar.com/" target="_blank">Whalar</a>
-![whalar](https://cdn.svgporn.com/logos/whalar-icon.svg)
-![whalar](https://cdn.svgporn.com/logos/whalar.svg)
 
 ---
 

@@ -2994,6 +2994,15 @@
     ]
   },
   {
+    "name": "FFmpeg",
+    "shortname": "ffmpeg",
+    "url": "https://ffmpeg.org/",
+    "files": [
+      "ffmpeg-icon.svg",
+      "ffmpeg.svg"
+    ]
+  },
+  {
     "name": "Figma",
     "shortname": "figma",
     "url": "https://www.figma.com/",
@@ -3485,6 +3494,15 @@
     "url": "https://www.go.cd/",
     "files": [
       "gocd.svg"
+    ]
+  },
+  {
+    "name": "Godot",
+    "shortname": "godot",
+    "url": "https://godotengine.org/",
+    "files": [
+      "godot-icon.svg",
+      "godot.svg"
     ]
   },
   {
@@ -5494,6 +5512,14 @@
     ]
   },
   {
+    "name": "MicroPython",
+    "shortname": "micropython",
+    "url": "https://micropython.org/",
+    "files": [
+      "micro-python.svg"
+    ]
+  },
+  {
     "name": "Microsoft",
     "shortname": "microsoft",
     "url": "http://www.microsoft.com/",
@@ -5547,6 +5573,15 @@
     "url": "https://www.microsoft.com/windows",
     "files": [
       "microsoft-windows.svg"
+    ]
+  },
+  {
+    "name": "Mida",
+    "shortname": "mida",
+    "url": "https://www.mida.org/",
+    "files": [
+      "mida-icon.svg",
+      "mida.svg"
     ]
   },
   {
@@ -6264,6 +6299,14 @@
     ]
   },
   {
+    "name": "p5.js",
+    "shortname": "p5js",
+    "url": "https://p5js.org/",
+    "files": [
+      "p5js.svg"
+    ]
+  },
+  {
     "name": "Packer",
     "shortname": "packer",
     "url": "https://www.packer.io/",
@@ -6691,6 +6734,14 @@
     ]
   },
   {
+    "name": "Processing",
+    "shortname": "processing",
+    "url": "https://processing.org/",
+    "files": [
+      "processing.svg"
+    ]
+  },
+  {
     "name": "ProcessWire",
     "shortname": "processwire",
     "url": "http://processwire.com/",
@@ -6860,6 +6911,14 @@
     "url": "https://www.jetbrains.com/pycharm/",
     "files": [
       "pycharm.svg"
+    ]
+  },
+  {
+    "name": "PyPI",
+    "shortname": "pypi",
+    "url": "https://pypi.org/",
+    "files": [
+      "pypi.svg"
     ]
   },
   {
@@ -7495,6 +7554,15 @@
     ]
   },
   {
+    "name": "seaborn",
+    "shortname": "seaborn",
+    "url": "https://seaborn.pydata.org/",
+    "files": [
+      "seaborn-icon.svg",
+      "seaborn.svg"
+    ]
+  },
+  {
     "name": "Section",
     "shortname": "sectionio",
     "url": "https://www.section.io/",
@@ -8122,6 +8190,14 @@
     ]
   },
   {
+    "name": "Streamlit",
+    "shortname": "streamlit",
+    "url": "https://streamlit.io/",
+    "files": [
+      "streamlit.svg"
+    ]
+  },
+  {
     "name": "Strider",
     "shortname": "strider",
     "url": "https://strider-cd.github.io/",
@@ -8499,6 +8575,15 @@
     "url": "https://threejs.org/",
     "files": [
       "threejs.svg"
+    ]
+  },
+  {
+    "name": "Thymeleaf",
+    "shortname": "thymeleaf",
+    "url": "https://www.thymeleaf.org/",
+    "files": [
+      "thymeleaf-icon.svg",
+      "thymeleaf.svg"
     ]
   },
   {
