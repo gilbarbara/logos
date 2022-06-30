@@ -18,31 +18,55 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://appcenter.ms/" target="_blank">App Center</a>
+![appcenter](https://cdn.svgporn.com/logos/appcenter-icon.svg)
+![appcenter](https://cdn.svgporn.com/logos/appcenter.svg)
+## <a href="https://smartbear.com/product/bitbar/" target="_blank">BitBar</a>
+![bitbar](https://cdn.svgporn.com/logos/bitbar.svg)
+## <a href="https://www.ecma-international.org/" target="_blank">Ecma</a>
+![ecma](https://cdn.svgporn.com/logos/ecma.svg)
+## <a href="https://www.elasticpath.com/" target="_blank">Elastic Path</a>
+![elasticpath](https://cdn.svgporn.com/logos/elasticpath-icon.svg)
+![elasticpath](https://cdn.svgporn.com/logos/elasticpath.svg)
 ## <a href="https://ffmpeg.org/" target="_blank">FFmpeg</a>
 ![ffmpeg](https://cdn.svgporn.com/logos/ffmpeg-icon.svg)
 ![ffmpeg](https://cdn.svgporn.com/logos/ffmpeg.svg)
 ## <a href="https://godotengine.org/" target="_blank">Godot</a>
 ![godot](https://cdn.svgporn.com/logos/godot-icon.svg)
 ![godot](https://cdn.svgporn.com/logos/godot.svg)
+## <a href="https://www.ietf.org/" target="_blank">IETF</a>
+![ietf](https://cdn.svgporn.com/logos/ietf.svg)
 ## <a href="https://micropython.org/" target="_blank">MicroPython</a>
 ![micropython](https://cdn.svgporn.com/logos/micro-python.svg)
 ## <a href="https://www.mida.org/" target="_blank">Mida</a>
 ![mida](https://cdn.svgporn.com/logos/mida-icon.svg)
 ![mida](https://cdn.svgporn.com/logos/mida.svg)
+## <a href="https://overloop.com/" target="_blank">Overloop</a>
+![overloop](https://cdn.svgporn.com/logos/overloop-icon.svg)
+![overloop](https://cdn.svgporn.com/logos/overloop.svg)
 ## <a href="https://p5js.org/" target="_blank">p5.js</a>
 ![p5js](https://cdn.svgporn.com/logos/p5js.svg)
+## <a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>
+![pluralsight](https://cdn.svgporn.com/logos/pluralsight-icon.svg)
+![pluralsight](https://cdn.svgporn.com/logos/pluralsight.svg)
 ## <a href="https://processing.org/" target="_blank">Processing</a>
 ![processing](https://cdn.svgporn.com/logos/processing.svg)
 ## <a href="https://pypi.org/" target="_blank">PyPI</a>
 ![pypi](https://cdn.svgporn.com/logos/pypi.svg)
+## <a href="https://www.ros.org/" target="_blank">ROS</a>
+![ros](https://cdn.svgporn.com/logos/ros.svg)
 ## <a href="https://seaborn.pydata.org/" target="_blank">seaborn</a>
 ![seaborn](https://cdn.svgporn.com/logos/seaborn-icon.svg)
 ![seaborn](https://cdn.svgporn.com/logos/seaborn.svg)
 ## <a href="https://streamlit.io/" target="_blank">Streamlit</a>
 ![streamlit](https://cdn.svgporn.com/logos/streamlit.svg)
+## <a href="https://testcafe.io/" target="_blank">TestCafe</a>
+![testcafe](https://cdn.svgporn.com/logos/testcafe.svg)
 ## <a href="https://www.thymeleaf.org/" target="_blank">Thymeleaf</a>
 ![thymeleaf](https://cdn.svgporn.com/logos/thymeleaf-icon.svg)
 ![thymeleaf](https://cdn.svgporn.com/logos/thymeleaf.svg)
+## <a href="https://www.getxray.app/" target="_blank">Xray</a>
+![xray-for-jira](https://cdn.svgporn.com/logos/xray-for-jira.svg)
 ## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
 ![dotnet](https://cdn.svgporn.com/logos/dotnet.svg)
 ## <a href="http://www.aerospike.com/" target="_blank">Aerospike</a>
@@ -122,30 +146,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![compose](https://cdn.svgporn.com/logos/compose.svg)
 ## <a href="https://www.consul.io/" target="_blank">Consul</a>
 ![consul](https://cdn.svgporn.com/logos/consul.svg)
-## <a href="http://convox.com/" target="_blank">Convox</a>
-![convox](https://cdn.svgporn.com/logos/convox-icon.svg)
-![convox](https://cdn.svgporn.com/logos/convox.svg)
-## <a href="https://crate.io/" target="_blank">CrateIO</a>
-![crateio](https://cdn.svgporn.com/logos/crateio.svg)
-## <a href="https://cucumber.io/" target="_blank">Cucumber</a>
-![cucumber](https://cdn.svgporn.com/logos/cucumber.svg)
-## <a href="https://www.cypress.io/" target="_blank">Cypress</a> *
-![cypress](https://cdn.svgporn.com/logos/cypress-icon.svg)
-![cypress](https://cdn.svgporn.com/logos/cypress.svg)
-## <a href="https://dart.dev/" target="_blank">Dart</a>
-![dart](https://cdn.svgporn.com/logos/dart.svg)
-## <a href="https://www.ebanx.com" target="_blank">EBANX</a>
-![ebanx](https://cdn.svgporn.com/logos/ebanx.svg)
-## <a href="https://www.facebook.com/" target="_blank">Facebook</a>
-![facebook](https://cdn.svgporn.com/logos/facebook.svg)
-## <a href="https://www.flickr.com/" target="_blank">flickr</a>
-![flickr](https://cdn.svgporn.com/logos/flickr-icon.svg)
-![flickr](https://cdn.svgporn.com/logos/flickr.svg)
-## <a href="https://www.usefomo.com/" target="_blank">Fomo</a>
-![fomo](https://cdn.svgporn.com/logos/fomo-icon.svg)
-![fomo](https://cdn.svgporn.com/logos/fomo.svg)
-## <a href="https://fortran-lang.org/" target="_blank">Fortran</a>
-![fortran](https://cdn.svgporn.com/logos/fortran.svg)
 
 ---
 

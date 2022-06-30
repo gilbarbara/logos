@@ -316,6 +316,15 @@
     ]
   },
   {
+    "name": "App Center",
+    "shortname": "appcenter",
+    "url": "https://appcenter.ms/",
+    "files": [
+      "appcenter-icon.svg",
+      "appcenter.svg"
+    ]
+  },
+  {
     "name": "Appbase",
     "shortname": "appbaseio",
     "url": "http://appbase.io/",
@@ -1208,6 +1217,14 @@
     "url": "https://www.bing.com/",
     "files": [
       "bing.svg"
+    ]
+  },
+  {
+    "name": "BitBar",
+    "shortname": "bitbar",
+    "url": "https://smartbear.com/product/bitbar/",
+    "files": [
+      "bitbar.svg"
     ]
   },
   {
@@ -2642,6 +2659,14 @@
     ]
   },
   {
+    "name": "Ecma",
+    "shortname": "ecma",
+    "url": "https://www.ecma-international.org/",
+    "files": [
+      "ecma.svg"
+    ]
+  },
+  {
     "name": "EditorConfig",
     "shortname": "editorconfig",
     "url": "https://editorconfig.org/",
@@ -2655,6 +2680,15 @@
     "url": "https://egghead.io/",
     "files": [
       "egghead.svg"
+    ]
+  },
+  {
+    "name": "Elastic Path",
+    "shortname": "elasticpath",
+    "url": "https://www.elasticpath.com/",
+    "files": [
+      "elasticpath-icon.svg",
+      "elasticpath.svg"
     ]
   },
   {
@@ -4263,6 +4297,14 @@
     "url": "https://www.ieee.org/",
     "files": [
       "ieee.svg"
+    ]
+  },
+  {
+    "name": "IETF",
+    "shortname": "ietf",
+    "url": "https://www.ietf.org/",
+    "files": [
+      "ietf.svg"
     ]
   },
   {
@@ -6299,6 +6341,15 @@
     ]
   },
   {
+    "name": "Overloop",
+    "shortname": "overloop",
+    "url": "https://overloop.com/",
+    "files": [
+      "overloop-icon.svg",
+      "overloop.svg"
+    ]
+  },
+  {
     "name": "p5.js",
     "shortname": "p5js",
     "url": "https://p5js.org/",
@@ -6592,6 +6643,15 @@
     "url": "https://playwright.dev/",
     "files": [
       "playwright.svg"
+    ]
+  },
+  {
+    "name": "Pluralsight",
+    "shortname": "pluralsight",
+    "url": "https://www.pluralsight.com/",
+    "files": [
+      "pluralsight-icon.svg",
+      "pluralsight.svg"
     ]
   },
   {
@@ -7366,6 +7426,14 @@
     "files": [
       "rome-icon.svg",
       "rome.svg"
+    ]
+  },
+  {
+    "name": "ROS",
+    "shortname": "ros",
+    "url": "https://www.ros.org/",
+    "files": [
+      "ros.svg"
     ]
   },
   {
@@ -8554,6 +8622,14 @@
     ]
   },
   {
+    "name": "TestCafe",
+    "shortname": "testcafe",
+    "url": "https://testcafe.io/",
+    "files": [
+      "testcafe.svg"
+    ]
+  },
+  {
     "name": "Testing Library",
     "shortname": "testing-library",
     "url": "https://testing-library.com/",
@@ -9571,6 +9647,14 @@
     "url": "https://www.xplenty.com/",
     "files": [
       "xplenty.svg"
+    ]
+  },
+  {
+    "name": "Xray",
+    "shortname": "xray-for-jira",
+    "url": "https://www.getxray.app/",
+    "files": [
+      "xray-for-jira.svg"
     ]
   },
   {
