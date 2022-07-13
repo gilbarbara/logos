@@ -3811,6 +3811,7 @@
     "shortname": "gravatar",
     "url": "https://gravatar.com/",
     "files": [
+      "gravatar-icon.svg",
       "gravatar.svg"
     ]
   },
@@ -4009,6 +4010,7 @@
     "shortname": "hasura",
     "url": "https://hasura.io/",
     "files": [
+      "hasura-icon.svg",
       "hasura.svg"
     ]
   },
@@ -4529,6 +4531,7 @@
     "shortname": "jetbrains",
     "url": "https://www.jetbrains.com/",
     "files": [
+      "jetbrains-icon.svg",
       "jetbrains.svg"
     ]
   },
@@ -5120,6 +5123,7 @@
     "shortname": "loom",
     "url": "https://www.loom.com/",
     "files": [
+      "loom-icon.svg",
       "loom.svg"
     ]
   },
@@ -5878,6 +5882,7 @@
     "shortname": "new-relic",
     "url": "http://newrelic.com/",
     "files": [
+      "new-relic-icon.svg",
       "new-relic.svg"
     ]
   },
@@ -6585,6 +6590,7 @@
     "shortname": "pm2",
     "url": "https://github.com/Unitech/pm2",
     "files": [
+      "pm2-icon.svg",
       "pm2.svg"
     ]
   },
@@ -8763,6 +8769,7 @@
     "url": "https://www.typescriptlang.org/",
     "files": [
       "typescript-icon.svg",
+      "typescript-icon-round.svg",
       "typescript.svg"
     ]
   },
@@ -9352,6 +9359,8 @@
     "shortname": "whatsapp",
     "url": "https://www.whatsapp.com/",
     "files": [
+      "whatsapp-icon.svg",
+      "whatsapp-monochrome-icon.svg",
       "whatsapp.svg"
     ]
   },

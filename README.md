@@ -18,6 +18,69 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.jetbrains.com/appcode/" target="_blank">AppCode</a>
+![appcode](https://cdn.svgporn.com/logos/appcode.svg)
+## <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a>
+![clion](https://cdn.svgporn.com/logos/clion.svg)
+## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
+![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
+## <a href="https://www.cartaoelo.com.br/" target="_blank">Elo</a>
+![elo](https://cdn.svgporn.com/logos/elo.svg)
+## <a href="https://www.fastly.com/" target="_blank">Fastly</a>
+![fastly](https://cdn.svgporn.com/logos/fastly.svg)
+## <a href="http://flowtype.org/" target="_blank">Flow</a> *
+![flow](https://cdn.svgporn.com/logos/flow.svg)
+## <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
+![font-awesome](https://cdn.svgporn.com/logos/font-awesome.svg)
+## <a href="https://gravatar.com/" target="_blank">Gravatar</a>
+![gravatar](https://cdn.svgporn.com/logos/gravatar-icon.svg)
+![gravatar](https://cdn.svgporn.com/logos/gravatar.svg)
+## <a href="https://hasura.io/" target="_blank">Hasura</a>
+![hasura](https://cdn.svgporn.com/logos/hasura-icon.svg)
+![hasura](https://cdn.svgporn.com/logos/hasura.svg)
+## <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>
+![jetbrains](https://cdn.svgporn.com/logos/jetbrains-icon.svg)
+![jetbrains](https://cdn.svgporn.com/logos/jetbrains.svg)
+## <a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>
+![kibana](https://cdn.svgporn.com/logos/kibana.svg)
+## <a href="https://www.loom.com/" target="_blank">Loom</a>
+![loom](https://cdn.svgporn.com/logos/loom-icon.svg)
+![loom](https://cdn.svgporn.com/logos/loom.svg)
+## <a href="http://material-ui.com/" target="_blank">Material UI</a>
+![material-ui](https://cdn.svgporn.com/logos/material-ui.svg)
+## <a href="https://developer.mozilla.org/" target="_blank">MDN</a>
+![mdn](https://cdn.svgporn.com/logos/mdn.svg)
+## <a href="http://newrelic.com/" target="_blank">New Relic</a>
+![new-relic](https://cdn.svgporn.com/logos/new-relic-icon.svg)
+![new-relic](https://cdn.svgporn.com/logos/new-relic.svg)
+## <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PhpStorm</a>
+![phpstorm](https://cdn.svgporn.com/logos/phpstorm.svg)
+## <a href="https://github.com/Unitech/pm2" target="_blank">PM2</a> *
+![pm2](https://cdn.svgporn.com/logos/pm2-icon.svg)
+![pm2](https://cdn.svgporn.com/logos/pm2.svg)
+## <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>
+![pycharm](https://cdn.svgporn.com/logos/pycharm.svg)
+## <a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>
+![rubymine](https://cdn.svgporn.com/logos/rubymine.svg)
+## <a href="http://www.skype.com/" target="_blank">Skype</a> *
+![skype](https://cdn.svgporn.com/logos/skype.svg)
+## <a href="https://www.stackbit.com/" target="_blank">Stackbit</a>
+![stackbit](https://cdn.svgporn.com/logos/stackbit-icon.svg)
+![stackbit](https://cdn.svgporn.com/logos/stackbit.svg)
+## <a href="https://swagger.io/" target="_blank">Swagger</a>
+![swagger](https://cdn.svgporn.com/logos/swagger.svg)
+## <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>
+![typescript](https://cdn.svgporn.com/logos/typescript-icon.svg)
+![typescript](https://cdn.svgporn.com/logos/typescript-icon-round.svg)
+![typescript](https://cdn.svgporn.com/logos/typescript.svg)
+## <a href="https://vuetifyjs.com/" target="_blank">Vuetify</a>
+![vuetifyjs](https://cdn.svgporn.com/logos/vuetifyjs.svg)
+## <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
+![webstorm](https://cdn.svgporn.com/logos/webstorm.svg)
+## <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a>
+![whatsapp](https://cdn.svgporn.com/logos/whatsapp-icon.svg)
+![whatsapp](https://cdn.svgporn.com/logos/whatsapp-monochrome-icon.svg)
+![whatsapp](https://cdn.svgporn.com/logos/whatsapp.svg)
 ## <a href="https://appcenter.ms/" target="_blank">App Center</a>
 ![appcenter](https://cdn.svgporn.com/logos/appcenter-icon.svg)
 ![appcenter](https://cdn.svgporn.com/logos/appcenter.svg)
@@ -78,74 +141,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
 ![airflow](https://cdn.svgporn.com/logos/airflow-icon.svg)
 ![airflow](https://cdn.svgporn.com/logos/airflow.svg)
-## <a href="https://www.android.com/" target="_blank">Android</a>
-![android](https://cdn.svgporn.com/logos/android-icon.svg)
-![android](https://cdn.svgporn.com/logos/android.svg)
-![android](https://cdn.svgporn.com/logos/android-vertical.svg)
-## <a href="http://www.appdynamics.com/" target="_blank">AppDynamics</a>
-![appdynamics](https://cdn.svgporn.com/logos/appdynamics-icon.svg)
-![appdynamics](https://cdn.svgporn.com/logos/appdynamics.svg)
-## <a href="http://apptentive.com/" target="_blank">Apptentive</a>
-![apptentive](https://cdn.svgporn.com/logos/apptentive.svg)
-## <a href="https://www.arangodb.com/" target="_blank">ArangoDB</a>
-![arangodb](https://cdn.svgporn.com/logos/arangodb-icon.svg)
-![arangodb](https://cdn.svgporn.com/logos/arangodb.svg)
-## <a href="http://www.armory.io/" target="_blank">Armory</a>
-![armory](https://cdn.svgporn.com/logos/armory-icon.svg)
-![armory](https://cdn.svgporn.com/logos/armory.svg)
-## <a href="https://asana.com/" target="_blank">Asana</a>
-![asana](https://cdn.svgporn.com/logos/asana-icon.svg)
-![asana](https://cdn.svgporn.com/logos/asana.svg)
-## <a href="https://www.authy.com/" target="_blank">Authy</a>
-![authy](https://cdn.svgporn.com/logos/authy.svg)
-## <a href="https://basecamp.com/" target="_blank">Basecamp</a>
-![basecamp](https://cdn.svgporn.com/logos/basecamp-icon.svg)
-![basecamp](https://cdn.svgporn.com/logos/basecamp.svg)
-## <a href="https://batch.com/" target="_blank">batch</a>
-![batch](https://cdn.svgporn.com/logos/batch.svg)
-## <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
-![bootstrap](https://cdn.svgporn.com/logos/bootstrap.svg)
-## <a href="https://branch.io/" target="_blank">Branch</a>
-![branch](https://cdn.svgporn.com/logos/branch-icon.svg)
-![branch](https://cdn.svgporn.com/logos/branch.svg)
-## <a href="https://www.braze.com/" target="_blank">Braze</a>
-![braze](https://cdn.svgporn.com/logos/braze-icon.svg)
-![braze](https://cdn.svgporn.com/logos/braze.svg)
-## <a href="http://brunch.io/" target="_blank">Brunch</a>
-![brunch](https://cdn.svgporn.com/logos/brunch.svg)
-## <a href="http://bugherd.com/" target="_blank">BugHerd</a>
-![bugherd](https://cdn.svgporn.com/logos/bugherd-icon.svg)
-![bugherd](https://cdn.svgporn.com/logos/bugherd.svg)
-## <a href="http://csharp.net/" target="_blank">C Sharp (C#) </a>
-![c-sharp](https://cdn.svgporn.com/logos/c-sharp.svg)
-## <a href="https://isocpp.org/" target="_blank">C++</a>
-![c-plusplus](https://cdn.svgporn.com/logos/c-plusplus.svg)
-## <a href="https://cloudinary.com/" target="_blank">Cloudinary</a>
-![cloudinary](https://cdn.svgporn.com/logos/cloudinary-icon.svg)
-![cloudinary](https://cdn.svgporn.com/logos/cloudinary.svg)
-## <a href="https://codesandbox.io/" target="_blank">Code Sandbox</a>
-![codesandbox](https://cdn.svgporn.com/logos/codesandbox-icon.svg)
-![codesandbox](https://cdn.svgporn.com/logos/codesandbox.svg)
-## <a href="http://codeception.com/" target="_blank">Codeception</a>
-![codeception](https://cdn.svgporn.com/logos/codeception.svg)
-## <a href="http://codecov.io/" target="_blank">Codecov</a>
-![codecov](https://cdn.svgporn.com/logos/codecov-icon.svg)
-![codecov](https://cdn.svgporn.com/logos/codecov.svg)
-## <a href="http://www.codeigniter.com/" target="_blank">CodeIgniter</a>
-![codeigniter](https://cdn.svgporn.com/logos/codeigniter-icon.svg)
-![codeigniter](https://cdn.svgporn.com/logos/codeigniter.svg)
-## <a href="http://codepen.io/" target="_blank">Codepen</a>
-![codepen](https://cdn.svgporn.com/logos/codepen-icon.svg)
-![codepen](https://cdn.svgporn.com/logos/codepen.svg)
-## <a href="https://codersrank.io/" target="_blank">CodersRank</a>
-![codersrank](https://cdn.svgporn.com/logos/codersrank-icon.svg)
-![codersrank](https://cdn.svgporn.com/logos/codersrank.svg)
-## <a href="http://componentkit.org/" target="_blank">ComponentKit</a>
-![componentkit](https://cdn.svgporn.com/logos/componentkit.svg)
-## <a href="https://www.compose.io/" target="_blank">Compose</a>
-![compose](https://cdn.svgporn.com/logos/compose.svg)
-## <a href="https://www.consul.io/" target="_blank">Consul</a>
-![consul](https://cdn.svgporn.com/logos/consul.svg)
 
 ---
 

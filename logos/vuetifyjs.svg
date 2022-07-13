@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="293px" viewBox="0 0 256 293" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-		<g>
-				<polyline fill="#1697F6" points="128 0 68 0 128 141.816367"></polyline>
-				<polyline fill="#1867C0" points="128 0 188 0 128 141.816367"></polyline>
-				<polyline fill="#7BC6FF" points="128 182.743732 128 292.459439 0 42.5575194 67.0490402 42.5575194"></polyline>
-				<polyline fill="#AEDDFF" points="128 182.746214 128 292.461921 256 42.5600014 188.95096 42.5600014"></polyline>
-		</g>
+<svg width="256px" height="222px" viewBox="0 0 256 222" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>Vuetify</title>
+    <g>
+        <polygon fill="#1697F6" points="130.710957 49.5638261 79.6681739 137.991652 128 221.754435 192.014609 110.877217 256 0 159.307826 0"></polygon>
+        <polygon fill="#AEDDFF" points="64.0145391 110.877217 67.3668174 116.708174 115.11513 33.9657739 134.733913 0 128 0 0 0"></polygon>
+        <path d="M159.307826,0 C183.502609,79.6229565 128,221.754435 128,221.754435 L79.6681739,137.991652 L159.307826,0 Z" fill="#1867C0"></path>
+        <path d="M134.733913,0 C32.7948522,0 67.3673043,116.708174 67.3673043,116.708174 L134.733913,0 Z" fill="#7BC6FF"></path>
+    </g>
 </svg>

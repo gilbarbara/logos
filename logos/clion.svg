@@ -1,36 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>CLion</title>
     <defs>
-        <linearGradient x1="0.241935484%" y1="50%" x2="115.268817%" y2="50%" id="linearGradient-1">
-            <stop stop-color="#ED358C" offset="0%"></stop>
-            <stop stop-color="#E9388C" offset="16%"></stop>
-            <stop stop-color="#DE418C" offset="30%"></stop>
-            <stop stop-color="#CC508C" offset="43%"></stop>
-            <stop stop-color="#B2658D" offset="57%"></stop>
-            <stop stop-color="#90808D" offset="70%"></stop>
-            <stop stop-color="#67A18E" offset="83%"></stop>
-            <stop stop-color="#37C78F" offset="95%"></stop>
-            <stop stop-color="#22D88F" offset="100%"></stop>
+        <linearGradient x1="0%" y1="50%" x2="115.014638%" y2="50%" id="clionLinearGradient-1">
+            <stop stop-color="#FF318C" offset="0%"></stop>
+            <stop stop-color="#FB348C" offset="15%"></stop>
+            <stop stop-color="#F03C8C" offset="28%"></stop>
+            <stop stop-color="#DE4A8C" offset="42%"></stop>
+            <stop stop-color="#C45D8B" offset="54%"></stop>
+            <stop stop-color="#A2778B" offset="67%"></stop>
+            <stop stop-color="#79958A" offset="79%"></stop>
+            <stop stop-color="#49B98A" offset="91%"></stop>
+            <stop stop-color="#21D789" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="66.7622951%" y1="17.4574468%" x2="28.1967213%" y2="151.840426%" id="linearGradient-2">
-            <stop stop-color="#22D88F" offset="9%"></stop>
-            <stop stop-color="#029DE0" offset="90%"></stop>
+        <linearGradient x1="53.8157917%" y1="17.2570133%" x2="43.4444773%" y2="151.487674%" id="clionLinearGradient-2">
+            <stop stop-color="#21D789" offset="9%"></stop>
+            <stop stop-color="#009AE5" offset="90%"></stop>
         </linearGradient>
-        <linearGradient x1="10618.1424%" y1="-66066%" x2="-1095.23079%" y2="-79666%" id="linearGradient-3">
-            <stop stop-color="#22D88F" offset="9%"></stop>
-            <stop stop-color="#029DE0" offset="90%"></stop>
+        <linearGradient x1="93.0492082%" y1="9.9805967%" x2="-9.59719418%" y2="113.191194%" id="clionLinearGradient-3">
+            <stop stop-color="#21D789" offset="9%"></stop>
+            <stop stop-color="#009AE5" offset="90%"></stop>
         </linearGradient>
-        <linearGradient x1="5973.42462%" y1="-73910%" x2="9952.73006%" y2="-74606%" id="linearGradient-4">
-            <stop stop-color="#22D88F" offset="9%"></stop>
-            <stop stop-color="#029DE0" offset="90%"></stop>
+        <linearGradient x1="32.3877917%" y1="46.0393104%" x2="91.6876122%" y2="52.2443908%" id="clionLinearGradient-4">
+            <stop stop-color="#21D789" offset="9%"></stop>
+            <stop stop-color="#009AE5" offset="90%"></stop>
         </linearGradient>
     </defs>
-	<g>
-		<polygon fill="url(#linearGradient-1)" points="98.4 103.6 81.2 110.8 96.8 0 155.6 32.4"></polygon>
-		<polygon fill="url(#linearGradient-2)" points="89.2 153.6 97.6 0 23.6 46.4 0 188"></polygon>
-		<polygon fill="url(#linearGradient-3)" points="250.8 76.8 218 9.6 155.6 32.4 110 82.8 0 188 83.2 248.8 187.2 154.4"></polygon>
-		<polygon fill="url(#linearGradient-4)" points="107.6 109.2 93.2 196.8 151.6 242 215.6 256 256 164.8"></polygon>
-		<rect fill="#000000" x="48" y="48" width="160" height="160"></rect>
-		<path d="M63.2,178 L123.2,178 L123.2,188 L63.2,188 L63.2,178 Z M62,102.4 C61.7957616,93.2154633 65.3544128,84.3465202 71.8504665,77.8504665 C78.3465202,71.3544128 87.2154633,67.7957616 96.4,68 C108.8,68 116.4,72 122.4,78.4 L113.2,89.2 C108,84.4 102.8,81.6 96.4,81.6 C85.2,81.6 77.2,90.8 77.2,102.4 C77.2,113.6 85.2,123.2 96.4,123.2 C104,123.2 108.8,120 114,115.6 L123.2,124.8 C116.4,132 108.8,136.8 96,136.8 C86.9129051,136.800629 78.2036965,133.16364 71.8158356,126.700628 C65.4279746,120.237615 61.893093,111.486466 62,102.4 Z M133.2,68.8 L148,68.8 L148,122.8 L176.8,122.8 L176.8,135.2 L133.2,135.2 L133.2,68.8 Z" fill="#FFFFFF"></path>
-	</g>
+    <g>
+        <polygon fill="url(#clionLinearGradient-1)" points="92.0266667 100.106667 97.5733333 0 155.786667 32.2666667"></polygon>
+        <polygon fill="url(#clionLinearGradient-2)" points="92.0266667 100.106667 97.5733333 0 23.6533333 46.5866667 -7.10542736e-15 188.213333"></polygon>
+        <polygon fill="url(#clionLinearGradient-3)" points="250.906667 76.72 217.973333 9.76 155.786667 32.2666667 92.0266667 100.106667 1.42108547e-14 188.213333 83.0133333 248.64 187.36 154.533333"></polygon>
+        <polygon fill="url(#clionLinearGradient-4)" points="208 146.773333 208 208 107.466667 208 151.653333 242.186667 215.653333 256 256 164.666667"></polygon>
+        <polygon fill="#000000" points="48 48 208 48 208 208 48 208"></polygon>
+        <path d="M67.9466667,177.76 L127.946667,177.76 L127.946667,187.76 L67.9466667,187.76 L67.9466667,177.76 Z M128.133333,67.84 L141.466667,67.84 L141.466667,116.88 L167.733333,116.88 L167.733333,128 L128.133333,128 L128.133333,67.84 Z M63.6761695,98.8152265 L63.68,98.16 C63.5318962,89.7705158 66.815956,81.6843521 72.7717534,75.7738651 C78.7275508,69.863378 86.8385581,66.6411657 95.2266667,66.8533333 C104.14206,66.4140931 112.819226,69.8111941 119.066667,76.1866667 L110.666667,85.9733333 C106.597509,81.7537466 101.033266,79.302032 95.1733333,79.1466667 C85.0998519,79.1466667 77.8166486,87.4131918 77.6560432,97.6282756 L77.6533333,98.16 C77.6533333,108.533333 84.8266667,117.173333 95.1733333,117.173333 C102.106667,117.173333 106.32,114.506667 111.173333,110.08 L119.493333,118.666667 C113.290313,125.8398 104.13976,129.771295 94.6666667,129.333333 C86.4065506,129.457022 78.4488208,126.228412 72.609895,120.384462 C66.8877476,114.65739 63.6791235,106.89758 63.6761695,98.8152265 L63.6761695,98.8152265 Z" fill="#FFFFFF"></path>
+    </g>
 </svg>
