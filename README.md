@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://bun.sh/" target="_blank">Bun</a>
+![bun](https://cdn.svgporn.com/logos/bun.svg)
+## <a href="https://fresh.deno.dev/" target="_blank">Fresh</a>
+![fresh](https://cdn.svgporn.com/logos/fresh.svg)
+## <a href="https://planetscale.com/" target="_blank">PlanetScale</a>
+![planetscale](https://cdn.svgporn.com/logos/planetscale.svg)
+## <a href="https://qwik.builder.io/" target="_blank">Qwik</a>
+![qwik](https://cdn.svgporn.com/logos/qwik.svg)
+## <a href="https://kit.svelte.dev/" target="_blank">SvelteKit</a>
+![svelte-kit](https://cdn.svgporn.com/logos/svelte-kit.svg)
+## <a href="https://trpc.io/" target="_blank">tRPC</a>
+![trpc](https://cdn.svgporn.com/logos/trpc.svg)
+## <a href="https://webkit.org/" target="_blank">WebKit</a>
+![webkit](https://cdn.svgporn.com/logos/webkit.svg)
+## <a href="https://ziglang.org/" target="_blank">Zig</a>
+![zig](https://cdn.svgporn.com/logos/zig.svg)
 ## <a href="https://www.jetbrains.com/appcode/" target="_blank">AppCode</a>
 ![appcode](https://cdn.svgporn.com/logos/appcode.svg)
 ## <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a>
@@ -121,26 +137,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://seaborn.pydata.org/" target="_blank">seaborn</a>
 ![seaborn](https://cdn.svgporn.com/logos/seaborn-icon.svg)
 ![seaborn](https://cdn.svgporn.com/logos/seaborn.svg)
-## <a href="https://streamlit.io/" target="_blank">Streamlit</a>
-![streamlit](https://cdn.svgporn.com/logos/streamlit.svg)
-## <a href="https://testcafe.io/" target="_blank">TestCafe</a>
-![testcafe](https://cdn.svgporn.com/logos/testcafe.svg)
-## <a href="https://www.thymeleaf.org/" target="_blank">Thymeleaf</a>
-![thymeleaf](https://cdn.svgporn.com/logos/thymeleaf-icon.svg)
-![thymeleaf](https://cdn.svgporn.com/logos/thymeleaf.svg)
-## <a href="https://www.getxray.app/" target="_blank">Xray</a>
-![xray-for-jira](https://cdn.svgporn.com/logos/xray-for-jira.svg)
-## <a href="http://www.microsoft.com/net" target="_blank">.NET</a>
-![dotnet](https://cdn.svgporn.com/logos/dotnet.svg)
-## <a href="http://www.aerospike.com/" target="_blank">Aerospike</a>
-![aerospike](https://cdn.svgporn.com/logos/aerospike-icon.svg)
-![aerospike](https://cdn.svgporn.com/logos/aerospike.svg)
-## <a href="https://www.airbnb.com/" target="_blank">Airbnb</a>
-![airbnb](https://cdn.svgporn.com/logos/airbnb-icon.svg)
-![airbnb](https://cdn.svgporn.com/logos/airbnb.svg)
-## <a href="https://airflow.apache.org/" target="_blank">Airflow</a>
-![airflow](https://cdn.svgporn.com/logos/airflow-icon.svg)
-![airflow](https://cdn.svgporn.com/logos/airflow.svg)
 
 ---
 

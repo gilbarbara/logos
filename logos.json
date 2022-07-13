@@ -1550,6 +1550,14 @@
     ]
   },
   {
+    "name": "Bun",
+    "shortname": "bun",
+    "url": "https://bun.sh/",
+    "files": [
+      "bun.svg"
+    ]
+  },
+  {
     "name": "Bēhance",
     "shortname": "behance",
     "url": "https://www.behance.net/",
@@ -3288,6 +3296,14 @@
     "files": [
       "freedcamp-icon.svg",
       "freedcamp.svg"
+    ]
+  },
+  {
+    "name": "Fresh",
+    "shortname": "fresh",
+    "url": "https://fresh.deno.dev/",
+    "files": [
+      "fresh.svg"
     ]
   },
   {
@@ -6536,6 +6552,14 @@
     ]
   },
   {
+    "name": "PlanetScale",
+    "shortname": "planetscale",
+    "url": "https://planetscale.com/",
+    "files": [
+      "planetscale.svg"
+    ]
+  },
+  {
     "name": "Planless",
     "shortname": "planless",
     "url": "https://www.planless.io/",
@@ -6985,6 +7009,14 @@
     "url": "https://www.quora.com/",
     "files": [
       "quora.svg"
+    ]
+  },
+  {
+    "name": "Qwik",
+    "shortname": "qwik",
+    "url": "https://qwik.builder.io/",
+    "files": [
+      "qwik.svg"
     ]
   },
   {
@@ -8306,6 +8338,14 @@
     ]
   },
   {
+    "name": "SvelteKit",
+    "shortname": "svelte-kit",
+    "url": "https://kit.svelte.dev/",
+    "files": [
+      "svelte-kit.svg"
+    ]
+  },
+  {
     "name": "SVG",
     "shortname": "svg",
     "url": "http://www.w3.org/Graphics/SVG/",
@@ -8660,6 +8700,14 @@
     "url": "https://trello.com/",
     "files": [
       "trello.svg"
+    ]
+  },
+  {
+    "name": "tRPC",
+    "shortname": "trpc",
+    "url": "https://trpc.io/",
+    "files": [
+      "trpc.svg"
     ]
   },
   {
@@ -9282,6 +9330,14 @@
     ]
   },
   {
+    "name": "WebKit",
+    "shortname": "webkit",
+    "url": "https://webkit.org/",
+    "files": [
+      "webkit.svg"
+    ]
+  },
+  {
     "name": "Webmin",
     "shortname": "webmin",
     "url": "http://www.webmin.com/",
@@ -9675,6 +9731,14 @@
     "url": "https://zeplin.io/",
     "files": [
       "zeplin.svg"
+    ]
+  },
+  {
+    "name": "Zig",
+    "shortname": "zig",
+    "url": "https://ziglang.org/",
+    "files": [
+      "zig.svg"
     ]
   },
   {
