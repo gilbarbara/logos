@@ -5441,7 +5441,7 @@
   {
     "name": "Mercurial",
     "shortname": "mercurial",
-    "url": "https://mercurial.selenic.com/",
+    "url": "https://www.mercurial-scm.org/",
     "files": [
       "mercurial.svg"
     ]
@@ -5925,7 +5925,7 @@
   {
     "name": "Nodal",
     "shortname": "nodal",
-    "url": "http://www.nodaljs.com/",
+    "url": "https://github.com/keithwhor/nodal",
     "files": [
       "nodal.svg"
     ]
@@ -7357,7 +7357,7 @@
   {
     "name": "RSA",
     "shortname": "rsa",
-    "url": "http://www.emc.com/domains/rsa/index.htm",
+    "url": "https://www.rsa.com/",
     "files": [
       "rsa.svg"
     ]
