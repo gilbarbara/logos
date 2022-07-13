@@ -3629,14 +3629,6 @@
     ]
   },
   {
-    "name": "Google Currents",
-    "shortname": "google-currents",
-    "url": "https://workspace.google.com/products/currents/",
-    "files": [
-      "google-currents.svg"
-    ]
-  },
-  {
     "name": "Google Data Studio",
     "shortname": "google-data-studio",
     "url": "https://marketingplatform.google.com/about/data-studio/",
@@ -3666,14 +3658,6 @@
     "url": "https://www.google.com/fit/",
     "files": [
       "google-fit.svg"
-    ]
-  },
-  {
-    "name": "Google G Suite",
-    "shortname": "google-gsuite",
-    "url": "https://gsuite.google.com/",
-    "files": [
-      "google-gsuite.svg"
     ]
   },
   {
@@ -4153,27 +4137,11 @@
     ]
   },
   {
-    "name": "Hoa",
-    "shortname": "hoa",
-    "url": "http://hoa-project.net/",
-    "files": [
-      "hoa.svg"
-    ]
-  },
-  {
     "name": "Homebrew",
     "shortname": "homebrew",
     "url": "https://brew.sh/",
     "files": [
       "homebrew.svg"
-    ]
-  },
-  {
-    "name": "Hoodie",
-    "shortname": "hoodie",
-    "url": "http://hood.ie/",
-    "files": [
-      "hoodie.svg"
     ]
   },
   {
@@ -4541,15 +4509,6 @@
     ]
   },
   {
-    "name": "Jelastic",
-    "shortname": "jelastic",
-    "url": "http://jelastic.com/",
-    "files": [
-      "jelastic-icon.svg",
-      "jelastic.svg"
-    ]
-  },
-  {
     "name": "Jenkins",
     "shortname": "jenkins",
     "url": "https://jenkins-ci.org/",
@@ -4835,22 +4794,6 @@
     "files": [
       "kirby-icon.svg",
       "kirby.svg"
-    ]
-  },
-  {
-    "name": "Kitematic",
-    "shortname": "kitematic",
-    "url": "https://kitematic.com/",
-    "files": [
-      "kitematic.svg"
-    ]
-  },
-  {
-    "name": "Kloudless",
-    "shortname": "kloudless",
-    "url": "https://developers.kloudless.com/",
-    "files": [
-      "kloudless.svg"
     ]
   },
   {
@@ -5443,14 +5386,6 @@
     "url": "https://maven.apache.org/",
     "files": [
       "maven.svg"
-    ]
-  },
-  {
-    "name": "MaxCDN",
-    "shortname": "maxcdn",
-    "url": "https://www.maxcdn.com/",
-    "files": [
-      "maxcdn.svg"
     ]
   },
   {
@@ -6531,15 +6466,6 @@
     ]
   },
   {
-    "name": "PhoneGap",
-    "shortname": "phonegap",
-    "url": "http://phonegap.com/",
-    "files": [
-      "phonegap.svg",
-      "phonegap-bot.svg"
-    ]
-  },
-  {
     "name": "PHP",
     "shortname": "php",
     "url": "http://php.net/",
@@ -6921,14 +6847,6 @@
     "url": "https://developers.google.com/web/tools/puppeteer/",
     "files": [
       "puppeteer.svg"
-    ]
-  },
-  {
-    "name": "Puppy Linux",
-    "shortname": "puppy-linux",
-    "url": "http://puppylinux.org/",
-    "files": [
-      "puppy-linux.svg"
     ]
   },
   {
@@ -7773,14 +7691,6 @@
     ]
   },
   {
-    "name": "Shippable",
-    "shortname": "shippable",
-    "url": "https://www.shippable.com/",
-    "files": [
-      "shippable.svg"
-    ]
-  },
-  {
     "name": "Shogun",
     "shortname": "shogun",
     "url": "https://getshogun.com/",
@@ -7794,14 +7704,6 @@
     "url": "http://shopify.com/",
     "files": [
       "shopify.svg"
-    ]
-  },
-  {
-    "name": "Sidekick",
-    "shortname": "sidekick",
-    "url": "http://www.getsidekick.com/",
-    "files": [
-      "sidekick.svg"
     ]
   },
   {
@@ -8014,14 +7916,6 @@
     "url": "https://sourcegraph.com/",
     "files": [
       "sourcegraph.svg"
-    ]
-  },
-  {
-    "name": "Sourcetrail",
-    "shortname": "sourcetrail",
-    "url": "https://www.sourcetrail.com/",
-    "files": [
-      "sourcetrail.svg"
     ]
   },
   {
@@ -8522,14 +8416,6 @@
     ]
   },
   {
-    "name": "TargetProcess",
-    "shortname": "targetprocess",
-    "url": "http://www.targetprocess.com/",
-    "files": [
-      "targetprocess.svg"
-    ]
-  },
-  {
     "name": "Taskade",
     "shortname": "taskade",
     "url": "https://www.taskade.com/",
@@ -8719,14 +8605,6 @@
     "url": "https://www.torproject.org/",
     "files": [
       "tor.svg"
-    ]
-  },
-  {
-    "name": "Torus",
-    "shortname": "torus",
-    "url": "https://www.torus.sh/",
-    "files": [
-      "torus.svg"
     ]
   },
   {
@@ -9322,14 +9200,6 @@
     ]
   },
   {
-    "name": "Web Fundamentals",
-    "shortname": "web-fundamentals",
-    "url": "https://developers.google.com/web/fundamentals",
-    "files": [
-      "web-fundamentals.svg"
-    ]
-  },
-  {
     "name": "web.dev",
     "shortname": "web.dev",
     "url": "https://web.dev/",
@@ -9450,14 +9320,6 @@
     "url": "https://www.jetbrains.com/webstorm/",
     "files": [
       "webstorm.svg"
-    ]
-  },
-  {
-    "name": "Webtask",
-    "shortname": "webtask",
-    "url": "https://webtask.io/",
-    "files": [
-      "webtask.svg"
     ]
   },
   {
@@ -9639,14 +9501,6 @@
     "url": "https://www.xero.com/",
     "files": [
       "xero.svg"
-    ]
-  },
-  {
-    "name": "Xplenty",
-    "shortname": "xplenty",
-    "url": "https://www.xplenty.com/",
-    "files": [
-      "xplenty.svg"
     ]
   },
   {
