@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.discourse.org/" target="_blank">Discourse</a>
+![discourse](https://cdn.svgporn.com/logos/discourse-icon.svg)
+![discourse](https://cdn.svgporn.com/logos/discourse.svg)
+## <a href="https://www.gnupg.org/" target="_blank">GnuPG</a>
+![gnupg](https://cdn.svgporn.com/logos/gnupg-icon.svg)
+![gnupg](https://cdn.svgporn.com/logos/gnupg.svg)
+## <a href="https://grammarly.com/" target="_blank">Grammarly</a>
+![grammarly](https://cdn.svgporn.com/logos/grammarly-icon.svg)
+![grammarly](https://cdn.svgporn.com/logos/grammarly.svg)
+## <a href="https://languagetool.org/" target="_blank">LanguageTool</a>
+![languagetool](https://cdn.svgporn.com/logos/languagetool.svg)
+## <a href="https://mantine.dev/" target="_blank">Mantine</a>
+![mantine](https://cdn.svgporn.com/logos/mantine-icon.svg)
+![mantine](https://cdn.svgporn.com/logos/mantine.svg)
+## <a href="https://matomo.org/" target="_blank">Matomo</a>
+![matomo](https://cdn.svgporn.com/logos/matomo-icon.svg)
+![matomo](https://cdn.svgporn.com/logos/matomo.svg)
+## <a href="https://www.messenger.com/" target="_blank">Messenger</a>
+![messenger](https://cdn.svgporn.com/logos/messenger.svg)
+## <a href="https://typeorm.io/" target="_blank">TypeORM</a>
+![typeorm](https://cdn.svgporn.com/logos/typeorm.svg)
 ## <a href="https://bun.sh/" target="_blank">Bun</a>
 ![bun](https://cdn.svgporn.com/logos/bun.svg)
 ## <a href="https://fresh.deno.dev/" target="_blank">Fresh</a>
@@ -117,26 +138,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![ietf](https://cdn.svgporn.com/logos/ietf.svg)
 ## <a href="https://micropython.org/" target="_blank">MicroPython</a>
 ![micropython](https://cdn.svgporn.com/logos/micro-python.svg)
-## <a href="https://www.mida.org/" target="_blank">Mida</a>
-![mida](https://cdn.svgporn.com/logos/mida-icon.svg)
-![mida](https://cdn.svgporn.com/logos/mida.svg)
-## <a href="https://overloop.com/" target="_blank">Overloop</a>
-![overloop](https://cdn.svgporn.com/logos/overloop-icon.svg)
-![overloop](https://cdn.svgporn.com/logos/overloop.svg)
-## <a href="https://p5js.org/" target="_blank">p5.js</a>
-![p5js](https://cdn.svgporn.com/logos/p5js.svg)
-## <a href="https://www.pluralsight.com/" target="_blank">Pluralsight</a>
-![pluralsight](https://cdn.svgporn.com/logos/pluralsight-icon.svg)
-![pluralsight](https://cdn.svgporn.com/logos/pluralsight.svg)
-## <a href="https://processing.org/" target="_blank">Processing</a>
-![processing](https://cdn.svgporn.com/logos/processing.svg)
-## <a href="https://pypi.org/" target="_blank">PyPI</a>
-![pypi](https://cdn.svgporn.com/logos/pypi.svg)
-## <a href="https://www.ros.org/" target="_blank">ROS</a>
-![ros](https://cdn.svgporn.com/logos/ros.svg)
-## <a href="https://seaborn.pydata.org/" target="_blank">seaborn</a>
-![seaborn](https://cdn.svgporn.com/logos/seaborn-icon.svg)
-![seaborn](https://cdn.svgporn.com/logos/seaborn.svg)
 
 ---
 

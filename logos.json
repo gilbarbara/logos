@@ -2466,6 +2466,15 @@
     ]
   },
   {
+    "name": "Discourse",
+    "shortname": "discourse",
+    "url": "https://www.discourse.org/",
+    "files": [
+      "discourse-icon.svg",
+      "discourse.svg"
+    ]
+  },
+  {
     "name": "Discover",
     "shortname": "discover",
     "url": "https://www.discover.com/",
@@ -3530,6 +3539,15 @@
     ]
   },
   {
+    "name": "GnuPG",
+    "shortname": "gnupg",
+    "url": "https://www.gnupg.org/",
+    "files": [
+      "gnupg-icon.svg",
+      "gnupg.svg"
+    ]
+  },
+  {
     "name": "Go",
     "shortname": "go",
     "url": "https://golang.org/",
@@ -3796,6 +3814,15 @@
     "url": "https://grails.org/",
     "files": [
       "grails.svg"
+    ]
+  },
+  {
+    "name": "Grammarly",
+    "shortname": "grammarly",
+    "url": "https://grammarly.com/",
+    "files": [
+      "grammarly-icon.svg",
+      "grammarly.svg"
     ]
   },
   {
@@ -4906,6 +4933,14 @@
     ]
   },
   {
+    "name": "LanguageTool",
+    "shortname": "languagetool",
+    "url": "https://languagetool.org/",
+    "files": [
+      "languagetool.svg"
+    ]
+  },
+  {
     "name": "Laravel",
     "shortname": "laravel",
     "url": "http://laravel.com/",
@@ -5275,6 +5310,15 @@
     ]
   },
   {
+    "name": "Mantine",
+    "shortname": "mantine",
+    "url": "https://mantine.dev/",
+    "files": [
+      "mantine-icon.svg",
+      "mantine.svg"
+    ]
+  },
+  {
     "name": "Manuscript",
     "shortname": "manuscript",
     "url": "https://manuscript.com",
@@ -5383,6 +5427,15 @@
     ]
   },
   {
+    "name": "Matomo",
+    "shortname": "matomo",
+    "url": "https://matomo.org/",
+    "files": [
+      "matomo-icon.svg",
+      "matomo.svg"
+    ]
+  },
+  {
     "name": "Matplotlib",
     "shortname": "matplotlib",
     "url": "https://matplotlib.org/",
@@ -5472,6 +5525,14 @@
     "url": "http://mesos.apache.org/",
     "files": [
       "mesos.svg"
+    ]
+  },
+  {
+    "name": "Messenger",
+    "shortname": "messenger",
+    "url": "https://www.messenger.com/",
+    "files": [
+      "messenger.svg"
     ]
   },
   {
@@ -8809,6 +8870,14 @@
     "files": [
       "typeform-icon.svg",
       "typeform.svg"
+    ]
+  },
+  {
+    "name": "TypeORM",
+    "shortname": "typeorm",
+    "url": "https://typeorm.io/",
+    "files": [
+      "typeorm.svg"
     ]
   },
   {
