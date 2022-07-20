@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="307px" viewBox="0 0 256 307" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>FogBugz</title>
+    <defs>
+        <linearGradient x1="-24.5127119%" y1="75.5639723%" x2="130.063559%" y2="-56.513466%" id="fogBugzLinearGradient-1">
+            <stop stop-color="#AB68FC" offset="0%"></stop>
+            <stop stop-color="#5521B3" offset="86%"></stop>
+        </linearGradient>
+        <linearGradient x1="104.596484%" y1="100.586326%" x2="48.2524889%" y2="48.3901536%" id="fogBugzLinearGradient-2">
+            <stop stop-color="#AA69FF" offset="2%"></stop>
+            <stop stop-color="#C6B1FF" offset="86%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M89.9763671,306.862325 L256,161.802693 L90.2577631,161.802693 C90.2577631,161.802693 90.0115416,301.26958 89.9763671,306.862325 Z" fill="url(#fogBugzLinearGradient-1)"></path>
+        <path d="M166.058807,0 L-1.99943875e-13,161.802693 L165.320143,161.802693 C165.320143,161.802693 166.023633,4.22093982 166.058807,0 Z" fill="url(#fogBugzLinearGradient-2)"></path>
+    </g>
+</svg>

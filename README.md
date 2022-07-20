@@ -18,6 +18,14 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://enactjs.com/" target="_blank">Enact</a>
+![enact](https://cdn.svgporn.com/logos/enact.svg)
+## <a href="https://fogbugz.com/" target="_blank">FogBugz</a>
+![fogbugz](https://cdn.svgporn.com/logos/fogbugz-icon.svg)
+![fogbugz](https://cdn.svgporn.com/logos/fogbugz.svg)
+## <a href="https://www.singlestore.com/" target="_blank">SingleStore</a>
+![singlestore](https://cdn.svgporn.com/logos/singlestore-icon.svg)
+![singlestore](https://cdn.svgporn.com/logos/singlestore.svg)
 ## <a href="https://www.box.com/" target="_blank">box</a>
 ![box](https://cdn.svgporn.com/logos/box.svg)
 ## <a href="https://www.concretecms.com/" target="_blank">Concrete CMS</a>
@@ -127,13 +135,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![jetbrains](https://cdn.svgporn.com/logos/jetbrains.svg)
 ## <a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>
 ![kibana](https://cdn.svgporn.com/logos/kibana.svg)
-## <a href="https://www.loom.com/" target="_blank">Loom</a>
-![loom](https://cdn.svgporn.com/logos/loom-icon.svg)
-![loom](https://cdn.svgporn.com/logos/loom.svg)
-## <a href="http://material-ui.com/" target="_blank">Material UI</a>
-![material-ui](https://cdn.svgporn.com/logos/material-ui.svg)
-## <a href="https://developer.mozilla.org/" target="_blank">MDN</a>
-![mdn](https://cdn.svgporn.com/logos/mdn.svg)
 
 ---
 

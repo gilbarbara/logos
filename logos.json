@@ -2808,6 +2808,14 @@
     ]
   },
   {
+    "name": "Enact",
+    "shortname": "enact",
+    "url": "https://enactjs.com/",
+    "files": [
+      "enact.svg"
+    ]
+  },
+  {
     "name": "Engine Yard",
     "shortname": "engine-yard",
     "url": "https://www.engineyard.com/",
@@ -2839,14 +2847,6 @@
     "url": "https://envoyer.io/",
     "files": [
       "envoyer.svg"
-    ]
-  },
-  {
-    "name": "Enyo",
-    "shortname": "enyo",
-    "url": "http://enyojs.com/",
-    "files": [
-      "enyo.svg"
     ]
   },
   {
@@ -3208,6 +3208,15 @@
     "files": [
       "fly-icon.svg",
       "fly.svg"
+    ]
+  },
+  {
+    "name": "FogBugz",
+    "shortname": "fogbugz",
+    "url": "https://fogbugz.com/",
+    "files": [
+      "fogbugz-icon.svg",
+      "fogbugz.svg"
     ]
   },
   {
@@ -5324,14 +5333,6 @@
     ]
   },
   {
-    "name": "Manuscript",
-    "shortname": "manuscript",
-    "url": "https://manuscript.com",
-    "files": [
-      "manuscript.svg"
-    ]
-  },
-  {
     "name": "Mapbox",
     "shortname": "mapbox",
     "url": "https://www.mapbox.com/",
@@ -5497,15 +5498,6 @@
     "url": "http://memcached.org/",
     "files": [
       "memcached.svg"
-    ]
-  },
-  {
-    "name": "MemSQL",
-    "shortname": "memsql",
-    "url": "http://www.memsql.com/",
-    "files": [
-      "memsql-icon.svg",
-      "memsql.svg"
     ]
   },
   {
@@ -7833,6 +7825,15 @@
     "url": "http://www.sinatrarb.com/",
     "files": [
       "sinatra.svg"
+    ]
+  },
+  {
+    "name": "SingleStore",
+    "shortname": "singlestore",
+    "url": "https://www.singlestore.com/",
+    "files": [
+      "singlestore-icon.svg",
+      "singlestore.svg"
     ]
   },
   {
