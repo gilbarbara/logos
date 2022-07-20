@@ -18,6 +18,53 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.box.com/" target="_blank">box</a>
+![box](https://cdn.svgporn.com/logos/box.svg)
+## <a href="https://www.concretecms.com/" target="_blank">Concrete CMS</a>
+![concretecms](https://cdn.svgporn.com/logos/concretecms-icon.svg)
+![concretecms](https://cdn.svgporn.com/logos/concretecms.svg)
+## <a href="https://www.deployhq.com/" target="_blank">Deploy HQ</a>
+![deployhq](https://cdn.svgporn.com/logos/deployhq-icon.svg)
+![deployhq](https://cdn.svgporn.com/logos/deployhq.svg)
+## <a href="http://dyn.com/dns/" target="_blank">Dyn</a>
+![dyndns](https://cdn.svgporn.com/logos/dyndns.svg)
+## <a href="https://ethn.io/" target="_blank">Ethnio</a>
+![ethnio](https://cdn.svgporn.com/logos/ethnio.svg)
+## <a href="https://fly.io/" target="_blank">Fly</a>
+![fly](https://cdn.svgporn.com/logos/fly-icon.svg)
+![fly](https://cdn.svgporn.com/logos/fly.svg)
+## <a href="http://www.forestadmin.com/" target="_blank">Forest</a>
+![forest](https://cdn.svgporn.com/logos/forestadmin-icon.svg)
+![forest](https://cdn.svgporn.com/logos/forestadmin.svg)
+## <a href="https://gusto.com/" target="_blank">Gusto</a>
+![gusto](https://cdn.svgporn.com/logos/gusto.svg)
+## <a href="https://import.io/" target="_blank">import.io</a>
+![importio](https://cdn.svgporn.com/logos/importio.svg)
+## <a href="https://influxdb.com/" target="_blank">InfluxDB</a>
+![influxdb](https://cdn.svgporn.com/logos/influxdb-icon.svg)
+![influxdb](https://cdn.svgporn.com/logos/influxdb.svg)
+## <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a>
+![intellij-idea](https://cdn.svgporn.com/logos/intellij-idea.svg)
+## <a href="https://jsfiddle.net/" target="_blank">JSFiddle</a>
+![jsfiddle](https://cdn.svgporn.com/logos/jsfiddle.svg)
+## <a href="https://lookback.io/" target="_blank">Lookback</a>
+![lookback](https://cdn.svgporn.com/logos/lookback.svg)
+## <a href="http://lucene.apache.org/" target="_blank">Lucene</a>
+![lucene](https://cdn.svgporn.com/logos/lucene.svg)
+## <a href="http://www.mailgun.com/" target="_blank">Mailgun</a>
+![mailgun](https://cdn.svgporn.com/logos/mailgun-icon.svg)
+![mailgun](https://cdn.svgporn.com/logos/mailgun.svg)
+## <a href="https://www.mailjet.com/" target="_blank">Mailjet</a>
+![mailjet](https://cdn.svgporn.com/logos/mailjet-icon.svg)
+![mailjet](https://cdn.svgporn.com/logos/mailjet.svg)
+## <a href="https://kbrsh.github.io/moon/" target="_blank">Moon</a>
+![moon](https://cdn.svgporn.com/logos/moon.svg)
+## <a href="http://neat.bourbon.io/" target="_blank">Neat</a>
+![neat](https://cdn.svgporn.com/logos/neat.svg)
+## <a href="http://nightwatchjs.org/" target="_blank">Nightwatch.js</a> *
+![nightwatch](https://cdn.svgporn.com/logos/nightwatch.svg)
+## <a href="https://telegram.org/" target="_blank">Telegram</a>
+![telegram](https://cdn.svgporn.com/logos/telegram.svg)
 ## <a href="https://www.discourse.org/" target="_blank">Discourse</a>
 ![discourse](https://cdn.svgporn.com/logos/discourse-icon.svg)
 ![discourse](https://cdn.svgporn.com/logos/discourse.svg)
@@ -87,57 +134,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![material-ui](https://cdn.svgporn.com/logos/material-ui.svg)
 ## <a href="https://developer.mozilla.org/" target="_blank">MDN</a>
 ![mdn](https://cdn.svgporn.com/logos/mdn.svg)
-## <a href="http://newrelic.com/" target="_blank">New Relic</a>
-![new-relic](https://cdn.svgporn.com/logos/new-relic-icon.svg)
-![new-relic](https://cdn.svgporn.com/logos/new-relic.svg)
-## <a href="https://www.jetbrains.com/phpstorm/" target="_blank">PhpStorm</a>
-![phpstorm](https://cdn.svgporn.com/logos/phpstorm.svg)
-## <a href="https://github.com/Unitech/pm2" target="_blank">PM2</a> *
-![pm2](https://cdn.svgporn.com/logos/pm2-icon.svg)
-![pm2](https://cdn.svgporn.com/logos/pm2.svg)
-## <a href="https://www.jetbrains.com/pycharm/" target="_blank">PyCharm</a>
-![pycharm](https://cdn.svgporn.com/logos/pycharm.svg)
-## <a href="https://www.jetbrains.com/ruby/" target="_blank">RubyMine</a>
-![rubymine](https://cdn.svgporn.com/logos/rubymine.svg)
-## <a href="http://www.skype.com/" target="_blank">Skype</a> *
-![skype](https://cdn.svgporn.com/logos/skype.svg)
-## <a href="https://www.stackbit.com/" target="_blank">Stackbit</a>
-![stackbit](https://cdn.svgporn.com/logos/stackbit-icon.svg)
-![stackbit](https://cdn.svgporn.com/logos/stackbit.svg)
-## <a href="https://swagger.io/" target="_blank">Swagger</a>
-![swagger](https://cdn.svgporn.com/logos/swagger.svg)
-## <a href="https://www.typescriptlang.org/" target="_blank">Typescript</a>
-![typescript](https://cdn.svgporn.com/logos/typescript-icon.svg)
-![typescript](https://cdn.svgporn.com/logos/typescript-icon-round.svg)
-![typescript](https://cdn.svgporn.com/logos/typescript.svg)
-## <a href="https://vuetifyjs.com/" target="_blank">Vuetify</a>
-![vuetifyjs](https://cdn.svgporn.com/logos/vuetifyjs.svg)
-## <a href="https://www.jetbrains.com/webstorm/" target="_blank">WebStorm</a>
-![webstorm](https://cdn.svgporn.com/logos/webstorm.svg)
-## <a href="https://www.whatsapp.com/" target="_blank">WhatsApp</a>
-![whatsapp](https://cdn.svgporn.com/logos/whatsapp-icon.svg)
-![whatsapp](https://cdn.svgporn.com/logos/whatsapp-monochrome-icon.svg)
-![whatsapp](https://cdn.svgporn.com/logos/whatsapp.svg)
-## <a href="https://appcenter.ms/" target="_blank">App Center</a>
-![appcenter](https://cdn.svgporn.com/logos/appcenter-icon.svg)
-![appcenter](https://cdn.svgporn.com/logos/appcenter.svg)
-## <a href="https://smartbear.com/product/bitbar/" target="_blank">BitBar</a>
-![bitbar](https://cdn.svgporn.com/logos/bitbar.svg)
-## <a href="https://www.ecma-international.org/" target="_blank">Ecma</a>
-![ecma](https://cdn.svgporn.com/logos/ecma.svg)
-## <a href="https://www.elasticpath.com/" target="_blank">Elastic Path</a>
-![elasticpath](https://cdn.svgporn.com/logos/elasticpath-icon.svg)
-![elasticpath](https://cdn.svgporn.com/logos/elasticpath.svg)
-## <a href="https://ffmpeg.org/" target="_blank">FFmpeg</a>
-![ffmpeg](https://cdn.svgporn.com/logos/ffmpeg-icon.svg)
-![ffmpeg](https://cdn.svgporn.com/logos/ffmpeg.svg)
-## <a href="https://godotengine.org/" target="_blank">Godot</a>
-![godot](https://cdn.svgporn.com/logos/godot-icon.svg)
-![godot](https://cdn.svgporn.com/logos/godot.svg)
-## <a href="https://www.ietf.org/" target="_blank">IETF</a>
-![ietf](https://cdn.svgporn.com/logos/ietf.svg)
-## <a href="https://micropython.org/" target="_blank">MicroPython</a>
-![micropython](https://cdn.svgporn.com/logos/micro-python.svg)
 
 ---
 

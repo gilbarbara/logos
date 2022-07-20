@@ -2069,11 +2069,12 @@
     ]
   },
   {
-    "name": "concrete5",
-    "shortname": "concrete5",
-    "url": "http://www.concrete5.org/",
+    "name": "Concrete CMS",
+    "shortname": "concretecms",
+    "url": "https://www.concretecms.com/",
     "files": [
-      "concrete5.svg"
+      "concretecms-icon.svg",
+      "concretecms.svg"
     ]
   },
   {
@@ -2388,6 +2389,7 @@
     "shortname": "deployhq",
     "url": "https://www.deployhq.com/",
     "files": [
+      "deployhq-icon.svg",
       "deployhq.svg"
     ]
   },
@@ -3204,6 +3206,7 @@
     "shortname": "fly",
     "url": "https://fly.io/",
     "files": [
+      "fly-icon.svg",
       "fly.svg"
     ]
   },
@@ -4399,6 +4402,7 @@
     "shortname": "influxdb",
     "url": "https://influxdb.com/",
     "files": [
+      "influxdb-icon.svg",
       "influxdb.svg"
     ]
   },
@@ -5290,6 +5294,7 @@
     "shortname": "mailjet",
     "url": "https://www.mailjet.com/",
     "files": [
+      "mailjet-icon.svg",
       "mailjet.svg"
     ]
   },
