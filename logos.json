@@ -75,6 +75,14 @@
     ]
   },
   {
+    "name": "Aha!",
+    "shortname": "aha",
+    "url": "https://www.aha.io/",
+    "files": [
+      "aha.svg"
+    ]
+  },
+  {
     "name": "Airbnb",
     "shortname": "airbnb",
     "url": "https://www.airbnb.com/",
@@ -1846,6 +1854,15 @@
     ]
   },
   {
+    "name": "Cloudflare Workers",
+    "shortname": "cloudflare-workers",
+    "url": "https://workers.cloudflare.com/",
+    "files": [
+      "cloudflare-workers-icon.svg",
+      "cloudflare-workers.svg"
+    ]
+  },
+  {
     "name": "Cloudinary",
     "shortname": "cloudinary",
     "url": "https://cloudinary.com/",
@@ -2751,6 +2768,14 @@
     ]
   },
   {
+    "name": "Eleventy",
+    "shortname": "eleventy",
+    "url": "https://www.11ty.dev/",
+    "files": [
+      "eleventy.svg"
+    ]
+  },
+  {
     "name": "ello",
     "shortname": "ello",
     "url": "https://ello.co/",
@@ -3020,6 +3045,15 @@
     "url": "https://www.fastly.com/",
     "files": [
       "fastly.svg"
+    ]
+  },
+  {
+    "name": "Fauna",
+    "shortname": "fauna",
+    "url": "https://fauna.com/",
+    "files": [
+      "fauna-icon.svg",
+      "fauna.svg"
     ]
   },
   {
@@ -3794,6 +3828,14 @@
     "files": [
       "google-play-icon.svg",
       "google-play.svg"
+    ]
+  },
+  {
+    "name": "Google Search Console",
+    "shortname": "google-search-console",
+    "url": "https://search.google.com/search-console",
+    "files": [
+      "google-search-console.svg"
     ]
   },
   {
@@ -5493,6 +5535,15 @@
     ]
   },
   {
+    "name": "medusa",
+    "shortname": "medusa",
+    "url": "https://medusajs.com/",
+    "files": [
+      "medusa-icon.svg",
+      "medusa.svg"
+    ]
+  },
+  {
     "name": "Memcached",
     "shortname": "memcached",
     "url": "http://memcached.org/",
@@ -6469,6 +6520,14 @@
     "url": "https://www.patreon.com/",
     "files": [
       "patreon.svg"
+    ]
+  },
+  {
+    "name": "Payload",
+    "shortname": "payload",
+    "url": "https://payloadcms.com/",
+    "files": [
+      "payload.svg"
     ]
   },
   {
@@ -8154,6 +8213,15 @@
     "files": [
       "stackbit-icon.svg",
       "stackbit.svg"
+    ]
+  },
+  {
+    "name": "StackBlitz",
+    "shortname": "stackblitz",
+    "url": "https://stackblitz.com/",
+    "files": [
+      "stackblitz-icon.svg",
+      "stackblitz.svg"
     ]
   },
   {

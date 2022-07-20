@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.aha.io/" target="_blank">Aha!</a>
+![aha](https://cdn.svgporn.com/logos/aha.svg)
+## <a href="https://workers.cloudflare.com/" target="_blank">Cloudflare Workers</a>
+![cloudflare-workers](https://cdn.svgporn.com/logos/cloudflare-workers-icon.svg)
+![cloudflare-workers](https://cdn.svgporn.com/logos/cloudflare-workers.svg)
+## <a href="https://www.11ty.dev/" target="_blank">Eleventy</a>
+![eleventy](https://cdn.svgporn.com/logos/eleventy.svg)
+## <a href="https://fauna.com/" target="_blank">Fauna</a>
+![fauna](https://cdn.svgporn.com/logos/fauna-icon.svg)
+![fauna](https://cdn.svgporn.com/logos/fauna.svg)
+## <a href="https://search.google.com/search-console" target="_blank">Google Search Console</a>
+![google-search-console](https://cdn.svgporn.com/logos/google-search-console.svg)
+## <a href="https://medusajs.com/" target="_blank">medusa</a>
+![medusa](https://cdn.svgporn.com/logos/medusa-icon.svg)
+![medusa](https://cdn.svgporn.com/logos/medusa.svg)
+## <a href="https://payloadcms.com/" target="_blank">Payload</a>
+![payload](https://cdn.svgporn.com/logos/payload.svg)
+## <a href="https://stackblitz.com/" target="_blank">StackBlitz</a>
+![stackblitz](https://cdn.svgporn.com/logos/stackblitz-icon.svg)
+![stackblitz](https://cdn.svgporn.com/logos/stackblitz.svg)
 ## <a href="https://enactjs.com/" target="_blank">Enact</a>
 ![enact](https://cdn.svgporn.com/logos/enact.svg)
 ## <a href="https://fogbugz.com/" target="_blank">FogBugz</a>
@@ -116,25 +136,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![clion](https://cdn.svgporn.com/logos/clion.svg)
 ## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
 ![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
-## <a href="https://www.cartaoelo.com.br/" target="_blank">Elo</a>
-![elo](https://cdn.svgporn.com/logos/elo.svg)
-## <a href="https://www.fastly.com/" target="_blank">Fastly</a>
-![fastly](https://cdn.svgporn.com/logos/fastly.svg)
-## <a href="http://flowtype.org/" target="_blank">Flow</a> *
-![flow](https://cdn.svgporn.com/logos/flow.svg)
-## <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
-![font-awesome](https://cdn.svgporn.com/logos/font-awesome.svg)
-## <a href="https://gravatar.com/" target="_blank">Gravatar</a>
-![gravatar](https://cdn.svgporn.com/logos/gravatar-icon.svg)
-![gravatar](https://cdn.svgporn.com/logos/gravatar.svg)
-## <a href="https://hasura.io/" target="_blank">Hasura</a>
-![hasura](https://cdn.svgporn.com/logos/hasura-icon.svg)
-![hasura](https://cdn.svgporn.com/logos/hasura.svg)
-## <a href="https://www.jetbrains.com/" target="_blank">JetBrains</a>
-![jetbrains](https://cdn.svgporn.com/logos/jetbrains-icon.svg)
-![jetbrains](https://cdn.svgporn.com/logos/jetbrains.svg)
-## <a href="https://www.elastic.co/products/kibana" target="_blank">Kibana</a>
-![kibana](https://cdn.svgporn.com/logos/kibana.svg)
 
 ---
 
