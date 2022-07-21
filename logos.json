@@ -41,6 +41,86 @@
     ]
   },
   {
+    "name": "Adobe After Effects",
+    "shortname": "adobe-after-effects",
+    "url": "https://www.adobe.com/products/aftereffects.html",
+    "files": [
+      "adobe-after-effects.svg"
+    ]
+  },
+  {
+    "name": "Adobe Animate",
+    "shortname": "adobe-animate",
+    "url": "https://www.adobe.com/products/animate.html",
+    "files": [
+      "adobe-animate.svg"
+    ]
+  },
+  {
+    "name": "Adobe Dreamweaver",
+    "shortname": "adobe-dreamweaver",
+    "url": "https://www.adobe.com/products/dreamweaver.html",
+    "files": [
+      "adobe-dreamweaver.svg"
+    ]
+  },
+  {
+    "name": "Adobe Illustrator",
+    "shortname": "adobe-illustrator",
+    "url": "https://www.adobe.com/products/illustrator.html",
+    "files": [
+      "adobe-illustrator.svg"
+    ]
+  },
+  {
+    "name": "Adobe InCopy",
+    "shortname": "adobe-incopy",
+    "url": "https://www.adobe.com/products/incopy.html",
+    "files": [
+      "adobe-incopy.svg"
+    ]
+  },
+  {
+    "name": "Adobe InDesign",
+    "shortname": "adobe-indesign",
+    "url": "https://www.adobe.com/products/indesign.html",
+    "files": [
+      "adobe-indesign.svg"
+    ]
+  },
+  {
+    "name": "Adobe Lightroom",
+    "shortname": "adobe-lightroom",
+    "url": "https://www.adobe.com/products/photoshop-lightroom.html",
+    "files": [
+      "adobe-lightroom.svg"
+    ]
+  },
+  {
+    "name": "Adobe Photoshop",
+    "shortname": "adobe-photoshop",
+    "url": "https://www.adobe.com/products/photoshop.html",
+    "files": [
+      "adobe-photoshop.svg"
+    ]
+  },
+  {
+    "name": "Adobe Premiere",
+    "shortname": "adobe-premiere",
+    "url": "https://www.adobe.com/products/premiere.html",
+    "files": [
+      "adobe-premiere.svg"
+    ]
+  },
+  {
+    "name": "Adobe Xd",
+    "shortname": "adobe-xd",
+    "url": "https://www.adobe.com/products/xd.html",
+    "files": [
+      "adobe-xd.svg"
+    ]
+  },
+  {
     "name": "Adonis",
     "shortname": "adonisjs",
     "url": "https://adonisjs.com/",

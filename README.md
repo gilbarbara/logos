@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">Adobe After Effects</a>
+![adobe-after-effects](https://cdn.svgporn.com/logos/adobe-after-effects.svg)
+## <a href="https://www.adobe.com/products/animate.html" target="_blank">Adobe Animate</a>
+![adobe-animate](https://cdn.svgporn.com/logos/adobe-animate.svg)
+## <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a>
+![adobe-dreamweaver](https://cdn.svgporn.com/logos/adobe-dreamweaver.svg)
+## <a href="https://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a>
+![adobe-illustrator](https://cdn.svgporn.com/logos/adobe-illustrator.svg)
+## <a href="https://www.adobe.com/products/incopy.html" target="_blank">Adobe InCopy</a>
+![adobe-incopy](https://cdn.svgporn.com/logos/adobe-incopy.svg)
+## <a href="https://www.adobe.com/products/indesign.html" target="_blank">Adobe InDesign</a>
+![adobe-indesign](https://cdn.svgporn.com/logos/adobe-indesign.svg)
+## <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">Adobe Lightroom</a>
+![adobe-lightroom](https://cdn.svgporn.com/logos/adobe-lightroom.svg)
+## <a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a>
+![adobe-photoshop](https://cdn.svgporn.com/logos/adobe-photoshop.svg)
+## <a href="https://www.adobe.com/products/premiere.html" target="_blank">Adobe Premiere</a>
+![adobe-premiere](https://cdn.svgporn.com/logos/adobe-premiere.svg)
+## <a href="https://www.adobe.com/products/xd.html" target="_blank">Adobe Xd</a>
+![adobe-xd](https://cdn.svgporn.com/logos/adobe-xd.svg)
 ## <a href="https://www.aha.io/" target="_blank">Aha!</a>
 ![aha](https://cdn.svgporn.com/logos/aha.svg)
 ## <a href="https://workers.cloudflare.com/" target="_blank">Cloudflare Workers</a>
@@ -116,26 +136,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![typeorm](https://cdn.svgporn.com/logos/typeorm.svg)
 ## <a href="https://bun.sh/" target="_blank">Bun</a>
 ![bun](https://cdn.svgporn.com/logos/bun.svg)
-## <a href="https://fresh.deno.dev/" target="_blank">Fresh</a>
-![fresh](https://cdn.svgporn.com/logos/fresh.svg)
-## <a href="https://planetscale.com/" target="_blank">PlanetScale</a>
-![planetscale](https://cdn.svgporn.com/logos/planetscale.svg)
-## <a href="https://qwik.builder.io/" target="_blank">Qwik</a>
-![qwik](https://cdn.svgporn.com/logos/qwik.svg)
-## <a href="https://kit.svelte.dev/" target="_blank">SvelteKit</a>
-![svelte-kit](https://cdn.svgporn.com/logos/svelte-kit.svg)
-## <a href="https://trpc.io/" target="_blank">tRPC</a>
-![trpc](https://cdn.svgporn.com/logos/trpc.svg)
-## <a href="https://webkit.org/" target="_blank">WebKit</a>
-![webkit](https://cdn.svgporn.com/logos/webkit.svg)
-## <a href="https://ziglang.org/" target="_blank">Zig</a>
-![zig](https://cdn.svgporn.com/logos/zig.svg)
-## <a href="https://www.jetbrains.com/appcode/" target="_blank">AppCode</a>
-![appcode](https://cdn.svgporn.com/logos/appcode.svg)
-## <a href="https://www.jetbrains.com/clion/" target="_blank">CLion</a>
-![clion](https://cdn.svgporn.com/logos/clion.svg)
-## <a href="https://www.elastic.co/products/elasticsearch" target="_blank">Elasticsearch</a>
-![elasticsearch](https://cdn.svgporn.com/logos/elasticsearch.svg)
 
 ---
 
