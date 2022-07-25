@@ -197,6 +197,14 @@
     ]
   },
   {
+    "name": "AIX",
+    "shortname": "aix",
+    "url": "https://www.ibm.com/it-infrastructure/power/os/aix",
+    "files": [
+      "aix.svg"
+    ]
+  },
+  {
     "name": "Akamai",
     "shortname": "akamai",
     "url": "https://www.akamai.com/",
@@ -505,6 +513,15 @@
     ]
   },
   {
+    "name": "AppWrite",
+    "shortname": "appwrite",
+    "url": "https://appwrite.io/",
+    "files": [
+      "appwrite-icon.svg",
+      "appwrite.svg"
+    ]
+  },
+  {
     "name": "ArangoDB",
     "shortname": "arangodb",
     "url": "https://www.arangodb.com/",
@@ -613,6 +630,15 @@
     "files": [
       "atomic-icon.svg",
       "atomic.svg"
+    ]
+  },
+  {
+    "name": "Atomico",
+    "shortname": "atomico",
+    "url": "https://atomicojs.github.io/",
+    "files": [
+      "atomicojs-icon.svg",
+      "atomicojs.svg"
     ]
   },
   {
@@ -1695,6 +1721,15 @@
     ]
   },
   {
+    "name": "Calibre",
+    "shortname": "calibre",
+    "url": "https://calibreapp.com/",
+    "files": [
+      "calibre-icon.svg",
+      "calibre.svg"
+    ]
+  },
+  {
     "name": "Campaign Monitor",
     "shortname": "campaignmonitor",
     "url": "https://www.campaignmonitor.com/",
@@ -2479,6 +2514,14 @@
     "url": "https://deno.land/",
     "files": [
       "deno.svg"
+    ]
+  },
+  {
+    "name": "Dependabot",
+    "shortname": "dependabot",
+    "url": "https://github.com/dependabot",
+    "files": [
+      "dependabot.svg"
     ]
   },
   {
@@ -6084,6 +6127,14 @@
     ]
   },
   {
+    "name": "Netwide Assembler (NASM)",
+    "shortname": "nasm",
+    "url": "https://www.nasm.us/",
+    "files": [
+      "nasm.svg"
+    ]
+  },
+  {
     "name": "New Relic",
     "shortname": "new-relic",
     "url": "http://newrelic.com/",
@@ -7130,6 +7181,14 @@
     ]
   },
   {
+    "name": "PyScript",
+    "shortname": "pyscript",
+    "url": "https://pyscript.net/",
+    "files": [
+      "pyscript.svg"
+    ]
+  },
+  {
     "name": "Python",
     "shortname": "python",
     "url": "https://www.python.org/",
@@ -7523,6 +7582,14 @@
     "url": "http://basho.com/products/#riak",
     "files": [
       "riak.svg"
+    ]
+  },
+  {
+    "name": "Rider",
+    "shortname": "rider",
+    "url": "https://www.jetbrains.com/rider/",
+    "files": [
+      "rider.svg"
     ]
   },
   {

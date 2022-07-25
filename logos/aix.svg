@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="207px" viewBox="0 0 512 207" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>AIX</title>
+    <defs>
+        <linearGradient x1="5.80684637%" y1="101.291466%" x2="274.5874%" y2="-4.880124%" id="aixLinearGradient-1">
+            <stop stop-color="#6FDC8C" offset="0%"></stop>
+            <stop stop-color="#6FDC8C" offset="30.49%"></stop>
+            <stop stop-color="#009D9A" offset="92.79%"></stop>
+            <stop stop-color="#009D9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-9.90395796%" y1="101.291184%" x2="128.370967%" y2="-4.85717932%" id="aixLinearGradient-2">
+            <stop stop-color="#6FDC8C" offset="0%"></stop>
+            <stop stop-color="#6FDC8C" offset="30.49%"></stop>
+            <stop stop-color="#009D9A" offset="92.79%"></stop>
+            <stop stop-color="#009D9A" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-136.657951%" y1="101.291184%" x2="130.350038%" y2="-4.85717932%" id="aixLinearGradient-3">
+            <stop stop-color="#6FDC8C" offset="0%"></stop>
+            <stop stop-color="#6FDC8C" offset="30.49%"></stop>
+            <stop stop-color="#009D9A" offset="92.79%"></stop>
+            <stop stop-color="#009D9A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M142.163447,206.177673 L127.567608,157.147892 L59.5438336,157.147892 L44.9479941,206.177673 L-1.42108547e-14,206.177673 L67.1471025,0.0451055946 L122.020802,0.0451055946 L188.291233,206.177673 L142.163447,206.177673 Z M93.9910847,40.7904927 L92.5315007,40.7904927 L70.0500743,119.063735 L116.751412,119.063735 L93.9910847,40.7904927 Z" fill="url(#aixLinearGradient-1)"></path>
+        <polygon fill="url(#aixLinearGradient-2)" points="208.731055 206.177673 208.731055 170.439007 235.001486 170.439007 235.001486 35.7386661 208.731055 35.7386661 208.731055 2.84217094e-14 305.640416 2.84217094e-14 305.640416 35.7386661 279.369985 35.7386661 279.369985 170.439007 305.640416 170.439007 305.640416 206.177673"></polygon>
+        <polygon fill="url(#aixLinearGradient-3)" points="512 206.177673 460.618128 206.177673 416.531947 130.264957 415.656166 130.264957 372.743834 206.177673 324.868648 206.177673 390.262407 99.5480473 328.078158 0 379.742348 0 419.445171 69.7031789 420.320951 69.7031789 460.603269 0 508.478455 0 445.71471 100.435124"></polygon>
+    </g>
+</svg>

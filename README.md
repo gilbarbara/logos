@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.ibm.com/it-infrastructure/power/os/aix" target="_blank">AIX</a>
+![aix](https://cdn.svgporn.com/logos/aix.svg)
+## <a href="https://appwrite.io/" target="_blank">AppWrite</a>
+![appwrite](https://cdn.svgporn.com/logos/appwrite-icon.svg)
+![appwrite](https://cdn.svgporn.com/logos/appwrite.svg)
+## <a href="https://atomicojs.github.io/" target="_blank">Atomico</a>
+![atomico](https://cdn.svgporn.com/logos/atomicojs-icon.svg)
+![atomico](https://cdn.svgporn.com/logos/atomicojs.svg)
+## <a href="https://calibreapp.com/" target="_blank">Calibre</a>
+![calibre](https://cdn.svgporn.com/logos/calibre-icon.svg)
+![calibre](https://cdn.svgporn.com/logos/calibre.svg)
+## <a href="https://github.com/dependabot" target="_blank">Dependabot</a>
+![dependabot](https://cdn.svgporn.com/logos/dependabot.svg)
+## <a href="https://www.nasm.us/" target="_blank">Netwide Assembler (NASM)</a>
+![nasm](https://cdn.svgporn.com/logos/nasm.svg)
+## <a href="https://pyscript.net/" target="_blank">PyScript</a>
+![pyscript](https://cdn.svgporn.com/logos/pyscript.svg)
+## <a href="https://www.jetbrains.com/rider/" target="_blank">Rider</a>
+![rider](https://cdn.svgporn.com/logos/rider.svg)
 ## <a href="https://www.mongodb.org/" target="_blank">MongoDB</a>
 ![mongodb](https://cdn.svgporn.com/logos/mongodb-icon.svg)
 ![mongodb](https://cdn.svgporn.com/logos/mongodb.svg)
@@ -124,25 +143,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![forest](https://cdn.svgporn.com/logos/forestadmin.svg)
 ## <a href="https://gusto.com/" target="_blank">Gusto</a>
 ![gusto](https://cdn.svgporn.com/logos/gusto.svg)
-## <a href="https://import.io/" target="_blank">import.io</a>
-![importio](https://cdn.svgporn.com/logos/importio.svg)
-## <a href="https://influxdb.com/" target="_blank">InfluxDB</a>
-![influxdb](https://cdn.svgporn.com/logos/influxdb-icon.svg)
-![influxdb](https://cdn.svgporn.com/logos/influxdb.svg)
-## <a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a>
-![intellij-idea](https://cdn.svgporn.com/logos/intellij-idea.svg)
-## <a href="https://jsfiddle.net/" target="_blank">JSFiddle</a>
-![jsfiddle](https://cdn.svgporn.com/logos/jsfiddle.svg)
-## <a href="https://lookback.io/" target="_blank">Lookback</a>
-![lookback](https://cdn.svgporn.com/logos/lookback.svg)
-## <a href="http://lucene.apache.org/" target="_blank">Lucene</a>
-![lucene](https://cdn.svgporn.com/logos/lucene.svg)
-## <a href="http://www.mailgun.com/" target="_blank">Mailgun</a>
-![mailgun](https://cdn.svgporn.com/logos/mailgun-icon.svg)
-![mailgun](https://cdn.svgporn.com/logos/mailgun.svg)
-## <a href="https://www.mailjet.com/" target="_blank">Mailjet</a>
-![mailjet](https://cdn.svgporn.com/logos/mailjet-icon.svg)
-![mailjet](https://cdn.svgporn.com/logos/mailjet.svg)
 
 ---
 
