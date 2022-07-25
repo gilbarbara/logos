@@ -18,6 +18,44 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.mongodb.org/" target="_blank">MongoDB</a>
+![mongodb](https://cdn.svgporn.com/logos/mongodb-icon.svg)
+![mongodb](https://cdn.svgporn.com/logos/mongodb.svg)
+## <a href="https://www.nomadproject.io/" target="_blank">Nomad</a>
+![nomad](https://cdn.svgporn.com/logos/nomad-icon.svg)
+![nomad](https://cdn.svgporn.com/logos/nomad.svg)
+## <a href="https://www.planless.io/" target="_blank">Planless</a>
+![planless](https://cdn.svgporn.com/logos/planless-icon.svg)
+![planless](https://cdn.svgporn.com/logos/planless.svg)
+## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
+![processwire](https://cdn.svgporn.com/logos/processwire-icon.svg)
+![processwire](https://cdn.svgporn.com/logos/processwire.svg)
+## <a href="http://www.rackspace.com/" target="_blank">Rackspace</a>
+![rackspace](https://cdn.svgporn.com/logos/rackspace-icon.svg)
+![rackspace](https://cdn.svgporn.com/logos/rackspace.svg)
+## <a href="http://rancher.com/" target="_blank">Rancher</a>
+![rancher](https://cdn.svgporn.com/logos/rancher-icon.svg)
+![rancher](https://cdn.svgporn.com/logos/rancher.svg)
+## <a href="https://github.com/shipitjs/shipit" target="_blank">Shipit</a> *
+![shipit](https://cdn.svgporn.com/logos/shipit.svg)
+## <a href="https://stimulus.hotwire.dev/" target="_blank">Stimulus</a>
+![stimulus](https://cdn.svgporn.com/logos/stimulus-icon.svg)
+![stimulus](https://cdn.svgporn.com/logos/stimulus.svg)
+## <a href="https://www.vaultproject.io/" target="_blank">Vault</a>
+![vault](https://cdn.svgporn.com/logos/vault-icon.svg)
+![vault](https://cdn.svgporn.com/logos/vault.svg)
+## <a href="https://vector.dev/" target="_blank">Vector</a>
+![vector-timber](https://cdn.svgporn.com/logos/vector.svg)
+## <a href="https://www.vultr.com/" target="_blank">Vultr</a>
+![vultr](https://cdn.svgporn.com/logos/vultr-icon.svg)
+![vultr](https://cdn.svgporn.com/logos/vultr.svg)
+## <a href="https://wordpress.org/" target="_blank">Wordpress</a>
+![wordpress](https://cdn.svgporn.com/logos/wordpress-icon.svg)
+![wordpress](https://cdn.svgporn.com/logos/wordpress-icon-alt.svg)
+![wordpress](https://cdn.svgporn.com/logos/wordpress.svg)
+## <a href="https://www.zenhub.io/" target="_blank">Zenhub</a>
+![zenhub](https://cdn.svgporn.com/logos/zenhub-icon.svg)
+![zenhub](https://cdn.svgporn.com/logos/zenhub.svg)
 ## <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">Adobe After Effects</a>
 ![adobe-after-effects](https://cdn.svgporn.com/logos/adobe-after-effects.svg)
 ## <a href="https://www.adobe.com/products/animate.html" target="_blank">Adobe Animate</a>
@@ -105,37 +143,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.mailjet.com/" target="_blank">Mailjet</a>
 ![mailjet](https://cdn.svgporn.com/logos/mailjet-icon.svg)
 ![mailjet](https://cdn.svgporn.com/logos/mailjet.svg)
-## <a href="https://kbrsh.github.io/moon/" target="_blank">Moon</a>
-![moon](https://cdn.svgporn.com/logos/moon.svg)
-## <a href="http://neat.bourbon.io/" target="_blank">Neat</a>
-![neat](https://cdn.svgporn.com/logos/neat.svg)
-## <a href="http://nightwatchjs.org/" target="_blank">Nightwatch.js</a> *
-![nightwatch](https://cdn.svgporn.com/logos/nightwatch.svg)
-## <a href="https://telegram.org/" target="_blank">Telegram</a>
-![telegram](https://cdn.svgporn.com/logos/telegram.svg)
-## <a href="https://www.discourse.org/" target="_blank">Discourse</a>
-![discourse](https://cdn.svgporn.com/logos/discourse-icon.svg)
-![discourse](https://cdn.svgporn.com/logos/discourse.svg)
-## <a href="https://www.gnupg.org/" target="_blank">GnuPG</a>
-![gnupg](https://cdn.svgporn.com/logos/gnupg-icon.svg)
-![gnupg](https://cdn.svgporn.com/logos/gnupg.svg)
-## <a href="https://grammarly.com/" target="_blank">Grammarly</a>
-![grammarly](https://cdn.svgporn.com/logos/grammarly-icon.svg)
-![grammarly](https://cdn.svgporn.com/logos/grammarly.svg)
-## <a href="https://languagetool.org/" target="_blank">LanguageTool</a>
-![languagetool](https://cdn.svgporn.com/logos/languagetool.svg)
-## <a href="https://mantine.dev/" target="_blank">Mantine</a>
-![mantine](https://cdn.svgporn.com/logos/mantine-icon.svg)
-![mantine](https://cdn.svgporn.com/logos/mantine.svg)
-## <a href="https://matomo.org/" target="_blank">Matomo</a>
-![matomo](https://cdn.svgporn.com/logos/matomo-icon.svg)
-![matomo](https://cdn.svgporn.com/logos/matomo.svg)
-## <a href="https://www.messenger.com/" target="_blank">Messenger</a>
-![messenger](https://cdn.svgporn.com/logos/messenger.svg)
-## <a href="https://typeorm.io/" target="_blank">TypeORM</a>
-![typeorm](https://cdn.svgporn.com/logos/typeorm.svg)
-## <a href="https://bun.sh/" target="_blank">Bun</a>
-![bun](https://cdn.svgporn.com/logos/bun.svg)
 
 ---
 

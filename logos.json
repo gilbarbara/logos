@@ -5914,6 +5914,7 @@
     "shortname": "mongodb",
     "url": "https://www.mongodb.org/",
     "files": [
+      "mongodb-icon.svg",
       "mongodb.svg"
     ]
   },
@@ -6186,6 +6187,7 @@
     "shortname": "nomad",
     "url": "https://www.nomadproject.io/",
     "files": [
+      "nomad-icon.svg",
       "nomad.svg"
     ]
   },
@@ -6959,6 +6961,7 @@
     "shortname": "processwire",
     "url": "http://processwire.com/",
     "files": [
+      "processwire-icon.svg",
       "processwire.svg"
     ]
   },
@@ -7238,6 +7241,7 @@
     "shortname": "rackspace",
     "url": "http://www.rackspace.com/",
     "files": [
+      "rackspace-icon.svg",
       "rackspace.svg"
     ]
   },
@@ -8367,6 +8371,7 @@
     "shortname": "stimulus",
     "url": "https://stimulus.hotwire.dev/",
     "files": [
+      "stimulus-icon.svg",
       "stimulus.svg"
     ]
   },
@@ -9261,7 +9266,7 @@
     "shortname": "vector-timber",
     "url": "https://vector.dev/",
     "files": [
-      "vector-timber.svg"
+      "vector.svg"
     ]
   },
   {
@@ -9409,6 +9414,7 @@
     "shortname": "vultr",
     "url": "https://www.vultr.com/",
     "files": [
+      "vultr-icon.svg",
       "vultr.svg"
     ]
   },
@@ -9723,6 +9729,7 @@
     "url": "https://wordpress.org/",
     "files": [
       "wordpress-icon.svg",
+      "wordpress-icon-alt.svg",
       "wordpress.svg"
     ]
   },
