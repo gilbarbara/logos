@@ -18,6 +18,34 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.amd.com/" target="_blank">AMD</a>
+![amd](https://cdn.svgporn.com/logos/amd.svg)
+## <a href="https://www.arm.com/" target="_blank">Arm</a>
+![arm](https://cdn.svgporn.com/logos/arm.svg)
+## <a href="https://www.broadcom.com/" target="_blank">Broadcom</a>
+![broadcom](https://cdn.svgporn.com/logos/broadcom-icon.svg)
+![broadcom](https://cdn.svgporn.com/logos/broadcom.svg)
+## <a href="https://www.intel.com" target="_blank">Intel</a>
+![intel](https://cdn.svgporn.com/logos/intel.svg)
+## <a href="https://www.micron.com/" target="_blank">Micron</a>
+![micron](https://cdn.svgporn.com/logos/micron-icon.svg)
+![micron](https://cdn.svgporn.com/logos/micron.svg)
+## <a href="https://www.nvidia.com/" target="_blank">Nvidia</a>
+![nvidia](https://cdn.svgporn.com/logos/nvidia.svg)
+## <a href="https://www.qualcomm.com/" target="_blank">Qualcomm</a>
+![qualcomm](https://cdn.svgporn.com/logos/qualcomm.svg)
+## <a href="https://www.skhynix.com/" target="_blank">SK Hynix</a>
+![sk-hynix](https://cdn.svgporn.com/logos/sk-hynix.svg)
+## <a href="https://www.tsmc.com/" target="_blank">TSMC</a>
+![tsmc](https://cdn.svgporn.com/logos/tsmc.svg)
+## <a href="https://aerogear.org/" target="_blank">Aerogear</a>
+![aerogear](https://cdn.svgporn.com/logos/aerogear.svg)
+## <a href="https://www.drools.org/" target="_blank">Drools</a>
+![drools](https://cdn.svgporn.com/logos/drools-icon.svg)
+![drools](https://cdn.svgporn.com/logos/drools.svg)
+## <a href="https://www.hootsuite.com/" target="_blank">Hootsuite</a>
+![hootsuite](https://cdn.svgporn.com/logos/hootsuite-icon.svg)
+![hootsuite](https://cdn.svgporn.com/logos/hootsuite.svg)
 ## <a href="https://www.ibm.com/it-infrastructure/power/os/aix" target="_blank">AIX</a>
 ![aix](https://cdn.svgporn.com/logos/aix.svg)
 ## <a href="https://appwrite.io/" target="_blank">AppWrite</a>
@@ -112,37 +140,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![medusa](https://cdn.svgporn.com/logos/medusa.svg)
 ## <a href="https://payloadcms.com/" target="_blank">Payload</a>
 ![payload](https://cdn.svgporn.com/logos/payload.svg)
-## <a href="https://stackblitz.com/" target="_blank">StackBlitz</a>
-![stackblitz](https://cdn.svgporn.com/logos/stackblitz-icon.svg)
-![stackblitz](https://cdn.svgporn.com/logos/stackblitz.svg)
-## <a href="https://enactjs.com/" target="_blank">Enact</a>
-![enact](https://cdn.svgporn.com/logos/enact.svg)
-## <a href="https://fogbugz.com/" target="_blank">FogBugz</a>
-![fogbugz](https://cdn.svgporn.com/logos/fogbugz-icon.svg)
-![fogbugz](https://cdn.svgporn.com/logos/fogbugz.svg)
-## <a href="https://www.singlestore.com/" target="_blank">SingleStore</a>
-![singlestore](https://cdn.svgporn.com/logos/singlestore-icon.svg)
-![singlestore](https://cdn.svgporn.com/logos/singlestore.svg)
-## <a href="https://www.box.com/" target="_blank">box</a>
-![box](https://cdn.svgporn.com/logos/box.svg)
-## <a href="https://www.concretecms.com/" target="_blank">Concrete CMS</a>
-![concretecms](https://cdn.svgporn.com/logos/concretecms-icon.svg)
-![concretecms](https://cdn.svgporn.com/logos/concretecms.svg)
-## <a href="https://www.deployhq.com/" target="_blank">Deploy HQ</a>
-![deployhq](https://cdn.svgporn.com/logos/deployhq-icon.svg)
-![deployhq](https://cdn.svgporn.com/logos/deployhq.svg)
-## <a href="http://dyn.com/dns/" target="_blank">Dyn</a>
-![dyndns](https://cdn.svgporn.com/logos/dyndns.svg)
-## <a href="https://ethn.io/" target="_blank">Ethnio</a>
-![ethnio](https://cdn.svgporn.com/logos/ethnio.svg)
-## <a href="https://fly.io/" target="_blank">Fly</a>
-![fly](https://cdn.svgporn.com/logos/fly-icon.svg)
-![fly](https://cdn.svgporn.com/logos/fly.svg)
-## <a href="http://www.forestadmin.com/" target="_blank">Forest</a>
-![forest](https://cdn.svgporn.com/logos/forestadmin-icon.svg)
-![forest](https://cdn.svgporn.com/logos/forestadmin.svg)
-## <a href="https://gusto.com/" target="_blank">Gusto</a>
-![gusto](https://cdn.svgporn.com/logos/gusto.svg)
 
 ---
 

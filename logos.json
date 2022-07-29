@@ -146,6 +146,14 @@
     ]
   },
   {
+    "name": "Aerogear",
+    "shortname": "aerogear",
+    "url": "https://aerogear.org/",
+    "files": [
+      "aerogear.svg"
+    ]
+  },
+  {
     "name": "Aerospike",
     "shortname": "aerospike",
     "url": "http://www.aerospike.com/",
@@ -267,6 +275,14 @@
     "url": "https://aws.amazon.com/connect/",
     "files": [
       "amazon-connect.svg"
+    ]
+  },
+  {
+    "name": "AMD",
+    "shortname": "amd",
+    "url": "https://www.amd.com/",
+    "files": [
+      "amd.svg"
     ]
   },
   {
@@ -553,6 +569,14 @@
     "files": [
       "argo-icon.svg",
       "argo.svg"
+    ]
+  },
+  {
+    "name": "Arm",
+    "shortname": "arm",
+    "url": "https://www.arm.com/",
+    "files": [
+      "arm.svg"
     ]
   },
   {
@@ -1529,6 +1553,15 @@
     "files": [
       "braze-icon.svg",
       "braze.svg"
+    ]
+  },
+  {
+    "name": "Broadcom",
+    "shortname": "broadcom",
+    "url": "https://www.broadcom.com/",
+    "files": [
+      "broadcom-icon.svg",
+      "broadcom.svg"
     ]
   },
   {
@@ -2740,6 +2773,15 @@
     "files": [
       "drone-icon.svg",
       "drone.svg"
+    ]
+  },
+  {
+    "name": "Drools",
+    "shortname": "drools",
+    "url": "https://www.drools.org/",
+    "files": [
+      "drools-icon.svg",
+      "drools.svg"
     ]
   },
   {
@@ -4367,6 +4409,15 @@
     ]
   },
   {
+    "name": "Hootsuite",
+    "shortname": "hootsuite",
+    "url": "https://www.hootsuite.com/",
+    "files": [
+      "hootsuite-icon.svg",
+      "hootsuite.svg"
+    ]
+  },
+  {
     "name": "Hosted Graphite",
     "shortname": "hosted-graphite",
     "url": "https://www.hostedgraphite.com/",
@@ -4603,6 +4654,14 @@
     "files": [
       "instagram-icon.svg",
       "instagram.svg"
+    ]
+  },
+  {
+    "name": "Intel",
+    "shortname": "intel",
+    "url": "https://www.intel.com",
+    "files": [
+      "intel.svg"
     ]
   },
   {
@@ -5741,6 +5800,15 @@
     ]
   },
   {
+    "name": "Micron",
+    "shortname": "micron",
+    "url": "https://www.micron.com/",
+    "files": [
+      "micron-icon.svg",
+      "micron.svg"
+    ]
+  },
+  {
     "name": "MicroPython",
     "shortname": "micropython",
     "url": "https://micropython.org/",
@@ -6282,6 +6350,14 @@
     "files": [
       "nuxt-icon.svg",
       "nuxt.svg"
+    ]
+  },
+  {
+    "name": "Nvidia",
+    "shortname": "nvidia",
+    "url": "https://www.nvidia.com/",
+    "files": [
+      "nvidia.svg"
     ]
   },
   {
@@ -7238,6 +7314,14 @@
     ]
   },
   {
+    "name": "Qualcomm",
+    "shortname": "qualcomm",
+    "url": "https://www.qualcomm.com/",
+    "files": [
+      "qualcomm.svg"
+    ]
+  },
+  {
     "name": "Quarkus",
     "shortname": "quarkus",
     "url": "https://quarkus.io/",
@@ -8052,6 +8136,14 @@
     "url": "http://www.sitepoint.com/",
     "files": [
       "sitepoint.svg"
+    ]
+  },
+  {
+    "name": "SK Hynix",
+    "shortname": "sk-hynix",
+    "url": "https://www.skhynix.com/",
+    "files": [
+      "sk-hynix.svg"
     ]
   },
   {
@@ -9012,6 +9104,14 @@
     "url": "https://typestrong.org/ts-node/",
     "files": [
       "tsnode.svg"
+    ]
+  },
+  {
+    "name": "TSMC",
+    "shortname": "tsmc",
+    "url": "https://www.tsmc.com/",
+    "files": [
+      "tsmc.svg"
     ]
   },
   {
