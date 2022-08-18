@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+![architect](https://cdn.svgporn.com/logos/architect-icon.svg)
+![architect](https://cdn.svgporn.com/logos/architect.svg)
+## <a href="https://gin-gonic.com/" target="_blank">Gin</a>
+![gin](https://cdn.svgporn.com/logos/gin.svg)
+## <a href="https://jotai.org/" target="_blank">Jotai</a>
+![jotai](https://cdn.svgporn.com/logos/jotai.svg)
+## <a href="https://mswjs.io/" target="_blank">MSW (Mock Service Worker)</a>
+![msw](https://cdn.svgporn.com/logos/msw.svg)
+![msw](https://cdn.svgporn.com/logos/msw-icon.svg)
+## <a href="https://www.plasmic.app/" target="_blank">Plasmic</a>
+![plasmic](https://cdn.svgporn.com/logos/plasmic.svg)
+## <a href="https://recoiljs.org/" target="_blank">Recoil</a>
+![recoil](https://cdn.svgporn.com/logos/recoil-icon.svg)
+![recoil](https://cdn.svgporn.com/logos/recoil.svg)
+## <a href="https://www.wayscript.com/" target="_blank">WayScript</a>
+![wayscript](https://cdn.svgporn.com/logos/wayscript-icon.svg)
+![wayscript](https://cdn.svgporn.com/logos/wayscript.svg)
+## <a href="https://windicss.org/" target="_blank">Windi CSS</a>
+![windi-css](https://cdn.svgporn.com/logos/windi-css.svg)
 ## <a href="https://www.amd.com/" target="_blank">AMD</a>
 ![amd](https://cdn.svgporn.com/logos/amd.svg)
 ## <a href="https://www.arm.com/" target="_blank">Arm</a>
@@ -123,23 +142,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![adobe-premiere](https://cdn.svgporn.com/logos/adobe-premiere.svg)
 ## <a href="https://www.adobe.com/products/xd.html" target="_blank">Adobe Xd</a>
 ![adobe-xd](https://cdn.svgporn.com/logos/adobe-xd.svg)
-## <a href="https://www.aha.io/" target="_blank">Aha!</a>
-![aha](https://cdn.svgporn.com/logos/aha.svg)
-## <a href="https://workers.cloudflare.com/" target="_blank">Cloudflare Workers</a>
-![cloudflare-workers](https://cdn.svgporn.com/logos/cloudflare-workers-icon.svg)
-![cloudflare-workers](https://cdn.svgporn.com/logos/cloudflare-workers.svg)
-## <a href="https://www.11ty.dev/" target="_blank">Eleventy</a>
-![eleventy](https://cdn.svgporn.com/logos/eleventy.svg)
-## <a href="https://fauna.com/" target="_blank">Fauna</a>
-![fauna](https://cdn.svgporn.com/logos/fauna-icon.svg)
-![fauna](https://cdn.svgporn.com/logos/fauna.svg)
-## <a href="https://search.google.com/search-console" target="_blank">Google Search Console</a>
-![google-search-console](https://cdn.svgporn.com/logos/google-search-console.svg)
-## <a href="https://medusajs.com/" target="_blank">medusa</a>
-![medusa](https://cdn.svgporn.com/logos/medusa-icon.svg)
-![medusa](https://cdn.svgporn.com/logos/medusa.svg)
-## <a href="https://payloadcms.com/" target="_blank">Payload</a>
-![payload](https://cdn.svgporn.com/logos/payload.svg)
 
 ---
 

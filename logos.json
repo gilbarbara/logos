@@ -547,6 +547,15 @@
     ]
   },
   {
+    "name": "Architect",
+    "shortname": "architect",
+    "url": "https://arc.codes/",
+    "files": [
+      "architect-icon.svg",
+      "architect.svg"
+    ]
+  },
+  {
     "name": "Archlinux",
     "shortname": "archlinux",
     "url": "https://www.archlinux.org/",
@@ -3609,6 +3618,14 @@
     ]
   },
   {
+    "name": "Gin",
+    "shortname": "gin",
+    "url": "https://gin-gonic.com/",
+    "files": [
+      "gin.svg"
+    ]
+  },
+  {
     "name": "Git",
     "shortname": "git",
     "url": "https://git-scm.com/",
@@ -4849,6 +4866,14 @@
     ]
   },
   {
+    "name": "Jotai",
+    "shortname": "jotai",
+    "url": "https://jotai.org/",
+    "files": [
+      "jotai.svg"
+    ]
+  },
+  {
     "name": "jQuery",
     "shortname": "jquery",
     "url": "https://jquery.com/",
@@ -6080,6 +6105,15 @@
     ]
   },
   {
+    "name": "MSW (Mock Service Worker)",
+    "shortname": "msw",
+    "url": "https://mswjs.io/",
+    "files": [
+      "msw.svg",
+      "msw-icon.svg"
+    ]
+  },
+  {
     "name": "Multipass",
     "shortname": "multipass",
     "url": "https://multipass.run/",
@@ -6895,6 +6929,14 @@
     ]
   },
   {
+    "name": "Plasmic",
+    "shortname": "plasmic",
+    "url": "https://www.plasmic.app/",
+    "files": [
+      "plasmic.svg"
+    ]
+  },
+  {
     "name": "Plastic SCM",
     "shortname": "plastic-scm",
     "url": "https://www.plasticscm.com/",
@@ -7517,6 +7559,15 @@
     "files": [
       "reasonml-icon.svg",
       "reasonml.svg"
+    ]
+  },
+  {
+    "name": "Recoil",
+    "shortname": "recoil",
+    "url": "https://recoiljs.org/",
+    "files": [
+      "recoil-icon.svg",
+      "recoil.svg"
     ]
   },
   {
@@ -9635,6 +9686,15 @@
     ]
   },
   {
+    "name": "WayScript",
+    "shortname": "wayscript",
+    "url": "https://www.wayscript.com/",
+    "files": [
+      "wayscript-icon.svg",
+      "wayscript.svg"
+    ]
+  },
+  {
     "name": "Wear OS",
     "shortname": "wear-os",
     "url": "https://wearos.google.com/",
@@ -9847,6 +9907,14 @@
     "url": "https://www.wildfly.org",
     "files": [
       "wildfly.svg"
+    ]
+  },
+  {
+    "name": "Windi CSS",
+    "shortname": "windi-css",
+    "url": "https://windicss.org/",
+    "files": [
+      "windi-css.svg"
     ]
   },
   {
