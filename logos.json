@@ -2073,6 +2073,7 @@
     "shortname": "codeclimate",
     "url": "https://codeclimate.com/",
     "files": [
+      "codeclimate-icon.svg",
       "codeclimate.svg"
     ]
   },
@@ -2596,6 +2597,7 @@
     "shortname": "deviantart",
     "url": "http://www.deviantart.com/",
     "files": [
+      "deviantart-icon.svg",
       "deviantart.svg"
     ]
   },
@@ -2962,7 +2964,8 @@
     "shortname": "elm",
     "url": "http://elm-lang.org/",
     "files": [
-      "elm.svg"
+      "elm.svg",
+      "elm-classic.svg"
     ]
   },
   {
@@ -2978,7 +2981,8 @@
     "shortname": "emacs",
     "url": "http://www.gnu.org/software/emacs/",
     "files": [
-      "emacs.svg"
+      "emacs.svg",
+      "emacs-classic.svg"
     ]
   },
   {
@@ -3085,7 +3089,8 @@
     "shortname": "eta-lang",
     "url": "http://eta-lang.org/",
     "files": [
-      "eta-lang.svg"
+      "eta.svg",
+      "eta-icon.svg"
     ]
   },
   {
@@ -5223,6 +5228,7 @@
     "shortname": "lateral",
     "url": "https://lateral.io/",
     "files": [
+      "lateral-icon.svg",
       "lateral.svg"
     ]
   },
@@ -5846,6 +5852,7 @@
     "shortname": "microsoft",
     "url": "http://www.microsoft.com/",
     "files": [
+      "microsoft-icon.svg",
       "microsoft.svg"
     ]
   },

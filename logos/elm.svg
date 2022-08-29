@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
-	<g>
-		<polygon fill="#5FB4CB" points="128 135.022029 7.02282105 256 248.977971 256"></polygon>
-		<polygon fill="#EEA400" points="202.332313 195.311075 256 248.979554 256 141.643388"></polygon>
-		<polygon fill="#596277" points="120.977971 128 0 7.02202921 0 248.979554"></polygon>
-		<polygon fill="#5FB4CB" points="256 113.806284 256 0 142.192924 0"></polygon>
-		<polygon fill="#8CD636" points="195.583504 67.4342159 255.872312 127.723024 195.308589 188.286748 135.01978 127.99794"></polygon>
-		<polygon fill="#8CD636" points="7.02123737 0 62.7461228 55.7256772 183.875335 55.7256772 128.149658 0"></polygon>
-		<polygon fill="#EEA400" points="128 120.978763 183.321839 65.6561315 72.6773689 65.6561315"></polygon>
-	</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>Elm</title>
+    <g>
+        <polygon points="8.52852758 256 127.927914 136.600614 247.3273 256" fill="#1293D8"></polygon>
+        <polygon points="0 8.67270025 119.399386 128.072086 4.84790665e-14 247.471472" fill="#1293D8"></polygon>
+        <polygon fill-opacity="0.75" points="136.594522 0 256 0 256 119.405478" fill="#1293D8"></polygon>
+        <polygon points="136.456441 128.072086 191.89187 183.507516 247.3273 128.072086 191.89187 72.6366571" fill="#1293D8"></polygon>
+        <polygon fill-opacity="0.75" points="8.52852758 0.144172676 119.399386 0.144172676 171.423404 52.1681909 60.5525458 52.1681909" fill="#1293D8"></polygon>
+        <polygon fill-opacity="0.75" points="183.363343 64.1081295 127.927914 119.543559 72.4924844 64.1081295" fill="#1293D8"></polygon>
+        <polygon fill-opacity="0.75" points="255.855827 247.471472 200.420398 192.036043 255.855827 136.600614" fill="#1293D8"></polygon>
+    </g>
 </svg>

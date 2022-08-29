@@ -18,15 +18,39 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
+![codeclimate](https://cdn.svgporn.com/logos/codeclimate-icon.svg)
+![codeclimate](https://cdn.svgporn.com/logos/codeclimate.svg)
+## <a href="http://www.deviantart.com/" target="_blank">DeviantArt</a>
+![deviantart](https://cdn.svgporn.com/logos/deviantart-icon.svg)
+![deviantart](https://cdn.svgporn.com/logos/deviantart.svg)
+## <a href="http://elm-lang.org/" target="_blank">elm</a>
+![elm](https://cdn.svgporn.com/logos/elm.svg)
+![elm](https://cdn.svgporn.com/logos/elm-classic.svg)
+## <a href="http://www.gnu.org/software/emacs/" target="_blank">Emacs</a>
+![emacs](https://cdn.svgporn.com/logos/emacs.svg)
+![emacs](https://cdn.svgporn.com/logos/emacs-classic.svg)
+## <a href="http://eta-lang.org/" target="_blank">Eta</a>
+![eta-lang](https://cdn.svgporn.com/logos/eta.svg)
+![eta-lang](https://cdn.svgporn.com/logos/eta-icon.svg)
+## <a href="https://lateral.io/" target="_blank">Lateral</a>
+![lateral](https://cdn.svgporn.com/logos/lateral-icon.svg)
+![lateral](https://cdn.svgporn.com/logos/lateral.svg)
+## <a href="http://www.linuxmint.com/" target="_blank">Linux Mint</a>
+![linux-mint](https://cdn.svgporn.com/logos/linux-mint.svg)
+## <a href="http://www.microsoft.com/" target="_blank">Microsoft</a>
+![microsoft](https://cdn.svgporn.com/logos/microsoft-icon.svg)
+![microsoft](https://cdn.svgporn.com/logos/microsoft.svg)
+## <a href="https://mswjs.io/" target="_blank">MSW (Mock Service Worker)</a>
+![msw](https://cdn.svgporn.com/logos/msw.svg)
+![msw](https://cdn.svgporn.com/logos/msw-icon.svg)
+## <a href="https://arc.codes/" target="_blank">Architect</a>
 ![architect](https://cdn.svgporn.com/logos/architect-icon.svg)
 ![architect](https://cdn.svgporn.com/logos/architect.svg)
 ## <a href="https://gin-gonic.com/" target="_blank">Gin</a>
 ![gin](https://cdn.svgporn.com/logos/gin.svg)
 ## <a href="https://jotai.org/" target="_blank">Jotai</a>
 ![jotai](https://cdn.svgporn.com/logos/jotai.svg)
-## <a href="https://mswjs.io/" target="_blank">MSW (Mock Service Worker)</a>
-![msw](https://cdn.svgporn.com/logos/msw.svg)
-![msw](https://cdn.svgporn.com/logos/msw-icon.svg)
 ## <a href="https://www.plasmic.app/" target="_blank">Plasmic</a>
 ![plasmic](https://cdn.svgporn.com/logos/plasmic.svg)
 ## <a href="https://recoiljs.org/" target="_blank">Recoil</a>
@@ -124,24 +148,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![zenhub](https://cdn.svgporn.com/logos/zenhub.svg)
 ## <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">Adobe After Effects</a>
 ![adobe-after-effects](https://cdn.svgporn.com/logos/adobe-after-effects.svg)
-## <a href="https://www.adobe.com/products/animate.html" target="_blank">Adobe Animate</a>
-![adobe-animate](https://cdn.svgporn.com/logos/adobe-animate.svg)
-## <a href="https://www.adobe.com/products/dreamweaver.html" target="_blank">Adobe Dreamweaver</a>
-![adobe-dreamweaver](https://cdn.svgporn.com/logos/adobe-dreamweaver.svg)
-## <a href="https://www.adobe.com/products/illustrator.html" target="_blank">Adobe Illustrator</a>
-![adobe-illustrator](https://cdn.svgporn.com/logos/adobe-illustrator.svg)
-## <a href="https://www.adobe.com/products/incopy.html" target="_blank">Adobe InCopy</a>
-![adobe-incopy](https://cdn.svgporn.com/logos/adobe-incopy.svg)
-## <a href="https://www.adobe.com/products/indesign.html" target="_blank">Adobe InDesign</a>
-![adobe-indesign](https://cdn.svgporn.com/logos/adobe-indesign.svg)
-## <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">Adobe Lightroom</a>
-![adobe-lightroom](https://cdn.svgporn.com/logos/adobe-lightroom.svg)
-## <a href="https://www.adobe.com/products/photoshop.html" target="_blank">Adobe Photoshop</a>
-![adobe-photoshop](https://cdn.svgporn.com/logos/adobe-photoshop.svg)
-## <a href="https://www.adobe.com/products/premiere.html" target="_blank">Adobe Premiere</a>
-![adobe-premiere](https://cdn.svgporn.com/logos/adobe-premiere.svg)
-## <a href="https://www.adobe.com/products/xd.html" target="_blank">Adobe Xd</a>
-![adobe-xd](https://cdn.svgporn.com/logos/adobe-xd.svg)
 
 ---
 
