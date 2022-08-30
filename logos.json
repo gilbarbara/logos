@@ -2220,6 +2220,14 @@
     ]
   },
   {
+    "name": "Compose Multiplatform",
+    "shortname": "compose-multiplatform",
+    "url": "https://www.jetbrains.com/lp/compose-mpp/",
+    "files": [
+      "compose-multiplatform.svg"
+    ]
+  },
+  {
     "name": "Composer",
     "shortname": "composer",
     "url": "https://getcomposer.org/",
@@ -2505,6 +2513,22 @@
     "url": "https://www.datadoghq.com/",
     "files": [
       "datadog.svg"
+    ]
+  },
+  {
+    "name": "DataGrip",
+    "shortname": "datagrip",
+    "url": "https://www.jetbrains.com/datagrip/",
+    "files": [
+      "datagrip.svg"
+    ]
+  },
+  {
+    "name": "DataSpell",
+    "shortname": "dataspell",
+    "url": "https://www.jetbrains.com/dataspell/",
+    "files": [
+      "dataspell.svg"
     ]
   },
   {
@@ -3815,6 +3839,14 @@
     ]
   },
   {
+    "name": "GoLand",
+    "shortname": "goland",
+    "url": "https://www.jetbrains.com/go/",
+    "files": [
+      "goland.svg"
+    ]
+  },
+  {
     "name": "Google",
     "shortname": "google",
     "url": "http://www.google.com/",
@@ -4838,6 +4870,15 @@
     ]
   },
   {
+    "name": "JetBrains Space",
+    "shortname": "jetbrains-space",
+    "url": "https://www.jetbrains.com/space/",
+    "files": [
+      "jetbrains-space-icon.svg",
+      "jetbrains-space.svg"
+    ]
+  },
+  {
     "name": "JFrog",
     "shortname": "jfrog",
     "url": "https://www.jfrog.com/",
@@ -5181,6 +5222,15 @@
     "url": "http://krakenjs.com/",
     "files": [
       "krakenjs.svg"
+    ]
+  },
+  {
+    "name": "Ktor",
+    "shortname": "ktor",
+    "url": "https://ktor.io/",
+    "files": [
+      "ktor-icon.svg",
+      "ktor.svg"
     ]
   },
   {
@@ -6109,6 +6159,15 @@
     "files": [
       "mparticle-icon.svg",
       "mparticle.svg"
+    ]
+  },
+  {
+    "name": "MPS",
+    "shortname": "mps",
+    "url": "https://www.jetbrains.com/mps/",
+    "files": [
+      "mps-icon.svg",
+      "mps.svg"
     ]
   },
   {
@@ -8929,6 +8988,14 @@
     "url": "https://tealium.com",
     "files": [
       "tealium.svg"
+    ]
+  },
+  {
+    "name": "TeamCity",
+    "shortname": "teamcity",
+    "url": "https://www.jetbrains.com/teamcity/",
+    "files": [
+      "teamcity.svg"
     ]
   },
   {

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>MPS</title>
+    <defs>
+        <linearGradient x1="75.7%" y1="132.916667%" x2="-19.4666667%" y2="11.0333333%" id="mpsLinearGradient-1">
+            <stop stop-color="#087CFA" offset="6%"></stop>
+            <stop stop-color="#21D789" offset="87%"></stop>
+        </linearGradient>
+        <linearGradient x1="76.4645944%" y1="92.4166667%" x2="28.6675778%" y2="-29.4666667%" id="mpsLinearGradient-2">
+            <stop stop-color="#087CFA" offset="5%"></stop>
+            <stop stop-color="#0A84F0" offset="18%"></stop>
+            <stop stop-color="#1099D6" offset="39%"></stop>
+            <stop stop-color="#19BAAD" offset="67%"></stop>
+            <stop stop-color="#21D789" offset="87%"></stop>
+        </linearGradient>
+        <linearGradient x1="33.8010666%" y1="103.028279%" x2="64.8540035%" y2="-21.3983523%" id="mpsLinearGradient-3">
+            <stop stop-color="#21D789" offset="12%"></stop>
+            <stop stop-color="#6AE274" offset="36%"></stop>
+            <stop stop-color="#A9EB62" offset="58%"></stop>
+            <stop stop-color="#D6F255" offset="77%"></stop>
+            <stop stop-color="#F2F64D" offset="92%"></stop>
+            <stop stop-color="#FCF84A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <polygon fill="url(#mpsLinearGradient-1)" points="0 256 256 256 127.402667 127.658667 1.5158245e-14 0"></polygon>
+        <polygon fill="url(#mpsLinearGradient-2)" points="256 256 127.402667 127.658667 256 0"></polygon>
+        <polygon fill="url(#mpsLinearGradient-3)" points="191.573333 191.616 127.402667 127.658667 256 0"></polygon>
+    </g>
+</svg>

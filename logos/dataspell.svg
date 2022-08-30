@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>DataSpell</title>
+    <defs>
+        <linearGradient x1="111.945283%" y1="50.0381443%" x2="11.8933962%" y2="50.0381443%" id="dataSpellLinearGradient-1">
+            <stop stop-color="#21D789" offset="0%"></stop>
+            <stop stop-color="#FCF84A" offset="91.7%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9669664%" y1="9.16784203%" x2="49.9669664%" y2="157.332035%" id="dataSpellLinearGradient-2">
+            <stop stop-color="#21D789" offset="0%"></stop>
+            <stop stop-color="#087CFA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="148.040952%" y1="124.787619%" x2="-0.964761905%" y2="14.9245351%" id="dataSpellLinearGradient-3">
+            <stop stop-color="#21D789" offset="10.5%"></stop>
+            <stop stop-color="#087CFA" offset="96.7%"></stop>
+        </linearGradient>
+        <linearGradient x1="84.5274531%" y1="-7.6975%" x2="39.5116289%" y2="70.41625%" id="dataSpellLinearGradient-4">
+            <stop stop-color="#21D789" offset="23.5%"></stop>
+            <stop stop-color="#087CFA" offset="74%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.8666667%" y1="-24.3046154%" x2="49.8666667%" y2="65.3753846%" id="dataSpellLinearGradient-5">
+            <stop stop-color="#878585" offset="8.4%"></stop>
+            <stop stop-color="#000000" offset="53.8%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <polygon fill="url(#dataSpellLinearGradient-1)" points="164.5328 0 169.6 104 40 155.2 0 51.7328"></polygon>
+        <polygon fill="#21D789" points="256 60.8 144 109.3328 164.5328 0"></polygon>
+        <polygon fill="url(#dataSpellLinearGradient-2)" points="137.3328 84.8 256 60.8 256 173.0672 174.4 203.7344 141.0656 173.3328"></polygon>
+        <polygon fill="url(#dataSpellLinearGradient-3)" points="88 52 169.8736 64.6672 256 172.0688 173.3296 204 141.4304 172.3328"></polygon>
+        <polygon fill="url(#dataSpellLinearGradient-4)" points="52.8 0 169.6 64.5328 129.3328 256 61.3328 256 2.4 195.2"></polygon>
+        <polygon fill="url(#dataSpellLinearGradient-5)" points="206 50 50 50 50 206 206 206"></polygon>
+        <path d="M125.4,179.1328 L67.3328,179.1328 L67.3328,188.6672 L125.4,188.6672 L125.4,179.1328 Z M68,70 L90.808,70 C109.312,70 121.7936,82.48 121.7936,98.832 C121.7936,115.1856 109.3136,128.096 90.808,128.096 L68,128.528 L68,70 Z M80.9104,82.0496 L80.9104,116.9072 L90.808,116.9072 C101.136,116.9072 108.4528,110.0224 108.4528,99.6944 C108.4528,89.3648 101.5664,82.0496 90.808,82.0496 L80.912,82.0496 L80.9104,82.0496 Z M128,119.68 L135.5408,110.5808 C140.7408,115 146.4608,117.6 152.96,117.6 C158.16,117.6 161.5392,115.52 161.5392,112.1408 L161.5392,111.88 C161.5392,108.5008 159.4592,106.9408 149.84,104.3408 C137.88,101.48 130.3392,98.1008 130.3392,86.4 L130.3392,86.1408 C130.3392,75.48 138.92,68.4608 150.88,68.4608 C159.4592,68.4608 166.7392,71.0608 172.72,76 L165.96,85.6208 C160.76,81.9808 155.56,79.9008 150.6208,79.9008 C145.68,79.9008 143.08,82.24 143.08,85.1008 L143.08,85.36 C143.08,89.2608 145.68,90.56 155.8208,93.16 C167.7808,96.28 174.5392,100.44 174.5392,110.84 L174.5392,111.1008 C174.5392,122.8 165.7008,129.3008 152.96,129.3008 C144.12,129.04 135.0208,125.92 128,119.68 L128,119.68 Z" fill="#FFFFFF"></path>
+    </g>
+</svg>

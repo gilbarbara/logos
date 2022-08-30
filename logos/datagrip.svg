@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>DataGrip</title>
+    <defs>
+        <linearGradient x1="48.6809317%" y1="46.2074978%" x2="50.1853681%" y2="99.4768963%" id="dataGripLinearGradient-1">
+            <stop stop-color="#21D789" offset="16%"></stop>
+            <stop stop-color="#419FBC" offset="54%"></stop>
+            <stop stop-color="#6B57FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="37.3748863%" y1="64.0206872%" x2="53.5259327%" y2="50%" id="dataGripLinearGradient-2">
+            <stop stop-color="#6B57FF" offset="0%"></stop>
+            <stop stop-color="#21D789" offset="95%"></stop>
+        </linearGradient>
+        <linearGradient x1="34.806371%" y1="22.7672145%" x2="45.5808869%" y2="53.8903979%" id="dataGripLinearGradient-3">
+            <stop stop-color="#6B57FF" offset="0%"></stop>
+            <stop stop-color="#685CFB" offset="2%"></stop>
+            <stop stop-color="#4A91CA" offset="28%"></stop>
+            <stop stop-color="#34B7A7" offset="51%"></stop>
+            <stop stop-color="#26CE91" offset="69%"></stop>
+            <stop stop-color="#21D789" offset="80%"></stop>
+        </linearGradient>
+        <linearGradient x1="8.27109267%" y1="28.101941%" x2="124.61964%" y2="74.0339727%" id="dataGripLinearGradient-4">
+            <stop stop-color="#21D789" offset="8%"></stop>
+            <stop stop-color="#6B57FF" offset="89%"></stop>
+        </linearGradient>
+        <linearGradient x1="7.22073876%" y1="50%" x2="101.29061%" y2="50%" id="dataGripLinearGradient-5">
+            <stop stop-color="#21D789" offset="31%"></stop>
+            <stop stop-color="#59A3B2" offset="49%"></stop>
+            <stop stop-color="#B74AF7" offset="77%"></stop>
+            <stop stop-color="#FF45ED" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <polygon fill="url(#dataGripLinearGradient-1)" points="239.68 39.7866667 256 144.586667 225.84 162.133333"></polygon>
+        <polygon fill="url(#dataGripLinearGradient-2)" points="239.68 39.7866667 148.026667 3.55271368e-15 122.453333 21.2266667"></polygon>
+        <polygon fill="url(#dataGripLinearGradient-3)" points="172.986667 256 30.7733333 142.693333 2.21333333 228.586667"></polygon>
+        <polygon fill="url(#dataGripLinearGradient-4)" points="192.8 184.4 0 118.16 172.986667 256"></polygon>
+        <polygon fill="url(#dataGripLinearGradient-5)" points="0 1.81333333 0 118.16 222.16 194.506667 239.68 39.7866667"></polygon>
+        <polygon fill="#000000" points="48 47.68 208 47.68 208 207.68 48 207.68"></polygon>
+        <path d="M64.24,68.48 L90.08,68.48 C110.672,68.48 124.99136,82.488896 125.275688,100.855447 L125.28,101.6 C125.28,120.266667 110.88,134.72 90.08,134.72 L64.24,134.72 L64.24,68.48 Z M78.8,81.6266667 L78.8,121.626667 L90.08,121.626667 C95.4308817,121.936103 100.661102,119.956657 104.466299,116.181983 C108.271496,112.407309 110.292999,107.1932 110.026667,101.84 L110.026667,101.6 C110.30517,96.2268912 108.294177,90.9873379 104.492258,87.1803354 C100.690338,83.3733329 95.453476,81.3553426 90.08,81.6266667 L78.8,81.6266667 Z M127.866667,101.786667 L127.866667,101.6 C127.792892,92.4197781 131.434682,83.5998744 137.963847,77.1460452 C144.493013,70.692216 153.354586,67.1530267 162.533333,67.3333333 C172.066423,66.8288827 181.415268,70.0952315 188.56,76.4266667 L179.386667,87.4933333 C174.834928,83.173186 168.802602,80.7701164 162.538727,80.7691129 L162.08,80.7733333 C151.525614,80.7733333 143.216535,89.963426 143.042776,101.058594 L143.04,101.6 C143.04,113.706667 151.386667,122.613333 163.12,122.613333 C168.007336,122.775591 172.821673,121.394735 176.88,118.666667 L176.88,109.173333 L162.213333,109.173333 L162.213333,96.5866667 L190.986667,96.5866667 L190.986667,125.36 C183.139178,132.173099 173.08563,135.906462 162.693333,135.867292 C142.053333,135.867292 127.866667,121.333333 127.866667,101.786667 Z M62.72,177.653333 L122.72,177.653333 L122.72,187.653333 L62.72,187.653333 L62.72,177.653333 Z" fill="#FFFFFF"></path>
+    </g>
+</svg>

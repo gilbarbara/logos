@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.jetbrains.com/lp/compose-mpp/" target="_blank">Compose Multiplatform</a>
+![compose-multiplatform](https://cdn.svgporn.com/logos/compose-multiplatform.svg)
+## <a href="https://www.jetbrains.com/datagrip/" target="_blank">DataGrip</a>
+![datagrip](https://cdn.svgporn.com/logos/datagrip.svg)
+## <a href="https://www.jetbrains.com/dataspell/" target="_blank">DataSpell</a>
+![dataspell](https://cdn.svgporn.com/logos/dataspell.svg)
+## <a href="https://www.jetbrains.com/go/" target="_blank">GoLand</a>
+![goland](https://cdn.svgporn.com/logos/goland.svg)
+## <a href="https://www.jetbrains.com/space/" target="_blank">JetBrains Space</a>
+![jetbrains-space](https://cdn.svgporn.com/logos/jetbrains-space-icon.svg)
+![jetbrains-space](https://cdn.svgporn.com/logos/jetbrains-space.svg)
+## <a href="https://ktor.io/" target="_blank">Ktor</a>
+![ktor](https://cdn.svgporn.com/logos/ktor-icon.svg)
+![ktor](https://cdn.svgporn.com/logos/ktor.svg)
+## <a href="https://www.jetbrains.com/mps/" target="_blank">MPS</a>
+![mps](https://cdn.svgporn.com/logos/mps-icon.svg)
+![mps](https://cdn.svgporn.com/logos/mps.svg)
+## <a href="https://www.jetbrains.com/teamcity/" target="_blank">TeamCity</a>
+![teamcity](https://cdn.svgporn.com/logos/teamcity.svg)
 ## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
 ![codeclimate](https://cdn.svgporn.com/logos/codeclimate-icon.svg)
 ![codeclimate](https://cdn.svgporn.com/logos/codeclimate.svg)
@@ -126,28 +145,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://rancher.com/" target="_blank">Rancher</a>
 ![rancher](https://cdn.svgporn.com/logos/rancher-icon.svg)
 ![rancher](https://cdn.svgporn.com/logos/rancher.svg)
-## <a href="https://github.com/shipitjs/shipit" target="_blank">Shipit</a> *
-![shipit](https://cdn.svgporn.com/logos/shipit.svg)
-## <a href="https://stimulus.hotwire.dev/" target="_blank">Stimulus</a>
-![stimulus](https://cdn.svgporn.com/logos/stimulus-icon.svg)
-![stimulus](https://cdn.svgporn.com/logos/stimulus.svg)
-## <a href="https://www.vaultproject.io/" target="_blank">Vault</a>
-![vault](https://cdn.svgporn.com/logos/vault-icon.svg)
-![vault](https://cdn.svgporn.com/logos/vault.svg)
-## <a href="https://vector.dev/" target="_blank">Vector</a>
-![vector-timber](https://cdn.svgporn.com/logos/vector.svg)
-## <a href="https://www.vultr.com/" target="_blank">Vultr</a>
-![vultr](https://cdn.svgporn.com/logos/vultr-icon.svg)
-![vultr](https://cdn.svgporn.com/logos/vultr.svg)
-## <a href="https://wordpress.org/" target="_blank">Wordpress</a>
-![wordpress](https://cdn.svgporn.com/logos/wordpress-icon.svg)
-![wordpress](https://cdn.svgporn.com/logos/wordpress-icon-alt.svg)
-![wordpress](https://cdn.svgporn.com/logos/wordpress.svg)
-## <a href="https://www.zenhub.io/" target="_blank">Zenhub</a>
-![zenhub](https://cdn.svgporn.com/logos/zenhub-icon.svg)
-![zenhub](https://cdn.svgporn.com/logos/zenhub.svg)
-## <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">Adobe After Effects</a>
-![adobe-after-effects](https://cdn.svgporn.com/logos/adobe-after-effects.svg)
 
 ---
 

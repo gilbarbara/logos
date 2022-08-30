@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>Ktor</title>
+    <defs>
+        <linearGradient x1="23.9648148%" y1="23.9648148%" x2="74.6407407%" y2="74.6407407%" id="ktorLinearGradient-1">
+            <stop stop-color="#00AFFF" offset="29.6%"></stop>
+            <stop stop-color="#5282FF" offset="69.4%"></stop>
+            <stop stop-color="#945DFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="26.2055556%" y1="26.2055556%" x2="74.1166667%" y2="74.1166667%" id="ktorLinearGradient-2">
+            <stop stop-color="#C757BC" offset="10.8%"></stop>
+            <stop stop-color="#CD5CA9" offset="17.3%"></stop>
+            <stop stop-color="#E8744F" offset="49.2%"></stop>
+            <stop stop-color="#F88316" offset="71.6%"></stop>
+            <stop stop-color="#FF8900" offset="82.3%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <polygon fill="url(#ktorLinearGradient-1)" points="170.666667 85.3333333 128.176988 42.8436543 85.3333333 0 40.2773333 45.056 0 85.3333333 85.3333333 170.666667"></polygon>
+        <polygon fill="url(#ktorLinearGradient-2)" points="85.3333333 170.666667 127.823012 213.156346 170.666667 256 215.722667 210.944 256 170.666667 170.666667 85.3333333"></polygon>
+        <polygon fill="#000000" points="170.666667 85.3333333 85.3333333 85.3333333 85.3333333 170.666667 170.666667 170.666667"></polygon>
+    </g>
+</svg>
