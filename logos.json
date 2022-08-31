@@ -2074,6 +2074,7 @@
     "shortname": "coda",
     "url": "https://coda.io/",
     "files": [
+      "coda-icon.svg",
       "coda.svg"
     ]
   },

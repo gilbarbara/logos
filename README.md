@@ -22,6 +22,7 @@ Please add your requests in the issues preferably with links to the vector files
 ![bubble](https://cdn.svgporn.com/logos/bubble-icon.svg)
 ![bubble](https://cdn.svgporn.com/logos/bubble.svg)
 ## <a href="https://coda.io/" target="_blank">Coda</a>
+![coda](https://cdn.svgporn.com/logos/coda-icon.svg)
 ![coda](https://cdn.svgporn.com/logos/coda.svg)
 ## <a href="https://www.descript.com/" target="_blank">Descript</a>
 ![descript](https://cdn.svgporn.com/logos/descript-icon.svg)
