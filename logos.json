@@ -1639,6 +1639,15 @@
     ]
   },
   {
+    "name": "Bubble",
+    "shortname": "bubble",
+    "url": "https://bubble.io/",
+    "files": [
+      "bubble-icon.svg",
+      "bubble.svg"
+    ]
+  },
+  {
     "name": "Buck",
     "shortname": "buck",
     "url": "https://buckbuild.com/",
@@ -2058,6 +2067,14 @@
     "url": "https://cocoapods.org/",
     "files": [
       "cocoapods.svg"
+    ]
+  },
+  {
+    "name": "Coda",
+    "shortname": "coda",
+    "url": "https://coda.io/",
+    "files": [
+      "coda.svg"
     ]
   },
   {
@@ -2609,6 +2626,15 @@
     ]
   },
   {
+    "name": "Descript",
+    "shortname": "descript",
+    "url": "https://www.descript.com/",
+    "files": [
+      "descript-icon.svg",
+      "descript.svg"
+    ]
+  },
+  {
     "name": "Designer News",
     "shortname": "designernews",
     "url": "https://www.designernews.co/",
@@ -2757,6 +2783,15 @@
     "url": "https://dojotoolkit.org/",
     "files": [
       "dojo-toolkit.svg"
+    ]
+  },
+  {
+    "name": "Dovetail",
+    "shortname": "dovetail",
+    "url": "https://dovetailapp.com/",
+    "files": [
+      "dovetail-icon.svg",
+      "dovetail.svg"
     ]
   },
   {
@@ -4141,6 +4176,15 @@
     ]
   },
   {
+    "name": "GreenSock (GSAP)",
+    "shortname": "greensock",
+    "url": "https://greensock.com/",
+    "files": [
+      "greensock-icon.svg",
+      "greensock.svg"
+    ]
+  },
+  {
     "name": "Gridsome",
     "shortname": "gridsome",
     "url": "https://gridsome.org",
@@ -4301,6 +4345,15 @@
     "files": [
       "hardhat-icon.svg",
       "hardhat.svg"
+    ]
+  },
+  {
+    "name": "Harness",
+    "shortname": "harness",
+    "url": "https://harness.io/",
+    "files": [
+      "harness-icon.svg",
+      "harness.svg"
     ]
   },
   {
@@ -5873,6 +5926,15 @@
     ]
   },
   {
+    "name": "Micro",
+    "shortname": "micro",
+    "url": "https://micro-editor.github.io/",
+    "files": [
+      "micro-icon.svg",
+      "micro.svg"
+    ]
+  },
+  {
     "name": "Microcosm",
     "shortname": "microcosm",
     "url": "http://code.viget.com/microcosm/",
@@ -6490,6 +6552,14 @@
     "url": "http://oauth.net/",
     "files": [
       "oauth.svg"
+    ]
+  },
+  {
+    "name": "Observable",
+    "shortname": "observable",
+    "url": "https://observablehq.com/",
+    "files": [
+      "observablehq.svg"
     ]
   },
   {

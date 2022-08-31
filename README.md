@@ -18,6 +18,28 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://bubble.io/" target="_blank">Bubble</a>
+![bubble](https://cdn.svgporn.com/logos/bubble-icon.svg)
+![bubble](https://cdn.svgporn.com/logos/bubble.svg)
+## <a href="https://coda.io/" target="_blank">Coda</a>
+![coda](https://cdn.svgporn.com/logos/coda.svg)
+## <a href="https://www.descript.com/" target="_blank">Descript</a>
+![descript](https://cdn.svgporn.com/logos/descript-icon.svg)
+![descript](https://cdn.svgporn.com/logos/descript.svg)
+## <a href="https://dovetailapp.com/" target="_blank">Dovetail</a>
+![dovetail](https://cdn.svgporn.com/logos/dovetail-icon.svg)
+![dovetail](https://cdn.svgporn.com/logos/dovetail.svg)
+## <a href="https://greensock.com/" target="_blank">GreenSock (GSAP)</a>
+![greensock](https://cdn.svgporn.com/logos/greensock-icon.svg)
+![greensock](https://cdn.svgporn.com/logos/greensock.svg)
+## <a href="https://harness.io/" target="_blank">Harness</a>
+![harness](https://cdn.svgporn.com/logos/harness-icon.svg)
+![harness](https://cdn.svgporn.com/logos/harness.svg)
+## <a href="https://micro-editor.github.io/" target="_blank">Micro</a>
+![micro](https://cdn.svgporn.com/logos/micro-icon.svg)
+![micro](https://cdn.svgporn.com/logos/micro.svg)
+## <a href="https://observablehq.com/" target="_blank">Observable</a>
+![observable](https://cdn.svgporn.com/logos/observablehq.svg)
 ## <a href="https://www.jetbrains.com/lp/compose-mpp/" target="_blank">Compose Multiplatform</a>
 ![compose-multiplatform](https://cdn.svgporn.com/logos/compose-multiplatform.svg)
 ## <a href="https://www.jetbrains.com/datagrip/" target="_blank">DataGrip</a>
@@ -123,28 +145,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![dependabot](https://cdn.svgporn.com/logos/dependabot.svg)
 ## <a href="https://www.nasm.us/" target="_blank">Netwide Assembler (NASM)</a>
 ![nasm](https://cdn.svgporn.com/logos/nasm.svg)
-## <a href="https://pyscript.net/" target="_blank">PyScript</a>
-![pyscript](https://cdn.svgporn.com/logos/pyscript.svg)
-## <a href="https://www.jetbrains.com/rider/" target="_blank">Rider</a>
-![rider](https://cdn.svgporn.com/logos/rider.svg)
-## <a href="https://www.mongodb.org/" target="_blank">MongoDB</a>
-![mongodb](https://cdn.svgporn.com/logos/mongodb-icon.svg)
-![mongodb](https://cdn.svgporn.com/logos/mongodb.svg)
-## <a href="https://www.nomadproject.io/" target="_blank">Nomad</a>
-![nomad](https://cdn.svgporn.com/logos/nomad-icon.svg)
-![nomad](https://cdn.svgporn.com/logos/nomad.svg)
-## <a href="https://www.planless.io/" target="_blank">Planless</a>
-![planless](https://cdn.svgporn.com/logos/planless-icon.svg)
-![planless](https://cdn.svgporn.com/logos/planless.svg)
-## <a href="http://processwire.com/" target="_blank">ProcessWire</a>
-![processwire](https://cdn.svgporn.com/logos/processwire-icon.svg)
-![processwire](https://cdn.svgporn.com/logos/processwire.svg)
-## <a href="http://www.rackspace.com/" target="_blank">Rackspace</a>
-![rackspace](https://cdn.svgporn.com/logos/rackspace-icon.svg)
-![rackspace](https://cdn.svgporn.com/logos/rackspace.svg)
-## <a href="http://rancher.com/" target="_blank">Rancher</a>
-![rancher](https://cdn.svgporn.com/logos/rancher-icon.svg)
-![rancher](https://cdn.svgporn.com/logos/rancher.svg)
 
 ---
 
