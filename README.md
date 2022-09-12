@@ -18,6 +18,9 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://zeit.co/next" target="_blank">Next.js</a>
+![nextjs](https://cdn.svgporn.com/logos/nextjs-icon.svg)
+![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
 ## <a href="https://bubble.io/" target="_blank">Bubble</a>
 ![bubble](https://cdn.svgporn.com/logos/bubble-icon.svg)
 ![bubble](https://cdn.svgporn.com/logos/bubble.svg)
@@ -144,8 +147,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![calibre](https://cdn.svgporn.com/logos/calibre.svg)
 ## <a href="https://github.com/dependabot" target="_blank">Dependabot</a>
 ![dependabot](https://cdn.svgporn.com/logos/dependabot.svg)
-## <a href="https://www.nasm.us/" target="_blank">Netwide Assembler (NASM)</a>
-![nasm](https://cdn.svgporn.com/logos/nasm.svg)
 
 ---
 
