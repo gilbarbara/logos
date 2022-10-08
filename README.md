@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://chrome.google.com/webstore" target="_blank">Chrome Web Store</a>
+![chrome-web-store](https://cdn.svgporn.com/logos/chrome-web-store.svg)
+## <a href="https://conda.io/" target="_blank">Conda</a>
+![conda](https://cdn.svgporn.com/logos/conda.svg)
+## <a href="https://www.geetest.com/" target="_blank">GeeTest</a>
+![geetest](https://cdn.svgporn.com/logos/geetest-icon.svg)
+![geetest](https://cdn.svgporn.com/logos/geetest.svg)
+## <a href="https://www.hcaptcha.com/" target="_blank">hCaptcha</a>
+![hcaptcha](https://cdn.svgporn.com/logos/hcaptcha-icon.svg)
+![hcaptcha](https://cdn.svgporn.com/logos/hcaptcha.svg)
+## <a href="https://www.google.com/recaptcha/" target="_blank">reCAPTCHA</a>
+![recaptcha](https://cdn.svgporn.com/logos/recaptcha.svg)
+## <a href="https://renovatebot.com/" target="_blank">Renovate</a>
+![renovatebot](https://cdn.svgporn.com/logos/renovatebot.svg)
+## <a href="https://www.storyblok.com/" target="_blank">Storyblok</a>
+![storyblok](https://cdn.svgporn.com/logos/storyblok-icon.svg)
+![storyblok](https://cdn.svgporn.com/logos/storyblok.svg)
+## <a href="https://surrealdb.com/" target="_blank">SurrealDB</a>
+![surrealdb](https://cdn.svgporn.com/logos/surrealdb-icon.svg)
+![surrealdb](https://cdn.svgporn.com/logos/surrealdb.svg)
 ## <a href="https://zeit.co/next" target="_blank">Next.js</a>
 ![nextjs](https://cdn.svgporn.com/logos/nextjs-icon.svg)
 ![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
@@ -126,27 +146,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![sk-hynix](https://cdn.svgporn.com/logos/sk-hynix.svg)
 ## <a href="https://www.tsmc.com/" target="_blank">TSMC</a>
 ![tsmc](https://cdn.svgporn.com/logos/tsmc.svg)
-## <a href="https://aerogear.org/" target="_blank">Aerogear</a>
-![aerogear](https://cdn.svgporn.com/logos/aerogear.svg)
-## <a href="https://www.drools.org/" target="_blank">Drools</a>
-![drools](https://cdn.svgporn.com/logos/drools-icon.svg)
-![drools](https://cdn.svgporn.com/logos/drools.svg)
-## <a href="https://www.hootsuite.com/" target="_blank">Hootsuite</a>
-![hootsuite](https://cdn.svgporn.com/logos/hootsuite-icon.svg)
-![hootsuite](https://cdn.svgporn.com/logos/hootsuite.svg)
-## <a href="https://www.ibm.com/it-infrastructure/power/os/aix" target="_blank">AIX</a>
-![aix](https://cdn.svgporn.com/logos/aix.svg)
-## <a href="https://appwrite.io/" target="_blank">AppWrite</a>
-![appwrite](https://cdn.svgporn.com/logos/appwrite-icon.svg)
-![appwrite](https://cdn.svgporn.com/logos/appwrite.svg)
-## <a href="https://atomicojs.github.io/" target="_blank">Atomico</a>
-![atomico](https://cdn.svgporn.com/logos/atomicojs-icon.svg)
-![atomico](https://cdn.svgporn.com/logos/atomicojs.svg)
-## <a href="https://calibreapp.com/" target="_blank">Calibre</a>
-![calibre](https://cdn.svgporn.com/logos/calibre-icon.svg)
-![calibre](https://cdn.svgporn.com/logos/calibre.svg)
-## <a href="https://github.com/dependabot" target="_blank">Dependabot</a>
-![dependabot](https://cdn.svgporn.com/logos/dependabot.svg)
 
 ---
 

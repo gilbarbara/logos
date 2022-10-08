@@ -1923,6 +1923,14 @@
     ]
   },
   {
+    "name": "Chrome Web Store",
+    "shortname": "chrome-web-store",
+    "url": "https://chrome.google.com/webstore",
+    "files": [
+      "chrome-web-store.svg"
+    ]
+  },
+  {
     "name": "Cinder",
     "shortname": "cinder",
     "url": "https://libcinder.org/",
@@ -2276,6 +2284,14 @@
     "files": [
       "concretecms-icon.svg",
       "concretecms.svg"
+    ]
+  },
+  {
+    "name": "Conda",
+    "shortname": "conda",
+    "url": "https://conda.io/",
+    "files": [
+      "conda.svg"
     ]
   },
   {
@@ -3659,6 +3675,15 @@
     ]
   },
   {
+    "name": "GeeTest",
+    "shortname": "geetest",
+    "url": "https://www.geetest.com/",
+    "files": [
+      "geetest-icon.svg",
+      "geetest.svg"
+    ]
+  },
+  {
     "name": "Get Your Guide",
     "shortname": "getyourguide",
     "url": "https://www.getyourguide.com/",
@@ -4406,6 +4431,15 @@
     "url": "http://hbase.apache.org/",
     "files": [
       "hbase.svg"
+    ]
+  },
+  {
+    "name": "hCaptcha",
+    "shortname": "hcaptcha",
+    "url": "https://www.hcaptcha.com/",
+    "files": [
+      "hcaptcha-icon.svg",
+      "hcaptcha.svg"
     ]
   },
   {
@@ -7699,6 +7733,14 @@
     ]
   },
   {
+    "name": "reCAPTCHA",
+    "shortname": "recaptcha",
+    "url": "https://www.google.com/recaptcha/",
+    "files": [
+      "recaptcha.svg"
+    ]
+  },
+  {
     "name": "Recoil",
     "shortname": "recoil",
     "url": "https://recoiljs.org/",
@@ -7804,6 +7846,14 @@
     "files": [
       "remix-icon.svg",
       "remix.svg"
+    ]
+  },
+  {
+    "name": "Renovate",
+    "shortname": "renovatebot",
+    "url": "https://renovatebot.com/",
+    "files": [
+      "renovatebot.svg"
     ]
   },
   {
@@ -8739,6 +8789,15 @@
     ]
   },
   {
+    "name": "Storyblok",
+    "shortname": "storyblok",
+    "url": "https://www.storyblok.com/",
+    "files": [
+      "storyblok-icon.svg",
+      "storyblok.svg"
+    ]
+  },
+  {
     "name": "Storybook",
     "shortname": "storybook",
     "url": "https://storybook.js.org/",
@@ -8868,6 +8927,15 @@
     "url": "http://surge.sh/",
     "files": [
       "surge.svg"
+    ]
+  },
+  {
+    "name": "SurrealDB",
+    "shortname": "surrealdb",
+    "url": "https://surrealdb.com/",
+    "files": [
+      "surrealdb-icon.svg",
+      "surrealdb.svg"
     ]
   },
   {

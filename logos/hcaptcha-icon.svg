@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>hCaptcha</title>
+    <defs>
+        <linearGradient x1="49.9788405%" y1="-702.200592%" x2="49.9788405%" y2="97.9686839%" id="hCaptchaLinearGradient-1">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-602.242912%" x2="50%" y2="197.926365%" id="hCaptchaLinearGradient-2">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9788405%" y1="-602.242912%" x2="49.9788405%" y2="197.926365%" id="hCaptchaLinearGradient-3">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0211595%" y1="-502.497883%" x2="50.0211595%" y2="298.010161%" id="hCaptchaLinearGradient-4">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-502.497883%" x2="50%" y2="298.010161%" id="hCaptchaLinearGradient-5">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9788405%" y1="-502.497883%" x2="49.9788405%" y2="298.010161%" id="hCaptchaLinearGradient-6">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0211595%" y1="-402.285231%" x2="50.0211595%" y2="397.884046%" id="hCaptchaLinearGradient-7">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-402.285231%" x2="50%" y2="397.884046%" id="hCaptchaLinearGradient-8">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9788405%" y1="-402.285231%" x2="49.9788405%" y2="397.884046%" id="hCaptchaLinearGradient-9">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0211595%" y1="-302.32755%" x2="50.0211595%" y2="497.841727%" id="hCaptchaLinearGradient-10">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-302.32755%" x2="50%" y2="497.841727%" id="hCaptchaLinearGradient-11">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9788405%" y1="-302.32755%" x2="49.9788405%" y2="497.841727%" id="hCaptchaLinearGradient-12">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50.0211595%" y1="-202.32755%" x2="50.0211595%" y2="597.841727%" id="hCaptchaLinearGradient-13">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-202.32755%" x2="50%" y2="597.841727%" id="hCaptchaLinearGradient-14">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9788405%" y1="-202.32755%" x2="49.9788405%" y2="597.841727%" id="hCaptchaLinearGradient-15">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-102.369869%" x2="50%" y2="697.799408%" id="hCaptchaLinearGradient-16">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9788405%" y1="-102.369869%" x2="49.9788405%" y2="697.799408%" id="hCaptchaLinearGradient-17">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9788405%" y1="-2.36986881%" x2="49.9788405%" y2="797.799408%" id="hCaptchaLinearGradient-18">
+            <stop stop-color="#00D4BF" offset="0%"></stop>
+            <stop stop-color="#0074BF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <rect fill="url(#hCaptchaLinearGradient-1)" opacity="0.5" x="160.006772" y="223.993228" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-1)" opacity="0.7" x="128" y="223.993228" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-1)" opacity="0.7" x="96.0067725" y="223.993228" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-1)" opacity="0.5" x="64" y="223.993228" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-2)" opacity="0.7" x="192" y="192" width="31.9932275" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-3)" opacity="0.8" x="160.006772" y="192" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-3)" x="128" y="192" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-3)" x="96.0067725" y="192" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-3)" opacity="0.8" x="64" y="192" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-3)" opacity="0.7" x="32.0067725" y="192" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-4)" opacity="0.5" x="223.993228" y="160.006772" width="32.0067725" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-5)" opacity="0.8" x="192" y="160.006772" width="31.9932275" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-6)" x="160.006772" y="160.006772" width="32.0067725" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-6)" x="128" y="160.006772" width="32.0067725" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-6)" x="96.0067725" y="160.006772" width="32.0067725" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-6)" x="64" y="160.006772" width="32.0067725" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-6)" opacity="0.8" x="32.0067725" y="160.006772" width="32.0067725" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-6)" opacity="0.5" x="0" y="160.006772" width="32.0067725" height="31.9932275"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-7)" opacity="0.7" x="223.993228" y="128" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-8)" x="192" y="128" width="31.9932275" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-9)" x="160.006772" y="128" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-9)" x="128" y="128" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-9)" x="96.0067725" y="128" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-9)" x="64" y="128" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-9)" x="32.0067725" y="128" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-9)" opacity="0.7" x="0" y="128" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-10)" opacity="0.7" x="223.993228" y="96.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-11)" x="192" y="96.0067725" width="31.9932275" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-12)" x="160.006772" y="96.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-12)" x="128" y="96.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-12)" x="96.0067725" y="96.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-12)" x="64" y="96.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-12)" x="32.0067725" y="96.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-12)" opacity="0.7" x="0" y="96.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-13)" opacity="0.5" x="223.993228" y="64" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-14)" opacity="0.8" x="192" y="64" width="31.9932275" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-15)" x="160.006772" y="64" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-15)" x="128" y="64" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-15)" x="96.0067725" y="64" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-15)" x="64" y="64" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-15)" opacity="0.8" x="32.0067725" y="64" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-15)" opacity="0.5" x="0" y="64" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-16)" opacity="0.7" x="192" y="32.0067725" width="31.9932275" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-17)" opacity="0.8" x="160.006772" y="32.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-17)" x="128" y="32.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-17)" x="96.0067725" y="32.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-17)" opacity="0.8" x="64" y="32.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-17)" opacity="0.7" x="32.0067725" y="32.0067725" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-18)" opacity="0.5" x="160.006772" y="0" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-18)" opacity="0.7" x="128" y="0" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-18)" opacity="0.7" x="96.0067725" y="0" width="32.0067725" height="32.0067725"></rect>
+        <rect fill="url(#hCaptchaLinearGradient-18)" opacity="0.5" x="64" y="0" width="32.0067725" height="32.0067725"></rect>
+        <path d="M84.2497354,117.84127 L93.162328,97.8895238 C96.4131217,92.7695238 95.9796825,86.511746 92.4173545,82.9900529 C91.941672,82.5135011 91.4147279,82.0910372 90.8461376,81.7303704 C88.3757553,80.2265981 85.3692098,79.8848327 82.6243386,80.7957672 C79.5431464,81.7620061 76.912977,83.8055563 75.2152381,86.552381 C75.2152381,86.552381 63.0247619,114.996825 58.4601058,127.83746 C53.8954497,140.678095 55.7511111,164.110899 73.237672,181.665185 C91.7942857,200.221799 118.708148,204.502011 135.84254,191.607196 C136.564296,191.233411 137.241352,190.779011 137.860741,190.252698 L190.686138,146.10963 C193.259683,143.955979 197.06582,139.608042 193.638942,134.623492 C190.212063,129.638942 184.008466,133.06582 181.448466,134.718307 L151.026455,156.837249 C150.740254,157.079079 150.366664,157.191551 149.994523,157.14792 C149.622381,157.10429 149.284938,156.908455 149.062434,156.606984 C148.159219,155.2159 148.280545,153.39602 149.360423,152.137143 L195.995767,112.55873 C200.059259,108.928677 200.587513,103.659683 197.350265,100.043175 C194.113016,96.4266667 189.101376,96.6027513 185.051429,100.273439 L143.062011,133.106455 C142.662696,133.436106 142.144528,133.585346 141.631044,133.518593 C141.11756,133.45184 140.654773,133.175076 140.353016,132.754286 C139.415967,131.829646 139.322685,130.34878 140.136296,129.313862 L187.692698,83.1661376 C191.43797,79.6680792 191.649916,73.8002048 188.166772,70.0410582 C186.475028,68.2912998 184.139594,67.3120822 181.70582,67.3320635 C179.210149,67.3210287 176.810763,68.2944103 175.028148,70.0410582 L126.496508,115.619894 C125.33164,116.784762 123.056085,115.619894 122.785185,114.265397 C122.684962,113.771833 122.84325,113.261227 123.205079,112.910899 L160.399577,70.5557672 C162.889888,68.2820986 163.931372,64.8250752 163.11146,61.5541482 C162.291548,58.2832211 159.742547,55.7262125 156.474207,54.8960454 C153.205868,54.0658782 149.745595,55.0965146 147.464127,57.5796825 L91.0357672,119.886561 C89.0175661,121.904762 86.037672,121.999577 84.6154497,120.834709 C84.1655238,120.489394 83.8733072,119.9777 83.8045269,119.414721 C83.7357467,118.851743 83.896178,118.284748 84.2497354,117.84127 Z" fill="#FFFFFF"></path>
+    </g>
+</svg>
