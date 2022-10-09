@@ -1698,6 +1698,15 @@
     ]
   },
   {
+    "name": "Builder",
+    "shortname": "builder-io",
+    "url": "https://www.builder.io/",
+    "files": [
+      "builder-io-icon.svg",
+      "builder-io.svg"
+    ]
+  },
+  {
     "name": "Buildkite",
     "shortname": "buildkite",
     "url": "https://buildkite.com/",
@@ -4551,6 +4560,14 @@
     ]
   },
   {
+    "name": "Hookstate",
+    "shortname": "hookstate",
+    "url": "https://hookstate.js.org/",
+    "files": [
+      "hookstate.svg"
+    ]
+  },
+  {
     "name": "Hootsuite",
     "shortname": "hootsuite",
     "url": "https://www.hootsuite.com/",
@@ -6400,6 +6417,15 @@
     ]
   },
   {
+    "name": "Neverinstall",
+    "shortname": "neverinstall",
+    "url": "https://neverinstall.com/",
+    "files": [
+      "neverinstall-icon.svg",
+      "neverinstall.svg"
+    ]
+  },
+  {
     "name": "New Relic",
     "shortname": "new-relic",
     "url": "http://newrelic.com/",
@@ -7857,6 +7883,15 @@
     ]
   },
   {
+    "name": "Replit",
+    "shortname": "replit",
+    "url": "https://replit.com/",
+    "files": [
+      "replit-icon.svg",
+      "replit.svg"
+    ]
+  },
+  {
     "name": "RequireJS",
     "shortname": "require",
     "url": "http://requirejs.org/",
@@ -8764,6 +8799,15 @@
     ]
   },
   {
+    "name": "Stigg",
+    "shortname": "stigg",
+    "url": "https://www.stigg.io/",
+    "files": [
+      "stigg-icon.svg",
+      "stigg.svg"
+    ]
+  },
+  {
     "name": "Stimulus",
     "shortname": "stimulus",
     "url": "https://stimulus.hotwire.dev/",
@@ -8786,6 +8830,15 @@
     "url": "https://stoplight.io/",
     "files": [
       "stoplight.svg"
+    ]
+  },
+  {
+    "name": "Storyblocks",
+    "shortname": "storyblocks",
+    "url": "https://www.storyblocks.com/",
+    "files": [
+      "storyblocks-icon.svg",
+      "storyblocks.svg"
     ]
   },
   {
@@ -9607,6 +9660,15 @@
     ]
   },
   {
+    "name": "Upstash",
+    "shortname": "upstash",
+    "url": "https://upstash.com/",
+    "files": [
+      "upstash-icon.svg",
+      "upstash.svg"
+    ]
+  },
+  {
     "name": "Upwork",
     "shortname": "upwork",
     "url": "https://www.upwork.com/",
@@ -10409,6 +10471,15 @@
     "url": "https://zeplin.io/",
     "files": [
       "zeplin.svg"
+    ]
+  },
+  {
+    "name": "zeroheight",
+    "shortname": "zeroheight",
+    "url": "https://zeroheight.com/",
+    "files": [
+      "zeroheight-icon.svg",
+      "zeroheight.svg"
     ]
   },
   {

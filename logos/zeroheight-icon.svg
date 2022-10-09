@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="310px" viewBox="0 0 256 310" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>zeroheight</title>
+    <defs>
+        <linearGradient x1="15.7507791%" y1="100%" x2="84.2492209%" y2="0%" id="zeroheightLinearGradient-1">
+            <stop stop-color="#EC407A" offset="0%"></stop>
+            <stop stop-color="#FFA000" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M22.6268266,0 L45.2676118,48.2407852 L0,48.2407852 L22.6268266,0 Z M0,55.8621592 L45.2676118,55.8621592 L45.2676118,271.703381 L0,271.703381 L0,55.8621592 Z M0,279.324755 L45.2676118,279.324755 L45.2676118,305.566848 L0,305.566848 L0,279.324755 Z M80.5408942,48.1151581 L111.891821,16.7921483 L256,161.011996 L111.165976,309.321701 L79.8708833,279.589967 L193.633152,161.221374 L80.5408942,48.1291167 L80.5408942,48.1151581 Z" fill="url(#zeroheightLinearGradient-1)"></path>
+    </g>
+</svg>

@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.builder.io/" target="_blank">Builder</a>
+![builder-io](https://cdn.svgporn.com/logos/builder-io-icon.svg)
+![builder-io](https://cdn.svgporn.com/logos/builder-io.svg)
+## <a href="https://hookstate.js.org/" target="_blank">Hookstate</a>
+![hookstate](https://cdn.svgporn.com/logos/hookstate.svg)
+## <a href="https://neverinstall.com/" target="_blank">Neverinstall</a>
+![neverinstall](https://cdn.svgporn.com/logos/neverinstall-icon.svg)
+![neverinstall](https://cdn.svgporn.com/logos/neverinstall.svg)
+## <a href="https://replit.com/" target="_blank">Replit</a>
+![replit](https://cdn.svgporn.com/logos/replit-icon.svg)
+![replit](https://cdn.svgporn.com/logos/replit.svg)
+## <a href="https://www.stigg.io/" target="_blank">Stigg</a>
+![stigg](https://cdn.svgporn.com/logos/stigg-icon.svg)
+![stigg](https://cdn.svgporn.com/logos/stigg.svg)
+## <a href="https://www.storyblocks.com/" target="_blank">Storyblocks</a>
+![storyblocks](https://cdn.svgporn.com/logos/storyblocks-icon.svg)
+![storyblocks](https://cdn.svgporn.com/logos/storyblocks.svg)
+## <a href="https://upstash.com/" target="_blank">Upstash</a>
+![upstash](https://cdn.svgporn.com/logos/upstash-icon.svg)
+![upstash](https://cdn.svgporn.com/logos/upstash.svg)
+## <a href="https://zeroheight.com/" target="_blank">zeroheight</a>
+![zeroheight](https://cdn.svgporn.com/logos/zeroheight-icon.svg)
+![zeroheight](https://cdn.svgporn.com/logos/zeroheight.svg)
 ## <a href="https://chrome.google.com/webstore" target="_blank">Chrome Web Store</a>
 ![chrome-web-store](https://cdn.svgporn.com/logos/chrome-web-store.svg)
 ## <a href="https://conda.io/" target="_blank">Conda</a>
@@ -128,24 +151,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![windi-css](https://cdn.svgporn.com/logos/windi-css.svg)
 ## <a href="https://www.amd.com/" target="_blank">AMD</a>
 ![amd](https://cdn.svgporn.com/logos/amd.svg)
-## <a href="https://www.arm.com/" target="_blank">Arm</a>
-![arm](https://cdn.svgporn.com/logos/arm.svg)
-## <a href="https://www.broadcom.com/" target="_blank">Broadcom</a>
-![broadcom](https://cdn.svgporn.com/logos/broadcom-icon.svg)
-![broadcom](https://cdn.svgporn.com/logos/broadcom.svg)
-## <a href="https://www.intel.com" target="_blank">Intel</a>
-![intel](https://cdn.svgporn.com/logos/intel.svg)
-## <a href="https://www.micron.com/" target="_blank">Micron</a>
-![micron](https://cdn.svgporn.com/logos/micron-icon.svg)
-![micron](https://cdn.svgporn.com/logos/micron.svg)
-## <a href="https://www.nvidia.com/" target="_blank">Nvidia</a>
-![nvidia](https://cdn.svgporn.com/logos/nvidia.svg)
-## <a href="https://www.qualcomm.com/" target="_blank">Qualcomm</a>
-![qualcomm](https://cdn.svgporn.com/logos/qualcomm.svg)
-## <a href="https://www.skhynix.com/" target="_blank">SK Hynix</a>
-![sk-hynix](https://cdn.svgporn.com/logos/sk-hynix.svg)
-## <a href="https://www.tsmc.com/" target="_blank">TSMC</a>
-![tsmc](https://cdn.svgporn.com/logos/tsmc.svg)
 
 ---
 
