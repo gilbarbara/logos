@@ -1732,6 +1732,15 @@
     ]
   },
   {
+    "name": "Bunny",
+    "shortname": "bunny-net",
+    "url": "https://bunny.net/",
+    "files": [
+      "bunny-net-icon.svg",
+      "bunny-net.svg"
+    ]
+  },
+  {
     "name": "Bēhance",
     "shortname": "behance",
     "url": "https://www.behance.net/",
@@ -2204,6 +2213,15 @@
     "url": "https://coderwall.com/",
     "files": [
       "coderwall.svg"
+    ]
+  },
+  {
+    "name": "CodeSee",
+    "shortname": "codesee",
+    "url": "https://www.codesee.io/",
+    "files": [
+      "codesee-icon.svg",
+      "codesee.svg"
     ]
   },
   {
@@ -3135,6 +3153,15 @@
     "url": "https://envoyer.io/",
     "files": [
       "envoyer.svg"
+    ]
+  },
+  {
+    "name": "epsagon",
+    "shortname": "epsagon",
+    "url": "https://epsagon.com/",
+    "files": [
+      "epsagon-icon.svg",
+      "epsagon.svg"
     ]
   },
   {
@@ -4250,6 +4277,15 @@
     "url": "https://grove.io/",
     "files": [
       "grove.svg"
+    ]
+  },
+  {
+    "name": "GrowthBook",
+    "shortname": "growth-book",
+    "url": "https://www.growthbook.io/",
+    "files": [
+      "growth-book-icon.svg",
+      "growth-book.svg"
     ]
   },
   {
@@ -5388,6 +5424,15 @@
     ]
   },
   {
+    "name": "LaunchDarkly",
+    "shortname": "launchdarkly",
+    "url": "https://launchdarkly.com/",
+    "files": [
+      "launchdarkly-icon.svg",
+      "launchdarkly.svg"
+    ]
+  },
+  {
     "name": "Launchrock",
     "shortname": "launchrock",
     "url": "https://www.launchrock.com/",
@@ -6449,6 +6494,15 @@
     "url": "https://www.nginx.com/",
     "files": [
       "nginx.svg"
+    ]
+  },
+  {
+    "name": "NHost",
+    "shortname": "nhost",
+    "url": "https://nhost.io/",
+    "files": [
+      "nhost-icon.svg",
+      "nhost.svg"
     ]
   },
   {
@@ -8749,6 +8803,15 @@
     ]
   },
   {
+    "name": "Stately",
+    "shortname": "stately",
+    "url": "https://stately.ai/",
+    "files": [
+      "stately-icon.svg",
+      "stately.svg"
+    ]
+  },
+  {
     "name": "StatusPage",
     "shortname": "statuspage",
     "url": "https://www.statuspage.io/",
@@ -9462,6 +9525,15 @@
     "url": "https://tuple.app/",
     "files": [
       "tuple.svg"
+    ]
+  },
+  {
+    "name": "Turbopack",
+    "shortname": "turbopack",
+    "url": "https://turbo.build/pack",
+    "files": [
+      "turbopack-icon.svg",
+      "turbopack.svg"
     ]
   },
   {

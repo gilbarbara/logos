@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://bunny.net/" target="_blank">Bunny</a>
+![bunny-net](https://cdn.svgporn.com/logos/bunny-net-icon.svg)
+![bunny-net](https://cdn.svgporn.com/logos/bunny-net.svg)
+## <a href="https://www.codesee.io/" target="_blank">CodeSee</a>
+![codesee](https://cdn.svgporn.com/logos/codesee-icon.svg)
+![codesee](https://cdn.svgporn.com/logos/codesee.svg)
+## <a href="https://epsagon.com/" target="_blank">epsagon</a> *
+![epsagon](https://cdn.svgporn.com/logos/epsagon-icon.svg)
+![epsagon](https://cdn.svgporn.com/logos/epsagon.svg)
+## <a href="https://www.growthbook.io/" target="_blank">GrowthBook</a>
+![growth-book](https://cdn.svgporn.com/logos/growth-book-icon.svg)
+![growth-book](https://cdn.svgporn.com/logos/growth-book.svg)
+## <a href="https://launchdarkly.com/" target="_blank">LaunchDarkly</a>
+![launchdarkly](https://cdn.svgporn.com/logos/launchdarkly-icon.svg)
+![launchdarkly](https://cdn.svgporn.com/logos/launchdarkly.svg)
+## <a href="https://nhost.io/" target="_blank">NHost</a>
+![nhost](https://cdn.svgporn.com/logos/nhost-icon.svg)
+![nhost](https://cdn.svgporn.com/logos/nhost.svg)
+## <a href="https://stately.ai/" target="_blank">Stately</a>
+![stately](https://cdn.svgporn.com/logos/stately-icon.svg)
+![stately](https://cdn.svgporn.com/logos/stately.svg)
+## <a href="https://turbo.build/pack" target="_blank">Turbopack</a>
+![turbopack](https://cdn.svgporn.com/logos/turbopack-icon.svg)
+![turbopack](https://cdn.svgporn.com/logos/turbopack.svg)
 ## <a href="https://www.builder.io/" target="_blank">Builder</a>
 ![builder-io](https://cdn.svgporn.com/logos/builder-io-icon.svg)
 ![builder-io](https://cdn.svgporn.com/logos/builder-io.svg)
@@ -132,25 +156,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://mswjs.io/" target="_blank">MSW (Mock Service Worker)</a>
 ![msw](https://cdn.svgporn.com/logos/msw.svg)
 ![msw](https://cdn.svgporn.com/logos/msw-icon.svg)
-## <a href="https://arc.codes/" target="_blank">Architect</a>
-![architect](https://cdn.svgporn.com/logos/architect-icon.svg)
-![architect](https://cdn.svgporn.com/logos/architect.svg)
-## <a href="https://gin-gonic.com/" target="_blank">Gin</a>
-![gin](https://cdn.svgporn.com/logos/gin.svg)
-## <a href="https://jotai.org/" target="_blank">Jotai</a>
-![jotai](https://cdn.svgporn.com/logos/jotai.svg)
-## <a href="https://www.plasmic.app/" target="_blank">Plasmic</a>
-![plasmic](https://cdn.svgporn.com/logos/plasmic.svg)
-## <a href="https://recoiljs.org/" target="_blank">Recoil</a>
-![recoil](https://cdn.svgporn.com/logos/recoil-icon.svg)
-![recoil](https://cdn.svgporn.com/logos/recoil.svg)
-## <a href="https://www.wayscript.com/" target="_blank">WayScript</a>
-![wayscript](https://cdn.svgporn.com/logos/wayscript-icon.svg)
-![wayscript](https://cdn.svgporn.com/logos/wayscript.svg)
-## <a href="https://windicss.org/" target="_blank">Windi CSS</a>
-![windi-css](https://cdn.svgporn.com/logos/windi-css.svg)
-## <a href="https://www.amd.com/" target="_blank">AMD</a>
-![amd](https://cdn.svgporn.com/logos/amd.svg)
 
 ---
 
