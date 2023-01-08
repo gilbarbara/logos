@@ -1981,6 +1981,14 @@
     ]
   },
   {
+    "name": "Clio",
+    "shortname": "clio-lang",
+    "url": "https://clio-lang.org/",
+    "files": [
+      "clio-lang.svg"
+    ]
+  },
+  {
     "name": "CLion",
     "shortname": "clion",
     "url": "https://www.jetbrains.com/clion/",
@@ -4042,6 +4050,15 @@
     ]
   },
   {
+    "name": "Google Domains",
+    "shortname": "google-domains",
+    "url": "https://domains.google/",
+    "files": [
+      "google-domains-icon.svg",
+      "google-domains.svg"
+    ]
+  },
+  {
     "name": "Google Drive",
     "shortname": "google-drive",
     "url": "https://www.google.com/drive/",
@@ -4426,6 +4443,15 @@
     "files": [
       "harness-icon.svg",
       "harness.svg"
+    ]
+  },
+  {
+    "name": "HashiCorp",
+    "shortname": "hashicorp",
+    "url": "https://www.hashicorp.com/",
+    "files": [
+      "hashicorp-icon.svg",
+      "hashicorp.svg"
     ]
   },
   {
@@ -6589,6 +6615,15 @@
     ]
   },
   {
+    "name": "Notion",
+    "shortname": "notion",
+    "url": "https://www.notion.so/",
+    "files": [
+      "notion-icon.svg",
+      "notion.svg"
+    ]
+  },
+  {
     "name": "Noysi",
     "shortname": "noysi",
     "url": "https://noysi.com/",
@@ -7244,6 +7279,14 @@
     "url": "https://pnpm.io/",
     "files": [
       "pnpm.svg"
+    ]
+  },
+  {
+    "name": "PocketBase",
+    "shortname": "pocket-base",
+    "url": "https://pocketbase.io/",
+    "files": [
+      "pocket-base.svg"
     ]
   },
   {
@@ -8206,6 +8249,14 @@
     "url": "https://www.sanity.io/",
     "files": [
       "sanity.svg"
+    ]
+  },
+  {
+    "name": "SAP",
+    "shortname": "sap",
+    "url": "https://www.sap.com/",
+    "files": [
+      "sap.svg"
     ]
   },
   {
@@ -10026,6 +10077,14 @@
     ]
   },
   {
+    "name": "WalkMe",
+    "shortname": "walkme",
+    "url": "https://www.walkme.com/",
+    "files": [
+      "walkme.svg"
+    ]
+  },
+  {
     "name": "Watchman",
     "shortname": "watchman",
     "url": "https://facebook.github.io/watchman/",
@@ -10501,6 +10560,14 @@
     "url": "http://www.z-wave.com/",
     "files": [
       "zwave.svg"
+    ]
+  },
+  {
+    "name": "Zabbix",
+    "shortname": "zabbix",
+    "url": "https://www.zabbix.com/",
+    "files": [
+      "zabbix.svg"
     ]
   },
   {

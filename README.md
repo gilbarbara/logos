@@ -18,9 +18,28 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://clio-lang.org/" target="_blank">Clio</a>
+![clio-lang](https://cdn.svgporn.com/logos/clio-lang.svg)
+## <a href="https://domains.google/" target="_blank">Google Domains</a>
+![google-domains](https://cdn.svgporn.com/logos/google-domains-icon.svg)
+![google-domains](https://cdn.svgporn.com/logos/google-domains.svg)
+## <a href="https://www.hashicorp.com/" target="_blank">HashiCorp</a>
+![hashicorp](https://cdn.svgporn.com/logos/hashicorp-icon.svg)
+![hashicorp](https://cdn.svgporn.com/logos/hashicorp.svg)
+## <a href="https://www.notion.so/" target="_blank">Notion</a>
+![notion](https://cdn.svgporn.com/logos/notion-icon.svg)
+![notion](https://cdn.svgporn.com/logos/notion.svg)
 ## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
 ![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
 ![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
+## <a href="https://pocketbase.io/" target="_blank">PocketBase</a>
+![pocket-base](https://cdn.svgporn.com/logos/pocket-base.svg)
+## <a href="https://www.sap.com/" target="_blank">SAP</a>
+![sap](https://cdn.svgporn.com/logos/sap.svg)
+## <a href="https://www.walkme.com/" target="_blank">WalkMe</a>
+![walkme](https://cdn.svgporn.com/logos/walkme.svg)
+## <a href="https://www.zabbix.com/" target="_blank">Zabbix</a>
+![zabbix](https://cdn.svgporn.com/logos/zabbix.svg)
 ## <a href="https://bunny.net/" target="_blank">Bunny</a>
 ![bunny-net](https://cdn.svgporn.com/logos/bunny-net-icon.svg)
 ![bunny-net](https://cdn.svgporn.com/logos/bunny-net.svg)
@@ -133,29 +152,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![mps](https://cdn.svgporn.com/logos/mps.svg)
 ## <a href="https://www.jetbrains.com/teamcity/" target="_blank">TeamCity</a>
 ![teamcity](https://cdn.svgporn.com/logos/teamcity.svg)
-## <a href="https://codeclimate.com/" target="_blank">Code Climate</a>
-![codeclimate](https://cdn.svgporn.com/logos/codeclimate-icon.svg)
-![codeclimate](https://cdn.svgporn.com/logos/codeclimate.svg)
-## <a href="http://www.deviantart.com/" target="_blank">DeviantArt</a>
-![deviantart](https://cdn.svgporn.com/logos/deviantart-icon.svg)
-![deviantart](https://cdn.svgporn.com/logos/deviantart.svg)
-## <a href="http://elm-lang.org/" target="_blank">elm</a>
-![elm](https://cdn.svgporn.com/logos/elm.svg)
-![elm](https://cdn.svgporn.com/logos/elm-classic.svg)
-## <a href="http://www.gnu.org/software/emacs/" target="_blank">Emacs</a>
-![emacs](https://cdn.svgporn.com/logos/emacs.svg)
-![emacs](https://cdn.svgporn.com/logos/emacs-classic.svg)
-## <a href="http://eta-lang.org/" target="_blank">Eta</a>
-![eta-lang](https://cdn.svgporn.com/logos/eta.svg)
-![eta-lang](https://cdn.svgporn.com/logos/eta-icon.svg)
-## <a href="https://lateral.io/" target="_blank">Lateral</a>
-![lateral](https://cdn.svgporn.com/logos/lateral-icon.svg)
-![lateral](https://cdn.svgporn.com/logos/lateral.svg)
-## <a href="http://www.linuxmint.com/" target="_blank">Linux Mint</a>
-![linux-mint](https://cdn.svgporn.com/logos/linux-mint.svg)
-## <a href="http://www.microsoft.com/" target="_blank">Microsoft</a>
-![microsoft](https://cdn.svgporn.com/logos/microsoft-icon.svg)
-![microsoft](https://cdn.svgporn.com/logos/microsoft.svg)
 
 ---
 
