@@ -3831,6 +3831,7 @@
     "shortname": "glamorous",
     "url": "https://glamorous.rocks/",
     "files": [
+      "glamorous-icon.svg",
       "glamorous.svg"
     ]
   },
@@ -7435,14 +7436,6 @@
     ]
   },
   {
-    "name": "Protactor",
-    "shortname": "protactor",
-    "url": "http://www.protractortest.org/",
-    "files": [
-      "protactor.svg"
-    ]
-  },
-  {
     "name": "Proto.io",
     "shortname": "protoio",
     "url": "https://proto.io/",
@@ -7456,6 +7449,14 @@
     "url": "https://protonet.info",
     "files": [
       "protonet.svg"
+    ]
+  },
+  {
+    "name": "Protractor",
+    "shortname": "protractor",
+    "url": "http://www.protractortest.org/",
+    "files": [
+      "protractor.svg"
     ]
   },
   {

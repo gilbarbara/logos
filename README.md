@@ -18,6 +18,9 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
+![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
+![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
 ## <a href="https://bunny.net/" target="_blank">Bunny</a>
 ![bunny-net](https://cdn.svgporn.com/logos/bunny-net-icon.svg)
 ![bunny-net](https://cdn.svgporn.com/logos/bunny-net.svg)
@@ -153,9 +156,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="http://www.microsoft.com/" target="_blank">Microsoft</a>
 ![microsoft](https://cdn.svgporn.com/logos/microsoft-icon.svg)
 ![microsoft](https://cdn.svgporn.com/logos/microsoft.svg)
-## <a href="https://mswjs.io/" target="_blank">MSW (Mock Service Worker)</a>
-![msw](https://cdn.svgporn.com/logos/msw.svg)
-![msw](https://cdn.svgporn.com/logos/msw-icon.svg)
 
 ---
 
