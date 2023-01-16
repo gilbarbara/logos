@@ -10662,5 +10662,13 @@
       "zulip-icon.svg",
       "zulip.svg"
     ]
+  },
+  {
+    "name": "Edgio",
+    "shortname": "edgio",
+    "url": "https://edg.io/",
+    "files": [
+      "edgio.svg",
+    ]
   }
 ]
