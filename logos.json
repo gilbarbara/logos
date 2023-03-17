@@ -1,13 +1,5 @@
 [
   {
-    "name": " Brain.js",
-    "shortname": "brainjs",
-    "url": "https://brain.js.org/",
-    "files": [
-      "brainjs.svg"
-    ]
-  },
-  {
     "name": ".NET",
     "shortname": "dotnet",
     "url": "http://www.microsoft.com/net",
@@ -1527,6 +1519,14 @@
     "url": "http://brackets.io/",
     "files": [
       "brackets.svg"
+    ]
+  },
+  {
+    "name": "Brain.js",
+    "shortname": "brainjs",
+    "url": "https://brain.js.org/",
+    "files": [
+      "brainjs.svg"
     ]
   },
   {
