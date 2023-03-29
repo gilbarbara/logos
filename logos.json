@@ -620,6 +620,7 @@
     "shortname": "astro",
     "url": "https://astro.build/",
     "files": [
+      "astro-icon.svg",
       "astro.svg"
     ]
   },
@@ -4143,7 +4144,6 @@
     "shortname": "google-pay",
     "url": "https://pay.google.com/about/",
     "files": [
-      "google-pay-icon.svg",
       "google-pay.svg"
     ]
   },
@@ -6477,6 +6477,7 @@
     "shortname": "netlify",
     "url": "https://www.netlify.com/",
     "files": [
+      "netlify-icon.svg",
       "netlify.svg"
     ]
   },

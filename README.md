@@ -18,6 +18,22 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://astro.build/" target="_blank">Astro</a>
+![astro](https://cdn.svgporn.com/logos/astro-icon.svg)
+![astro](https://cdn.svgporn.com/logos/astro.svg)
+## <a href="https://www.bing.com/" target="_blank">Bing</a>
+![bing](https://cdn.svgporn.com/logos/bing.svg)
+## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
+![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
+## <a href="https://play.google.com/" target="_blank">Google Play</a>
+![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
+![google-play](https://cdn.svgporn.com/logos/google-play.svg)
+## <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+![netlify](https://cdn.svgporn.com/logos/netlify-icon.svg)
+![netlify](https://cdn.svgporn.com/logos/netlify.svg)
+## <a href="https://strapi.io/" target="_blank">Strapi</a>
+![strapi](https://cdn.svgporn.com/logos/strapi-icon.svg)
+![strapi](https://cdn.svgporn.com/logos/strapi.svg)
 ## <a href="https://clio-lang.org/" target="_blank">Clio</a>
 ![clio-lang](https://cdn.svgporn.com/logos/clio-lang.svg)
 ## <a href="https://domains.google/" target="_blank">Google Domains</a>
@@ -137,21 +153,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![compose-multiplatform](https://cdn.svgporn.com/logos/compose-multiplatform.svg)
 ## <a href="https://www.jetbrains.com/datagrip/" target="_blank">DataGrip</a>
 ![datagrip](https://cdn.svgporn.com/logos/datagrip.svg)
-## <a href="https://www.jetbrains.com/dataspell/" target="_blank">DataSpell</a>
-![dataspell](https://cdn.svgporn.com/logos/dataspell.svg)
-## <a href="https://www.jetbrains.com/go/" target="_blank">GoLand</a>
-![goland](https://cdn.svgporn.com/logos/goland.svg)
-## <a href="https://www.jetbrains.com/space/" target="_blank">JetBrains Space</a>
-![jetbrains-space](https://cdn.svgporn.com/logos/jetbrains-space-icon.svg)
-![jetbrains-space](https://cdn.svgporn.com/logos/jetbrains-space.svg)
-## <a href="https://ktor.io/" target="_blank">Ktor</a>
-![ktor](https://cdn.svgporn.com/logos/ktor-icon.svg)
-![ktor](https://cdn.svgporn.com/logos/ktor.svg)
-## <a href="https://www.jetbrains.com/mps/" target="_blank">MPS</a>
-![mps](https://cdn.svgporn.com/logos/mps-icon.svg)
-![mps](https://cdn.svgporn.com/logos/mps.svg)
-## <a href="https://www.jetbrains.com/teamcity/" target="_blank">TeamCity</a>
-![teamcity](https://cdn.svgporn.com/logos/teamcity.svg)
 
 ---
 
