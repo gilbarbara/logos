@@ -18,6 +18,28 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://edg.io/" target="_blank">Edgio</a>
+![edgio](https://cdn.svgporn.com/logos/edgio-icon.svg)
+![edgio](https://cdn.svgporn.com/logos/edgio.svg)
+## <a href="https://workspace.google.com/" target="_blank">Google Workspace</a>
+![google-workspace](https://cdn.svgporn.com/logos/google-workspace.svg)
+## <a href="https://csa-iot.org/all-solutions/matter/" target="_blank">Matter</a>
+![matter](https://cdn.svgporn.com/logos/matter-icon.svg)
+![matter](https://cdn.svgporn.com/logos/matter.svg)
+## <a href="https://www.openapis.org/" target="_blank">OpenAPI</a>
+![openapi](https://cdn.svgporn.com/logos/openapi-icon.svg)
+![openapi](https://cdn.svgporn.com/logos/openapi.svg)
+## <a href="https://www.risingwave.dev" target="_blank">RisingWave</a>
+![risingwave](https://cdn.svgporn.com/logos/risingwave-icon.svg)
+![risingwave](https://cdn.svgporn.com/logos/risingwave.svg)
+## <a href="https://stepsize.com/" target="_blank">Stepsize</a>
+![stepsize](https://cdn.svgporn.com/logos/stepsize-icon.svg)
+![stepsize](https://cdn.svgporn.com/logos/stepsize.svg)
+## <a href="https://swimm.io/" target="_blank">Swimm</a>
+![swimm](https://cdn.svgporn.com/logos/swimm.svg)
+## <a href="https://zoom.us/" target="_blank">Zoom</a>
+![zoom](https://cdn.svgporn.com/logos/zoom-icon.svg)
+![zoom](https://cdn.svgporn.com/logos/zoom.svg)
 ## <a href="https://astro.build/" target="_blank">Astro</a>
 ![astro](https://cdn.svgporn.com/logos/astro-icon.svg)
 ![astro](https://cdn.svgporn.com/logos/astro.svg)
@@ -132,27 +154,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://coda.io/" target="_blank">Coda</a>
 ![coda](https://cdn.svgporn.com/logos/coda-icon.svg)
 ![coda](https://cdn.svgporn.com/logos/coda.svg)
-## <a href="https://www.descript.com/" target="_blank">Descript</a>
-![descript](https://cdn.svgporn.com/logos/descript-icon.svg)
-![descript](https://cdn.svgporn.com/logos/descript.svg)
-## <a href="https://dovetailapp.com/" target="_blank">Dovetail</a>
-![dovetail](https://cdn.svgporn.com/logos/dovetail-icon.svg)
-![dovetail](https://cdn.svgporn.com/logos/dovetail.svg)
-## <a href="https://greensock.com/" target="_blank">GreenSock (GSAP)</a>
-![greensock](https://cdn.svgporn.com/logos/greensock-icon.svg)
-![greensock](https://cdn.svgporn.com/logos/greensock.svg)
-## <a href="https://harness.io/" target="_blank">Harness</a>
-![harness](https://cdn.svgporn.com/logos/harness-icon.svg)
-![harness](https://cdn.svgporn.com/logos/harness.svg)
-## <a href="https://micro-editor.github.io/" target="_blank">Micro</a>
-![micro](https://cdn.svgporn.com/logos/micro-icon.svg)
-![micro](https://cdn.svgporn.com/logos/micro.svg)
-## <a href="https://observablehq.com/" target="_blank">Observable</a>
-![observable](https://cdn.svgporn.com/logos/observablehq.svg)
-## <a href="https://www.jetbrains.com/lp/compose-mpp/" target="_blank">Compose Multiplatform</a>
-![compose-multiplatform](https://cdn.svgporn.com/logos/compose-multiplatform.svg)
-## <a href="https://www.jetbrains.com/datagrip/" target="_blank">DataGrip</a>
-![datagrip](https://cdn.svgporn.com/logos/datagrip.svg)
 
 ---
 

@@ -2991,6 +2991,15 @@
     ]
   },
   {
+    "name": "Edgio",
+    "shortname": "edgio",
+    "url": "https://edg.io/",
+    "files": [
+      "edgio-icon.svg",
+      "edgio.svg"
+    ]
+  },
+  {
     "name": "EditorConfig",
     "shortname": "editorconfig",
     "url": "https://editorconfig.org/",
@@ -4178,6 +4187,14 @@
     "url": "https://marketingplatform.google.com/about/tag-manager/",
     "files": [
       "google-tag-manager.svg"
+    ]
+  },
+  {
+    "name": "Google Workspace",
+    "shortname": "google-workspace",
+    "url": "https://workspace.google.com/",
+    "files": [
+      "google-workspace.svg"
     ]
   },
   {
@@ -5933,6 +5950,15 @@
     ]
   },
   {
+    "name": "Matter",
+    "shortname": "matter",
+    "url": "https://csa-iot.org/all-solutions/matter/",
+    "files": [
+      "matter-icon.svg",
+      "matter.svg"
+    ]
+  },
+  {
     "name": "Mattermost",
     "shortname": "mattermost",
     "url": "http://www.mattermost.org/",
@@ -6801,6 +6827,15 @@
     "url": "http://opensource.org/",
     "files": [
       "opensource.svg"
+    ]
+  },
+  {
+    "name": "OpenAPI",
+    "shortname": "openapi",
+    "url": "https://www.openapis.org/",
+    "files": [
+      "openapi-icon.svg",
+      "openapi.svg"
     ]
   },
   {
@@ -8057,6 +8092,15 @@
     ]
   },
   {
+    "name": "RisingWave",
+    "shortname": "risingwave",
+    "url": "https://www.risingwave.dev",
+    "files": [
+      "risingwave-icon.svg",
+      "risingwave.svg"
+    ]
+  },
+  {
     "name": "RocketChat",
     "shortname": "rocket-chat",
     "url": "https://rocket.chat/",
@@ -8899,6 +8943,15 @@
     ]
   },
   {
+    "name": "Stepsize",
+    "shortname": "stepsize",
+    "url": "https://stepsize.com/",
+    "files": [
+      "stepsize-icon.svg",
+      "stepsize.svg"
+    ]
+  },
+  {
     "name": "Stetho",
     "shortname": "stetho",
     "url": "http://facebook.github.io/stetho/",
@@ -9195,6 +9248,14 @@
     "url": "https://swiftype.com/",
     "files": [
       "swiftype.svg"
+    ]
+  },
+  {
+    "name": "Swimm",
+    "shortname": "swimm",
+    "url": "https://swimm.io/",
+    "files": [
+      "swimm.svg"
     ]
   },
   {
@@ -10637,6 +10698,15 @@
     "url": "http://www.zoho.com/",
     "files": [
       "zoho.svg"
+    ]
+  },
+  {
+    "name": "Zoom",
+    "shortname": "zoom",
+    "url": "https://zoom.us/",
+    "files": [
+      "zoom-icon.svg",
+      "zoom.svg"
     ]
   },
   {
