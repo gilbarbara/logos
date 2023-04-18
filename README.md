@@ -18,6 +18,18 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.americanexpress.com/" target="_blank">American Express</a>
+![amex](https://cdn.svgporn.com/logos/amex.svg)
+![amex](https://cdn.svgporn.com/logos/amex-digital.svg)
+## <a href="https://firefox.com/" target="_blank">Firefox</a>
+![firefox](https://cdn.svgporn.com/logos/firefox.svg)
+## <a href="https://www.microsoft.com/windows" target="_blank">Microsoft Windows</a>
+![microsoft-windows](https://cdn.svgporn.com/logos/microsoft-windows-icon.svg)
+![microsoft-windows](https://cdn.svgporn.com/logos/microsoft-windows.svg)
+## <a href="https://nodejs.org/" target="_blank">Node.js</a>
+![nodejs](https://cdn.svgporn.com/logos/nodejs-icon.svg)
+![nodejs](https://cdn.svgporn.com/logos/nodejs-icon-alt.svg)
+![nodejs](https://cdn.svgporn.com/logos/nodejs.svg)
 ## <a href="https://edg.io/" target="_blank">Edgio</a>
 ![edgio](https://cdn.svgporn.com/logos/edgio-icon.svg)
 ![edgio](https://cdn.svgporn.com/logos/edgio.svg)
@@ -142,18 +154,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.storyblok.com/" target="_blank">Storyblok</a>
 ![storyblok](https://cdn.svgporn.com/logos/storyblok-icon.svg)
 ![storyblok](https://cdn.svgporn.com/logos/storyblok.svg)
-## <a href="https://surrealdb.com/" target="_blank">SurrealDB</a>
-![surrealdb](https://cdn.svgporn.com/logos/surrealdb-icon.svg)
-![surrealdb](https://cdn.svgporn.com/logos/surrealdb.svg)
-## <a href="https://zeit.co/next" target="_blank">Next.js</a>
-![nextjs](https://cdn.svgporn.com/logos/nextjs-icon.svg)
-![nextjs](https://cdn.svgporn.com/logos/nextjs.svg)
-## <a href="https://bubble.io/" target="_blank">Bubble</a>
-![bubble](https://cdn.svgporn.com/logos/bubble-icon.svg)
-![bubble](https://cdn.svgporn.com/logos/bubble.svg)
-## <a href="https://coda.io/" target="_blank">Coda</a>
-![coda](https://cdn.svgporn.com/logos/coda-icon.svg)
-![coda](https://cdn.svgporn.com/logos/coda.svg)
 
 ---
 

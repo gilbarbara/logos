@@ -282,7 +282,8 @@
     "shortname": "amex",
     "url": "https://www.americanexpress.com/",
     "files": [
-      "amex.svg"
+      "amex.svg",
+      "amex-digital.svg"
     ]
   },
   {
@@ -6163,6 +6164,7 @@
     "shortname": "microsoft-windows",
     "url": "https://www.microsoft.com/windows",
     "files": [
+      "microsoft-windows-icon.svg",
       "microsoft-windows.svg"
     ]
   },
@@ -6613,6 +6615,7 @@
     "url": "https://nodejs.org/",
     "files": [
       "nodejs-icon.svg",
+      "nodejs-icon-alt.svg",
       "nodejs.svg"
     ]
   },
