@@ -1926,6 +1926,14 @@
     ]
   },
   {
+    "name": "Chroma",
+    "shortname": "chroma",
+    "url": "https://www.trychroma.com/",
+    "files": [
+      "chroma.svg"
+    ]
+  },
+  {
     "name": "Chromatic",
     "shortname": "chromatic",
     "url": "https://www.chromaticqa.com/",
@@ -2840,6 +2848,14 @@
     ]
   },
   {
+    "name": "dolt",
+    "shortname": "dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "files": [
+      "dolt.svg"
+    ]
+  },
+  {
     "name": "Dovetail",
     "shortname": "dovetail",
     "url": "https://dovetailapp.com/",
@@ -2989,6 +3005,14 @@
     "url": "https://www.ecma-international.org/",
     "files": [
       "ecma.svg"
+    ]
+  },
+  {
+    "name": "EdgeDB",
+    "shortname": "edgedb",
+    "url": "https://www.edgedb.com/",
+    "files": [
+      "edgedb.svg"
     ]
   },
   {
@@ -5285,6 +5309,15 @@
     ]
   },
   {
+    "name": "KeyDB",
+    "shortname": "keydb",
+    "url": "https://docs.keydb.dev/",
+    "files": [
+      "keydb-icon.svg",
+      "keydb.svg"
+    ]
+  },
+  {
     "name": "KeystoneJS",
     "shortname": "keystonejs",
     "url": "http://keystonejs.com/",
@@ -6194,6 +6227,15 @@
     ]
   },
   {
+    "name": "MindsDB",
+    "shortname": "mindsdb",
+    "url": "https://mindsdb.com/",
+    "files": [
+      "mindsdb-icon.svg",
+      "mindsdb.svg"
+    ]
+  },
+  {
     "name": "Mint",
     "shortname": "mint-lang",
     "url": "https://mint-lang.com/",
@@ -6465,6 +6507,15 @@
     "url": "http://neo4j.com/",
     "files": [
       "neo4j.svg"
+    ]
+  },
+  {
+    "name": "Neon",
+    "shortname": "neon",
+    "url": "https://neon.tech/",
+    "files": [
+      "neon-icon.svg",
+      "neon.svg"
     ]
   },
   {
@@ -10035,6 +10086,14 @@
     ]
   },
   {
+    "name": "Vitess",
+    "shortname": "vitess",
+    "url": "https://vitess.io/",
+    "files": [
+      "vitess.svg"
+    ]
+  },
+  {
     "name": "Vitest",
     "shortname": "vitest",
     "url": "https://vitest.dev/",
@@ -10495,6 +10554,15 @@
     "url": "https://www.apachefriends.org/",
     "files": [
       "xampp.svg"
+    ]
+  },
+  {
+    "name": "Xata",
+    "shortname": "xata",
+    "url": "https://xata.io/",
+    "files": [
+      "xata-icon.svg",
+      "xata.svg"
     ]
   },
   {

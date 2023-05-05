@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.trychroma.com/" target="_blank">Chroma</a>
+![chroma](https://cdn.svgporn.com/logos/chroma.svg)
+## <a href="https://github.com/dolthub/dolt" target="_blank">dolt</a>
+![dolt](https://cdn.svgporn.com/logos/dolt.svg)
+## <a href="https://www.edgedb.com/" target="_blank">EdgeDB</a>
+![edgedb](https://cdn.svgporn.com/logos/edgedb.svg)
+## <a href="https://docs.keydb.dev/" target="_blank">KeyDB</a>
+![keydb](https://cdn.svgporn.com/logos/keydb-icon.svg)
+![keydb](https://cdn.svgporn.com/logos/keydb.svg)
+## <a href="https://mindsdb.com/" target="_blank">MindsDB</a>
+![mindsdb](https://cdn.svgporn.com/logos/mindsdb-icon.svg)
+![mindsdb](https://cdn.svgporn.com/logos/mindsdb.svg)
+## <a href="https://neon.tech/" target="_blank">Neon</a>
+![neon](https://cdn.svgporn.com/logos/neon-icon.svg)
+![neon](https://cdn.svgporn.com/logos/neon.svg)
+## <a href="https://vitess.io/" target="_blank">Vitess</a>
+![vitess](https://cdn.svgporn.com/logos/vitess.svg)
+## <a href="https://xata.io/" target="_blank">Xata</a>
+![xata](https://cdn.svgporn.com/logos/xata-icon.svg)
+![xata](https://cdn.svgporn.com/logos/xata.svg)
 ## <a href="https://www.americanexpress.com/" target="_blank">American Express</a>
 ![amex](https://cdn.svgporn.com/logos/amex.svg)
 ![amex](https://cdn.svgporn.com/logos/amex-digital.svg)
@@ -134,26 +154,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://upstash.com/" target="_blank">Upstash</a>
 ![upstash](https://cdn.svgporn.com/logos/upstash-icon.svg)
 ![upstash](https://cdn.svgporn.com/logos/upstash.svg)
-## <a href="https://zeroheight.com/" target="_blank">zeroheight</a>
-![zeroheight](https://cdn.svgporn.com/logos/zeroheight-icon.svg)
-![zeroheight](https://cdn.svgporn.com/logos/zeroheight.svg)
-## <a href="https://chrome.google.com/webstore" target="_blank">Chrome Web Store</a>
-![chrome-web-store](https://cdn.svgporn.com/logos/chrome-web-store.svg)
-## <a href="https://conda.io/" target="_blank">Conda</a>
-![conda](https://cdn.svgporn.com/logos/conda.svg)
-## <a href="https://www.geetest.com/" target="_blank">GeeTest</a>
-![geetest](https://cdn.svgporn.com/logos/geetest-icon.svg)
-![geetest](https://cdn.svgporn.com/logos/geetest.svg)
-## <a href="https://www.hcaptcha.com/" target="_blank">hCaptcha</a>
-![hcaptcha](https://cdn.svgporn.com/logos/hcaptcha-icon.svg)
-![hcaptcha](https://cdn.svgporn.com/logos/hcaptcha.svg)
-## <a href="https://www.google.com/recaptcha/" target="_blank">reCAPTCHA</a>
-![recaptcha](https://cdn.svgporn.com/logos/recaptcha.svg)
-## <a href="https://renovatebot.com/" target="_blank">Renovate</a>
-![renovatebot](https://cdn.svgporn.com/logos/renovatebot.svg)
-## <a href="https://www.storyblok.com/" target="_blank">Storyblok</a>
-![storyblok](https://cdn.svgporn.com/logos/storyblok-icon.svg)
-![storyblok](https://cdn.svgporn.com/logos/storyblok.svg)
 
 ---
 
