@@ -540,6 +540,14 @@
     ]
   },
   {
+    "name": "Arc",
+    "shortname": "arc",
+    "url": "https://arc.net/",
+    "files": [
+      "arc.svg"
+    ]
+  },
+  {
     "name": "Architect",
     "shortname": "architect",
     "url": "https://arc.codes/",
@@ -2579,6 +2587,14 @@
     ]
   },
   {
+    "name": "Data Station",
+    "shortname": "data-station",
+    "url": "https://datastation.multiprocess.io/",
+    "files": [
+      "data-station.svg"
+    ]
+  },
+  {
     "name": "Database Labs",
     "shortname": "database-labs",
     "url": "https://www.databaselabs.io/",
@@ -3643,6 +3659,15 @@
     "url": "http://foundation.zurb.com/",
     "files": [
       "foundation.svg"
+    ]
+  },
+  {
+    "name": "FoundationDB",
+    "shortname": "foundationdb",
+    "url": "https://www.foundationdb.org/",
+    "files": [
+      "foundationdb-icon.svg",
+      "foundationdb.svg"
     ]
   },
   {
@@ -6044,11 +6069,27 @@
     ]
   },
   {
+    "name": "Meilisearch",
+    "shortname": "meilisearch",
+    "url": "https://www.meilisearch.com/",
+    "files": [
+      "meilisearch.svg"
+    ]
+  },
+  {
     "name": "Memcached",
     "shortname": "memcached",
     "url": "http://memcached.org/",
     "files": [
       "memcached.svg"
+    ]
+  },
+  {
+    "name": "Memgraph",
+    "shortname": "memgraph",
+    "url": "https://memgraph.com/",
+    "files": [
+      "memgraph.svg"
     ]
   },
   {
@@ -7238,6 +7279,23 @@
     "url": "https://www.jetbrains.com/phpstorm/",
     "files": [
       "phpstorm.svg"
+    ]
+  },
+  {
+    "name": "Pinecone",
+    "shortname": "pinecone",
+    "url": "https://www.pinecone.io/",
+    "files": [
+      "pinecone-icon.svg",
+      "pinecone.svg"
+    ]
+  },
+  {
+    "name": "Pinia",
+    "shortname": "pinia",
+    "url": "https://pinia.vuejs.org/",
+    "files": [
+      "pinia.svg"
     ]
   },
   {
@@ -10685,6 +10743,15 @@
     "files": [
       "youtube-icon.svg",
       "youtube.svg"
+    ]
+  },
+  {
+    "name": "YugabyteDB",
+    "shortname": "yugabyte",
+    "url": "https://www.yugabyte.com/",
+    "files": [
+      "yugabyte-icon.svg",
+      "yugabyte.svg"
     ]
   },
   {
