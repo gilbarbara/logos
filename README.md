@@ -18,6 +18,14 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="http://www.google.com/chrome/" target="_blank">Chrome</a>
+![chrome](https://cdn.svgporn.com/logos/chrome.svg)
+## <a href="https://qwik.builder.io/" target="_blank">Qwik</a>
+![qwik](https://cdn.svgporn.com/logos/qwik-icon.svg)
+![qwik](https://cdn.svgporn.com/logos/qwik.svg)
+## <a href="https://www.solidjs.com/" target="_blank">Solid</a>
+![solidjs](https://cdn.svgporn.com/logos/solidjs-icon.svg)
+![solidjs](https://cdn.svgporn.com/logos/solidjs.svg)
 ## <a href="https://arc.net/" target="_blank">Arc</a>
 ![arc](https://cdn.svgporn.com/logos/arc.svg)
 ## <a href="https://datastation.multiprocess.io/" target="_blank">Data Station</a>
@@ -141,15 +149,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.growthbook.io/" target="_blank">GrowthBook</a>
 ![growth-book](https://cdn.svgporn.com/logos/growth-book-icon.svg)
 ![growth-book](https://cdn.svgporn.com/logos/growth-book.svg)
-## <a href="https://launchdarkly.com/" target="_blank">LaunchDarkly</a>
-![launchdarkly](https://cdn.svgporn.com/logos/launchdarkly-icon.svg)
-![launchdarkly](https://cdn.svgporn.com/logos/launchdarkly.svg)
-## <a href="https://nhost.io/" target="_blank">NHost</a>
-![nhost](https://cdn.svgporn.com/logos/nhost-icon.svg)
-![nhost](https://cdn.svgporn.com/logos/nhost.svg)
-## <a href="https://stately.ai/" target="_blank">Stately</a>
-![stately](https://cdn.svgporn.com/logos/stately-icon.svg)
-![stately](https://cdn.svgporn.com/logos/stately.svg)
 
 ---
 
