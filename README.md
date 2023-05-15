@@ -18,6 +18,28 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://applitools.com/" target="_blank">Applitools</a>
+![applitools](https://cdn.svgporn.com/logos/applitools-icon.svg)
+![applitools](https://cdn.svgporn.com/logos/applitools.svg)
+## <a href="https://cube.dev/" target="_blank">Cube</a>
+![cube](https://cdn.svgporn.com/logos/cube-icon.svg)
+![cube](https://cdn.svgporn.com/logos/cube.svg)
+## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
+![daisyui](https://cdn.svgporn.com/logos/daisyUI.svg)
+## <a href="https://danfo.jsdata.org/" target="_blank">Danfo.js</a>
+![danfo](https://cdn.svgporn.com/logos/danfo.svg)
+## <a href="https://katalon.com/" target="_blank">Katalon</a>
+![katalon](https://cdn.svgporn.com/logos/katalon-icon.svg)
+![katalon](https://cdn.svgporn.com/logos/katalon.svg)
+## <a href="https://pandas.pydata.org/" target="_blank">Pandas</a>
+![pandas](https://cdn.svgporn.com/logos/pandas-icon.svg)
+![pandas](https://cdn.svgporn.com/logos/pandas.svg)
+## <a href="https://rushjs.io/" target="_blank">Rush</a>
+![rush](https://cdn.svgporn.com/logos/rush-icon.svg)
+![rush](https://cdn.svgporn.com/logos/rush.svg)
+## <a href="https://supertokens.com/" target="_blank">SuperTokens</a>
+![supertokens](https://cdn.svgporn.com/logos/supertokens-icon.svg)
+![supertokens](https://cdn.svgporn.com/logos/supertokens.svg)
 ## <a href="http://www.google.com/chrome/" target="_blank">Chrome</a>
 ![chrome](https://cdn.svgporn.com/logos/chrome.svg)
 ## <a href="https://qwik.builder.io/" target="_blank">Qwik</a>
@@ -129,26 +151,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
 ![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
 ![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
-## <a href="https://pocketbase.io/" target="_blank">PocketBase</a>
-![pocket-base](https://cdn.svgporn.com/logos/pocket-base.svg)
-## <a href="https://www.sap.com/" target="_blank">SAP</a>
-![sap](https://cdn.svgporn.com/logos/sap.svg)
-## <a href="https://www.walkme.com/" target="_blank">WalkMe</a>
-![walkme](https://cdn.svgporn.com/logos/walkme.svg)
-## <a href="https://www.zabbix.com/" target="_blank">Zabbix</a>
-![zabbix](https://cdn.svgporn.com/logos/zabbix.svg)
-## <a href="https://bunny.net/" target="_blank">Bunny</a>
-![bunny-net](https://cdn.svgporn.com/logos/bunny-net-icon.svg)
-![bunny-net](https://cdn.svgporn.com/logos/bunny-net.svg)
-## <a href="https://www.codesee.io/" target="_blank">CodeSee</a>
-![codesee](https://cdn.svgporn.com/logos/codesee-icon.svg)
-![codesee](https://cdn.svgporn.com/logos/codesee.svg)
-## <a href="https://epsagon.com/" target="_blank">epsagon</a> *
-![epsagon](https://cdn.svgporn.com/logos/epsagon-icon.svg)
-![epsagon](https://cdn.svgporn.com/logos/epsagon.svg)
-## <a href="https://www.growthbook.io/" target="_blank">GrowthBook</a>
-![growth-book](https://cdn.svgporn.com/logos/growth-book-icon.svg)
-![growth-book](https://cdn.svgporn.com/logos/growth-book.svg)
 
 ---
 

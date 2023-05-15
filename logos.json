@@ -497,6 +497,15 @@
     ]
   },
   {
+    "name": "Applitools",
+    "shortname": "applitools",
+    "url": "https://applitools.com/",
+    "files": [
+      "applitools-icon.svg",
+      "applitools.svg"
+    ]
+  },
+  {
     "name": "AppSignal",
     "shortname": "appsignal",
     "url": "https://appsignal.com/",
@@ -2520,6 +2529,15 @@
     ]
   },
   {
+    "name": "Cube",
+    "shortname": "cube",
+    "url": "https://cube.dev/",
+    "files": [
+      "cube-icon.svg",
+      "cube.svg"
+    ]
+  },
+  {
     "name": "Cucumber",
     "shortname": "cucumber",
     "url": "https://cucumber.io/",
@@ -2567,6 +2585,22 @@
     "url": "http://d3js.org/",
     "files": [
       "d3.svg"
+    ]
+  },
+  {
+    "name": "daisyUI",
+    "shortname": "daisyui",
+    "url": "https://daisyui.com/",
+    "files": [
+      "daisyUI.svg"
+    ]
+  },
+  {
+    "name": "Danfo.js",
+    "shortname": "danfo",
+    "url": "https://danfo.jsdata.org/",
+    "files": [
+      "danfo.svg"
     ]
   },
   {
@@ -5301,6 +5335,15 @@
     ]
   },
   {
+    "name": "Katalon",
+    "shortname": "katalon",
+    "url": "https://katalon.com/",
+    "files": [
+      "katalon-icon.svg",
+      "katalon.svg"
+    ]
+  },
+  {
     "name": "KDE",
     "shortname": "kde",
     "url": "https://kde.org/",
@@ -7125,6 +7168,15 @@
     ]
   },
   {
+    "name": "Pandas",
+    "shortname": "pandas",
+    "url": "https://pandas.pydata.org/",
+    "files": [
+      "pandas-icon.svg",
+      "pandas.svg"
+    ]
+  },
+  {
     "name": "Parcel",
     "shortname": "parcel",
     "url": "https://parceljs.org/",
@@ -8338,6 +8390,15 @@
     ]
   },
   {
+    "name": "Rush",
+    "shortname": "rush",
+    "url": "https://rushjs.io/",
+    "files": [
+      "rush-icon.svg",
+      "rush.svg"
+    ]
+  },
+  {
     "name": "Rust",
     "shortname": "rust",
     "url": "http://www.rust-lang.org/",
@@ -9254,6 +9315,15 @@
     "files": [
       "supabase-icon.svg",
       "supabase.svg"
+    ]
+  },
+  {
+    "name": "SuperTokens",
+    "shortname": "supertokens",
+    "url": "https://supertokens.com/",
+    "files": [
+      "supertokens-icon.svg",
+      "supertokens.svg"
     ]
   },
   {
