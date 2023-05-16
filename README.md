@@ -18,6 +18,38 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.asyncapi.com/" target="_blank">AsyncAPI</a>
+![asyncapi](https://cdn.svgporn.com/logos/async-api-icon.svg)
+![asyncapi](https://cdn.svgporn.com/logos/async-api.svg)
+## <a href="https://www.eraser.io/" target="_blank">Eraser</a>
+![eraser](https://cdn.svgporn.com/logos/eraser-icon.svg)
+![eraser](https://cdn.svgporn.com/logos/eraser.svg)
+## <a href="https://json-ld.org/" target="_blank">JSON-LD</a>
+![json-ld](https://cdn.svgporn.com/logos/json-ld.svg)
+## <a href="https://www.mautic.org/" target="_blank">Mautic</a>
+![mautic](https://cdn.svgporn.com/logos/mautic-icon.svg)
+![mautic](https://cdn.svgporn.com/logos/mautic.svg)
+## <a href="https://pipedream.com/" target="_blank">Pipedream</a>
+![pipedream](https://cdn.svgporn.com/logos/pipedream.svg)
+## <a href="https://posthog.com/" target="_blank">PostHog</a>
+![posthog](https://cdn.svgporn.com/logos/posthog-icon.svg)
+![posthog](https://cdn.svgporn.com/logos/posthog.svg)
+## <a href="https://www.sigstore.dev" target="_blank">sigstore</a>
+![sigstore](https://cdn.svgporn.com/logos/sigstore-icon.svg)
+![sigstore](https://cdn.svgporn.com/logos/sigstore.svg)
+## <a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank">SonarCloud</a>
+![sonarcloud](https://cdn.svgporn.com/logos/sonarcloud-icon.svg)
+![sonarcloud](https://cdn.svgporn.com/logos/sonarcloud.svg)
+## <a href="https://www.sonarsource.com/products/sonarlint/" target="_blank">SonarLint</a>
+![sonarlint](https://cdn.svgporn.com/logos/sonarlint-icon.svg)
+![sonarlint](https://cdn.svgporn.com/logos/sonarlint.svg)
+## <a href="https://stytch.com/" target="_blank">Stytch</a>
+![stytch](https://cdn.svgporn.com/logos/stytch.svg)
+## <a href="https://www.torproject.org/" target="_blank">Tor</a>
+![tor](https://cdn.svgporn.com/logos/tor-browser.svg)
+## <a href="https://www.waypointproject.io/" target="_blank">Waypoint</a>
+![waypoint](https://cdn.svgporn.com/logos/waypoint-icon.svg)
+![waypoint](https://cdn.svgporn.com/logos/waypoint.svg)
 ## <a href="https://applitools.com/" target="_blank">Applitools</a>
 ![applitools](https://cdn.svgporn.com/logos/applitools-icon.svg)
 ![applitools](https://cdn.svgporn.com/logos/applitools.svg)
@@ -118,39 +150,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![stepsize](https://cdn.svgporn.com/logos/stepsize.svg)
 ## <a href="https://swimm.io/" target="_blank">Swimm</a>
 ![swimm](https://cdn.svgporn.com/logos/swimm.svg)
-## <a href="https://zoom.us/" target="_blank">Zoom</a>
-![zoom](https://cdn.svgporn.com/logos/zoom-icon.svg)
-![zoom](https://cdn.svgporn.com/logos/zoom.svg)
-## <a href="https://astro.build/" target="_blank">Astro</a>
-![astro](https://cdn.svgporn.com/logos/astro-icon.svg)
-![astro](https://cdn.svgporn.com/logos/astro.svg)
-## <a href="https://www.bing.com/" target="_blank">Bing</a>
-![bing](https://cdn.svgporn.com/logos/bing.svg)
-## <a href="https://pay.google.com/about/" target="_blank">Google Pay</a>
-![google-pay](https://cdn.svgporn.com/logos/google-pay.svg)
-## <a href="https://play.google.com/" target="_blank">Google Play</a>
-![google-play](https://cdn.svgporn.com/logos/google-play-icon.svg)
-![google-play](https://cdn.svgporn.com/logos/google-play.svg)
-## <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-![netlify](https://cdn.svgporn.com/logos/netlify-icon.svg)
-![netlify](https://cdn.svgporn.com/logos/netlify.svg)
-## <a href="https://strapi.io/" target="_blank">Strapi</a>
-![strapi](https://cdn.svgporn.com/logos/strapi-icon.svg)
-![strapi](https://cdn.svgporn.com/logos/strapi.svg)
-## <a href="https://clio-lang.org/" target="_blank">Clio</a>
-![clio-lang](https://cdn.svgporn.com/logos/clio-lang.svg)
-## <a href="https://domains.google/" target="_blank">Google Domains</a>
-![google-domains](https://cdn.svgporn.com/logos/google-domains-icon.svg)
-![google-domains](https://cdn.svgporn.com/logos/google-domains.svg)
-## <a href="https://www.hashicorp.com/" target="_blank">HashiCorp</a>
-![hashicorp](https://cdn.svgporn.com/logos/hashicorp-icon.svg)
-![hashicorp](https://cdn.svgporn.com/logos/hashicorp.svg)
-## <a href="https://www.notion.so/" target="_blank">Notion</a>
-![notion](https://cdn.svgporn.com/logos/notion-icon.svg)
-![notion](https://cdn.svgporn.com/logos/notion.svg)
-## <a href="https://nuxtjs.org/" target="_blank">Nuxt</a>
-![nuxt](https://cdn.svgporn.com/logos/nuxt-icon.svg)
-![nuxt](https://cdn.svgporn.com/logos/nuxt.svg)
 
 ---
 

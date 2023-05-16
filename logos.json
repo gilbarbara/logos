@@ -651,6 +651,15 @@
     ]
   },
   {
+    "name": "AsyncAPI",
+    "shortname": "asyncapi",
+    "url": "https://www.asyncapi.com/",
+    "files": [
+      "async-api-icon.svg",
+      "async-api.svg"
+    ]
+  },
+  {
     "name": "Atlassian",
     "shortname": "atlassian",
     "url": "https://www.atlassian.com/",
@@ -3258,6 +3267,15 @@
     ]
   },
   {
+    "name": "Eraser",
+    "shortname": "eraser",
+    "url": "https://www.eraser.io/",
+    "files": [
+      "eraser-icon.svg",
+      "eraser.svg"
+    ]
+  },
+  {
     "name": "Erlang",
     "shortname": "erlang",
     "url": "http://www.erlang.org/",
@@ -5253,6 +5271,14 @@
     ]
   },
   {
+    "name": "JSON-LD",
+    "shortname": "json-ld",
+    "url": "https://json-ld.org/",
+    "files": [
+      "json-ld.svg"
+    ]
+  },
+  {
     "name": "JSPM",
     "shortname": "jspm",
     "url": "http://jspm.io/",
@@ -6067,6 +6093,15 @@
     "files": [
       "mattermost-icon.svg",
       "mattermost.svg"
+    ]
+  },
+  {
+    "name": "Mautic",
+    "shortname": "mautic",
+    "url": "https://www.mautic.org/",
+    "files": [
+      "mautic-icon.svg",
+      "mautic.svg"
     ]
   },
   {
@@ -7359,6 +7394,14 @@
     ]
   },
   {
+    "name": "Pipedream",
+    "shortname": "pipedream",
+    "url": "https://pipedream.com/",
+    "files": [
+      "pipedream.svg"
+    ]
+  },
+  {
     "name": "pipedrive",
     "shortname": "pipedrive",
     "url": "https://www.pipedrive.com/",
@@ -7527,6 +7570,15 @@
     "url": "http://www.postgresql.org/",
     "files": [
       "postgresql.svg"
+    ]
+  },
+  {
+    "name": "PostHog",
+    "shortname": "posthog",
+    "url": "https://posthog.com/",
+    "files": [
+      "posthog-icon.svg",
+      "posthog.svg"
     ]
   },
   {
@@ -8712,6 +8764,15 @@
     ]
   },
   {
+    "name": "sigstore",
+    "shortname": "sigstore",
+    "url": "https://www.sigstore.dev",
+    "files": [
+      "sigstore-icon.svg",
+      "sigstore.svg"
+    ]
+  },
+  {
     "name": "Sinatra",
     "shortname": "sinatra",
     "url": "http://www.sinatrarb.com/",
@@ -8897,6 +8958,24 @@
     "url": "http://lucene.apache.org/solr/",
     "files": [
       "solr.svg"
+    ]
+  },
+  {
+    "name": "SonarCloud",
+    "shortname": "sonarcloud",
+    "url": "https://www.sonarsource.com/products/sonarcloud/",
+    "files": [
+      "sonarcloud-icon.svg",
+      "sonarcloud.svg"
+    ]
+  },
+  {
+    "name": "SonarLint",
+    "shortname": "sonarlint",
+    "url": "https://www.sonarsource.com/products/sonarlint/",
+    "files": [
+      "sonarlint-icon.svg",
+      "sonarlint.svg"
     ]
   },
   {
@@ -9281,6 +9360,14 @@
     "url": "https://learnboost.github.io/stylus/",
     "files": [
       "stylus.svg"
+    ]
+  },
+  {
+    "name": "Stytch",
+    "shortname": "stytch",
+    "url": "https://stytch.com/",
+    "files": [
+      "stytch.svg"
     ]
   },
   {
@@ -9707,6 +9794,14 @@
     "url": "https://www.torproject.org/",
     "files": [
       "tor.svg"
+    ]
+  },
+  {
+    "name": "Tor",
+    "shortname": "tor",
+    "url": "https://www.torproject.org/",
+    "files": [
+      "tor-browser.svg"
     ]
   },
   {
@@ -10343,6 +10438,15 @@
     "url": "https://facebook.github.io/watchman/",
     "files": [
       "watchman.svg"
+    ]
+  },
+  {
+    "name": "Waypoint",
+    "shortname": "waypoint",
+    "url": "https://www.waypointproject.io/",
+    "files": [
+      "waypoint-icon.svg",
+      "waypoint.svg"
     ]
   },
   {
