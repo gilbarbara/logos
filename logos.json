@@ -1721,7 +1721,6 @@
     "shortname": "bugsnag",
     "url": "https://bugsnag.com/",
     "files": [
-      "bugsnag-icon.svg",
       "bugsnag.svg"
     ]
   },
@@ -10950,7 +10949,6 @@
     "shortname": "zapier",
     "url": "https://zapier.com/",
     "files": [
-      "zapier-icon.svg",
       "zapier.svg"
     ]
   },

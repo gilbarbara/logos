@@ -18,6 +18,10 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://bugsnag.com/" target="_blank">Bugsnag</a>
+![bugsnag](https://cdn.svgporn.com/logos/bugsnag.svg)
+## <a href="https://zapier.com/" target="_blank">Zapier</a>
+![zapier](https://cdn.svgporn.com/logos/zapier.svg)
 ## <a href="https://www.asyncapi.com/" target="_blank">AsyncAPI</a>
 ![asyncapi](https://cdn.svgporn.com/logos/async-api-icon.svg)
 ![asyncapi](https://cdn.svgporn.com/logos/async-api.svg)
@@ -145,11 +149,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.risingwave.dev" target="_blank">RisingWave</a>
 ![risingwave](https://cdn.svgporn.com/logos/risingwave-icon.svg)
 ![risingwave](https://cdn.svgporn.com/logos/risingwave.svg)
-## <a href="https://stepsize.com/" target="_blank">Stepsize</a>
-![stepsize](https://cdn.svgporn.com/logos/stepsize-icon.svg)
-![stepsize](https://cdn.svgporn.com/logos/stepsize.svg)
-## <a href="https://swimm.io/" target="_blank">Swimm</a>
-![swimm](https://cdn.svgporn.com/logos/swimm.svg)
 
 ---
 
