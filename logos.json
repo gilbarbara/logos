@@ -2596,6 +2596,15 @@
     ]
   },
   {
+    "name": "daily.dev",
+    "shortname": "dailydev",
+    "url": "https://daily.dev/",
+    "files": [
+      "dailydev-icon.svg",
+      "dailydev.svg"
+    ]
+  },
+  {
     "name": "daisyUI",
     "shortname": "daisyui",
     "url": "https://daisyui.com/",
@@ -4947,6 +4956,15 @@
     ]
   },
   {
+    "name": "Incident",
+    "shortname": "incident",
+    "url": "https://incident.io/",
+    "files": [
+      "incident-icon.svg",
+      "incident.svg"
+    ]
+  },
+  {
     "name": "Infer",
     "shortname": "infer",
     "url": "http://fbinfer.com/",
@@ -5669,6 +5687,15 @@
     ]
   },
   {
+    "name": "Lexical",
+    "shortname": "lexical",
+    "url": "https://lexical.dev/",
+    "files": [
+      "lexical-icon.svg",
+      "lexical.svg"
+    ]
+  },
+  {
     "name": "Lift",
     "shortname": "liftweb",
     "url": "http://liftweb.net/",
@@ -5699,6 +5726,15 @@
     "url": "http://www.lighttpd.net/",
     "files": [
       "lighttpd.svg"
+    ]
+  },
+  {
+    "name": "Linear",
+    "shortname": "linear",
+    "url": "https://linear.app/",
+    "files": [
+      "linear-icon.svg",
+      "linear.svg"
     ]
   },
   {
@@ -6873,6 +6909,14 @@
     ]
   },
   {
+    "name": "nvm",
+    "shortname": "nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "files": [
+      "nvm.svg"
+    ]
+  },
+  {
     "name": "NW.js a.k.a. Nodewebkit",
     "shortname": "nwjs",
     "url": "http://nwjs.io/",
@@ -6934,6 +6978,15 @@
     "url": "https://octopus.com/",
     "files": [
       "octopus-deploy.svg"
+    ]
+  },
+  {
+    "name": "Okta",
+    "shortname": "okta",
+    "url": "https://www.okta.com/",
+    "files": [
+      "okta-icon.svg",
+      "okta.svg"
     ]
   },
   {
@@ -8886,6 +8939,15 @@
     ]
   },
   {
+    "name": "Snaplet",
+    "shortname": "snaplet",
+    "url": "https://www.snaplet.dev/",
+    "files": [
+      "snaplet-icon.svg",
+      "snaplet.svg"
+    ]
+  },
+  {
     "name": "snowflake",
     "shortname": "snowflake",
     "url": "https://www.snowflake.com/",
@@ -10737,6 +10799,15 @@
     "url": "http://www.workboard.com/",
     "files": [
       "workboard.svg"
+    ]
+  },
+  {
+    "name": "WorkOS",
+    "shortname": "workos",
+    "url": "https://workos.com/",
+    "files": [
+      "workos-icon.svg",
+      "workos.svg"
     ]
   },
   {

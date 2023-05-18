@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://daily.dev/" target="_blank">daily.dev</a>
+![dailydev](https://cdn.svgporn.com/logos/dailydev-icon.svg)
+![dailydev](https://cdn.svgporn.com/logos/dailydev.svg)
+## <a href="https://incident.io/" target="_blank">Incident</a>
+![incident](https://cdn.svgporn.com/logos/incident-icon.svg)
+![incident](https://cdn.svgporn.com/logos/incident.svg)
+## <a href="https://lexical.dev/" target="_blank">Lexical</a>
+![lexical](https://cdn.svgporn.com/logos/lexical-icon.svg)
+![lexical](https://cdn.svgporn.com/logos/lexical.svg)
+## <a href="https://linear.app/" target="_blank">Linear</a>
+![linear](https://cdn.svgporn.com/logos/linear-icon.svg)
+![linear](https://cdn.svgporn.com/logos/linear.svg)
+## <a href="https://github.com/nvm-sh/nvm" target="_blank">nvm</a>
+![nvm](https://cdn.svgporn.com/logos/nvm.svg)
+## <a href="https://www.okta.com/" target="_blank">Okta</a>
+![okta](https://cdn.svgporn.com/logos/okta-icon.svg)
+![okta](https://cdn.svgporn.com/logos/okta.svg)
+## <a href="https://www.snaplet.dev/" target="_blank">Snaplet</a>
+![snaplet](https://cdn.svgporn.com/logos/snaplet-icon.svg)
+![snaplet](https://cdn.svgporn.com/logos/snaplet.svg)
+## <a href="https://workos.com/" target="_blank">WorkOS</a>
+![workos](https://cdn.svgporn.com/logos/workos-icon.svg)
+![workos](https://cdn.svgporn.com/logos/workos.svg)
 ## <a href="https://bugsnag.com/" target="_blank">Bugsnag</a>
 ![bugsnag](https://cdn.svgporn.com/logos/bugsnag.svg)
 ## <a href="https://zapier.com/" target="_blank">Zapier</a>
@@ -126,29 +149,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.americanexpress.com/" target="_blank">American Express</a>
 ![amex](https://cdn.svgporn.com/logos/amex.svg)
 ![amex](https://cdn.svgporn.com/logos/amex-digital.svg)
-## <a href="https://firefox.com/" target="_blank">Firefox</a>
-![firefox](https://cdn.svgporn.com/logos/firefox.svg)
-## <a href="https://www.microsoft.com/windows" target="_blank">Microsoft Windows</a>
-![microsoft-windows](https://cdn.svgporn.com/logos/microsoft-windows-icon.svg)
-![microsoft-windows](https://cdn.svgporn.com/logos/microsoft-windows.svg)
-## <a href="https://nodejs.org/" target="_blank">Node.js</a>
-![nodejs](https://cdn.svgporn.com/logos/nodejs-icon.svg)
-![nodejs](https://cdn.svgporn.com/logos/nodejs-icon-alt.svg)
-![nodejs](https://cdn.svgporn.com/logos/nodejs.svg)
-## <a href="https://edg.io/" target="_blank">Edgio</a>
-![edgio](https://cdn.svgporn.com/logos/edgio-icon.svg)
-![edgio](https://cdn.svgporn.com/logos/edgio.svg)
-## <a href="https://workspace.google.com/" target="_blank">Google Workspace</a>
-![google-workspace](https://cdn.svgporn.com/logos/google-workspace.svg)
-## <a href="https://csa-iot.org/all-solutions/matter/" target="_blank">Matter</a>
-![matter](https://cdn.svgporn.com/logos/matter-icon.svg)
-![matter](https://cdn.svgporn.com/logos/matter.svg)
-## <a href="https://www.openapis.org/" target="_blank">OpenAPI</a>
-![openapi](https://cdn.svgporn.com/logos/openapi-icon.svg)
-![openapi](https://cdn.svgporn.com/logos/openapi.svg)
-## <a href="https://www.risingwave.dev" target="_blank">RisingWave</a>
-![risingwave](https://cdn.svgporn.com/logos/risingwave-icon.svg)
-![risingwave](https://cdn.svgporn.com/logos/risingwave.svg)
 
 ---
 
