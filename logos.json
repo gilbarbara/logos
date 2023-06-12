@@ -1338,6 +1338,14 @@
     ]
   },
   {
+    "name": "Baseline",
+    "shortname": "baseline",
+    "url": "https://web.dev/baseline/",
+    "files": [
+      "baseline.svg"
+    ]
+  },
+  {
     "name": "Bash",
     "shortname": "bash",
     "url": "https://www.gnu.org/software/bash/",
@@ -4122,6 +4130,15 @@
     ]
   },
   {
+    "name": "Google Bard",
+    "shortname": "google-bard",
+    "url": "https://bard.google.com/",
+    "files": [
+      "google-bard-icon.svg",
+      "google-bard.svg"
+    ]
+  },
+  {
     "name": "Google Calendar",
     "shortname": "google-calendar",
     "url": "https://www.google.com/calendar/about/",
@@ -4281,6 +4298,15 @@
     "files": [
       "google-play-icon.svg",
       "google-play.svg"
+    ]
+  },
+  {
+    "name": "Google Play Console",
+    "shortname": "google-play-console",
+    "url": "https://play.google.com/console/",
+    "files": [
+      "google-play-console-icon.svg",
+      "google-play-console.svg"
     ]
   },
   {
@@ -6957,6 +6983,15 @@
     ]
   },
   {
+    "name": "Obsidian",
+    "shortname": "obsidian",
+    "url": "https://obsidian.md/",
+    "files": [
+      "obsidian-icon.svg",
+      "obsidian.svg"
+    ]
+  },
+  {
     "name": "OCaml",
     "shortname": "ocaml",
     "url": "https://ocaml.org/",
@@ -8799,6 +8834,15 @@
     ]
   },
   {
+    "name": "Shortcut",
+    "shortname": "shorcut",
+    "url": "https://www.shortcut.com/",
+    "files": [
+      "shortcut-icon.svg",
+      "shortcut.svg"
+    ]
+  },
+  {
     "name": "Sidekiq",
     "shortname": "sidekiq",
     "url": "http://sidekiq.org/",
@@ -10585,6 +10629,14 @@
     ]
   },
   {
+    "name": "WebGPU",
+    "shortname": "webgpu",
+    "url": "https://www.w3.org/TR/webgpu/",
+    "files": [
+      "webgpu.svg"
+    ]
+  },
+  {
     "name": "Webhint",
     "shortname": "webhint",
     "url": "https://webhint.io/",
@@ -10869,6 +10921,14 @@
     ]
   },
   {
+    "name": "Xcode",
+    "shortname": "xcode",
+    "url": "https://developer.apple.com/xcode/",
+    "files": [
+      "xcode.svg"
+    ]
+  },
+  {
     "name": "Xero",
     "shortname": "xero",
     "url": "https://www.xero.com/",
@@ -11072,6 +11132,14 @@
     "url": "https://ziglang.org/",
     "files": [
       "zig.svg"
+    ]
+  },
+  {
+    "name": "Zod",
+    "shortname": "zod",
+    "url": "https://zod.dev/",
+    "files": [
+      "zod.svg"
     ]
   },
   {

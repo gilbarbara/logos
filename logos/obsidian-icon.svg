@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="407px" viewBox="0 0 256 407" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>Obsidian</title>
+    <defs>
+        <linearGradient x1="63.1751231%" y1="77.2870662%" x2="43.0929914%" y2="-10.9124898%" id="linearGradient-1">
+            <stop stop-color="#6C56CC" offset="0%"></stop>
+            <stop stop-color="#9785E5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <polygon fill="#34208C" points="0 184.685714 79.5225397 367.624127 192.406349 406.349206 213.089524 364.901587 256 107.235556 181.272381 0 52.4596825 71.192381"></polygon>
+        <polygon fill="url(#linearGradient-1)" points="66.7631746 145.066667 192.406349 406.349206 213.089524 364.901587 256 107.235556 176.518095 58.5549206"></polygon>
+        <polygon fill="#AF9FF4" points="181.272381 0 176.518095 58.5549206 256 107.235556"></polygon>
+        <polygon fill="#4A37A0" points="52.4596825 71.192381 66.7631746 145.066667 176.518095 58.5549206 181.272381 0"></polygon>
+        <polygon fill="#4A37A0" points="192.406349 406.349206 66.7631746 145.066667 79.5225397 367.624127"></polygon>
+    </g>
+</svg>

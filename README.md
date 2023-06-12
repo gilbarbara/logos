@@ -18,6 +18,26 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://web.dev/baseline/" target="_blank">Baseline</a>
+![baseline](https://cdn.svgporn.com/logos/baseline.svg)
+## <a href="https://bard.google.com/" target="_blank">Google Bard</a>
+![google-bard](https://cdn.svgporn.com/logos/google-bard-icon.svg)
+![google-bard](https://cdn.svgporn.com/logos/google-bard.svg)
+## <a href="https://play.google.com/console/" target="_blank">Google Play Console</a>
+![google-play-console](https://cdn.svgporn.com/logos/google-play-console-icon.svg)
+![google-play-console](https://cdn.svgporn.com/logos/google-play-console.svg)
+## <a href="https://obsidian.md/" target="_blank">Obsidian</a>
+![obsidian](https://cdn.svgporn.com/logos/obsidian-icon.svg)
+![obsidian](https://cdn.svgporn.com/logos/obsidian.svg)
+## <a href="https://www.shortcut.com/" target="_blank">Shortcut</a>
+![shorcut](https://cdn.svgporn.com/logos/shortcut-icon.svg)
+![shorcut](https://cdn.svgporn.com/logos/shortcut.svg)
+## <a href="https://www.w3.org/TR/webgpu/" target="_blank">WebGPU</a>
+![webgpu](https://cdn.svgporn.com/logos/webgpu.svg)
+## <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a>
+![xcode](https://cdn.svgporn.com/logos/xcode.svg)
+## <a href="https://zod.dev/" target="_blank">Zod</a>
+![zod](https://cdn.svgporn.com/logos/zod.svg)
 ## <a href="https://daily.dev/" target="_blank">daily.dev</a>
 ![dailydev](https://cdn.svgporn.com/logos/dailydev-icon.svg)
 ![dailydev](https://cdn.svgporn.com/logos/dailydev.svg)
@@ -128,27 +148,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![yugabyte](https://cdn.svgporn.com/logos/yugabyte.svg)
 ## <a href="https://www.trychroma.com/" target="_blank">Chroma</a>
 ![chroma](https://cdn.svgporn.com/logos/chroma.svg)
-## <a href="https://github.com/dolthub/dolt" target="_blank">dolt</a>
-![dolt](https://cdn.svgporn.com/logos/dolt.svg)
-## <a href="https://www.edgedb.com/" target="_blank">EdgeDB</a>
-![edgedb](https://cdn.svgporn.com/logos/edgedb.svg)
-## <a href="https://docs.keydb.dev/" target="_blank">KeyDB</a>
-![keydb](https://cdn.svgporn.com/logos/keydb-icon.svg)
-![keydb](https://cdn.svgporn.com/logos/keydb.svg)
-## <a href="https://mindsdb.com/" target="_blank">MindsDB</a>
-![mindsdb](https://cdn.svgporn.com/logos/mindsdb-icon.svg)
-![mindsdb](https://cdn.svgporn.com/logos/mindsdb.svg)
-## <a href="https://neon.tech/" target="_blank">Neon</a>
-![neon](https://cdn.svgporn.com/logos/neon-icon.svg)
-![neon](https://cdn.svgporn.com/logos/neon.svg)
-## <a href="https://vitess.io/" target="_blank">Vitess</a>
-![vitess](https://cdn.svgporn.com/logos/vitess.svg)
-## <a href="https://xata.io/" target="_blank">Xata</a>
-![xata](https://cdn.svgporn.com/logos/xata-icon.svg)
-![xata](https://cdn.svgporn.com/logos/xata.svg)
-## <a href="https://www.americanexpress.com/" target="_blank">American Express</a>
-![amex](https://cdn.svgporn.com/logos/amex.svg)
-![amex](https://cdn.svgporn.com/logos/amex-digital.svg)
 
 ---
 
