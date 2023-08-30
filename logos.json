@@ -6407,6 +6407,24 @@
     ]
   },
   {
+    "name": "Million",
+    "shortname": "million",
+    "url": "https://million.dev/",
+    "files": [
+      "million-icon.svg",
+      "million.svg"
+    ]
+  },
+  {
+    "name": "Milvus",
+    "shortname": "milvus",
+    "url": "https://milvus.io/",
+    "files": [
+      "milvus-icon.svg",
+      "milvus.svg"
+    ]
+  },
+  {
     "name": "MindsDB",
     "shortname": "mindsdb",
     "url": "https://mindsdb.com/",
@@ -7290,6 +7308,15 @@
     ]
   },
   {
+    "name": "Panda",
+    "shortname": "panda",
+    "url": "https://panda-css.com/",
+    "files": [
+      "pandacss-icon.svg",
+      "pandacss.svg"
+    ]
+  },
+  {
     "name": "Pandas",
     "shortname": "pandas",
     "url": "https://pandas.pydata.org/",
@@ -7858,6 +7885,15 @@
     ]
   },
   {
+    "name": "Pulumi",
+    "shortname": "pulumi",
+    "url": "https://www.pulumi.com/",
+    "files": [
+      "pulumi-icon.svg",
+      "pulumi.svg"
+    ]
+  },
+  {
     "name": "PumpkinDB",
     "shortname": "pumpkindb",
     "url": "http://pumpkindb.org/",
@@ -7971,6 +8007,15 @@
     "url": "https://github.com/kriskowal/q",
     "files": [
       "q.svg"
+    ]
+  },
+  {
+    "name": "Qdrant",
+    "shortname": "qdrant",
+    "url": "https://qdrant.tech/",
+    "files": [
+      "qdrant-icon.svg",
+      "qdrant.svg"
     ]
   },
   {
@@ -8318,6 +8363,15 @@
     "url": "https://renovatebot.com/",
     "files": [
       "renovatebot.svg"
+    ]
+  },
+  {
+    "name": "Replay",
+    "shortname": "replay",
+    "url": "https://www.replay.io/",
+    "files": [
+      "replay-icon.svg",
+      "replay.svg"
     ]
   },
   {
@@ -9220,6 +9274,15 @@
     "url": "http://www.squarespace.com/",
     "files": [
       "squarespace.svg"
+    ]
+  },
+  {
+    "name": "SST",
+    "shortname": "sst",
+    "url": "https://sst.dev/",
+    "files": [
+      "sst-icon.svg",
+      "sst.svg"
     ]
   },
   {
@@ -10792,6 +10855,15 @@
     "url": "https://windicss.org/",
     "files": [
       "windi-css.svg"
+    ]
+  },
+  {
+    "name": "Wing",
+    "shortname": "winglang",
+    "url": "https://www.winglang.io/",
+    "files": [
+      "winglang-icon.svg",
+      "winglang.svg"
     ]
   },
   {

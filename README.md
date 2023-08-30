@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://million.dev/" target="_blank">Million</a>
+![million](https://cdn.svgporn.com/logos/million-icon.svg)
+![million](https://cdn.svgporn.com/logos/million.svg)
+## <a href="https://milvus.io/" target="_blank">Milvus</a>
+![milvus](https://cdn.svgporn.com/logos/milvus-icon.svg)
+![milvus](https://cdn.svgporn.com/logos/milvus.svg)
+## <a href="https://panda-css.com/" target="_blank">Panda</a>
+![panda](https://cdn.svgporn.com/logos/pandacss-icon.svg)
+![panda](https://cdn.svgporn.com/logos/pandacss.svg)
+## <a href="https://www.pulumi.com/" target="_blank">Pulumi</a>
+![pulumi](https://cdn.svgporn.com/logos/pulumi-icon.svg)
+![pulumi](https://cdn.svgporn.com/logos/pulumi.svg)
+## <a href="https://qdrant.tech/" target="_blank">Qdrant</a>
+![qdrant](https://cdn.svgporn.com/logos/qdrant-icon.svg)
+![qdrant](https://cdn.svgporn.com/logos/qdrant.svg)
+## <a href="https://www.replay.io/" target="_blank">Replay</a>
+![replay](https://cdn.svgporn.com/logos/replay-icon.svg)
+![replay](https://cdn.svgporn.com/logos/replay.svg)
+## <a href="https://sst.dev/" target="_blank">SST</a>
+![sst](https://cdn.svgporn.com/logos/sst-icon.svg)
+![sst](https://cdn.svgporn.com/logos/sst.svg)
+## <a href="https://www.winglang.io/" target="_blank">Wing</a>
+![winglang](https://cdn.svgporn.com/logos/winglang-icon.svg)
+![winglang](https://cdn.svgporn.com/logos/winglang.svg)
 ## <a href="https://web.dev/baseline/" target="_blank">Baseline</a>
 ![baseline](https://cdn.svgporn.com/logos/baseline.svg)
 ## <a href="https://bard.google.com/" target="_blank">Google Bard</a>
@@ -129,25 +153,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![solidjs](https://cdn.svgporn.com/logos/solidjs.svg)
 ## <a href="https://arc.net/" target="_blank">Arc</a>
 ![arc](https://cdn.svgporn.com/logos/arc.svg)
-## <a href="https://datastation.multiprocess.io/" target="_blank">Data Station</a>
-![data-station](https://cdn.svgporn.com/logos/data-station.svg)
-## <a href="https://www.foundationdb.org/" target="_blank">FoundationDB</a>
-![foundationdb](https://cdn.svgporn.com/logos/foundationdb-icon.svg)
-![foundationdb](https://cdn.svgporn.com/logos/foundationdb.svg)
-## <a href="https://www.meilisearch.com/" target="_blank">Meilisearch</a>
-![meilisearch](https://cdn.svgporn.com/logos/meilisearch.svg)
-## <a href="https://memgraph.com/" target="_blank">Memgraph</a>
-![memgraph](https://cdn.svgporn.com/logos/memgraph.svg)
-## <a href="https://www.pinecone.io/" target="_blank">Pinecone</a>
-![pinecone](https://cdn.svgporn.com/logos/pinecone-icon.svg)
-![pinecone](https://cdn.svgporn.com/logos/pinecone.svg)
-## <a href="https://pinia.vuejs.org/" target="_blank">Pinia</a>
-![pinia](https://cdn.svgporn.com/logos/pinia.svg)
-## <a href="https://www.yugabyte.com/" target="_blank">YugabyteDB</a>
-![yugabyte](https://cdn.svgporn.com/logos/yugabyte-icon.svg)
-![yugabyte](https://cdn.svgporn.com/logos/yugabyte.svg)
-## <a href="https://www.trychroma.com/" target="_blank">Chroma</a>
-![chroma](https://cdn.svgporn.com/logos/chroma.svg)
 
 ---
 
