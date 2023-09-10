@@ -2093,6 +2093,7 @@
     "shortname": "cloudflare",
     "url": "https://www.cloudflare.com/",
     "files": [
+      "cloudflare-icon.svg",
       "cloudflare.svg"
     ]
   },
@@ -2666,6 +2667,7 @@
     "shortname": "datadog",
     "url": "https://www.datadoghq.com/",
     "files": [
+      "datadog-icon.svg",
       "datadog.svg"
     ]
   },
@@ -2810,6 +2812,7 @@
     "shortname": "digitalocean",
     "url": "https://www.digitalocean.com/",
     "files": [
+      "digital-ocean-icon.svg",
       "digital-ocean.svg"
     ]
   },
@@ -7750,6 +7753,7 @@
     "shortname": "presto",
     "url": "https://prestodb.io/",
     "files": [
+      "presto-icon.svg",
       "presto.svg"
     ]
   },

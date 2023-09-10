@@ -18,6 +18,11 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://prestodb.io/" target="_blank">Presto</a>
+![presto](https://cdn.svgporn.com/logos/presto-icon.svg)
+![presto](https://cdn.svgporn.com/logos/presto.svg)
+## <a href="https://wakatime.com/" target="_blank">WakaTime</a> *
+![wakatime](https://cdn.svgporn.com/logos/wakatime.svg)
 ## <a href="https://million.dev/" target="_blank">Million</a>
 ![million](https://cdn.svgporn.com/logos/million-icon.svg)
 ![million](https://cdn.svgporn.com/logos/million.svg)
@@ -148,11 +153,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://qwik.builder.io/" target="_blank">Qwik</a>
 ![qwik](https://cdn.svgporn.com/logos/qwik-icon.svg)
 ![qwik](https://cdn.svgporn.com/logos/qwik.svg)
-## <a href="https://www.solidjs.com/" target="_blank">Solid</a>
-![solidjs](https://cdn.svgporn.com/logos/solidjs-icon.svg)
-![solidjs](https://cdn.svgporn.com/logos/solidjs.svg)
-## <a href="https://arc.net/" target="_blank">Arc</a>
-![arc](https://cdn.svgporn.com/logos/arc.svg)
 
 ---
 
