@@ -322,6 +322,14 @@
     ]
   },
   {
+    "name": "Analog",
+    "shortname": "analog",
+    "url": "https://analogjs.org/",
+    "files": [
+      "analog.svg"
+    ]
+  },
+  {
     "name": "Android",
     "shortname": "android",
     "url": "https://www.android.com/",
@@ -1392,6 +1400,14 @@
     "url": "https://www.bing.com/",
     "files": [
       "bing.svg"
+    ]
+  },
+  {
+    "name": "Biome",
+    "shortname": "biomejs",
+    "url": "https://biomejs.dev/",
+    "files": [
+      "biomejs.svg"
     ]
   },
   {
@@ -3111,6 +3127,23 @@
     ]
   },
   {
+    "name": "Effect",
+    "shortname": "effect",
+    "url": "https://www.effect.website/",
+    "files": [
+      "effect-icon.svg",
+      "effect.svg"
+    ]
+  },
+  {
+    "name": "Effector",
+    "shortname": "effector",
+    "url": "https://effector.dev/",
+    "files": [
+      "effector.svg"
+    ]
+  },
+  {
     "name": "egghead",
     "shortname": "egghead",
     "url": "https://egghead.io/",
@@ -3441,6 +3474,15 @@
     "url": "http://netflix.github.io/falcor/",
     "files": [
       "falcor.svg"
+    ]
+  },
+  {
+    "name": "FastAPI",
+    "shortname": "fastapi",
+    "url": "https://fastapi.tiangolo.com/",
+    "files": [
+      "fastapi-icon.svg",
+      "fastapi.svg"
     ]
   },
   {
@@ -4776,6 +4818,14 @@
     "url": "https://brew.sh/",
     "files": [
       "homebrew.svg"
+    ]
+  },
+  {
+    "name": "Hono",
+    "shortname": "hono",
+    "url": "https://hono.dev/",
+    "files": [
+      "hono.svg"
     ]
   },
   {
@@ -6805,6 +6855,14 @@
     ]
   },
   {
+    "name": "ngrok",
+    "shortname": "ngrok",
+    "url": "https://ngrok.com",
+    "files": [
+      "ngrok.svg"
+    ]
+  },
+  {
     "name": "NHost",
     "shortname": "nhost",
     "url": "https://nhost.io/",
@@ -8503,15 +8561,6 @@
     "url": "http://rollupjs.org/",
     "files": [
       "rollupjs.svg"
-    ]
-  },
-  {
-    "name": "Rome",
-    "shortname": "rome",
-    "url": "https://rome.tools/",
-    "files": [
-      "rome-icon.svg",
-      "rome.svg"
     ]
   },
   {
@@ -11241,6 +11290,14 @@
     "url": "https://zorinos.com/",
     "files": [
       "zorin-os.svg"
+    ]
+  },
+  {
+    "name": "zsh",
+    "shortname": "zsh",
+    "url": "https://www.zsh.org/",
+    "files": [
+      "zsh.svg"
     ]
   },
   {

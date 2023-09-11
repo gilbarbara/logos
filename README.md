@@ -18,11 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://analogjs.org/" target="_blank">Analog</a>
+![analog](https://cdn.svgporn.com/logos/analog.svg)
+## <a href="https://biomejs.dev/" target="_blank">Biome</a>
+![biomejs](https://cdn.svgporn.com/logos/biomejs.svg)
+## <a href="https://www.effect.website/" target="_blank">Effect</a>
+![effect](https://cdn.svgporn.com/logos/effect-icon.svg)
+![effect](https://cdn.svgporn.com/logos/effect.svg)
+## <a href="https://effector.dev/" target="_blank">Effector</a>
+![effector](https://cdn.svgporn.com/logos/effector.svg)
+## <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI</a>
+![fastapi](https://cdn.svgporn.com/logos/fastapi-icon.svg)
+![fastapi](https://cdn.svgporn.com/logos/fastapi.svg)
+## <a href="https://hono.dev/" target="_blank">Hono</a>
+![hono](https://cdn.svgporn.com/logos/hono.svg)
+## <a href="https://ngrok.com" target="_blank">ngrok</a>
+![ngrok](https://cdn.svgporn.com/logos/ngrok.svg)
 ## <a href="https://prestodb.io/" target="_blank">Presto</a>
 ![presto](https://cdn.svgporn.com/logos/presto-icon.svg)
 ![presto](https://cdn.svgporn.com/logos/presto.svg)
 ## <a href="https://wakatime.com/" target="_blank">WakaTime</a> *
 ![wakatime](https://cdn.svgporn.com/logos/wakatime.svg)
+## <a href="https://www.zsh.org/" target="_blank">zsh</a>
+![zsh](https://cdn.svgporn.com/logos/zsh.svg)
 ## <a href="https://million.dev/" target="_blank">Million</a>
 ![million](https://cdn.svgporn.com/logos/million-icon.svg)
 ![million](https://cdn.svgporn.com/logos/million.svg)
@@ -132,27 +150,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://cube.dev/" target="_blank">Cube</a>
 ![cube](https://cdn.svgporn.com/logos/cube-icon.svg)
 ![cube](https://cdn.svgporn.com/logos/cube.svg)
-## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
-![daisyui](https://cdn.svgporn.com/logos/daisyUI.svg)
-## <a href="https://danfo.jsdata.org/" target="_blank">Danfo.js</a>
-![danfo](https://cdn.svgporn.com/logos/danfo.svg)
-## <a href="https://katalon.com/" target="_blank">Katalon</a>
-![katalon](https://cdn.svgporn.com/logos/katalon-icon.svg)
-![katalon](https://cdn.svgporn.com/logos/katalon.svg)
-## <a href="https://pandas.pydata.org/" target="_blank">Pandas</a>
-![pandas](https://cdn.svgporn.com/logos/pandas-icon.svg)
-![pandas](https://cdn.svgporn.com/logos/pandas.svg)
-## <a href="https://rushjs.io/" target="_blank">Rush</a>
-![rush](https://cdn.svgporn.com/logos/rush-icon.svg)
-![rush](https://cdn.svgporn.com/logos/rush.svg)
-## <a href="https://supertokens.com/" target="_blank">SuperTokens</a>
-![supertokens](https://cdn.svgporn.com/logos/supertokens-icon.svg)
-![supertokens](https://cdn.svgporn.com/logos/supertokens.svg)
-## <a href="http://www.google.com/chrome/" target="_blank">Chrome</a>
-![chrome](https://cdn.svgporn.com/logos/chrome.svg)
-## <a href="https://qwik.builder.io/" target="_blank">Qwik</a>
-![qwik](https://cdn.svgporn.com/logos/qwik-icon.svg)
-![qwik](https://cdn.svgporn.com/logos/qwik.svg)
 
 ---
 
