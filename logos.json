@@ -2301,6 +2301,15 @@
     ]
   },
   {
+    "name": "Codium",
+    "shortname": "codium",
+    "url": "https://www.codium.ai/",
+    "files": [
+      "codium-icon.svg",
+      "codium.svg"
+    ]
+  },
+  {
     "name": "CoffeeScript",
     "shortname": "coffeescript",
     "url": "http://coffeescript.org/",
@@ -2529,6 +2538,15 @@
     ]
   },
   {
+    "name": "Crossplane",
+    "shortname": "crossplane",
+    "url": "https://www.crossplane.io/",
+    "files": [
+      "crossplane-icon.svg",
+      "crossplane.svg"
+    ]
+  },
+  {
     "name": "Crucible",
     "shortname": "crucible",
     "url": "https://www.atlassian.com/software/crucible",
@@ -2693,6 +2711,15 @@
     "url": "https://www.jetbrains.com/datagrip/",
     "files": [
       "datagrip.svg"
+    ]
+  },
+  {
+    "name": "Datasette",
+    "shortname": "datasette",
+    "url": "https://datasette.io/",
+    "files": [
+      "datasette-icon.svg",
+      "datasette.svg"
     ]
   },
   {
@@ -3640,6 +3667,15 @@
     "url": "https://flightjs.github.io/",
     "files": [
       "flight.svg"
+    ]
+  },
+  {
+    "name": "Flink",
+    "shortname": "flink",
+    "url": "https://flink.apache.org/",
+    "files": [
+      "apache-flink-icon.svg",
+      "apache-flink.svg"
     ]
   },
   {
@@ -7219,6 +7255,15 @@
     ]
   },
   {
+    "name": "OpenSearch",
+    "shortname": "opensearch",
+    "url": "https://opensearch.org/",
+    "files": [
+      "opensearch-icon.svg",
+      "opensearch.svg"
+    ]
+  },
+  {
     "name": "OpenShift",
     "shortname": "openshift",
     "url": "https://www.openshift.com/",
@@ -9231,6 +9276,14 @@
     ]
   },
   {
+    "name": "Spark",
+    "shortname": "apache-spark",
+    "url": "https://spark.apache.org/",
+    "files": [
+      "apache-spark.svg"
+    ]
+  },
+  {
     "name": "SparkPost",
     "shortname": "sparkpost",
     "url": "https://www.sparkpost.com/",
@@ -9623,6 +9676,15 @@
     "files": [
       "supabase-icon.svg",
       "supabase.svg"
+    ]
+  },
+  {
+    "name": "Superset",
+    "shortname": "apache-superset",
+    "url": "https://superset.apache.org/",
+    "files": [
+      "apache-superset-icon.svg",
+      "apache-superset.svg"
     ]
   },
   {
@@ -10216,6 +10278,15 @@
       "typescript-icon.svg",
       "typescript-icon-round.svg",
       "typescript.svg"
+    ]
+  },
+  {
+    "name": "typesense",
+    "shortname": "typesense",
+    "url": "https://typesense.org/",
+    "files": [
+      "typesense-icon.svg",
+      "typesense.svg"
     ]
   },
   {

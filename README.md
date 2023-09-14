@@ -18,6 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.codium.ai/" target="_blank">Codium</a>
+![codium](https://cdn.svgporn.com/logos/codium-icon.svg)
+![codium](https://cdn.svgporn.com/logos/codium.svg)
+## <a href="https://www.crossplane.io/" target="_blank">Crossplane</a>
+![crossplane](https://cdn.svgporn.com/logos/crossplane-icon.svg)
+![crossplane](https://cdn.svgporn.com/logos/crossplane.svg)
+## <a href="https://datasette.io/" target="_blank">Datasette</a>
+![datasette](https://cdn.svgporn.com/logos/datasette-icon.svg)
+![datasette](https://cdn.svgporn.com/logos/datasette.svg)
+## <a href="https://flink.apache.org/" target="_blank">Flink</a>
+![flink](https://cdn.svgporn.com/logos/apache-flink-icon.svg)
+![flink](https://cdn.svgporn.com/logos/apache-flink.svg)
+## <a href="https://opensearch.org/" target="_blank">OpenSearch</a>
+![opensearch](https://cdn.svgporn.com/logos/opensearch-icon.svg)
+![opensearch](https://cdn.svgporn.com/logos/opensearch.svg)
+## <a href="https://spark.apache.org/" target="_blank">Spark</a>
+![apache-spark](https://cdn.svgporn.com/logos/apache-spark.svg)
+## <a href="https://superset.apache.org/" target="_blank">Superset</a>
+![apache-superset](https://cdn.svgporn.com/logos/apache-superset-icon.svg)
+![apache-superset](https://cdn.svgporn.com/logos/apache-superset.svg)
+## <a href="https://typesense.org/" target="_blank">typesense</a>
+![typesense](https://cdn.svgporn.com/logos/typesense-icon.svg)
+![typesense](https://cdn.svgporn.com/logos/typesense.svg)
 ## <a href="https://analogjs.org/" target="_blank">Analog</a>
 ![analog](https://cdn.svgporn.com/logos/analog.svg)
 ## <a href="https://biomejs.dev/" target="_blank">Biome</a>
@@ -128,28 +151,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://posthog.com/" target="_blank">PostHog</a>
 ![posthog](https://cdn.svgporn.com/logos/posthog-icon.svg)
 ![posthog](https://cdn.svgporn.com/logos/posthog.svg)
-## <a href="https://www.sigstore.dev" target="_blank">sigstore</a>
-![sigstore](https://cdn.svgporn.com/logos/sigstore-icon.svg)
-![sigstore](https://cdn.svgporn.com/logos/sigstore.svg)
-## <a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank">SonarCloud</a>
-![sonarcloud](https://cdn.svgporn.com/logos/sonarcloud-icon.svg)
-![sonarcloud](https://cdn.svgporn.com/logos/sonarcloud.svg)
-## <a href="https://www.sonarsource.com/products/sonarlint/" target="_blank">SonarLint</a>
-![sonarlint](https://cdn.svgporn.com/logos/sonarlint-icon.svg)
-![sonarlint](https://cdn.svgporn.com/logos/sonarlint.svg)
-## <a href="https://stytch.com/" target="_blank">Stytch</a>
-![stytch](https://cdn.svgporn.com/logos/stytch.svg)
-## <a href="https://www.torproject.org/" target="_blank">Tor</a>
-![tor](https://cdn.svgporn.com/logos/tor-browser.svg)
-## <a href="https://www.waypointproject.io/" target="_blank">Waypoint</a>
-![waypoint](https://cdn.svgporn.com/logos/waypoint-icon.svg)
-![waypoint](https://cdn.svgporn.com/logos/waypoint.svg)
-## <a href="https://applitools.com/" target="_blank">Applitools</a>
-![applitools](https://cdn.svgporn.com/logos/applitools-icon.svg)
-![applitools](https://cdn.svgporn.com/logos/applitools.svg)
-## <a href="https://cube.dev/" target="_blank">Cube</a>
-![cube](https://cdn.svgporn.com/logos/cube-icon.svg)
-![cube](https://cdn.svgporn.com/logos/cube.svg)
 
 ---
 
