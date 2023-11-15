@@ -18,6 +18,13 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.android.com/" target="_blank">Android</a>
+![android](https://cdn.svgporn.com/logos/android-icon.svg)
+![android](https://cdn.svgporn.com/logos/android.svg)
+![android](https://cdn.svgporn.com/logos/android-vertical.svg)
+## <a href="https://angular.io/" target="_blank">Angular</a> *
+![angular](https://cdn.svgporn.com/logos/angular-icon.svg)
+![angular](https://cdn.svgporn.com/logos/angular.svg)
 ## <a href="https://www.codium.ai/" target="_blank">Codium</a>
 ![codium](https://cdn.svgporn.com/logos/codium-icon.svg)
 ![codium](https://cdn.svgporn.com/logos/codium.svg)
@@ -146,11 +153,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.mautic.org/" target="_blank">Mautic</a>
 ![mautic](https://cdn.svgporn.com/logos/mautic-icon.svg)
 ![mautic](https://cdn.svgporn.com/logos/mautic.svg)
-## <a href="https://pipedream.com/" target="_blank">Pipedream</a>
-![pipedream](https://cdn.svgporn.com/logos/pipedream.svg)
-## <a href="https://posthog.com/" target="_blank">PostHog</a>
-![posthog](https://cdn.svgporn.com/logos/posthog-icon.svg)
-![posthog](https://cdn.svgporn.com/logos/posthog.svg)
 
 ---
 
