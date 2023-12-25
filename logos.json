@@ -373,6 +373,15 @@
     ]
   },
   {
+    "name": "Anthropic",
+    "shortname": "anthropic",
+    "url": "https://www.anthropic.com/",
+    "files": [
+      "anthropic-icon.svg",
+      "anthropic.svg"
+    ]
+  },
+  {
     "name": "Apache",
     "shortname": "apache",
     "url": "http://www.apache.org/",
@@ -4293,6 +4302,14 @@
     ]
   },
   {
+    "name": "Google Gemini",
+    "shortname": "google-gemini",
+    "url": "https://deepmind.google/technologies/gemini/",
+    "files": [
+      "google-gemini.svg"
+    ]
+  },
+  {
     "name": "Google Gmail",
     "shortname": "google-gmail",
     "url": "http://gmail.com/",
@@ -4357,6 +4374,14 @@
     ]
   },
   {
+    "name": "Google PaLM",
+    "shortname": "google-palm",
+    "url": "https://ai.google/discover/palm2/",
+    "files": [
+      "google-palm.svg"
+    ]
+  },
+  {
     "name": "Google Pay",
     "shortname": "google-pay",
     "url": "https://pay.google.com/about/",
@@ -4412,6 +4437,15 @@
     "url": "https://workspace.google.com/",
     "files": [
       "google-workspace.svg"
+    ]
+  },
+  {
+    "name": "Gradio",
+    "shortname": "gradio",
+    "url": "https://www.gradio.app/",
+    "files": [
+      "gradio-icon.svg",
+      "gradio.svg"
     ]
   },
   {
@@ -4946,6 +4980,15 @@
     "url": "http://www.hubspot.com/",
     "files": [
       "hubspot.svg"
+    ]
+  },
+  {
+    "name": "Hugging Face",
+    "shortname": "hugging-face",
+    "url": "https://huggingface.co/",
+    "files": [
+      "hugging-face-icon.svg",
+      "hugging-face.svg"
     ]
   },
   {
@@ -6353,6 +6396,15 @@
     ]
   },
   {
+    "name": "Meta",
+    "shortname": "meta",
+    "url": "https://www.meta.com/",
+    "files": [
+      "meta-icon.svg",
+      "meta.svg"
+    ]
+  },
+  {
     "name": "Metabase",
     "shortname": "metabase",
     "url": "http://www.metabase.com/",
@@ -6488,6 +6540,14 @@
     ]
   },
   {
+    "name": "Midjourney",
+    "shortname": "midjourney",
+    "url": "https://www.midjourney.com/",
+    "files": [
+      "midjourney.svg"
+    ]
+  },
+  {
     "name": "Milligram",
     "shortname": "milligram",
     "url": "https://milligram.io",
@@ -6544,6 +6604,15 @@
     "url": "https://mist.io/",
     "files": [
       "mist.svg"
+    ]
+  },
+  {
+    "name": "Mistral AI",
+    "shortname": "mistral-ai",
+    "url": "https://mistral.ai/",
+    "files": [
+      "mistral-ai-icon.svg",
+      "mistral-ai.svg"
     ]
   },
   {
@@ -9389,6 +9458,15 @@
     "files": [
       "sst-icon.svg",
       "sst.svg"
+    ]
+  },
+  {
+    "name": "Stability AI",
+    "shortname": "stability-ai",
+    "url": "https://stability.ai/",
+    "files": [
+      "stability-ai-icon.svg",
+      "stability-ai.svg"
     ]
   },
   {

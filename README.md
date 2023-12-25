@@ -18,6 +18,30 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.anthropic.com/" target="_blank">Anthropic</a>
+![anthropic](https://cdn.svgporn.com/logos/anthropic-icon.svg)
+![anthropic](https://cdn.svgporn.com/logos/anthropic.svg)
+## <a href="https://deepmind.google/technologies/gemini/" target="_blank">Google Gemini</a>
+![google-gemini](https://cdn.svgporn.com/logos/google-gemini.svg)
+## <a href="https://ai.google/discover/palm2/" target="_blank">Google PaLM</a>
+![google-palm](https://cdn.svgporn.com/logos/google-palm.svg)
+## <a href="https://www.gradio.app/" target="_blank">Gradio</a>
+![gradio](https://cdn.svgporn.com/logos/gradio-icon.svg)
+![gradio](https://cdn.svgporn.com/logos/gradio.svg)
+## <a href="https://huggingface.co/" target="_blank">Hugging Face</a>
+![hugging-face](https://cdn.svgporn.com/logos/hugging-face-icon.svg)
+![hugging-face](https://cdn.svgporn.com/logos/hugging-face.svg)
+## <a href="https://www.meta.com/" target="_blank">Meta</a>
+![meta](https://cdn.svgporn.com/logos/meta-icon.svg)
+![meta](https://cdn.svgporn.com/logos/meta.svg)
+## <a href="https://www.midjourney.com/" target="_blank">Midjourney</a>
+![midjourney](https://cdn.svgporn.com/logos/midjourney.svg)
+## <a href="https://mistral.ai/" target="_blank">Mistral AI</a>
+![mistral-ai](https://cdn.svgporn.com/logos/mistral-ai-icon.svg)
+![mistral-ai](https://cdn.svgporn.com/logos/mistral-ai.svg)
+## <a href="https://stability.ai/" target="_blank">Stability AI</a>
+![stability-ai](https://cdn.svgporn.com/logos/stability-ai-icon.svg)
+![stability-ai](https://cdn.svgporn.com/logos/stability-ai.svg)
 ## <a href="https://www.android.com/" target="_blank">Android</a>
 ![android](https://cdn.svgporn.com/logos/android-icon.svg)
 ![android](https://cdn.svgporn.com/logos/android.svg)
@@ -129,30 +153,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![linear](https://cdn.svgporn.com/logos/linear.svg)
 ## <a href="https://github.com/nvm-sh/nvm" target="_blank">nvm</a>
 ![nvm](https://cdn.svgporn.com/logos/nvm.svg)
-## <a href="https://www.okta.com/" target="_blank">Okta</a>
-![okta](https://cdn.svgporn.com/logos/okta-icon.svg)
-![okta](https://cdn.svgporn.com/logos/okta.svg)
-## <a href="https://www.snaplet.dev/" target="_blank">Snaplet</a>
-![snaplet](https://cdn.svgporn.com/logos/snaplet-icon.svg)
-![snaplet](https://cdn.svgporn.com/logos/snaplet.svg)
-## <a href="https://workos.com/" target="_blank">WorkOS</a>
-![workos](https://cdn.svgporn.com/logos/workos-icon.svg)
-![workos](https://cdn.svgporn.com/logos/workos.svg)
-## <a href="https://bugsnag.com/" target="_blank">Bugsnag</a>
-![bugsnag](https://cdn.svgporn.com/logos/bugsnag.svg)
-## <a href="https://zapier.com/" target="_blank">Zapier</a>
-![zapier](https://cdn.svgporn.com/logos/zapier.svg)
-## <a href="https://www.asyncapi.com/" target="_blank">AsyncAPI</a>
-![asyncapi](https://cdn.svgporn.com/logos/async-api-icon.svg)
-![asyncapi](https://cdn.svgporn.com/logos/async-api.svg)
-## <a href="https://www.eraser.io/" target="_blank">Eraser</a>
-![eraser](https://cdn.svgporn.com/logos/eraser-icon.svg)
-![eraser](https://cdn.svgporn.com/logos/eraser.svg)
-## <a href="https://json-ld.org/" target="_blank">JSON-LD</a>
-![json-ld](https://cdn.svgporn.com/logos/json-ld.svg)
-## <a href="https://www.mautic.org/" target="_blank">Mautic</a>
-![mautic](https://cdn.svgporn.com/logos/mautic-icon.svg)
-![mautic](https://cdn.svgporn.com/logos/mautic.svg)
 
 ---
 
