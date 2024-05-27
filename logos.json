@@ -422,6 +422,15 @@
     ]
   },
   {
+    "name": "Apidog",
+    "shortname": "apidog",
+    "url": "https://apidog.com/",
+    "files": [
+      "apidog-icon.svg",
+      "apidog.svg"
+    ]
+  },
+  {
     "name": "Apollo",
     "shortname": "apollostack",
     "url": "http://www.apollostack.com/",
@@ -1968,6 +1977,14 @@
     ]
   },
   {
+    "name": "Chart.js",
+    "shortname": "chartjs",
+    "url": "https://www.chartjs.org/",
+    "files": [
+      "chartjs.svg"
+    ]
+  },
+  {
     "name": "Chef",
     "shortname": "chef",
     "url": "https://www.chef.io/",
@@ -3505,6 +3522,14 @@
     ]
   },
   {
+    "name": "Faker",
+    "shortname": "faker",
+    "url": "https://fakerjs.dev/",
+    "files": [
+      "faker.svg"
+    ]
+  },
+  {
     "name": "Falcor",
     "shortname": "falcor",
     "url": "http://netflix.github.io/falcor/",
@@ -3730,7 +3755,7 @@
   {
     "name": "Flux",
     "shortname": "flux",
-    "url": "https://facebook.github.io/flux/",
+    "url": "https://facebookarchive.github.io/flux/",
     "files": [
       "flux.svg"
     ]
@@ -5198,6 +5223,15 @@
     ]
   },
   {
+    "name": "Internet Computer",
+    "shortname": "internetcomputer",
+    "url": "https://internetcomputer.org/",
+    "files": [
+      "internet-computer-icon.svg",
+      "internet-computer.svg"
+    ]
+  },
+  {
     "name": "Internet Explorer",
     "shortname": "internetexplorer",
     "url": "http://windows.microsoft.com/en-us/internet-explorer/",
@@ -5443,6 +5477,15 @@
     "url": "http://json.org/",
     "files": [
       "json.svg"
+    ]
+  },
+  {
+    "name": "JSON Schema",
+    "shortname": "json-schema",
+    "url": "https://json-schema.org/",
+    "files": [
+      "json-schema-icon.svg",
+      "json-schema.svg"
     ]
   },
   {
@@ -6945,7 +6988,7 @@
   {
     "name": "Next.js",
     "shortname": "nextjs",
-    "url": "https://zeit.co/next",
+    "url": "https://vercel.com/solutions/nextjs",
     "files": [
       "nextjs-icon.svg",
       "nextjs.svg"
@@ -8982,7 +9025,7 @@
   {
     "name": "sensu",
     "shortname": "sensu",
-    "url": "https://sensuapp.org/",
+    "url": "https://sensu.io/",
     "files": [
       "sensu-icon.svg",
       "sensu.svg"
@@ -9000,7 +9043,7 @@
   {
     "name": "Sequelize",
     "shortname": "sequelize",
-    "url": "http://sequelizejs.com/",
+    "url": "https://sequelize.org/",
     "files": [
       "sequelize.svg"
     ]
@@ -9169,6 +9212,14 @@
     "url": "https://slides.com/",
     "files": [
       "slides.svg"
+    ]
+  },
+  {
+    "name": "Slidev",
+    "shortname": "slidev",
+    "url": "https://sli.dev/",
+    "files": [
+      "slidev.svg"
     ]
   },
   {
@@ -10706,11 +10757,27 @@
     ]
   },
   {
+    "name": "VMware",
+    "shortname": "vmware",
+    "url": "https://www.vmware.com/",
+    "files": [
+      "vmware.svg"
+    ]
+  },
+  {
     "name": "Void",
     "shortname": "void",
     "url": "https://voidlinux.org/",
     "files": [
       "void.svg"
+    ]
+  },
+  {
+    "name": "Volar",
+    "shortname": "volar",
+    "url": "https://volarjs.dev/",
+    "files": [
+      "volar.svg"
     ]
   },
   {

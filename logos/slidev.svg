@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+    <title>Slidev</title>
+    <defs>
+        <linearGradient x1="0%" y1="-8.88888889%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#3ACBD4" offset="0%"></stop>
+            <stop stop-color="#2988B1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-10.5555556%" y1="-12.2222222%" x2="84.5361111%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#95F0CF" offset="0%"></stop>
+            <stop stop-color="#3AB9D5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.132239836%" y1="-8.07272088%" x2="12.3609146%" y2="104.494726%" id="linearGradient-3">
+            <stop stop-color="#FFEB83" offset="0%"></stop>
+            <stop stop-color="#FFEB83" offset="0.01%"></stop>
+            <stop stop-color="#FFDD35" offset="8.33333%"></stop>
+            <stop stop-color="#FFBB13" offset="60.1773%"></stop>
+            <stop stop-color="#FFA800" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <rect fill="url(#linearGradient-1)" x="34.4615385" y="34.4615385" width="221.538462" height="221.538462" rx="15"></rect>
+        <rect fill="url(#linearGradient-2)" x="0" y="0" width="221.538462" height="221.538462" rx="45"></rect>
+        <path d="M138.158769,157.353846 C135.261785,146.542031 133.813415,141.136246 135.246523,137.402831 C136.496492,134.146462 139.069538,131.573415 142.325908,130.323446 C146.059323,128.890338 151.465108,130.338708 162.276923,133.235692 L216.015508,147.634954 C226.827077,150.531938 232.232862,151.980308 234.749538,155.088246 C236.944738,157.798892 237.886523,161.313969 237.3408,164.759138 C236.715323,168.708677 232.757908,172.666092 224.843323,180.580677 L185.503754,219.920246 C177.589169,227.834831 173.631754,231.792246 169.681969,232.417723 C166.2368,232.963446 162.721969,232.021662 160.011323,229.826462 C156.903385,227.309785 155.455015,221.904 152.558031,211.092431 L138.158769,157.353846 Z" fill="url(#linearGradient-3)"></path>
+    </g>
+</svg>

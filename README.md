@@ -18,6 +18,25 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://apidog.com/" target="_blank">Apidog</a>
+![apidog](https://cdn.svgporn.com/logos/apidog-icon.svg)
+![apidog](https://cdn.svgporn.com/logos/apidog.svg)
+## <a href="https://www.chartjs.org/" target="_blank">Chart.js</a>
+![chartjs](https://cdn.svgporn.com/logos/chartjs.svg)
+## <a href="https://fakerjs.dev/" target="_blank">Faker</a>
+![faker](https://cdn.svgporn.com/logos/faker.svg)
+## <a href="https://internetcomputer.org/" target="_blank">Internet Computer</a>
+![internetcomputer](https://cdn.svgporn.com/logos/internet-computer-icon.svg)
+![internetcomputer](https://cdn.svgporn.com/logos/internet-computer.svg)
+## <a href="https://json-schema.org/" target="_blank">JSON Schema</a>
+![json-schema](https://cdn.svgporn.com/logos/json-schema-icon.svg)
+![json-schema](https://cdn.svgporn.com/logos/json-schema.svg)
+## <a href="https://sli.dev/" target="_blank">Slidev</a>
+![slidev](https://cdn.svgporn.com/logos/slidev.svg)
+## <a href="https://www.vmware.com/" target="_blank">VMware</a>
+![vmware](https://cdn.svgporn.com/logos/vmware.svg)
+## <a href="https://volarjs.dev/" target="_blank">Volar</a>
+![volar](https://cdn.svgporn.com/logos/volar.svg)
 ## <a href="https://www.anthropic.com/" target="_blank">Anthropic</a>
 ![anthropic](https://cdn.svgporn.com/logos/anthropic-icon.svg)
 ![anthropic](https://cdn.svgporn.com/logos/anthropic.svg)
@@ -133,26 +152,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.shortcut.com/" target="_blank">Shortcut</a>
 ![shorcut](https://cdn.svgporn.com/logos/shortcut-icon.svg)
 ![shorcut](https://cdn.svgporn.com/logos/shortcut.svg)
-## <a href="https://www.w3.org/TR/webgpu/" target="_blank">WebGPU</a>
-![webgpu](https://cdn.svgporn.com/logos/webgpu.svg)
-## <a href="https://developer.apple.com/xcode/" target="_blank">Xcode</a>
-![xcode](https://cdn.svgporn.com/logos/xcode.svg)
-## <a href="https://zod.dev/" target="_blank">Zod</a>
-![zod](https://cdn.svgporn.com/logos/zod.svg)
-## <a href="https://daily.dev/" target="_blank">daily.dev</a>
-![dailydev](https://cdn.svgporn.com/logos/dailydev-icon.svg)
-![dailydev](https://cdn.svgporn.com/logos/dailydev.svg)
-## <a href="https://incident.io/" target="_blank">Incident</a>
-![incident](https://cdn.svgporn.com/logos/incident-icon.svg)
-![incident](https://cdn.svgporn.com/logos/incident.svg)
-## <a href="https://lexical.dev/" target="_blank">Lexical</a>
-![lexical](https://cdn.svgporn.com/logos/lexical-icon.svg)
-![lexical](https://cdn.svgporn.com/logos/lexical.svg)
-## <a href="https://linear.app/" target="_blank">Linear</a>
-![linear](https://cdn.svgporn.com/logos/linear-icon.svg)
-![linear](https://cdn.svgporn.com/logos/linear.svg)
-## <a href="https://github.com/nvm-sh/nvm" target="_blank">nvm</a>
-![nvm](https://cdn.svgporn.com/logos/nvm.svg)
 
 ---
 
