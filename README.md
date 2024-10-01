@@ -18,6 +18,16 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://biomejs.dev/" target="_blank">Biome</a>
+![biomejs](https://cdn.svgporn.com/logos/biomejs-icon.svg)
+![biomejs](https://cdn.svgporn.com/logos/biomejs.svg)
+## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
+![daisyui](https://cdn.svgporn.com/logos/daisyUI-icon.svg)
+![daisyui](https://cdn.svgporn.com/logos/daisyUI.svg)
+## <a href="https://sli.dev/" target="_blank">Slidev</a>
+![slidev](https://cdn.svgporn.com/logos/slidev.svg)
+## <a href="https://unocss.antfu.me/" target="_blank">unocss</a>
+![unocss](https://cdn.svgporn.com/logos/unocss.svg)
 ## <a href="https://apidog.com/" target="_blank">Apidog</a>
 ![apidog](https://cdn.svgporn.com/logos/apidog-icon.svg)
 ![apidog](https://cdn.svgporn.com/logos/apidog.svg)
@@ -31,8 +41,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://json-schema.org/" target="_blank">JSON Schema</a>
 ![json-schema](https://cdn.svgporn.com/logos/json-schema-icon.svg)
 ![json-schema](https://cdn.svgporn.com/logos/json-schema.svg)
-## <a href="https://sli.dev/" target="_blank">Slidev</a>
-![slidev](https://cdn.svgporn.com/logos/slidev.svg)
 ## <a href="https://www.vmware.com/" target="_blank">VMware</a>
 ![vmware](https://cdn.svgporn.com/logos/vmware.svg)
 ## <a href="https://volarjs.dev/" target="_blank">Volar</a>
@@ -93,8 +101,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![typesense](https://cdn.svgporn.com/logos/typesense.svg)
 ## <a href="https://analogjs.org/" target="_blank">Analog</a>
 ![analog](https://cdn.svgporn.com/logos/analog.svg)
-## <a href="https://biomejs.dev/" target="_blank">Biome</a>
-![biomejs](https://cdn.svgporn.com/logos/biomejs.svg)
 ## <a href="https://www.effect.website/" target="_blank">Effect</a>
 ![effect](https://cdn.svgporn.com/logos/effect-icon.svg)
 ![effect](https://cdn.svgporn.com/logos/effect.svg)
@@ -146,12 +152,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://play.google.com/console/" target="_blank">Google Play Console</a>
 ![google-play-console](https://cdn.svgporn.com/logos/google-play-console-icon.svg)
 ![google-play-console](https://cdn.svgporn.com/logos/google-play-console.svg)
-## <a href="https://obsidian.md/" target="_blank">Obsidian</a>
-![obsidian](https://cdn.svgporn.com/logos/obsidian-icon.svg)
-![obsidian](https://cdn.svgporn.com/logos/obsidian.svg)
-## <a href="https://www.shortcut.com/" target="_blank">Shortcut</a>
-![shorcut](https://cdn.svgporn.com/logos/shortcut-icon.svg)
-![shorcut](https://cdn.svgporn.com/logos/shortcut.svg)
 
 ---
 
