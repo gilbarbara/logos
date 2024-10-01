@@ -33,6 +33,15 @@
     ]
   },
   {
+    "name": "Adobe",
+    "shortname": "adobe",
+    "url": "https://www.adobe.com/",
+    "files": [
+      "adobe-icon.svg",
+      "adobe.svg"
+    ]
+  },
+  {
     "name": "Adobe After Effects",
     "shortname": "adobe-after-effects",
     "url": "https://www.adobe.com/products/aftereffects.html",
@@ -1520,6 +1529,14 @@
     ]
   },
   {
+    "name": "Bluesky",
+    "shortname": "bluesky",
+    "url": "https://bsky.social/",
+    "files": [
+      "bluesky.svg"
+    ]
+  },
+  {
     "name": "Bluetooth",
     "shortname": "bluetooth",
     "url": "http://www.bluetooth.com/",
@@ -2064,6 +2081,15 @@
     "url": "https://cirrus-ci.org/",
     "files": [
       "cirrus-ci.svg"
+    ]
+  },
+  {
+    "name": "Claude",
+    "shortname": "claude",
+    "url": "https://claude.ai/",
+    "files": [
+      "claude-icon.svg",
+      "claude.svg"
     ]
   },
   {
@@ -4993,6 +5019,15 @@
     ]
   },
   {
+    "name": "htmx",
+    "shortname": "htmx",
+    "url": "https://htmx.org/",
+    "files": [
+      "htmx-icon.svg",
+      "htmx.svg"
+    ]
+  },
+  {
     "name": "HTTPie",
     "shortname": "httpie",
     "url": "https://httpie.io/",
@@ -6644,6 +6679,15 @@
     ]
   },
   {
+    "name": "Miro",
+    "shortname": "miro",
+    "url": "https://miro.com/",
+    "files": [
+      "miro-icon.svg",
+      "miro.svg"
+    ]
+  },
+  {
     "name": "Mist.io",
     "shortname": "mist",
     "url": "https://mist.io/",
@@ -7667,6 +7711,15 @@
     "url": "https://www.perl.org/",
     "files": [
       "perl.svg"
+    ]
+  },
+  {
+    "name": "perplexity",
+    "shortname": "perplexity",
+    "url": "https://www.perplexity.ai/",
+    "files": [
+      "perplexity-icon.svg",
+      "perplexity.svg"
     ]
   },
   {
@@ -10524,6 +10577,14 @@
     ]
   },
   {
+    "name": "UnJS",
+    "shortname": "unjs",
+    "url": "https://unjs.io/",
+    "files": [
+      "unjs.svg"
+    ]
+  },
+  {
     "name": "unocss",
     "shortname": "unocss",
     "url": "https://unocss.antfu.me/",
@@ -11230,6 +11291,14 @@
     "url": "http://www.wufoo.com/",
     "files": [
       "wufoo.svg"
+    ]
+  },
+  {
+    "name": "X",
+    "shortname": "x",
+    "url": "https://x.com",
+    "files": [
+      "x.svg"
     ]
   },
   {

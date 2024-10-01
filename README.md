@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.adobe.com/" target="_blank">Adobe</a>
+![adobe](https://cdn.svgporn.com/logos/adobe-icon.svg)
+![adobe](https://cdn.svgporn.com/logos/adobe.svg)
+## <a href="https://bsky.social/" target="_blank">Bluesky</a>
+![bluesky](https://cdn.svgporn.com/logos/bluesky.svg)
+## <a href="https://claude.ai/" target="_blank">Claude</a>
+![claude](https://cdn.svgporn.com/logos/claude-icon.svg)
+![claude](https://cdn.svgporn.com/logos/claude.svg)
+## <a href="https://htmx.org/" target="_blank">htmx</a>
+![htmx](https://cdn.svgporn.com/logos/htmx-icon.svg)
+![htmx](https://cdn.svgporn.com/logos/htmx.svg)
+## <a href="https://miro.com/" target="_blank">Miro</a>
+![miro](https://cdn.svgporn.com/logos/miro-icon.svg)
+![miro](https://cdn.svgporn.com/logos/miro.svg)
+## <a href="https://www.perplexity.ai/" target="_blank">perplexity</a>
+![perplexity](https://cdn.svgporn.com/logos/perplexity-icon.svg)
+![perplexity](https://cdn.svgporn.com/logos/perplexity.svg)
+## <a href="https://unjs.io/" target="_blank">UnJS</a>
+![unjs](https://cdn.svgporn.com/logos/unjs.svg)
+## <a href="https://x.com" target="_blank">X</a>
+![x](https://cdn.svgporn.com/logos/x.svg)
 ## <a href="https://biomejs.dev/" target="_blank">Biome</a>
 ![biomejs](https://cdn.svgporn.com/logos/biomejs-icon.svg)
 ![biomejs](https://cdn.svgporn.com/logos/biomejs.svg)
@@ -129,29 +150,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://panda-css.com/" target="_blank">Panda</a>
 ![panda](https://cdn.svgporn.com/logos/pandacss-icon.svg)
 ![panda](https://cdn.svgporn.com/logos/pandacss.svg)
-## <a href="https://www.pulumi.com/" target="_blank">Pulumi</a>
-![pulumi](https://cdn.svgporn.com/logos/pulumi-icon.svg)
-![pulumi](https://cdn.svgporn.com/logos/pulumi.svg)
-## <a href="https://qdrant.tech/" target="_blank">Qdrant</a>
-![qdrant](https://cdn.svgporn.com/logos/qdrant-icon.svg)
-![qdrant](https://cdn.svgporn.com/logos/qdrant.svg)
-## <a href="https://www.replay.io/" target="_blank">Replay</a>
-![replay](https://cdn.svgporn.com/logos/replay-icon.svg)
-![replay](https://cdn.svgporn.com/logos/replay.svg)
-## <a href="https://sst.dev/" target="_blank">SST</a>
-![sst](https://cdn.svgporn.com/logos/sst-icon.svg)
-![sst](https://cdn.svgporn.com/logos/sst.svg)
-## <a href="https://www.winglang.io/" target="_blank">Wing</a>
-![winglang](https://cdn.svgporn.com/logos/winglang-icon.svg)
-![winglang](https://cdn.svgporn.com/logos/winglang.svg)
-## <a href="https://web.dev/baseline/" target="_blank">Baseline</a>
-![baseline](https://cdn.svgporn.com/logos/baseline.svg)
-## <a href="https://bard.google.com/" target="_blank">Google Bard</a>
-![google-bard](https://cdn.svgporn.com/logos/google-bard-icon.svg)
-![google-bard](https://cdn.svgporn.com/logos/google-bard.svg)
-## <a href="https://play.google.com/console/" target="_blank">Google Play Console</a>
-![google-play-console](https://cdn.svgporn.com/logos/google-play-console-icon.svg)
-![google-play-console](https://cdn.svgporn.com/logos/google-play-console.svg)
 
 ---
 
