@@ -18,6 +18,23 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://astro.build/" target="_blank">Astro</a>
+![astro](https://cdn.svgporn.com/logos/astro-icon.svg)
+![astro](https://cdn.svgporn.com/logos/astro.svg)
+## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
+![daisyui](https://cdn.svgporn.com/logos/daisyUI-icon.svg)
+![daisyui](https://cdn.svgporn.com/logos/daisyUI.svg)
+## <a href="https://www.firebase.com/" target="_blank">Firebase</a> *
+![firebase](https://cdn.svgporn.com/logos/firebase-icon.svg)
+![firebase](https://cdn.svgporn.com/logos/firebase.svg)
+## <a href="https://about.gitlab.com/" target="_blank">Gitlab</a>
+![gitlab](https://cdn.svgporn.com/logos/gitlab-icon.svg)
+![gitlab](https://cdn.svgporn.com/logos/gitlab.svg)
+## <a href="https://import.io/" target="_blank">import.io</a>
+![importio](https://cdn.svgporn.com/logos/importio-icon.svg)
+![importio](https://cdn.svgporn.com/logos/importio.svg)
+## <a href="http://www.zoho.com/" target="_blank">Zoho</a> *
+![zoho](https://cdn.svgporn.com/logos/zoho.svg)
 ## <a href="https://www.adobe.com/" target="_blank">Adobe</a>
 ![adobe](https://cdn.svgporn.com/logos/adobe-icon.svg)
 ![adobe](https://cdn.svgporn.com/logos/adobe.svg)
@@ -42,9 +59,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://biomejs.dev/" target="_blank">Biome</a>
 ![biomejs](https://cdn.svgporn.com/logos/biomejs-icon.svg)
 ![biomejs](https://cdn.svgporn.com/logos/biomejs.svg)
-## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
-![daisyui](https://cdn.svgporn.com/logos/daisyUI-icon.svg)
-![daisyui](https://cdn.svgporn.com/logos/daisyUI.svg)
 ## <a href="https://sli.dev/" target="_blank">Slidev</a>
 ![slidev](https://cdn.svgporn.com/logos/slidev.svg)
 ## <a href="https://unocss.antfu.me/" target="_blank">unocss</a>
@@ -137,19 +151,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://prestodb.io/" target="_blank">Presto</a>
 ![presto](https://cdn.svgporn.com/logos/presto-icon.svg)
 ![presto](https://cdn.svgporn.com/logos/presto.svg)
-## <a href="https://wakatime.com/" target="_blank">WakaTime</a> *
-![wakatime](https://cdn.svgporn.com/logos/wakatime.svg)
-## <a href="https://www.zsh.org/" target="_blank">zsh</a>
-![zsh](https://cdn.svgporn.com/logos/zsh.svg)
-## <a href="https://million.dev/" target="_blank">Million</a>
-![million](https://cdn.svgporn.com/logos/million-icon.svg)
-![million](https://cdn.svgporn.com/logos/million.svg)
-## <a href="https://milvus.io/" target="_blank">Milvus</a>
-![milvus](https://cdn.svgporn.com/logos/milvus-icon.svg)
-![milvus](https://cdn.svgporn.com/logos/milvus.svg)
-## <a href="https://panda-css.com/" target="_blank">Panda</a>
-![panda](https://cdn.svgporn.com/logos/pandacss-icon.svg)
-![panda](https://cdn.svgporn.com/logos/pandacss.svg)
 
 ---
 

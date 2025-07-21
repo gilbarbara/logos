@@ -3391,15 +3391,6 @@
     ]
   },
   {
-    "name": "epsagon",
-    "shortname": "epsagon",
-    "url": "https://epsagon.com/",
-    "files": [
-      "epsagon-icon.svg",
-      "epsagon.svg"
-    ]
-  },
-  {
     "name": "Eraser",
     "shortname": "eraser",
     "url": "https://www.eraser.io/",
@@ -3654,6 +3645,7 @@
     "shortname": "firebase",
     "url": "https://www.firebase.com/",
     "files": [
+      "firebase-icon.svg",
       "firebase.svg"
     ]
   },
@@ -4086,6 +4078,7 @@
     "shortname": "gitlab",
     "url": "https://about.gitlab.com/",
     "files": [
+      "gitlab-icon.svg",
       "gitlab.svg"
     ]
   },
@@ -5172,6 +5165,7 @@
     "shortname": "importio",
     "url": "https://import.io/",
     "files": [
+      "importio-icon.svg",
       "importio.svg"
     ]
   },
@@ -9652,15 +9646,6 @@
     "files": [
       "stenciljs-icon.svg",
       "stenciljs.svg"
-    ]
-  },
-  {
-    "name": "Stepsize",
-    "shortname": "stepsize",
-    "url": "https://stepsize.com/",
-    "files": [
-      "stepsize-icon.svg",
-      "stepsize.svg"
     ]
   },
   {
