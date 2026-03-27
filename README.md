@@ -18,13 +18,29 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://vercel.com/" target="_blank">Vercel</a>
+![vercel](https://cdn.svgporn.com/logos/vercel-icon.svg)
+![vercel](https://cdn.svgporn.com/logos/vercel.svg)
+## <a href="https://www.centos.org/" target="_blank">CentOS</a>
+![centos](https://cdn.svgporn.com/logos/centos-icon.svg)
+![centos](https://cdn.svgporn.com/logos/centos.svg)
+## <a href="https://github.com/CSS-Next/css-next" target="_blank">CSS</a>
+![css](https://cdn.svgporn.com/logos/css.svg)
+## <a href="http://markojs.com/" target="_blank">Marko</a>
+![marko](https://cdn.svgporn.com/logos/marko-icon.svg)
+![marko](https://cdn.svgporn.com/logos/marko.svg)
+## <a href="https://vitejs.dev/" target="_blank">Vite</a>
+![vitejs](https://cdn.svgporn.com/logos/vite-icon.svg)
+![vitejs](https://cdn.svgporn.com/logos/vite.svg)
+![vitejs](https://cdn.svgporn.com/logos/vite-icon-dark.svg)
+![vitejs](https://cdn.svgporn.com/logos/vite-dark.svg)
 ## <a href="https://astro.build/" target="_blank">Astro</a>
 ![astro](https://cdn.svgporn.com/logos/astro-icon.svg)
 ![astro](https://cdn.svgporn.com/logos/astro.svg)
 ## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
 ![daisyui](https://cdn.svgporn.com/logos/daisyUI-icon.svg)
 ![daisyui](https://cdn.svgporn.com/logos/daisyUI.svg)
-## <a href="https://www.firebase.com/" target="_blank">Firebase</a> *
+## <a href="https://www.firebase.com/" target="_blank">Firebase</a>
 ![firebase](https://cdn.svgporn.com/logos/firebase-icon.svg)
 ![firebase](https://cdn.svgporn.com/logos/firebase.svg)
 ## <a href="https://about.gitlab.com/" target="_blank">Gitlab</a>
@@ -139,18 +155,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.effect.website/" target="_blank">Effect</a>
 ![effect](https://cdn.svgporn.com/logos/effect-icon.svg)
 ![effect](https://cdn.svgporn.com/logos/effect.svg)
-## <a href="https://effector.dev/" target="_blank">Effector</a>
-![effector](https://cdn.svgporn.com/logos/effector.svg)
-## <a href="https://fastapi.tiangolo.com/" target="_blank">FastAPI</a>
-![fastapi](https://cdn.svgporn.com/logos/fastapi-icon.svg)
-![fastapi](https://cdn.svgporn.com/logos/fastapi.svg)
-## <a href="https://hono.dev/" target="_blank">Hono</a>
-![hono](https://cdn.svgporn.com/logos/hono.svg)
-## <a href="https://ngrok.com" target="_blank">ngrok</a>
-![ngrok](https://cdn.svgporn.com/logos/ngrok.svg)
-## <a href="https://prestodb.io/" target="_blank">Presto</a>
-![presto](https://cdn.svgporn.com/logos/presto-icon.svg)
-![presto](https://cdn.svgporn.com/logos/presto.svg)
 
 ---
 

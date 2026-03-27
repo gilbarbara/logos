@@ -2616,20 +2616,11 @@
     ]
   },
   {
-    "name": "CSS3",
-    "shortname": "css-3",
-    "url": "http://www.w3.org/TR/CSS/",
+    "name": "CSS",
+    "shortname": "css",
+    "url": "https://github.com/CSS-Next/css-next",
     "files": [
-      "css-3.svg",
-      "css-3_official.svg"
-    ]
-  },
-  {
-    "name": "cssnext",
-    "shortname": "cssnext",
-    "url": "https://cssnext.github.io/",
-    "files": [
-      "cssnext.svg"
+      "css.svg"
     ]
   },
   {
@@ -6282,6 +6273,7 @@
     "shortname": "marko",
     "url": "http://markojs.com/",
     "files": [
+      "marko-icon.svg",
       "marko.svg"
     ]
   },
@@ -10777,7 +10769,10 @@
     "shortname": "vitejs",
     "url": "https://vitejs.dev/",
     "files": [
-      "vitejs.svg"
+      "vite-icon.svg",
+      "vite.svg",
+      "vite-icon-dark.svg",
+      "vite-dark.svg"
     ]
   },
   {
@@ -10999,6 +10994,7 @@
     "shortname": "webdriverio",
     "url": "https://webdriver.io/",
     "files": [
+      "webdriverio-icon.svg",
       "webdriverio.svg"
     ]
   },
