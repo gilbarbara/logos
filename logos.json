@@ -1406,6 +1406,14 @@
     ]
   },
   {
+    "name": "Bēhance",
+    "shortname": "behance",
+    "url": "https://www.behance.net/",
+    "files": [
+      "behance.svg"
+    ]
+  },
+  {
     "name": "Bem",
     "shortname": "bem",
     "url": "https://en.bem.info/",
@@ -1825,14 +1833,6 @@
     "files": [
       "bunny-net-icon.svg",
       "bunny-net.svg"
-    ]
-  },
-  {
-    "name": "Bēhance",
-    "shortname": "behance",
-    "url": "https://www.behance.net/",
-    "files": [
-      "behance.svg"
     ]
   },
   {
@@ -2808,6 +2808,15 @@
     "url": "https://www.debian.org/",
     "files": [
       "debian.svg"
+    ]
+  },
+  {
+    "name": "DeepSeek",
+    "shortname": "deepseek",
+    "url": "https://www.deepseek.com/en/",
+    "files": [
+      "deepseek-icon.svg",
+      "deepseek.svg"
     ]
   },
   {
@@ -4576,6 +4585,15 @@
     "files": [
       "gridsome-icon.svg",
       "gridsome.svg"
+    ]
+  },
+  {
+    "name": "Grok",
+    "shortname": "grok",
+    "url": "https://grok.com/",
+    "files": [
+      "grok-icon.svg",
+      "grok.svg"
     ]
   },
   {
@@ -6372,6 +6390,15 @@
     ]
   },
   {
+    "name": "MCP - Model Context Protocol",
+    "shortname": "mcp",
+    "url": "https://modelcontextprotocol.io/",
+    "files": [
+      "model-context-protocol-icon.svg",
+      "model-context-protocol.svg"
+    ]
+  },
+  {
     "name": "MDN",
     "shortname": "mdn",
     "url": "https://developer.mozilla.org/",
@@ -6812,6 +6839,15 @@
     "url": "https://kbrsh.github.io/moon/",
     "files": [
       "moon.svg"
+    ]
+  },
+  {
+    "name": "Moonshot AI",
+    "shortname": "moonshot-ai",
+    "url": "https://www.moonshot.ai/",
+    "files": [
+      "moonshot-ai-icon.svg",
+      "moonshot-ai.svg"
     ]
   },
   {
@@ -7506,6 +7542,17 @@
     "files": [
       "overloop-icon.svg",
       "overloop.svg"
+    ]
+  },
+  {
+    "name": "OXC",
+    "shortname": "oxc",
+    "url": "https://oxc.rs/",
+    "files": [
+      "oxc-icon.svg",
+      "oxc.svg",
+      "oxc-icon-dark.svg",
+      "oxc-dark.svg"
     ]
   },
   {
@@ -8337,6 +8384,15 @@
     ]
   },
   {
+    "name": "Qwen",
+    "shortname": "Qwen",
+    "url": "https://qwen.ai",
+    "files": [
+      "qwen-icon.svg",
+      "qwen.svg"
+    ]
+  },
+  {
     "name": "Qwik",
     "shortname": "qwik",
     "url": "https://qwik.builder.io/",
@@ -8752,6 +8808,17 @@
     "files": [
       "rollbar-icon.svg",
       "rollbar.svg"
+    ]
+  },
+  {
+    "name": "Rolldown",
+    "shortname": "rolldown",
+    "url": "https://rolldown.rs",
+    "files": [
+      "rolldown-icon.svg",
+      "rolldown.svg",
+      "rolldown-icon-dark.svg",
+      "rolldown-dark.svg"
     ]
   },
   {
@@ -10166,6 +10233,15 @@
     ]
   },
   {
+    "name": "Threads",
+    "shortname": "threads",
+    "url": "https://www.threads.com",
+    "files": [
+      "threads-icon.svg",
+      "threads.svg"
+    ]
+  },
+  {
     "name": "three.js",
     "shortname": "threejs",
     "url": "https://threejs.org/",
@@ -11288,6 +11364,14 @@
     "url": "https://www.x-cart.com/",
     "files": [
       "xcart.svg"
+    ]
+  },
+  {
+    "name": "xAI",
+    "shortname": "x-ai",
+    "url": "https://x.ai",
+    "files": [
+      "x-ai.svg"
     ]
   },
   {

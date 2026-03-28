@@ -18,143 +18,197 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
-## <a href="https://vercel.com/" target="_blank">Vercel</a>
-![vercel](https://cdn.svgporn.com/logos/vercel-icon.svg)
-![vercel](https://cdn.svgporn.com/logos/vercel.svg)
+## <a href="https://www.deepseek.com/en/" target="_blank">DeepSeek</a>
+![deepseek](https://cdn.svglogos.dev/logos/deepseek-icon.svg)
+![deepseek](https://cdn.svglogos.dev/logos/deepseek.svg)
+
+## <a href="https://grok.com/" target="_blank">Grok</a>
+![grok](https://cdn.svglogos.dev/logos/grok-icon.svg)
+![grok](https://cdn.svglogos.dev/logos/grok.svg)
+
+## <a href="https://modelcontextprotocol.io/" target="_blank">MCP - Model Context Protocol</a>
+![mcp](https://cdn.svglogos.dev/logos/model-context-protocol-icon.svg)
+![mcp](https://cdn.svglogos.dev/logos/model-context-protocol.svg)
+
+## <a href="https://www.moonshot.ai/" target="_blank">Moonshot AI</a>
+![moonshot-ai](https://cdn.svglogos.dev/logos/moonshot-ai-icon.svg)
+![moonshot-ai](https://cdn.svglogos.dev/logos/moonshot-ai.svg)
+
+## <a href="https://oxc.rs/" target="_blank">OXC</a>
+![oxc](https://cdn.svglogos.dev/logos/oxc-icon.svg)
+![oxc](https://cdn.svglogos.dev/logos/oxc.svg)
+![oxc](https://cdn.svglogos.dev/logos/oxc-icon-dark.svg)
+![oxc](https://cdn.svglogos.dev/logos/oxc-dark.svg)
+
+## <a href="https://qwen.ai" target="_blank">Qwen</a>
+![Qwen](https://cdn.svglogos.dev/logos/qwen-icon.svg)
+![Qwen](https://cdn.svglogos.dev/logos/qwen.svg)
+
+## <a href="https://rolldown.rs" target="_blank">Rolldown</a>
+![rolldown](https://cdn.svglogos.dev/logos/rolldown-icon.svg)
+![rolldown](https://cdn.svglogos.dev/logos/rolldown.svg)
+![rolldown](https://cdn.svglogos.dev/logos/rolldown-icon-dark.svg)
+![rolldown](https://cdn.svglogos.dev/logos/rolldown-dark.svg)
+
+## <a href="https://www.threads.com" target="_blank">Threads</a>
+![threads](https://cdn.svglogos.dev/logos/threads-icon.svg)
+![threads](https://cdn.svglogos.dev/logos/threads.svg)
+
+## <a href="https://x.ai" target="_blank">xAI</a>
+![x-ai](https://cdn.svglogos.dev/logos/x-ai.svg)
+
 ## <a href="https://www.centos.org/" target="_blank">CentOS</a>
-![centos](https://cdn.svgporn.com/logos/centos-icon.svg)
-![centos](https://cdn.svgporn.com/logos/centos.svg)
+![centos](https://cdn.svglogos.dev/logos/centos-icon.svg)
+![centos](https://cdn.svglogos.dev/logos/centos.svg)
+
 ## <a href="https://github.com/CSS-Next/css-next" target="_blank">CSS</a>
-![css](https://cdn.svgporn.com/logos/css.svg)
+![css](https://cdn.svglogos.dev/logos/css.svg)
+
 ## <a href="http://markojs.com/" target="_blank">Marko</a>
-![marko](https://cdn.svgporn.com/logos/marko-icon.svg)
-![marko](https://cdn.svgporn.com/logos/marko.svg)
+![marko](https://cdn.svglogos.dev/logos/marko-icon.svg)
+![marko](https://cdn.svglogos.dev/logos/marko.svg)
+
+## <a href="https://vercel.com/" target="_blank">Vercel</a>
+![vercel](https://cdn.svglogos.dev/logos/vercel-icon.svg)
+![vercel](https://cdn.svglogos.dev/logos/vercel.svg)
+
 ## <a href="https://vitejs.dev/" target="_blank">Vite</a>
-![vitejs](https://cdn.svgporn.com/logos/vite-icon.svg)
-![vitejs](https://cdn.svgporn.com/logos/vite.svg)
-![vitejs](https://cdn.svgporn.com/logos/vite-icon-dark.svg)
-![vitejs](https://cdn.svgporn.com/logos/vite-dark.svg)
+![vitejs](https://cdn.svglogos.dev/logos/vite-icon.svg)
+![vitejs](https://cdn.svglogos.dev/logos/vite.svg)
+![vitejs](https://cdn.svglogos.dev/logos/vite-icon-dark.svg)
+![vitejs](https://cdn.svglogos.dev/logos/vite-dark.svg)
+
 ## <a href="https://astro.build/" target="_blank">Astro</a>
-![astro](https://cdn.svgporn.com/logos/astro-icon.svg)
-![astro](https://cdn.svgporn.com/logos/astro.svg)
+![astro](https://cdn.svglogos.dev/logos/astro-icon.svg)
+![astro](https://cdn.svglogos.dev/logos/astro.svg)
+
 ## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
-![daisyui](https://cdn.svgporn.com/logos/daisyUI-icon.svg)
-![daisyui](https://cdn.svgporn.com/logos/daisyUI.svg)
+![daisyui](https://cdn.svglogos.dev/logos/daisyUI-icon.svg)
+![daisyui](https://cdn.svglogos.dev/logos/daisyUI.svg)
+
 ## <a href="https://www.firebase.com/" target="_blank">Firebase</a>
-![firebase](https://cdn.svgporn.com/logos/firebase-icon.svg)
-![firebase](https://cdn.svgporn.com/logos/firebase.svg)
+![firebase](https://cdn.svglogos.dev/logos/firebase-icon.svg)
+![firebase](https://cdn.svglogos.dev/logos/firebase.svg)
+
 ## <a href="https://about.gitlab.com/" target="_blank">Gitlab</a>
-![gitlab](https://cdn.svgporn.com/logos/gitlab-icon.svg)
-![gitlab](https://cdn.svgporn.com/logos/gitlab.svg)
+![gitlab](https://cdn.svglogos.dev/logos/gitlab-icon.svg)
+![gitlab](https://cdn.svglogos.dev/logos/gitlab.svg)
+
 ## <a href="https://import.io/" target="_blank">import.io</a>
-![importio](https://cdn.svgporn.com/logos/importio-icon.svg)
-![importio](https://cdn.svgporn.com/logos/importio.svg)
+![importio](https://cdn.svglogos.dev/logos/importio-icon.svg)
+![importio](https://cdn.svglogos.dev/logos/importio.svg)
+
 ## <a href="http://www.zoho.com/" target="_blank">Zoho</a> *
-![zoho](https://cdn.svgporn.com/logos/zoho.svg)
+![zoho](https://cdn.svglogos.dev/logos/zoho.svg)
+
 ## <a href="https://www.adobe.com/" target="_blank">Adobe</a>
-![adobe](https://cdn.svgporn.com/logos/adobe-icon.svg)
-![adobe](https://cdn.svgporn.com/logos/adobe.svg)
+![adobe](https://cdn.svglogos.dev/logos/adobe-icon.svg)
+![adobe](https://cdn.svglogos.dev/logos/adobe.svg)
+
 ## <a href="https://bsky.social/" target="_blank">Bluesky</a>
-![bluesky](https://cdn.svgporn.com/logos/bluesky.svg)
+![bluesky](https://cdn.svglogos.dev/logos/bluesky.svg)
+
 ## <a href="https://claude.ai/" target="_blank">Claude</a>
-![claude](https://cdn.svgporn.com/logos/claude-icon.svg)
-![claude](https://cdn.svgporn.com/logos/claude.svg)
+![claude](https://cdn.svglogos.dev/logos/claude-icon.svg)
+![claude](https://cdn.svglogos.dev/logos/claude.svg)
+
 ## <a href="https://htmx.org/" target="_blank">htmx</a>
-![htmx](https://cdn.svgporn.com/logos/htmx-icon.svg)
-![htmx](https://cdn.svgporn.com/logos/htmx.svg)
+![htmx](https://cdn.svglogos.dev/logos/htmx-icon.svg)
+![htmx](https://cdn.svglogos.dev/logos/htmx.svg)
+
 ## <a href="https://miro.com/" target="_blank">Miro</a>
-![miro](https://cdn.svgporn.com/logos/miro-icon.svg)
-![miro](https://cdn.svgporn.com/logos/miro.svg)
+![miro](https://cdn.svglogos.dev/logos/miro-icon.svg)
+![miro](https://cdn.svglogos.dev/logos/miro.svg)
+
 ## <a href="https://www.perplexity.ai/" target="_blank">perplexity</a>
-![perplexity](https://cdn.svgporn.com/logos/perplexity-icon.svg)
-![perplexity](https://cdn.svgporn.com/logos/perplexity.svg)
+![perplexity](https://cdn.svglogos.dev/logos/perplexity-icon.svg)
+![perplexity](https://cdn.svglogos.dev/logos/perplexity.svg)
+
 ## <a href="https://unjs.io/" target="_blank">UnJS</a>
-![unjs](https://cdn.svgporn.com/logos/unjs.svg)
+![unjs](https://cdn.svglogos.dev/logos/unjs.svg)
+
 ## <a href="https://x.com" target="_blank">X</a>
-![x](https://cdn.svgporn.com/logos/x.svg)
+![x](https://cdn.svglogos.dev/logos/x.svg)
+
 ## <a href="https://biomejs.dev/" target="_blank">Biome</a>
-![biomejs](https://cdn.svgporn.com/logos/biomejs-icon.svg)
-![biomejs](https://cdn.svgporn.com/logos/biomejs.svg)
+![biomejs](https://cdn.svglogos.dev/logos/biomejs-icon.svg)
+![biomejs](https://cdn.svglogos.dev/logos/biomejs.svg)
+
 ## <a href="https://sli.dev/" target="_blank">Slidev</a>
-![slidev](https://cdn.svgporn.com/logos/slidev.svg)
+![slidev](https://cdn.svglogos.dev/logos/slidev.svg)
+
 ## <a href="https://unocss.antfu.me/" target="_blank">unocss</a>
-![unocss](https://cdn.svgporn.com/logos/unocss.svg)
+![unocss](https://cdn.svglogos.dev/logos/unocss.svg)
+
 ## <a href="https://apidog.com/" target="_blank">Apidog</a>
-![apidog](https://cdn.svgporn.com/logos/apidog-icon.svg)
-![apidog](https://cdn.svgporn.com/logos/apidog.svg)
+![apidog](https://cdn.svglogos.dev/logos/apidog-icon.svg)
+![apidog](https://cdn.svglogos.dev/logos/apidog.svg)
+
 ## <a href="https://www.chartjs.org/" target="_blank">Chart.js</a>
-![chartjs](https://cdn.svgporn.com/logos/chartjs.svg)
+![chartjs](https://cdn.svglogos.dev/logos/chartjs.svg)
+
 ## <a href="https://fakerjs.dev/" target="_blank">Faker</a>
-![faker](https://cdn.svgporn.com/logos/faker.svg)
+![faker](https://cdn.svglogos.dev/logos/faker.svg)
+
 ## <a href="https://internetcomputer.org/" target="_blank">Internet Computer</a>
-![internetcomputer](https://cdn.svgporn.com/logos/internet-computer-icon.svg)
-![internetcomputer](https://cdn.svgporn.com/logos/internet-computer.svg)
+![internetcomputer](https://cdn.svglogos.dev/logos/internet-computer-icon.svg)
+![internetcomputer](https://cdn.svglogos.dev/logos/internet-computer.svg)
+
 ## <a href="https://json-schema.org/" target="_blank">JSON Schema</a>
-![json-schema](https://cdn.svgporn.com/logos/json-schema-icon.svg)
-![json-schema](https://cdn.svgporn.com/logos/json-schema.svg)
+![json-schema](https://cdn.svglogos.dev/logos/json-schema-icon.svg)
+![json-schema](https://cdn.svglogos.dev/logos/json-schema.svg)
+
 ## <a href="https://www.vmware.com/" target="_blank">VMware</a>
-![vmware](https://cdn.svgporn.com/logos/vmware.svg)
+![vmware](https://cdn.svglogos.dev/logos/vmware.svg)
+
 ## <a href="https://volarjs.dev/" target="_blank">Volar</a>
-![volar](https://cdn.svgporn.com/logos/volar.svg)
+![volar](https://cdn.svglogos.dev/logos/volar.svg)
+
 ## <a href="https://www.anthropic.com/" target="_blank">Anthropic</a>
-![anthropic](https://cdn.svgporn.com/logos/anthropic-icon.svg)
-![anthropic](https://cdn.svgporn.com/logos/anthropic.svg)
+![anthropic](https://cdn.svglogos.dev/logos/anthropic-icon.svg)
+![anthropic](https://cdn.svglogos.dev/logos/anthropic.svg)
+
 ## <a href="https://deepmind.google/technologies/gemini/" target="_blank">Google Gemini</a>
-![google-gemini](https://cdn.svgporn.com/logos/google-gemini.svg)
+![google-gemini](https://cdn.svglogos.dev/logos/google-gemini.svg)
+
 ## <a href="https://ai.google/discover/palm2/" target="_blank">Google PaLM</a>
-![google-palm](https://cdn.svgporn.com/logos/google-palm.svg)
+![google-palm](https://cdn.svglogos.dev/logos/google-palm.svg)
+
 ## <a href="https://www.gradio.app/" target="_blank">Gradio</a>
-![gradio](https://cdn.svgporn.com/logos/gradio-icon.svg)
-![gradio](https://cdn.svgporn.com/logos/gradio.svg)
+![gradio](https://cdn.svglogos.dev/logos/gradio-icon.svg)
+![gradio](https://cdn.svglogos.dev/logos/gradio.svg)
+
 ## <a href="https://huggingface.co/" target="_blank">Hugging Face</a>
-![hugging-face](https://cdn.svgporn.com/logos/hugging-face-icon.svg)
-![hugging-face](https://cdn.svgporn.com/logos/hugging-face.svg)
+![hugging-face](https://cdn.svglogos.dev/logos/hugging-face-icon.svg)
+![hugging-face](https://cdn.svglogos.dev/logos/hugging-face.svg)
+
 ## <a href="https://www.meta.com/" target="_blank">Meta</a>
-![meta](https://cdn.svgporn.com/logos/meta-icon.svg)
-![meta](https://cdn.svgporn.com/logos/meta.svg)
+![meta](https://cdn.svglogos.dev/logos/meta-icon.svg)
+![meta](https://cdn.svglogos.dev/logos/meta.svg)
+
 ## <a href="https://www.midjourney.com/" target="_blank">Midjourney</a>
-![midjourney](https://cdn.svgporn.com/logos/midjourney.svg)
+![midjourney](https://cdn.svglogos.dev/logos/midjourney.svg)
+
 ## <a href="https://mistral.ai/" target="_blank">Mistral AI</a>
-![mistral-ai](https://cdn.svgporn.com/logos/mistral-ai-icon.svg)
-![mistral-ai](https://cdn.svgporn.com/logos/mistral-ai.svg)
+![mistral-ai](https://cdn.svglogos.dev/logos/mistral-ai-icon.svg)
+![mistral-ai](https://cdn.svglogos.dev/logos/mistral-ai.svg)
+
 ## <a href="https://stability.ai/" target="_blank">Stability AI</a>
-![stability-ai](https://cdn.svgporn.com/logos/stability-ai-icon.svg)
-![stability-ai](https://cdn.svgporn.com/logos/stability-ai.svg)
+![stability-ai](https://cdn.svglogos.dev/logos/stability-ai-icon.svg)
+![stability-ai](https://cdn.svglogos.dev/logos/stability-ai.svg)
+
 ## <a href="https://www.android.com/" target="_blank">Android</a>
-![android](https://cdn.svgporn.com/logos/android-icon.svg)
-![android](https://cdn.svgporn.com/logos/android.svg)
-![android](https://cdn.svgporn.com/logos/android-vertical.svg)
+![android](https://cdn.svglogos.dev/logos/android-icon.svg)
+![android](https://cdn.svglogos.dev/logos/android.svg)
+![android](https://cdn.svglogos.dev/logos/android-vertical.svg)
+
 ## <a href="https://angular.io/" target="_blank">Angular</a> *
-![angular](https://cdn.svgporn.com/logos/angular-icon.svg)
-![angular](https://cdn.svgporn.com/logos/angular.svg)
+![angular](https://cdn.svglogos.dev/logos/angular-icon.svg)
+![angular](https://cdn.svglogos.dev/logos/angular.svg)
+
 ## <a href="https://www.codium.ai/" target="_blank">Codium</a>
-![codium](https://cdn.svgporn.com/logos/codium-icon.svg)
-![codium](https://cdn.svgporn.com/logos/codium.svg)
-## <a href="https://www.crossplane.io/" target="_blank">Crossplane</a>
-![crossplane](https://cdn.svgporn.com/logos/crossplane-icon.svg)
-![crossplane](https://cdn.svgporn.com/logos/crossplane.svg)
-## <a href="https://datasette.io/" target="_blank">Datasette</a>
-![datasette](https://cdn.svgporn.com/logos/datasette-icon.svg)
-![datasette](https://cdn.svgporn.com/logos/datasette.svg)
-## <a href="https://flink.apache.org/" target="_blank">Flink</a>
-![flink](https://cdn.svgporn.com/logos/apache-flink-icon.svg)
-![flink](https://cdn.svgporn.com/logos/apache-flink.svg)
-## <a href="https://opensearch.org/" target="_blank">OpenSearch</a>
-![opensearch](https://cdn.svgporn.com/logos/opensearch-icon.svg)
-![opensearch](https://cdn.svgporn.com/logos/opensearch.svg)
-## <a href="https://spark.apache.org/" target="_blank">Spark</a>
-![apache-spark](https://cdn.svgporn.com/logos/apache-spark.svg)
-## <a href="https://superset.apache.org/" target="_blank">Superset</a>
-![apache-superset](https://cdn.svgporn.com/logos/apache-superset-icon.svg)
-![apache-superset](https://cdn.svgporn.com/logos/apache-superset.svg)
-## <a href="https://typesense.org/" target="_blank">typesense</a>
-![typesense](https://cdn.svgporn.com/logos/typesense-icon.svg)
-![typesense](https://cdn.svgporn.com/logos/typesense.svg)
-## <a href="https://analogjs.org/" target="_blank">Analog</a>
-![analog](https://cdn.svgporn.com/logos/analog.svg)
-## <a href="https://www.effect.website/" target="_blank">Effect</a>
-![effect](https://cdn.svgporn.com/logos/effect-icon.svg)
-![effect](https://cdn.svgporn.com/logos/effect.svg)
+![codium](https://cdn.svglogos.dev/logos/codium-icon.svg)
+![codium](https://cdn.svglogos.dev/logos/codium.svg)
 
 ---
 
