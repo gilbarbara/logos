@@ -64,7 +64,7 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://github.com/CSS-Next/css-next" target="_blank">CSS</a>
 ![css](https://cdn.svglogos.dev/logos/css.svg)
 
-## <a href="http://markojs.com/" target="_blank">Marko</a>
+## <a href="https://markojs.com/" target="_blank">Marko</a>
 ![marko](https://cdn.svglogos.dev/logos/marko-icon.svg)
 ![marko](https://cdn.svglogos.dev/logos/marko.svg)
 
@@ -98,7 +98,7 @@ Please add your requests in the issues preferably with links to the vector files
 ![importio](https://cdn.svglogos.dev/logos/importio-icon.svg)
 ![importio](https://cdn.svglogos.dev/logos/importio.svg)
 
-## <a href="http://www.zoho.com/" target="_blank">Zoho</a> *
+## <a href="https://www.zoho.com/" target="_blank">Zoho</a>
 ![zoho](https://cdn.svglogos.dev/logos/zoho.svg)
 
 ## <a href="https://www.adobe.com/" target="_blank">Adobe</a>
@@ -202,7 +202,7 @@ Please add your requests in the issues preferably with links to the vector files
 ![android](https://cdn.svglogos.dev/logos/android.svg)
 ![android](https://cdn.svglogos.dev/logos/android-vertical.svg)
 
-## <a href="https://angular.io/" target="_blank">Angular</a> *
+## <a href="https://angular.io/" target="_blank">Angular</a>
 ![angular](https://cdn.svglogos.dev/logos/angular-icon.svg)
 ![angular](https://cdn.svglogos.dev/logos/angular.svg)
 
