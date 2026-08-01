@@ -391,11 +391,11 @@
     ]
   },
   {
-    "name": "Apache",
-    "shortname": "apache",
-    "url": "http://www.apache.org/",
+    "name": "Apache Aurora",
+    "shortname": "apache-aurora",
+    "url": "http://aurora.apache.org/",
     "files": [
-      "apache.svg"
+      "apache-aurora.svg"
     ]
   },
   {
@@ -408,10 +408,18 @@
   },
   {
     "name": "Apache CloudStack",
-    "shortname": "apache_cloudstack",
+    "shortname": "apache-cloudstack",
     "url": "https://cloudstack.apache.org/",
     "files": [
-      "apache_cloudstack.svg"
+      "apache-cloudstack.svg"
+    ]
+  },
+  {
+    "name": "Apache HTTP",
+    "shortname": "apache-http",
+    "url": "https://httpd.apache.org/",
+    "files": [
+      "apache-http.svg"
     ]
   },
   {
@@ -735,14 +743,6 @@
     "url": "http://aurelia.io/",
     "files": [
       "aurelia.svg"
-    ]
-  },
-  {
-    "name": "Aurora",
-    "shortname": "aurora",
-    "url": "http://aurora.apache.org/",
-    "files": [
-      "aurora.svg"
     ]
   },
   {
