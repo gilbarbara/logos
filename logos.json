@@ -10318,14 +10318,6 @@
     ]
   },
   {
-    "name": "Tor",
-    "shortname": "tor",
-    "url": "https://www.torproject.org/",
-    "files": [
-      "tor-browser.svg"
-    ]
-  },
-  {
     "name": "Traackr",
     "shortname": "traackr",
     "url": "http://traackr.com/",

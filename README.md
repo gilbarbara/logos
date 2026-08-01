@@ -3,7 +3,7 @@ SVG Logos
 #### A curated collection of SVG logos for developers/DevOps/geeks
 All the logos are optimized (removed duplicated paths / excessive grouping / empty defs, linting, etc).
 
-[View All on svgporn.com](http://svgporn.com)
+[View All on svglogos.dev](https://svglogos.dev)
 
 ## Contributing
 Since I optimize all the files manually I won't accept pull requests with new logos.
@@ -212,6 +212,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ---
 
-[View all on svgporn.com](http://svgporn.com)
+[View all on svglogos.dev](https://svglogos.dev)
 
 \* Converted from raster image, svg font or adapted from complex files.
