@@ -18,6 +18,45 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.apache.org/" target="_blank">Apache Software Foundation</a>
+![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation-icon.svg)
+![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation.svg)
+
+## <a href="https://coderabbit.ai/" target="_blank">CodeRabbit</a>
+![coderabbit](https://cdn.svglogos.dev/logos/coderabbit-icon.svg)
+![coderabbit](https://cdn.svglogos.dev/logos/coderabbit.svg)
+
+## <a href="https://www.databricks.com/" target="_blank">Databricks</a>
+![databricks](https://cdn.svglogos.dev/logos/databricks-icon.svg)
+![databricks](https://cdn.svglogos.dev/logos/databricks.svg)
+
+## <a href="https://dokploy.com/" target="_blank">Dokploy</a>
+![dokploy](https://cdn.svglogos.dev/logos/dokploy.svg)
+![dokploy](https://cdn.svglogos.dev/logos/dokploy-dark.svg)
+
+## <a href="https://aistudio.google.com/" target="_blank">Google AI Studio</a>
+![google-aistudio](https://cdn.svglogos.dev/logos/google-aistudio.svg)
+![google-aistudio](https://cdn.svglogos.dev/logos/google-aistudio-dark.svg)
+
+## <a href="https://mermaid.js.org/" target="_blank">Mermaid</a>
+![mermaid](https://cdn.svglogos.dev/logos/mermaid.svg)
+
+## <a href="https://www.minimax.io/" target="_blank">MiniMax</a>
+![minimax](https://cdn.svglogos.dev/logos/minimax-icon.svg)
+![minimax](https://cdn.svglogos.dev/logos/minimax.svg)
+
+## <a href="https://resend.com/" target="_blank">Resend</a>
+![resend](https://cdn.svglogos.dev/logos/resend-icon.svg)
+![resend](https://cdn.svglogos.dev/logos/resend-icon-dark.svg)
+![resend](https://cdn.svglogos.dev/logos/resend.svg)
+
+## <a href="https://signoz.io/" target="_blank">SigNoz</a>
+![signoz](https://cdn.svglogos.dev/logos/signoz.svg)
+
+## <a href="https://valkey.io/" target="_blank">Valkey</a>
+![valkey](https://cdn.svglogos.dev/logos/valkey-icon.svg)
+![valkey](https://cdn.svglogos.dev/logos/valkey.svg)
+
 ## <a href="https://www.deepseek.com/en/" target="_blank">DeepSeek</a>
 ![deepseek](https://cdn.svglogos.dev/logos/deepseek-icon.svg)
 ![deepseek](https://cdn.svglogos.dev/logos/deepseek.svg)
@@ -170,45 +209,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://deepmind.google/technologies/gemini/" target="_blank">Google Gemini</a>
 ![google-gemini](https://cdn.svglogos.dev/logos/google-gemini.svg)
-
-## <a href="https://ai.google/discover/palm2/" target="_blank">Google PaLM</a>
-![google-palm](https://cdn.svglogos.dev/logos/google-palm.svg)
-
-## <a href="https://www.gradio.app/" target="_blank">Gradio</a>
-![gradio](https://cdn.svglogos.dev/logos/gradio-icon.svg)
-![gradio](https://cdn.svglogos.dev/logos/gradio.svg)
-
-## <a href="https://huggingface.co/" target="_blank">Hugging Face</a>
-![hugging-face](https://cdn.svglogos.dev/logos/hugging-face-icon.svg)
-![hugging-face](https://cdn.svglogos.dev/logos/hugging-face.svg)
-
-## <a href="https://www.meta.com/" target="_blank">Meta</a>
-![meta](https://cdn.svglogos.dev/logos/meta-icon.svg)
-![meta](https://cdn.svglogos.dev/logos/meta.svg)
-
-## <a href="https://www.midjourney.com/" target="_blank">Midjourney</a>
-![midjourney](https://cdn.svglogos.dev/logos/midjourney.svg)
-
-## <a href="https://mistral.ai/" target="_blank">Mistral AI</a>
-![mistral-ai](https://cdn.svglogos.dev/logos/mistral-ai-icon.svg)
-![mistral-ai](https://cdn.svglogos.dev/logos/mistral-ai.svg)
-
-## <a href="https://stability.ai/" target="_blank">Stability AI</a>
-![stability-ai](https://cdn.svglogos.dev/logos/stability-ai-icon.svg)
-![stability-ai](https://cdn.svglogos.dev/logos/stability-ai.svg)
-
-## <a href="https://www.android.com/" target="_blank">Android</a>
-![android](https://cdn.svglogos.dev/logos/android-icon.svg)
-![android](https://cdn.svglogos.dev/logos/android.svg)
-![android](https://cdn.svglogos.dev/logos/android-vertical.svg)
-
-## <a href="https://angular.io/" target="_blank">Angular</a>
-![angular](https://cdn.svglogos.dev/logos/angular-icon.svg)
-![angular](https://cdn.svglogos.dev/logos/angular.svg)
-
-## <a href="https://www.codium.ai/" target="_blank">Codium</a>
-![codium](https://cdn.svglogos.dev/logos/codium-icon.svg)
-![codium](https://cdn.svglogos.dev/logos/codium.svg)
 
 ---
 

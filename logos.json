@@ -423,6 +423,15 @@
     ]
   },
   {
+    "name": "Apache Software Foundation",
+    "shortname": "apache-software-foundation",
+    "url": "https://www.apache.org/",
+    "files": [
+      "apache-software-foundation-icon.svg",
+      "apache-software-foundation.svg"
+    ]
+  },
+  {
     "name": "Apache Tomcat",
     "shortname": "tomcat",
     "url": "https://tomcat.apache.org/",
@@ -2320,6 +2329,15 @@
     ]
   },
   {
+    "name": "CodeRabbit",
+    "shortname": "coderabbit",
+    "url": "https://coderabbit.ai/",
+    "files": [
+      "coderabbit-icon.svg",
+      "coderabbit.svg"
+    ]
+  },
+  {
     "name": "CodersRank",
     "shortname": "codersrank",
     "url": "https://codersrank.io/",
@@ -2742,6 +2760,15 @@
     ]
   },
   {
+    "name": "Databricks",
+    "shortname": "databricks",
+    "url": "https://www.databricks.com/",
+    "files": [
+      "databricks-icon.svg",
+      "databricks.svg"
+    ]
+  },
+  {
     "name": "Datadog",
     "shortname": "datadog",
     "url": "https://www.datadoghq.com/",
@@ -3020,6 +3047,15 @@
     "url": "https://dojotoolkit.org/",
     "files": [
       "dojo-toolkit.svg"
+    ]
+  },
+  {
+    "name": "Dokploy",
+    "shortname": "dokploy",
+    "url": "https://dokploy.com/",
+    "files": [
+      "dokploy.svg",
+      "dokploy-dark.svg"
     ]
   },
   {
@@ -4255,6 +4291,15 @@
     "url": "https://www.google.com/adsense/",
     "files": [
       "google-adsense.svg"
+    ]
+  },
+  {
+    "name": "Google AI Studio",
+    "shortname": "google-aistudio",
+    "url": "https://aistudio.google.com/",
+    "files": [
+      "google-aistudio.svg",
+      "google-aistudio-dark.svg"
     ]
   },
   {
@@ -6473,6 +6518,14 @@
     ]
   },
   {
+    "name": "Mermaid",
+    "shortname": "mermaid",
+    "url": "https://mermaid.js.org/",
+    "files": [
+      "mermaid.svg"
+    ]
+  },
+  {
     "name": "Mesos",
     "shortname": "mesos",
     "url": "https://mesos.apache.org/",
@@ -6673,6 +6726,15 @@
     "files": [
       "mindsdb-icon.svg",
       "mindsdb.svg"
+    ]
+  },
+  {
+    "name": "MiniMax",
+    "shortname": "minimax",
+    "url": "https://www.minimax.io/",
+    "files": [
+      "minimax-icon.svg",
+      "minimax.svg"
     ]
   },
   {
@@ -8718,6 +8780,16 @@
     ]
   },
   {
+    "name": "Resend",
+    "shortname": "resend",
+    "url": "https://resend.com/",
+    "files": [
+      "resend-icon.svg",
+      "resend-icon-dark.svg",
+      "resend.svg"
+    ]
+  },
+  {
     "name": "rest.li",
     "shortname": "rest-li",
     "url": "https://github.com/linkedin/rest.li",
@@ -9230,6 +9302,14 @@
     "url": "https://signal.org/",
     "files": [
       "signal.svg"
+    ]
+  },
+  {
+    "name": "SigNoz",
+    "shortname": "signoz",
+    "url": "https://signoz.io/",
+    "files": [
+      "signoz.svg"
     ]
   },
   {
@@ -10738,6 +10818,15 @@
     "files": [
       "vagrant-icon.svg",
       "vagrant.svg"
+    ]
+  },
+  {
+    "name": "Valkey",
+    "shortname": "valkey",
+    "url": "https://valkey.io/",
+    "files": [
+      "valkey-icon.svg",
+      "valkey.svg"
     ]
   },
   {
