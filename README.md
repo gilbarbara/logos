@@ -18,6 +18,86 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.descript.com/" target="_blank">Descript</a>
+![descript](https://cdn.svglogos.dev/logos/descript-icon.svg)
+![descript](https://cdn.svglogos.dev/logos/descript.svg)
+
+## <a href="https://www.elasticpath.com/" target="_blank">Elastic Path</a>
+![elasticpath](https://cdn.svglogos.dev/logos/elasticpath-icon.svg)
+![elasticpath](https://cdn.svglogos.dev/logos/elasticpath.svg)
+
+## <a href="https://www.forestadmin.com/" target="_blank">Forest</a>
+![forest](https://cdn.svglogos.dev/logos/forest-icon.svg)
+![forest](https://cdn.svglogos.dev/logos/forest.svg)
+
+## <a href="https://www.google.com/calendar/about/" target="_blank">Google Calendar</a>
+![google-calendar](https://cdn.svglogos.dev/logos/google-calendar.svg)
+![google-calendar](https://cdn.svglogos.dev/logos/google-calendar-2020.svg)
+
+## <a href="https://www.google.com/drive/" target="_blank">Google Drive</a>
+![google-drive](https://cdn.svglogos.dev/logos/google-drive.svg)
+![google-drive](https://cdn.svglogos.dev/logos/google-drive-2020.svg)
+
+## <a href="https://deepmind.google/technologies/gemini/" target="_blank">Google Gemini</a>
+![google-gemini](https://cdn.svglogos.dev/logos/google-gemini-icon.svg)
+![google-gemini](https://cdn.svglogos.dev/logos/google-gemini.svg)
+
+## <a href="https://gmail.com/" target="_blank">Google Gmail</a>
+![google-gmail](https://cdn.svglogos.dev/logos/google-gmail.svg)
+![google-gmail](https://cdn.svglogos.dev/logos/google-gmail-2020.svg)
+
+## <a href="https://madeby.google.com/home/" target="_blank">Google Home</a>
+![google-home](https://cdn.svglogos.dev/logos/google-home.svg)
+![google-home](https://cdn.svglogos.dev/logos/google-home-2020.svg)
+
+## <a href="https://www.google.com/keep/" target="_blank">Google Keep</a>
+![google-keep](https://cdn.svglogos.dev/logos/google-keep.svg)
+![google-keep](https://cdn.svglogos.dev/logos/google-keep-2020.svg)
+
+## <a href="https://meet.google.com/" target="_blank">Google Meet</a>
+![google-meet](https://cdn.svglogos.dev/logos/google-meet.svg)
+![google-meet](https://cdn.svglogos.dev/logos/google-meet-2020.svg)
+
+## <a href="https://photos.google.com/" target="_blank">Google Photos</a>
+![google-photos](https://cdn.svglogos.dev/logos/google-photos.svg)
+![google-photos](https://cdn.svglogos.dev/logos/google-photos-2020.svg)
+
+## <a href="https://gsap.com/" target="_blank">GSAP</a>
+![gsap](https://cdn.svglogos.dev/logos/gsap.svg)
+![gsap](https://cdn.svglogos.dev/logos/gsap-dark.svg)
+
+## <a href="https://hasura.io/" target="_blank">Hasura</a>
+![hasura](https://cdn.svglogos.dev/logos/hasura-icon.svg)
+![hasura](https://cdn.svglogos.dev/logos/hasura.svg)
+
+## <a href="https://www.influxdata.com/" target="_blank">InfluxDB</a>
+![influxdb](https://cdn.svglogos.dev/logos/influxdata-icon.svg)
+![influxdb](https://cdn.svglogos.dev/logos/influxdata.svg)
+
+## <a href="https://www.micron.com/" target="_blank">Micron</a>
+![micron](https://cdn.svglogos.dev/logos/micron-icon.svg)
+![micron](https://cdn.svglogos.dev/logos/micron.svg)
+
+## <a href="https://neverinstall.com/" target="_blank">Neverinstall</a>
+![neverinstall](https://cdn.svglogos.dev/logos/neverinstall.svg)
+
+## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
+![stylus](https://cdn.svglogos.dev/logos/stylus.svg)
+
+## <a href="https://stytch.com/" target="_blank">Stytch</a>
+![stytch](https://cdn.svglogos.dev/logos/stytch.svg)
+
+## <a href="https://x.ai" target="_blank">xAI</a>
+![x-ai](https://cdn.svglogos.dev/logos/x-ai.svg)
+![x-ai](https://cdn.svglogos.dev/logos/x-ai-dark.svg)
+
+## <a href="https://zeroheight.com/" target="_blank">zeroheight</a>
+![zeroheight](https://cdn.svglogos.dev/logos/zeroheight-icon.svg)
+![zeroheight](https://cdn.svglogos.dev/logos/zeroheight.svg)
+
+## <a href="https://zod.dev/" target="_blank">Zod</a>
+![zod](https://cdn.svglogos.dev/logos/zod.svg)
+
 ## <a href="https://www.apache.org/" target="_blank">Apache Software Foundation</a>
 ![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation-icon.svg)
 ![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation.svg)
@@ -93,9 +173,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![threads](https://cdn.svglogos.dev/logos/threads-icon.svg)
 ![threads](https://cdn.svglogos.dev/logos/threads.svg)
 
-## <a href="https://x.ai" target="_blank">xAI</a>
-![x-ai](https://cdn.svglogos.dev/logos/x-ai.svg)
-
 ## <a href="https://www.centos.org/" target="_blank">CentOS</a>
 ![centos](https://cdn.svglogos.dev/logos/centos-icon.svg)
 ![centos](https://cdn.svglogos.dev/logos/centos.svg)
@@ -139,76 +216,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.zoho.com/" target="_blank">Zoho</a>
 ![zoho](https://cdn.svglogos.dev/logos/zoho.svg)
-
-## <a href="https://www.adobe.com/" target="_blank">Adobe</a>
-![adobe](https://cdn.svglogos.dev/logos/adobe-icon.svg)
-![adobe](https://cdn.svglogos.dev/logos/adobe.svg)
-
-## <a href="https://bsky.social/" target="_blank">Bluesky</a>
-![bluesky](https://cdn.svglogos.dev/logos/bluesky.svg)
-
-## <a href="https://claude.ai/" target="_blank">Claude</a>
-![claude](https://cdn.svglogos.dev/logos/claude-icon.svg)
-![claude](https://cdn.svglogos.dev/logos/claude.svg)
-
-## <a href="https://htmx.org/" target="_blank">htmx</a>
-![htmx](https://cdn.svglogos.dev/logos/htmx-icon.svg)
-![htmx](https://cdn.svglogos.dev/logos/htmx.svg)
-
-## <a href="https://miro.com/" target="_blank">Miro</a>
-![miro](https://cdn.svglogos.dev/logos/miro-icon.svg)
-![miro](https://cdn.svglogos.dev/logos/miro.svg)
-
-## <a href="https://www.perplexity.ai/" target="_blank">perplexity</a>
-![perplexity](https://cdn.svglogos.dev/logos/perplexity-icon.svg)
-![perplexity](https://cdn.svglogos.dev/logos/perplexity.svg)
-
-## <a href="https://unjs.io/" target="_blank">UnJS</a>
-![unjs](https://cdn.svglogos.dev/logos/unjs.svg)
-
-## <a href="https://x.com" target="_blank">X</a>
-![x](https://cdn.svglogos.dev/logos/x.svg)
-
-## <a href="https://biomejs.dev/" target="_blank">Biome</a>
-![biomejs](https://cdn.svglogos.dev/logos/biomejs-icon.svg)
-![biomejs](https://cdn.svglogos.dev/logos/biomejs.svg)
-
-## <a href="https://sli.dev/" target="_blank">Slidev</a>
-![slidev](https://cdn.svglogos.dev/logos/slidev.svg)
-
-## <a href="https://unocss.antfu.me/" target="_blank">unocss</a>
-![unocss](https://cdn.svglogos.dev/logos/unocss.svg)
-
-## <a href="https://apidog.com/" target="_blank">Apidog</a>
-![apidog](https://cdn.svglogos.dev/logos/apidog-icon.svg)
-![apidog](https://cdn.svglogos.dev/logos/apidog.svg)
-
-## <a href="https://www.chartjs.org/" target="_blank">Chart.js</a>
-![chartjs](https://cdn.svglogos.dev/logos/chartjs.svg)
-
-## <a href="https://fakerjs.dev/" target="_blank">Faker</a>
-![faker](https://cdn.svglogos.dev/logos/faker.svg)
-
-## <a href="https://internetcomputer.org/" target="_blank">Internet Computer</a>
-![internetcomputer](https://cdn.svglogos.dev/logos/internet-computer-icon.svg)
-![internetcomputer](https://cdn.svglogos.dev/logos/internet-computer.svg)
-
-## <a href="https://json-schema.org/" target="_blank">JSON Schema</a>
-![json-schema](https://cdn.svglogos.dev/logos/json-schema-icon.svg)
-![json-schema](https://cdn.svglogos.dev/logos/json-schema.svg)
-
-## <a href="https://www.vmware.com/" target="_blank">VMware</a>
-![vmware](https://cdn.svglogos.dev/logos/vmware.svg)
-
-## <a href="https://volarjs.dev/" target="_blank">Volar</a>
-![volar](https://cdn.svglogos.dev/logos/volar.svg)
-
-## <a href="https://www.anthropic.com/" target="_blank">Anthropic</a>
-![anthropic](https://cdn.svglogos.dev/logos/anthropic-icon.svg)
-![anthropic](https://cdn.svglogos.dev/logos/anthropic.svg)
-
-## <a href="https://deepmind.google/technologies/gemini/" target="_blank">Google Gemini</a>
-![google-gemini](https://cdn.svglogos.dev/logos/google-gemini.svg)
 
 ---
 

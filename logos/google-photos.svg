@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>Google Photos</title>
+    <defs>
+        <radialGradient id="radial-gradient" cx="223.589" cy="229.244" r="170.886" gradientTransform="matrix(0.731429, 0, 0, 0.761417, -36.88448, -43.780388)" gradientUnits="userSpaceOnUse">
+          <stop offset="0.469" stop-color="#7acaff"/>
+          <stop offset="0.828" stop-color="#00b054"/>
+        </radialGradient>
+        <radialGradient id="radial-gradient-2" cx="223.589" cy="229.244" r="170.886" gradientTransform="matrix(0, 0.731429, -0.761417, 0, 299.77964, -36.88448)" gradientUnits="userSpaceOnUse">
+          <stop offset="0.545" stop-color="#fded1c"/>
+          <stop offset="0.828" stop-color="#feca01"/>
+        </radialGradient>
+        <radialGradient id="radial-gradient-3" cx="223.589" cy="229.244" r="170.886" gradientTransform="matrix(-0.731429, 0, 0, -0.761417, 292.883766, 299.779663)" gradientUnits="userSpaceOnUse">
+          <stop offset="0.469" stop-color="#ff81d0"/>
+          <stop offset="0.828" stop-color="#ff4041"/>
+        </radialGradient>
+        <radialGradient id="radial-gradient-4" cx="223.589" cy="229.244" r="170.886" gradientTransform="matrix(0, -0.731429, 0.761417, 0, -43.780389, 292.883728)" gradientUnits="userSpaceOnUse">
+          <stop offset="0.469" stop-color="#aaa7ff"/>
+          <stop offset="0.828" stop-color="#2f89ff"/>
+        </radialGradient>
+    </defs>
     <g>
-        <path d="M64,58.1485714 C99.328,58.1485714 128,86.8205714 128,122.148571 L128,122.148571 L128,128 L5.85142857,128 C2.63314286,128 0,125.366857 0,122.148571 C0,86.8205714 28.672,58.1485714 64,58.1485714 L64,58.1485714 Z" fill="#FBBB05"></path>
-        <path d="M197.851429,64 C197.851429,99.328 169.179429,128 133.851429,128 L128,128 L128,5.85142857 C128,2.63314286 130.633143,0 133.851429,0 L133.851429,0 C169.179429,0 197.851429,28.672 197.851429,64 Z" fill="#E94335"></path>
-        <path d="M192,197.851429 C156.672,197.851429 128,169.179429 128,133.851429 L128,133.851429 L128,128 L250.148571,128 C253.366857,128 256,130.633143 256,133.851429 L256,133.851429 C256,169.179429 227.328,197.851429 192,197.851429 L192,197.851429 Z" fill="#4285F4"></path>
-        <path d="M58.1485714,192 C58.1485714,156.672 86.8205714,128 122.148571,128 L128,128 L128,250.148571 C128,253.366857 125.366857,256 122.148571,256 L122.148571,256 C86.8205714,256 58.1485714,227.328 58.1485714,192 Z" fill="#0F9D58"></path>
+        <path d="M 58.222 192 C 58.222 156.672 86.894 128 122.222 128 L 128 128 L 128 250.222 C 128 253.44 125.367 256 122.222 256 C 86.894 256 58.222 227.328 58.222 192 Z" fill="url(#radial-gradient)"/>
+        <path d="M 64 58.222 C 99.328 58.222 128 86.894 128 122.222 L 128 128 L 5.778 128 C 2.56 128 0 125.367 0 122.222 C 0 86.894 28.672 58.222 64 58.222 Z" fill="url(#radial-gradient-2)"/>
+        <path d="M 197.778 64 C 197.778 99.328 169.106 128 133.778 128 L 128 128 L 128 5.778 C 128 2.56 130.633 0 133.778 0 C 169.106 0 197.778 28.672 197.778 64 Z" fill="url(#radial-gradient-3)"/>
+        <path d="M 192 197.778 C 156.672 197.778 128 169.106 128 133.778 L 128 128 L 250.222 128 C 253.44 128 256 130.633 256 133.778 C 256 169.106 227.328 197.778 192 197.778 Z" fill="url(#radial-gradient-4)"/>
     </g>
 </svg>

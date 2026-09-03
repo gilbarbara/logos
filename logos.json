@@ -3805,6 +3805,7 @@
     "shortname": "flutter",
     "url": "https://flutter.dev",
     "files": [
+      "flutter-icon.svg",
       "flutter.svg"
     ]
   },
@@ -3864,8 +3865,8 @@
     "shortname": "forest",
     "url": "https://www.forestadmin.com/",
     "files": [
-      "forestadmin-icon.svg",
-      "forestadmin.svg"
+      "forest-icon.svg",
+      "forest.svg"
     ]
   },
   {
@@ -4324,7 +4325,8 @@
     "shortname": "google-calendar",
     "url": "https://www.google.com/calendar/about/",
     "files": [
-      "google-calendar.svg"
+      "google-calendar.svg",
+      "google-calendar-2020.svg"
     ]
   },
   {
@@ -4381,7 +4383,8 @@
     "shortname": "google-drive",
     "url": "https://www.google.com/drive/",
     "files": [
-      "google-drive.svg"
+      "google-drive.svg",
+      "google-drive-2020.svg"
     ]
   },
   {
@@ -4397,6 +4400,7 @@
     "shortname": "google-gemini",
     "url": "https://deepmind.google/technologies/gemini/",
     "files": [
+      "google-gemini-icon.svg",
       "google-gemini.svg"
     ]
   },
@@ -4405,7 +4409,8 @@
     "shortname": "google-gmail",
     "url": "https://gmail.com/",
     "files": [
-      "google-gmail.svg"
+      "google-gmail.svg",
+      "google-gmail-2020.svg"
     ]
   },
   {
@@ -4413,7 +4418,8 @@
     "shortname": "google-home",
     "url": "https://madeby.google.com/home/",
     "files": [
-      "google-home.svg"
+      "google-home.svg",
+      "google-home-2020.svg"
     ]
   },
   {
@@ -4421,7 +4427,8 @@
     "shortname": "google-keep",
     "url": "https://www.google.com/keep/",
     "files": [
-      "google-keep.svg"
+      "google-keep.svg",
+      "google-keep-2020.svg"
     ]
   },
   {
@@ -4445,7 +4452,8 @@
     "shortname": "google-meet",
     "url": "https://meet.google.com/",
     "files": [
-      "google-meet.svg"
+      "google-meet.svg",
+      "google-meet-2020.svg"
     ]
   },
   {
@@ -4485,7 +4493,8 @@
     "shortname": "google-photos",
     "url": "https://photos.google.com/",
     "files": [
-      "google-photos.svg"
+      "google-photos.svg",
+      "google-photos-2020.svg"
     ]
   },
   {
@@ -4615,15 +4624,6 @@
     ]
   },
   {
-    "name": "GreenSock (GSAP)",
-    "shortname": "greensock",
-    "url": "https://greensock.com/",
-    "files": [
-      "greensock-icon.svg",
-      "greensock.svg"
-    ]
-  },
-  {
     "name": "Gridsome",
     "shortname": "gridsome",
     "url": "https://gridsome.org",
@@ -4688,6 +4688,15 @@
     "url": "https://gruntjs.com/",
     "files": [
       "grunt.svg"
+    ]
+  },
+  {
+    "name": "GSAP",
+    "shortname": "gsap",
+    "url": "https://gsap.com/",
+    "files": [
+      "gsap.svg",
+      "gsap-dark.svg"
     ]
   },
   {
@@ -5251,10 +5260,10 @@
   {
     "name": "InfluxDB",
     "shortname": "influxdb",
-    "url": "https://influxdb.com/",
+    "url": "https://www.influxdata.com/",
     "files": [
-      "influxdb-icon.svg",
-      "influxdb.svg"
+      "influxdata-icon.svg",
+      "influxdata.svg"
     ]
   },
   {
@@ -6225,7 +6234,7 @@
     "shortname": "mailchimp",
     "url": "https://mailchimp.com/",
     "files": [
-      "mailchimp-freddie.svg",
+      "mailchimp-icon.svg",
       "mailchimp.svg"
     ]
   },
@@ -7102,7 +7111,6 @@
     "shortname": "neverinstall",
     "url": "https://neverinstall.com/",
     "files": [
-      "neverinstall-icon.svg",
       "neverinstall.svg"
     ]
   },
@@ -10218,6 +10226,7 @@
     "shortname": "tealium",
     "url": "https://tealium.com",
     "files": [
+      "tealium-icon.svg",
       "tealium.svg"
     ]
   },
@@ -10394,6 +10403,7 @@
     "shortname": "tor",
     "url": "https://www.torproject.org/",
     "files": [
+      "tor-browser.svg",
       "tor.svg"
     ]
   },
@@ -10418,7 +10428,8 @@
     "shortname": "travis-ci",
     "url": "https://www.travis-ci.com/",
     "files": [
-      "travis-ci.svg"
+      "travis-ci.svg",
+      "travis-ci-monochrome.svg"
     ]
   },
   {
@@ -11452,7 +11463,8 @@
     "shortname": "x-ai",
     "url": "https://x.ai",
     "files": [
-      "x-ai.svg"
+      "x-ai.svg",
+      "x-ai-dark.svg"
     ]
   },
   {

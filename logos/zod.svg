@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="256px" height="203px" viewBox="0 0 256 203" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>zod</title>
+<svg width="256px" height="212px" viewBox="0 0 256 212" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>Zod</title>
     <defs>
-        <path d="M200.420694,0 L53.6308282,0 L0,53.3549074 L121.760272,199.97871 L131.473707,189.079838 L252,53.8556526 L200.420694,0 Z M195.058122,12.5620609 L234.89802,54.1622312 L122.097509,180.72046 L16.9997871,54.1622312 L58.8145625,12.5620609 L195.058122,12.5620609 Z" id="path-1"></path>
-        <filter x="-2.2%" y="-2.8%" width="105.2%" height="106.5%" filterUnits="objectBoundingBox" id="filter-2">
-            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
-            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
-            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.36 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
-        </filter>
+        <linearGradient x1="49.9996532%" y1="100.030811%" x2="49.9996532%" y2="0.000168681932%" id="linearGradient-1">
+            <stop stop-color="#4669F6" offset="0%"></stop>
+            <stop stop-color="#45A9FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.0486502%" y1="28.9181927%" x2="10.7213965%" y2="71.5932955%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.595264599" offset="30.5343736%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="78.2891132%" y1="50%" x2="50%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M137.011428,180.304764 C132.167042,184.597403 124.888576,184.625277 120.011398,180.37035 L58.7953851,126.960775 L197.20265,126.960775 L137.011428,180.304764 Z" id="path-4"></path>
     </defs>
-    <g transform="translate(2.000000, 1.510645)" fill-rule="nonzero">
-        <polygon fill="#18253F" points="58.8162023 12.5220497 195.093896 12.5220497 235.027464 54.2130202 122.038097 180.765999 16.9574282 54.2130202"></polygon>
-        <polygon fill="#274D82" points="149.426831 150.874561 96.0134271 150.874561 71.8889656 121.341138 140.252621 121.33896 140.255033 117.149462 179.332589 117.149462"></polygon>
-        <polygon fill="#274D82" points="223.55992 42.3226943 76.1782017 127.413686 56.9521852 103.361957 171.050895 37.4849931 168.955265 33.853745 199.34598 16.3076536"></polygon>
-        <polygon fill="#274D82" points="144.596212 12.5642823 33.9304463 76.4571406 16.7194669 54.9715457 90.8141008 12.1929865"></polygon>
-        <g>
-            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
-            <use fill="#3068B7" xlink:href="#path-1"></use>
-        </g>
+    <g>
+        <path d="M50.0871329,0 C40.0097617,0 31.0080098,6.30204621 27.5606175,15.7719221 L27.5606175,15.7719221 L1.44733848,87.4940777 C-1.95250354,96.8344202 0.762779019,107.303671 8.2748968,113.813134 L8.2748968,113.813134 L113.816749,205.271918 C122.905403,213.148041 136.422788,213.070977 145.421261,205.092375 L145.421261,205.092375 L247.930556,114.202555 C255.26887,107.69555 257.903809,97.3746893 254.582671,88.1466637 L254.582671,88.1466637 L228.562852,15.8547251 C225.139235,6.34221796 216.116168,0 206.006823,0 L206.006823,0 L50.0871329,0 Z" fill="url(#linearGradient-1)"></path>
+        <path d="M225.397482,68.7510856 C227.522486,74.6563333 225.363049,81.2502396 220.155478,84.7525605 L98.7097108,161.784766 L58.7953851,126.960775 L212.683532,33.4261777 L225.397482,68.7510856 Z" fill="url(#linearGradient-2)"></path>
+        <path d="M212.168678,31.9972111 L225.090865,67.8984606 L30.7858354,67.8984606 L43.8777276,31.9406427 C46.2175273,25.5148019 52.3031379,21.2197037 59.1413541,21.1672344 L196.636147,21.1672344 C203.5875,21.1147652 209.814941,25.4565938 212.168678,31.9972111" fill="#FFFFFF"></path>
+        <mask id="mask-5" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+        <use fill="url(#linearGradient-3)" xlink:href="#path-4"></use>
     </g>
 </svg>
