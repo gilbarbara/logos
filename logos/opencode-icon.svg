@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="321px" viewBox="0 0 256 321" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>OpenCode</title>
+    <g>
+        <polygon fill="#CFCECD" points="191.985375 256.28704 63.983425 256.28704 63.983425 128.14391 191.985375 128.14391"></polygon>
+        <path d="M192.000975,64.071565 L63.999025,64.071565 L63.999025,256.28587 L192.000975,256.28587 L192.000975,64.071565 Z M256,320.357435 L0,320.357435 L0,0 L256,0 L256,320.357435 Z" fill="#211E1E"></path>
+    </g>
+</svg>

@@ -18,6 +18,52 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://antigravity.google" target="_blank">Antigravity</a>
+![antigravity](https://cdn.svglogos.dev/logos/antigravity.svg)
+
+## <a href="https://cartesia.ai/" target="_blank">Cartesia</a>
+![cartesia](https://cdn.svglogos.dev/logos/cartesia-icon.svg)
+![cartesia](https://cdn.svglogos.dev/logos/cartesia.svg)
+
+## <a href="https://claude.com/product/claude-code" target="_blank">Claude Code</a>
+![claude-code](https://cdn.svglogos.dev/logos/claude-code.svg)
+
+## <a href="https://clickup.com/" target="_blank">ClickUp</a>
+![clickup](https://cdn.svglogos.dev/logos/clickup-icon.svg)
+![clickup](https://cdn.svglogos.dev/logos/clickup.svg)
+
+## <a href="https://cline.bot/" target="_blank">Cline</a>
+![cline](https://cdn.svglogos.dev/logos/cline-icon.svg)
+![cline](https://cdn.svglogos.dev/logos/cline.svg)
+
+## <a href="https://openai.com/codex/" target="_blank">Codex</a>
+![codex](https://cdn.svglogos.dev/logos/codex.svg)
+![codex](https://cdn.svglogos.dev/logos/codex-dark.svg)
+
+## <a href="https://cursor.com/" target="_blank">Cursor</a>
+![cursor](https://cdn.svglogos.dev/logos/cursor-icon.svg)
+![cursor](https://cdn.svglogos.dev/logos/cursor.svg)
+
+## <a href="https://deepgram.com/" target="_blank">Deepgram</a>
+![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon.svg)
+![deepgram](https://cdn.svglogos.dev/logos/deepgram.svg)
+![deepgram](https://cdn.svglogos.dev/logos/deepgram-dark.svg)
+
+## <a href="https://elevenlabs.io/" target="_blank">ElevenLabs</a>
+![elevenlabs](https://cdn.svglogos.dev/logos/elevenlabs-icon.svg)
+![elevenlabs](https://cdn.svglogos.dev/logos/elevenlabs.svg)
+
+## <a href="https://kilo.ai/" target="_blank">Kilo</a>
+![kilo](https://cdn.svglogos.dev/logos/kilo.svg)
+![kilo](https://cdn.svglogos.dev/logos/kilo-dark.svg)
+
+## <a href="https://kiro.dev/" target="_blank">Kiro</a>
+![kiro](https://cdn.svglogos.dev/logos/kiro.svg)
+
+## <a href="https://opencode.ai/" target="_blank">OpenCode</a>
+![opencode](https://cdn.svglogos.dev/logos/opencode-icon.svg)
+![opencode](https://cdn.svglogos.dev/logos/opencode.svg)
+
 ## <a href="https://www.descript.com/" target="_blank">Descript</a>
 ![descript](https://cdn.svglogos.dev/logos/descript-icon.svg)
 ![descript](https://cdn.svglogos.dev/logos/descript.svg)
@@ -168,54 +214,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![rolldown](https://cdn.svglogos.dev/logos/rolldown.svg)
 ![rolldown](https://cdn.svglogos.dev/logos/rolldown-icon-dark.svg)
 ![rolldown](https://cdn.svglogos.dev/logos/rolldown-dark.svg)
-
-## <a href="https://www.threads.com" target="_blank">Threads</a>
-![threads](https://cdn.svglogos.dev/logos/threads-icon.svg)
-![threads](https://cdn.svglogos.dev/logos/threads.svg)
-
-## <a href="https://www.centos.org/" target="_blank">CentOS</a>
-![centos](https://cdn.svglogos.dev/logos/centos-icon.svg)
-![centos](https://cdn.svglogos.dev/logos/centos.svg)
-
-## <a href="https://github.com/CSS-Next/css-next" target="_blank">CSS</a>
-![css](https://cdn.svglogos.dev/logos/css.svg)
-
-## <a href="https://markojs.com/" target="_blank">Marko</a>
-![marko](https://cdn.svglogos.dev/logos/marko-icon.svg)
-![marko](https://cdn.svglogos.dev/logos/marko.svg)
-
-## <a href="https://vercel.com/" target="_blank">Vercel</a>
-![vercel](https://cdn.svglogos.dev/logos/vercel-icon.svg)
-![vercel](https://cdn.svglogos.dev/logos/vercel.svg)
-
-## <a href="https://vitejs.dev/" target="_blank">Vite</a>
-![vitejs](https://cdn.svglogos.dev/logos/vite-icon.svg)
-![vitejs](https://cdn.svglogos.dev/logos/vite.svg)
-![vitejs](https://cdn.svglogos.dev/logos/vite-icon-dark.svg)
-![vitejs](https://cdn.svglogos.dev/logos/vite-dark.svg)
-
-## <a href="https://astro.build/" target="_blank">Astro</a>
-![astro](https://cdn.svglogos.dev/logos/astro-icon.svg)
-![astro](https://cdn.svglogos.dev/logos/astro.svg)
-
-## <a href="https://daisyui.com/" target="_blank">daisyUI</a>
-![daisyui](https://cdn.svglogos.dev/logos/daisyUI-icon.svg)
-![daisyui](https://cdn.svglogos.dev/logos/daisyUI.svg)
-
-## <a href="https://www.firebase.com/" target="_blank">Firebase</a>
-![firebase](https://cdn.svglogos.dev/logos/firebase-icon.svg)
-![firebase](https://cdn.svglogos.dev/logos/firebase.svg)
-
-## <a href="https://about.gitlab.com/" target="_blank">Gitlab</a>
-![gitlab](https://cdn.svglogos.dev/logos/gitlab-icon.svg)
-![gitlab](https://cdn.svglogos.dev/logos/gitlab.svg)
-
-## <a href="https://import.io/" target="_blank">import.io</a>
-![importio](https://cdn.svglogos.dev/logos/importio-icon.svg)
-![importio](https://cdn.svglogos.dev/logos/importio.svg)
-
-## <a href="https://www.zoho.com/" target="_blank">Zoho</a>
-![zoho](https://cdn.svglogos.dev/logos/zoho.svg)
 
 ---
 

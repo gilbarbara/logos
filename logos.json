@@ -391,6 +391,14 @@
     ]
   },
   {
+    "name": "Antigravity",
+    "shortname": "antigravity",
+    "url": "https://antigravity.google",
+    "files": [
+      "antigravity.svg"
+    ]
+  },
+  {
     "name": "Apache Aurora",
     "shortname": "apache-aurora",
     "url": "https://aurora.apache.org/",
@@ -1946,6 +1954,15 @@
     ]
   },
   {
+    "name": "Cartesia",
+    "shortname": "cartesia",
+    "url": "https://cartesia.ai/",
+    "files": [
+      "cartesia-icon.svg",
+      "cartesia.svg"
+    ]
+  },
+  {
     "name": "Cassandra",
     "shortname": "cassandra",
     "url": "https://cassandra.apache.org/",
@@ -2099,6 +2116,32 @@
     "files": [
       "claude-icon.svg",
       "claude.svg"
+    ]
+  },
+  {
+    "name": "Claude Code",
+    "shortname": "claude-code",
+    "url": "https://claude.com/product/claude-code",
+    "files": [
+      "claude-code.svg"
+    ]
+  },
+  {
+    "name": "ClickUp",
+    "shortname": "clickup",
+    "url": "https://clickup.com/",
+    "files": [
+      "clickup-icon.svg",
+      "clickup.svg"
+    ]
+  },
+  {
+    "name": "Cline",
+    "shortname": "cline",
+    "url": "https://cline.bot/",
+    "files": [
+      "cline-icon.svg",
+      "cline.svg"
     ]
   },
   {
@@ -2361,6 +2404,15 @@
     "files": [
       "codesee-icon.svg",
       "codesee.svg"
+    ]
+  },
+  {
+    "name": "Codex",
+    "shortname": "codex",
+    "url": "https://openai.com/codex/",
+    "files": [
+      "codex.svg",
+      "codex-dark.svg"
     ]
   },
   {
@@ -2667,6 +2719,15 @@
     ]
   },
   {
+    "name": "Cursor",
+    "shortname": "cursor",
+    "url": "https://cursor.com/",
+    "files": [
+      "cursor-icon.svg",
+      "cursor.svg"
+    ]
+  },
+  {
     "name": "Customer.io",
     "shortname": "customerio",
     "url": "https://customer.io/",
@@ -2835,6 +2896,16 @@
     "url": "https://www.debian.org/",
     "files": [
       "debian.svg"
+    ]
+  },
+  {
+    "name": "Deepgram",
+    "shortname": "deepgram",
+    "url": "https://deepgram.com/",
+    "files": [
+      "deepgram-icon.svg",
+      "deepgram.svg",
+      "deepgram-dark.svg"
     ]
   },
   {
@@ -3315,6 +3386,15 @@
     "url": "https://elementary.io/",
     "files": [
       "elementary.svg"
+    ]
+  },
+  {
+    "name": "ElevenLabs",
+    "shortname": "elevenlabs",
+    "url": "https://elevenlabs.io/",
+    "files": [
+      "elevenlabs-icon.svg",
+      "elevenlabs.svg"
     ]
   },
   {
@@ -5758,6 +5838,15 @@
     ]
   },
   {
+    "name": "Kilo",
+    "shortname": "kilo",
+    "url": "https://kilo.ai/",
+    "files": [
+      "kilo.svg",
+      "kilo-dark.svg"
+    ]
+  },
+  {
     "name": "Kinto",
     "shortname": "kinto",
     "url": "https://www.kinto-storage.org/",
@@ -5773,6 +5862,14 @@
     "files": [
       "kirby-icon.svg",
       "kirby.svg"
+    ]
+  },
+  {
+    "name": "Kiro",
+    "shortname": "kiro",
+    "url": "https://kiro.dev/",
+    "files": [
+      "kiro.svg"
     ]
   },
   {
@@ -7469,6 +7566,15 @@
     "url": "https://www.opencart.com/",
     "files": [
       "opencart.svg"
+    ]
+  },
+  {
+    "name": "OpenCode",
+    "shortname": "opencode",
+    "url": "https://opencode.ai/",
+    "files": [
+      "opencode-icon.svg",
+      "opencode.svg"
     ]
   },
   {
