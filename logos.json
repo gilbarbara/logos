@@ -1570,6 +1570,15 @@
     ]
   },
   {
+    "name": "Bolt",
+    "shortname": "bolt",
+    "url": "https://bolt.new/",
+    "files": [
+      "bolt-icon.svg",
+      "bolt.svg"
+    ]
+  },
+  {
     "name": "Booqable",
     "shortname": "booqable",
     "url": "https://booqable.com/",
@@ -2762,6 +2771,15 @@
     ]
   },
   {
+    "name": "Daily",
+    "shortname": "daily",
+    "url": "https://www.daily.co/",
+    "files": [
+      "daily-icon.svg",
+      "daily.svg"
+    ]
+  },
+  {
     "name": "daily.dev",
     "shortname": "dailydev",
     "url": "https://daily.dev/",
@@ -2983,6 +3001,14 @@
     "files": [
       "deviantart-icon.svg",
       "deviantart.svg"
+    ]
+  },
+  {
+    "name": "Devin",
+    "shortname": "devin",
+    "url": "https://devin.ai",
+    "files": [
+      "devin.svg"
     ]
   },
   {
@@ -3613,6 +3639,15 @@
     "files": [
       "evergreen-icon.svg",
       "evergreen.svg"
+    ]
+  },
+  {
+    "name": "Exa",
+    "shortname": "exa",
+    "url": "https://exa.ai",
+    "files": [
+      "exa-icon.svg",
+      "exa.svg"
     ]
   },
   {
@@ -6188,6 +6223,15 @@
     ]
   },
   {
+    "name": "LiveKit",
+    "shortname": "livekit",
+    "url": "https://livekit.io",
+    "files": [
+      "livekit-icon.svg",
+      "livekit.svg"
+    ]
+  },
+  {
     "name": "loader",
     "shortname": "loader",
     "url": "https://loader.io/",
@@ -6260,6 +6304,15 @@
     "url": "https://www.losant.com/",
     "files": [
       "losant.svg"
+    ]
+  },
+  {
+    "name": "Lovable",
+    "shortname": "lovable",
+    "url": "https://lovable.dev",
+    "files": [
+      "lovable-icon.svg",
+      "lovable.svg"
     ]
   },
   {
@@ -7088,6 +7141,15 @@
     ]
   },
   {
+    "name": "n8n",
+    "shortname": "n8n",
+    "url": "https://n8n.io",
+    "files": [
+      "n8n-icon.svg",
+      "n8n.svg"
+    ]
+  },
+  {
     "name": "Naive UI",
     "shortname": "naiveui",
     "url": "https://www.naiveui.com/",
@@ -7704,6 +7766,15 @@
     ]
   },
   {
+    "name": "Ory",
+    "shortname": "ory",
+    "url": "https://www.ory.com",
+    "files": [
+      "ory-icon.svg",
+      "ory.svg"
+    ]
+  },
+  {
     "name": "osquery",
     "shortname": "osquery",
     "url": "https://osquery.io/",
@@ -7882,6 +7953,15 @@
     ]
   },
   {
+    "name": "Penpot",
+    "shortname": "penpot",
+    "url": "https://penpot.app",
+    "files": [
+      "penpot-icon.svg",
+      "penpot.svg"
+    ]
+  },
+  {
     "name": "Pepperoni",
     "shortname": "pepperoni",
     "url": "http://getpepperoni.com/",
@@ -7965,6 +8045,14 @@
     ]
   },
   {
+    "name": "Pico CSS",
+    "shortname": "pico-css",
+    "url": "https://picocss.com",
+    "files": [
+      "pico-css.svg"
+    ]
+  },
+  {
     "name": "Pinecone",
     "shortname": "pinecone",
     "url": "https://www.pinecone.io/",
@@ -7987,6 +8075,14 @@
     "url": "https://www.pinterest.com/",
     "files": [
       "pinterest.svg"
+    ]
+  },
+  {
+    "name": "Pipecat",
+    "shortname": "pipecat",
+    "url": "https://pipecat.ai",
+    "files": [
+      "pipecat.svg"
     ]
   },
   {
@@ -8612,6 +8708,14 @@
     ]
   },
   {
+    "name": "Railway",
+    "shortname": "railway",
+    "url": "https://railway.com",
+    "files": [
+      "railway.svg"
+    ]
+  },
+  {
     "name": "Ramda",
     "shortname": "ramda",
     "url": "https://ramdajs.com/",
@@ -9077,6 +9181,14 @@
     "url": "https://github.com/tonsky/rum",
     "files": [
       "rum.svg"
+    ]
+  },
+  {
+    "name": "Runable",
+    "shortname": "runable",
+    "url": "https://runable.com",
+    "files": [
+      "runable.svg"
     ]
   },
   {
@@ -10044,6 +10156,15 @@
     ]
   },
   {
+    "name": "StyleX",
+    "shortname": "stylex",
+    "url": "https://stylexjs.com",
+    "files": [
+      "stylex-icon.svg",
+      "stylex.svg"
+    ]
+  },
+  {
     "name": "Stylis",
     "shortname": "stylis",
     "url": "https://stylis.js.org/",
@@ -10903,6 +11024,14 @@
     ]
   },
   {
+    "name": "v0",
+    "shortname": "v0",
+    "url": "https://v0.app",
+    "files": [
+      "v0.svg"
+    ]
+  },
+  {
     "name": "V8",
     "shortname": "v8",
     "url": "https://developers.google.com/v8/",
@@ -10970,6 +11099,14 @@
     "files": [
       "vercel-icon.svg",
       "vercel.svg"
+    ]
+  },
+  {
+    "name": "Vercel AI SDK",
+    "shortname": "vercel-ai-sdk",
+    "url": "https://ai-sdk.dev",
+    "files": [
+      "vercel-ai-sdk.svg"
     ]
   },
   {

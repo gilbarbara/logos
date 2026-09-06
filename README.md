@@ -18,6 +18,63 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://bolt.new/" target="_blank">Bolt</a>
+![bolt](https://cdn.svglogos.dev/logos/bolt-icon.svg)
+![bolt](https://cdn.svglogos.dev/logos/bolt.svg)
+
+## <a href="https://www.daily.co/" target="_blank">Daily</a>
+![daily](https://cdn.svglogos.dev/logos/daily-icon.svg)
+![daily](https://cdn.svglogos.dev/logos/daily.svg)
+
+## <a href="https://devin.ai" target="_blank">Devin</a>
+![devin](https://cdn.svglogos.dev/logos/devin.svg)
+
+## <a href="https://exa.ai" target="_blank">Exa</a>
+![exa](https://cdn.svglogos.dev/logos/exa-icon.svg)
+![exa](https://cdn.svglogos.dev/logos/exa.svg)
+
+## <a href="https://livekit.io" target="_blank">LiveKit</a>
+![livekit](https://cdn.svglogos.dev/logos/livekit-icon.svg)
+![livekit](https://cdn.svglogos.dev/logos/livekit.svg)
+
+## <a href="https://lovable.dev" target="_blank">Lovable</a>
+![lovable](https://cdn.svglogos.dev/logos/lovable-icon.svg)
+![lovable](https://cdn.svglogos.dev/logos/lovable.svg)
+
+## <a href="https://n8n.io" target="_blank">n8n</a>
+![n8n](https://cdn.svglogos.dev/logos/n8n-icon.svg)
+![n8n](https://cdn.svglogos.dev/logos/n8n.svg)
+
+## <a href="https://www.ory.com" target="_blank">Ory</a>
+![ory](https://cdn.svglogos.dev/logos/ory-icon.svg)
+![ory](https://cdn.svglogos.dev/logos/ory.svg)
+
+## <a href="https://penpot.app" target="_blank">Penpot</a>
+![penpot](https://cdn.svglogos.dev/logos/penpot-icon.svg)
+![penpot](https://cdn.svglogos.dev/logos/penpot.svg)
+
+## <a href="https://picocss.com" target="_blank">Pico CSS</a>
+![pico-css](https://cdn.svglogos.dev/logos/pico-css.svg)
+
+## <a href="https://pipecat.ai" target="_blank">Pipecat</a>
+![pipecat](https://cdn.svglogos.dev/logos/pipecat.svg)
+
+## <a href="https://railway.com" target="_blank">Railway</a>
+![railway](https://cdn.svglogos.dev/logos/railway.svg)
+
+## <a href="https://runable.com" target="_blank">Runable</a>
+![runable](https://cdn.svglogos.dev/logos/runable.svg)
+
+## <a href="https://stylexjs.com" target="_blank">StyleX</a>
+![stylex](https://cdn.svglogos.dev/logos/stylex-icon.svg)
+![stylex](https://cdn.svglogos.dev/logos/stylex.svg)
+
+## <a href="https://v0.app" target="_blank">v0</a>
+![v0](https://cdn.svglogos.dev/logos/v0.svg)
+
+## <a href="https://ai-sdk.dev" target="_blank">Vercel AI SDK</a>
+![vercel-ai-sdk](https://cdn.svglogos.dev/logos/vercel-ai-sdk.svg)
+
 ## <a href="https://antigravity.google" target="_blank">Antigravity</a>
 ![antigravity](https://cdn.svglogos.dev/logos/antigravity.svg)
 
@@ -147,73 +204,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.apache.org/" target="_blank">Apache Software Foundation</a>
 ![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation-icon.svg)
 ![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation.svg)
-
-## <a href="https://coderabbit.ai/" target="_blank">CodeRabbit</a>
-![coderabbit](https://cdn.svglogos.dev/logos/coderabbit-icon.svg)
-![coderabbit](https://cdn.svglogos.dev/logos/coderabbit.svg)
-
-## <a href="https://www.databricks.com/" target="_blank">Databricks</a>
-![databricks](https://cdn.svglogos.dev/logos/databricks-icon.svg)
-![databricks](https://cdn.svglogos.dev/logos/databricks.svg)
-
-## <a href="https://dokploy.com/" target="_blank">Dokploy</a>
-![dokploy](https://cdn.svglogos.dev/logos/dokploy.svg)
-![dokploy](https://cdn.svglogos.dev/logos/dokploy-dark.svg)
-
-## <a href="https://aistudio.google.com/" target="_blank">Google AI Studio</a>
-![google-aistudio](https://cdn.svglogos.dev/logos/google-aistudio.svg)
-![google-aistudio](https://cdn.svglogos.dev/logos/google-aistudio-dark.svg)
-
-## <a href="https://mermaid.js.org/" target="_blank">Mermaid</a>
-![mermaid](https://cdn.svglogos.dev/logos/mermaid.svg)
-
-## <a href="https://www.minimax.io/" target="_blank">MiniMax</a>
-![minimax](https://cdn.svglogos.dev/logos/minimax-icon.svg)
-![minimax](https://cdn.svglogos.dev/logos/minimax.svg)
-
-## <a href="https://resend.com/" target="_blank">Resend</a>
-![resend](https://cdn.svglogos.dev/logos/resend-icon.svg)
-![resend](https://cdn.svglogos.dev/logos/resend-icon-dark.svg)
-![resend](https://cdn.svglogos.dev/logos/resend.svg)
-
-## <a href="https://signoz.io/" target="_blank">SigNoz</a>
-![signoz](https://cdn.svglogos.dev/logos/signoz.svg)
-
-## <a href="https://valkey.io/" target="_blank">Valkey</a>
-![valkey](https://cdn.svglogos.dev/logos/valkey-icon.svg)
-![valkey](https://cdn.svglogos.dev/logos/valkey.svg)
-
-## <a href="https://www.deepseek.com/en/" target="_blank">DeepSeek</a>
-![deepseek](https://cdn.svglogos.dev/logos/deepseek-icon.svg)
-![deepseek](https://cdn.svglogos.dev/logos/deepseek.svg)
-
-## <a href="https://grok.com/" target="_blank">Grok</a>
-![grok](https://cdn.svglogos.dev/logos/grok-icon.svg)
-![grok](https://cdn.svglogos.dev/logos/grok.svg)
-
-## <a href="https://modelcontextprotocol.io/" target="_blank">MCP - Model Context Protocol</a>
-![mcp](https://cdn.svglogos.dev/logos/model-context-protocol-icon.svg)
-![mcp](https://cdn.svglogos.dev/logos/model-context-protocol.svg)
-
-## <a href="https://www.moonshot.ai/" target="_blank">Moonshot AI</a>
-![moonshot-ai](https://cdn.svglogos.dev/logos/moonshot-ai-icon.svg)
-![moonshot-ai](https://cdn.svglogos.dev/logos/moonshot-ai.svg)
-
-## <a href="https://oxc.rs/" target="_blank">OXC</a>
-![oxc](https://cdn.svglogos.dev/logos/oxc-icon.svg)
-![oxc](https://cdn.svglogos.dev/logos/oxc.svg)
-![oxc](https://cdn.svglogos.dev/logos/oxc-icon-dark.svg)
-![oxc](https://cdn.svglogos.dev/logos/oxc-dark.svg)
-
-## <a href="https://qwen.ai" target="_blank">Qwen</a>
-![Qwen](https://cdn.svglogos.dev/logos/qwen-icon.svg)
-![Qwen](https://cdn.svglogos.dev/logos/qwen.svg)
-
-## <a href="https://rolldown.rs" target="_blank">Rolldown</a>
-![rolldown](https://cdn.svglogos.dev/logos/rolldown-icon.svg)
-![rolldown](https://cdn.svglogos.dev/logos/rolldown.svg)
-![rolldown](https://cdn.svglogos.dev/logos/rolldown-icon-dark.svg)
-![rolldown](https://cdn.svglogos.dev/logos/rolldown-dark.svg)
 
 ---
 
