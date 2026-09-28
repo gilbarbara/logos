@@ -1415,6 +1415,15 @@
     ]
   },
   {
+    "name": "Bazel",
+    "shortname": "bazel",
+    "url": "https://bazel.build",
+    "files": [
+      "bazel-icon.svg",
+      "bazel.svg"
+    ]
+  },
+  {
     "name": "Beats",
     "shortname": "beats",
     "url": "https://www.elastic.co/products/beats",
@@ -1989,6 +1998,15 @@
     ]
   },
   {
+    "name": "Cerebras",
+    "shortname": "cerebras",
+    "url": "https://www.cerebras.ai/",
+    "files": [
+      "cerebras-icon.svg",
+      "cerebras.svg"
+    ]
+  },
+  {
     "name": "Certbot",
     "shortname": "certbot",
     "url": "https://certbot.eff.org/",
@@ -2133,6 +2151,15 @@
     "url": "https://claude.com/product/claude-code",
     "files": [
       "claude-code.svg"
+    ]
+  },
+  {
+    "name": "Clerk",
+    "shortname": "clerk",
+    "url": "https://clerk.com/",
+    "files": [
+      "clerk-icon.svg",
+      "clerk.svg"
     ]
   },
   {
@@ -3029,6 +3056,14 @@
     ]
   },
   {
+    "name": "Dify",
+    "shortname": "dify",
+    "url": "https://dify.ai",
+    "files": [
+      "dify.svg"
+    ]
+  },
+  {
     "name": "DigitalOcean",
     "shortname": "digitalocean",
     "url": "https://www.digitalocean.com/",
@@ -3212,6 +3247,15 @@
     "files": [
       "drizzle-icon.svg",
       "drizzle.svg"
+    ]
+  },
+  {
+    "name": "Drizzle ORM",
+    "shortname": "drizzle-orm",
+    "url": "https://orm.drizzle.team/",
+    "files": [
+      "drizzle-orm-icon.svg",
+      "drizzle-orm.svg"
     ]
   },
   {
@@ -3798,6 +3842,15 @@
     "files": [
       "firebase-icon.svg",
       "firebase.svg"
+    ]
+  },
+  {
+    "name": "Firecrawl",
+    "shortname": "firecrawl",
+    "url": "https://www.firecrawl.dev/",
+    "files": [
+      "firecrawl-icon.svg",
+      "firecrawl.svg"
     ]
   },
   {
@@ -5601,6 +5654,14 @@
     ]
   },
   {
+    "name": "Jina AI",
+    "shortname": "jina",
+    "url": "https://jina.ai/",
+    "files": [
+      "jina.svg"
+    ]
+  },
+  {
     "name": "JIRA",
     "shortname": "jira",
     "url": "https://www.atlassian.com/software/jira",
@@ -6004,6 +6065,15 @@
     "url": "https://www.kustomer.com/",
     "files": [
       "kustomer.svg"
+    ]
+  },
+  {
+    "name": "LangChain",
+    "shortname": "langchain",
+    "url": "https://www.langchain.com",
+    "files": [
+      "langchain-icon.svg",
+      "langchain.svg"
     ]
   },
   {
@@ -6642,6 +6712,15 @@
     "url": "https://www.meilisearch.com/",
     "files": [
       "meilisearch.svg"
+    ]
+  },
+  {
+    "name": "Mem0",
+    "shortname": "mem0",
+    "url": "https://mem0.ai/",
+    "files": [
+      "mem0-icon.svg",
+      "mem0.svg"
     ]
   },
   {
@@ -7521,6 +7600,16 @@
     "url": "https://ocaml.org/",
     "files": [
       "ocaml.svg"
+    ]
+  },
+  {
+    "name": "Octelium",
+    "shortname": "octelium",
+    "url": "https://octelium.com/",
+    "files": [
+      "octelium-icon-dark.svg",
+      "octelium-icon.svg",
+      "octelium.svg"
     ]
   },
   {
@@ -10491,6 +10580,15 @@
     ]
   },
   {
+    "name": "Temporal",
+    "shortname": "temporal",
+    "url": "https://temporal.io",
+    "files": [
+      "temporal-icon.svg",
+      "temporal.svg"
+    ]
+  },
+  {
     "name": "TensorFlow",
     "shortname": "tensorflow",
     "url": "https://www.tensorflow.org/",
@@ -10615,6 +10713,15 @@
     "url": "https://todomvc.com/",
     "files": [
       "todomvc.svg"
+    ]
+  },
+  {
+    "name": "Together AI",
+    "shortname": "togetherai",
+    "url": "https://www.together.ai",
+    "files": [
+      "togetherai-icon.svg",
+      "togetherai.svg"
     ]
   },
   {
@@ -11073,6 +11180,15 @@
     "files": [
       "valkey-icon.svg",
       "valkey.svg"
+    ]
+  },
+  {
+    "name": "Vapi",
+    "shortname": "vapi",
+    "url": "https://vapi.ai",
+    "files": [
+      "vapi-icon.svg",
+      "vapi.svg"
     ]
   },
   {

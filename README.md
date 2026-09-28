@@ -18,6 +18,57 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://bazel.build" target="_blank">Bazel</a>
+![bazel](https://cdn.svglogos.dev/logos/bazel-icon.svg)
+![bazel](https://cdn.svglogos.dev/logos/bazel.svg)
+
+## <a href="https://www.cerebras.ai/" target="_blank">Cerebras</a>
+![cerebras](https://cdn.svglogos.dev/logos/cerebras-icon.svg)
+![cerebras](https://cdn.svglogos.dev/logos/cerebras.svg)
+
+## <a href="https://clerk.com/" target="_blank">Clerk</a>
+![clerk](https://cdn.svglogos.dev/logos/clerk-icon.svg)
+![clerk](https://cdn.svglogos.dev/logos/clerk.svg)
+
+## <a href="https://dify.ai" target="_blank">Dify</a>
+![dify](https://cdn.svglogos.dev/logos/dify.svg)
+
+## <a href="https://orm.drizzle.team/" target="_blank">Drizzle ORM</a>
+![drizzle-orm](https://cdn.svglogos.dev/logos/drizzle-orm-icon.svg)
+![drizzle-orm](https://cdn.svglogos.dev/logos/drizzle-orm.svg)
+
+## <a href="https://www.firecrawl.dev/" target="_blank">Firecrawl</a>
+![firecrawl](https://cdn.svglogos.dev/logos/firecrawl-icon.svg)
+![firecrawl](https://cdn.svglogos.dev/logos/firecrawl.svg)
+
+## <a href="https://jina.ai/" target="_blank">Jina AI</a>
+![jina](https://cdn.svglogos.dev/logos/jina.svg)
+
+## <a href="https://www.langchain.com" target="_blank">LangChain</a>
+![langchain](https://cdn.svglogos.dev/logos/langchain-icon.svg)
+![langchain](https://cdn.svglogos.dev/logos/langchain.svg)
+
+## <a href="https://mem0.ai/" target="_blank">Mem0</a>
+![mem0](https://cdn.svglogos.dev/logos/mem0-icon.svg)
+![mem0](https://cdn.svglogos.dev/logos/mem0.svg)
+
+## <a href="https://octelium.com/" target="_blank">Octelium</a>
+![octelium](https://cdn.svglogos.dev/logos/octelium-icon-dark.svg)
+![octelium](https://cdn.svglogos.dev/logos/octelium-icon.svg)
+![octelium](https://cdn.svglogos.dev/logos/octelium.svg)
+
+## <a href="https://temporal.io" target="_blank">Temporal</a>
+![temporal](https://cdn.svglogos.dev/logos/temporal-icon.svg)
+![temporal](https://cdn.svglogos.dev/logos/temporal.svg)
+
+## <a href="https://www.together.ai" target="_blank">Together AI</a>
+![togetherai](https://cdn.svglogos.dev/logos/togetherai-icon.svg)
+![togetherai](https://cdn.svglogos.dev/logos/togetherai.svg)
+
+## <a href="https://vapi.ai" target="_blank">Vapi</a>
+![vapi](https://cdn.svglogos.dev/logos/vapi-icon.svg)
+![vapi](https://cdn.svglogos.dev/logos/vapi.svg)
+
 ## <a href="https://bolt.new/" target="_blank">Bolt</a>
 ![bolt](https://cdn.svglogos.dev/logos/bolt-icon.svg)
 ![bolt](https://cdn.svglogos.dev/logos/bolt.svg)
@@ -156,54 +207,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://www.google.com/keep/" target="_blank">Google Keep</a>
 ![google-keep](https://cdn.svglogos.dev/logos/google-keep.svg)
 ![google-keep](https://cdn.svglogos.dev/logos/google-keep-2020.svg)
-
-## <a href="https://meet.google.com/" target="_blank">Google Meet</a>
-![google-meet](https://cdn.svglogos.dev/logos/google-meet.svg)
-![google-meet](https://cdn.svglogos.dev/logos/google-meet-2020.svg)
-
-## <a href="https://photos.google.com/" target="_blank">Google Photos</a>
-![google-photos](https://cdn.svglogos.dev/logos/google-photos.svg)
-![google-photos](https://cdn.svglogos.dev/logos/google-photos-2020.svg)
-
-## <a href="https://gsap.com/" target="_blank">GSAP</a>
-![gsap](https://cdn.svglogos.dev/logos/gsap.svg)
-![gsap](https://cdn.svglogos.dev/logos/gsap-dark.svg)
-
-## <a href="https://hasura.io/" target="_blank">Hasura</a>
-![hasura](https://cdn.svglogos.dev/logos/hasura-icon.svg)
-![hasura](https://cdn.svglogos.dev/logos/hasura.svg)
-
-## <a href="https://www.influxdata.com/" target="_blank">InfluxDB</a>
-![influxdb](https://cdn.svglogos.dev/logos/influxdata-icon.svg)
-![influxdb](https://cdn.svglogos.dev/logos/influxdata.svg)
-
-## <a href="https://www.micron.com/" target="_blank">Micron</a>
-![micron](https://cdn.svglogos.dev/logos/micron-icon.svg)
-![micron](https://cdn.svglogos.dev/logos/micron.svg)
-
-## <a href="https://neverinstall.com/" target="_blank">Neverinstall</a>
-![neverinstall](https://cdn.svglogos.dev/logos/neverinstall.svg)
-
-## <a href="https://learnboost.github.io/stylus/" target="_blank">Stylus</a>
-![stylus](https://cdn.svglogos.dev/logos/stylus.svg)
-
-## <a href="https://stytch.com/" target="_blank">Stytch</a>
-![stytch](https://cdn.svglogos.dev/logos/stytch.svg)
-
-## <a href="https://x.ai" target="_blank">xAI</a>
-![x-ai](https://cdn.svglogos.dev/logos/x-ai.svg)
-![x-ai](https://cdn.svglogos.dev/logos/x-ai-dark.svg)
-
-## <a href="https://zeroheight.com/" target="_blank">zeroheight</a>
-![zeroheight](https://cdn.svglogos.dev/logos/zeroheight-icon.svg)
-![zeroheight](https://cdn.svglogos.dev/logos/zeroheight.svg)
-
-## <a href="https://zod.dev/" target="_blank">Zod</a>
-![zod](https://cdn.svglogos.dev/logos/zod.svg)
-
-## <a href="https://www.apache.org/" target="_blank">Apache Software Foundation</a>
-![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation-icon.svg)
-![apache-software-foundation](https://cdn.svglogos.dev/logos/apache-software-foundation.svg)
 
 ---
 
