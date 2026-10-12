@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>Red</title>
+    <defs>
+        <linearGradient x1="0.10326087%" y1="50%" x2="99.9786232%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EEA831" offset="0%"></stop>
+            <stop stop-color="#FFC929" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#B32629" offset="0%"></stop>
+            <stop stop-color="#8C1E21" offset="58.34%"></stop>
+            <stop stop-color="#7A1A1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="99.8967391%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#E8A333" offset="0%"></stop>
+            <stop stop-color="#C68931" offset="61.21%"></stop>
+            <stop stop-color="#AB762F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#B32629" offset="0%"></stop>
+            <stop stop-color="#8C1E21" offset="58.34%"></stop>
+            <stop stop-color="#7A1A1D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#AE2524" offset="0%"></stop>
+            <stop stop-color="#D01D19" offset="56.29%"></stop>
+            <stop stop-color="#ED1913" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#AE2524" offset="0%"></stop>
+            <stop stop-color="#D01D19" offset="56.29%"></stop>
+            <stop stop-color="#ED1913" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <polygon fill="url(#linearGradient-1)" points="128 71.240404 128 0 92.3151515 52.7515152"></polygon>
+        <polygon fill="url(#linearGradient-2)" points="128 92.3151515 128 163.684848 128 163.684848 209.842424 121.018182 174.157576 68.2666667"></polygon>
+        <polygon fill="url(#linearGradient-3)" points="128 71.240404 163.684848 52.7515152 128 0"></polygon>
+        <polygon fill="url(#linearGradient-4)" points="220.315152 136.662626 128 184.759596 128 184.759596 128 256 256 189.414141"></polygon>
+        <polygon fill="url(#linearGradient-5)" points="0 189.414141 128 256 128 184.759596 35.6848485 136.662626"></polygon>
+        <polygon fill="url(#linearGradient-6)" points="81.8424242 68.2666667 46.1575758 121.018182 128 163.684848 128 92.3151515"></polygon>
+    </g>
+</svg>

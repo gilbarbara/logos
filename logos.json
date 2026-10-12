@@ -1398,6 +1398,15 @@
     ]
   },
   {
+    "name": "Baseten",
+    "shortname": "baseten",
+    "url": "https://www.baseten.co",
+    "files": [
+      "baseten-icon.svg",
+      "baseten.svg"
+    ]
+  },
+  {
     "name": "Bash",
     "shortname": "bash",
     "url": "https://www.gnu.org/software/bash/",
@@ -1718,6 +1727,15 @@
     "url": "https://github.com/google/brotli",
     "files": [
       "brotli.svg"
+    ]
+  },
+  {
+    "name": "Browserbase",
+    "shortname": "browserbase",
+    "url": "https://www.browserbase.com",
+    "files": [
+      "browserbase-icon.svg",
+      "browserbase.svg"
     ]
   },
   {
@@ -2616,6 +2634,15 @@
     ]
   },
   {
+    "name": "CoreWeave",
+    "shortname": "coreweave",
+    "url": "https://www.coreweave.com",
+    "files": [
+      "coreweave-icon.svg",
+      "coreweave.svg"
+    ]
+  },
+  {
     "name": "Couchbase",
     "shortname": "couchbase",
     "url": "https://www.couchbase.com/",
@@ -2694,6 +2721,14 @@
     "url": "https://www.createjs.com/",
     "files": [
       "createjs.svg"
+    ]
+  },
+  {
+    "name": "CrewAI",
+    "shortname": "crewai",
+    "url": "https://crewai.com",
+    "files": [
+      "crewai.svg"
     ]
   },
   {
@@ -3238,6 +3273,14 @@
     "url": "https://www.getdrip.com/",
     "files": [
       "drip.svg"
+    ]
+  },
+  {
+    "name": "Driver.js",
+    "shortname": "driverjs",
+    "url": "https://driverjs.com",
+    "files": [
+      "driverjs.svg"
     ]
   },
   {
@@ -4564,6 +4607,15 @@
     ]
   },
   {
+    "name": "Google Fonts",
+    "shortname": "google-fonts",
+    "url": "https://fonts.google.com",
+    "files": [
+      "google-fonts-icon.svg",
+      "google-fonts.svg"
+    ]
+  },
+  {
     "name": "Google Gemini",
     "shortname": "google-gemini",
     "url": "https://deepmind.google/technologies/gemini/",
@@ -4741,6 +4793,14 @@
     ]
   },
   {
+    "name": "Grain",
+    "shortname": "grain-lang",
+    "url": "https://grain-lang.org",
+    "files": [
+      "grain-lang.svg"
+    ]
+  },
+  {
     "name": "Grammarly",
     "shortname": "grammarly",
     "url": "https://grammarly.com/",
@@ -4823,6 +4883,14 @@
     "url": "https://www.groovehq.com/",
     "files": [
       "groovehq.svg"
+    ]
+  },
+  {
+    "name": "Groq",
+    "shortname": "groq",
+    "url": "https://groq.com",
+    "files": [
+      "groq.svg"
     ]
   },
   {
@@ -7513,6 +7581,15 @@
     ]
   },
   {
+    "name": "NuGet",
+    "shortname": "nuget",
+    "url": "https://www.nuget.org",
+    "files": [
+      "nuget-icon.svg",
+      "nuget.svg"
+    ]
+  },
+  {
     "name": "NumPy",
     "shortname": "numpy",
     "url": "https://numpy.org/",
@@ -7759,6 +7836,18 @@
     "url": "https://openlayers.org/",
     "files": [
       "openlayers.svg"
+    ]
+  },
+  {
+    "name": "OpenRouter",
+    "shortname": "openrouter",
+    "url": "https://openrouter.ai",
+    "files": [
+      "openrouter-icon.svg",
+      "openrouter-icon-dark.svg",
+      "openrouter-icon-mono.svg",
+      "openrouter.svg",
+      "openrouter-dark.svg"
     ]
   },
   {
@@ -8237,6 +8326,14 @@
     "files": [
       "planless-icon.svg",
       "planless.svg"
+    ]
+  },
+  {
+    "name": "PlantUML",
+    "shortname": "plantuml",
+    "url": "https://plantuml.com",
+    "files": [
+      "plantuml.svg"
     ]
   },
   {
@@ -8942,6 +9039,14 @@
     "files": [
       "recoil-icon.svg",
       "recoil.svg"
+    ]
+  },
+  {
+    "name": "Red",
+    "shortname": "red-lang",
+    "url": "https://www.red-lang.org",
+    "files": [
+      "red-lang.svg"
     ]
   },
   {
@@ -10758,6 +10863,15 @@
     ]
   },
   {
+    "name": "Traefik Proxy",
+    "shortname": "traefik-proxy",
+    "url": "https://traefik.io/traefik",
+    "files": [
+      "traefik-proxy-icon.svg",
+      "traefik-proxy.svg"
+    ]
+  },
+  {
     "name": "Travis CI",
     "shortname": "travis-ci",
     "url": "https://www.travis-ci.com/",
@@ -11484,6 +11598,16 @@
     ]
   },
   {
+    "name": "Weaviate",
+    "shortname": "weaviate",
+    "url": "https://weaviate.io",
+    "files": [
+      "weaviate-icon.svg",
+      "weaviate.svg",
+      "weaviate-icon-alt.svg"
+    ]
+  },
+  {
     "name": "web.dev",
     "shortname": "web.dev",
     "url": "https://web.dev/",
@@ -11637,6 +11761,15 @@
     "url": "https://www.weebly.com/",
     "files": [
       "weebly.svg"
+    ]
+  },
+  {
+    "name": "Weights & Biases",
+    "shortname": "wandb",
+    "url": "https://wandb.ai/site/",
+    "files": [
+      "wandb-icon.svg",
+      "wandb.svg"
     ]
   },
   {

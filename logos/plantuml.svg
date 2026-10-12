@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="257px" height="229px" viewBox="0 0 257 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>planyuml</title>
+    <defs>
+        <linearGradient x1="-1%" y1="50%" x2="101%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#0074BD" offset="0%"></stop>
+            <stop stop-color="#0074BD" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.588152941%" y1="49.99999%" x2="100.588318%" y2="49.99999%" id="linearGradient-2">
+            <stop stop-color="#808080" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-0.434782609%" y1="50%" x2="100.434783%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#0074BD" offset="0%"></stop>
+            <stop stop-color="#0074BD" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.4996%" y1="50.0001%" x2="102.5004%" y2="50.0001%" id="linearGradient-4">
+            <stop stop-color="#808080" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-2.49975%" y1="50.0001%" x2="102.50025%" y2="50.0001%" id="linearGradient-5">
+            <stop stop-color="#808080" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g>
+        <polygon stroke="#000000" fill="#16003A" points="166.293285 130.467577 232.237183 170.60734 180.628924 199.278589 114.685032 159.138838 166.293285 130.467577"></polygon>
+        <polygon stroke="#000000" fill="#FFBA39" points="108.950775 130.467577 174.894668 170.60734 123.286408 199.278589 57.3425159 159.138838 108.950775 130.467577"></polygon>
+        <polygon stroke="#000000" fill="#991039" points="51.6082592 130.467583 117.552146 170.60734 65.9438867 199.278595 3.25954433e-14 159.138838"></polygon>
+        <polygon stroke="#000000" fill="url(#linearGradient-1)" points="232.135366 170.479782 203.565917 153.404581 203.565917 84.5935691 232.237172 101.796322"></polygon>
+        <polygon stroke="#000000" fill="url(#linearGradient-2)" points="232.23673 101.853516 252.307051 90.3278201 223.635795 73.1250728 203.565917 84.5935691"></polygon>
+        <polygon stroke="#000000" fill="url(#linearGradient-3)" points="5.73425104e-06 159.138832 65.9438925 199.278589 65.9438925 227.949845 5.73425104e-06 187.810087"></polygon>
+        <polygon stroke="#000000" fill="#FFFFFF" points="65.9438925 227.949845 65.9438925 199.278589 117.552152 170.607334 123.286403 199.278589 174.894662 170.607334 180.628913 199.278589 232.237172 170.607334 232.237172 101.796322 252.307051 90.3278201 252.307051 227.949845"></polygon>
+        <path d="M234.650523,57.077972 C240.412064,63.7101551 233.139766,69.6734436 233.139766,69.6734436 C233.139766,69.6734436 247.760673,62.1270431 241.047419,52.6724502 C234.775163,43.8595543 229.966403,39.4817576 256,24.3839334 C256.00027,24.3839334 215.133708,34.5879643 234.650523,57.077972 L234.650523,57.077972 Z" fill="#EA2D2E"></path>
+        <path d="M241.047682,0 C241.047682,0 253.449325,12.4087701 229.281401,31.4845819 C209.90032,46.7926122 224.862409,55.5175676 229.27452,65.4913282 C217.960332,55.2841262 209.661586,46.2974711 215.227973,37.9348229 C223.402073,25.6609912 246.050266,19.7082652 241.047671,0 L241.047671,0 L241.047682,0 Z" fill="#EA2D2E"></path>
+        <rect stroke="#000000" fill="url(#linearGradient-4)" x="94.6151418" y="199.278578" width="11.468502" height="11.468502"></rect>
+        <rect stroke="#000000" fill="url(#linearGradient-5)" x="209.300179" y="199.278578" width="11.468502" height="11.468502"></rect>
+        <rect stroke="#000000" fill="url(#linearGradient-4)" x="151.957652" y="199.278578" width="11.468502" height="11.468502"></rect>
+    </g>
+</svg>

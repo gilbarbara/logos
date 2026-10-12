@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="272px" viewBox="0 0 256 272" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>Grain</title>
+    <g>
+        <polygon fill="#FAA520" points="128.5512 0 82.5624 95.0312 129.2592 135.7188 174.5752 95.0312"></polygon>
+        <polygon fill="#F78F28" points="3.57572 47.0936 0 161.6592 129.2216 272.0008 194.0804 215.2288"></polygon>
+        <polygon fill="#E18026" points="255.9992 161.694 255.9992 45.756 140.1952 148.0024 206.7888 204.4228"></polygon>
+    </g>
+</svg>

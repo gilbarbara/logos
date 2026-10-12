@@ -18,6 +18,64 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.baseten.co" target="_blank">Baseten</a>
+![baseten](https://cdn.svglogos.dev/logos/baseten-icon.svg)
+![baseten](https://cdn.svglogos.dev/logos/baseten.svg)
+
+## <a href="https://www.browserbase.com" target="_blank">Browserbase</a>
+![browserbase](https://cdn.svglogos.dev/logos/browserbase-icon.svg)
+![browserbase](https://cdn.svglogos.dev/logos/browserbase.svg)
+
+## <a href="https://www.coreweave.com" target="_blank">CoreWeave</a>
+![coreweave](https://cdn.svglogos.dev/logos/coreweave-icon.svg)
+![coreweave](https://cdn.svglogos.dev/logos/coreweave.svg)
+
+## <a href="https://crewai.com" target="_blank">CrewAI</a>
+![crewai](https://cdn.svglogos.dev/logos/crewai.svg)
+
+## <a href="https://driverjs.com" target="_blank">Driver.js</a>
+![driverjs](https://cdn.svglogos.dev/logos/driverjs.svg)
+
+## <a href="https://fonts.google.com" target="_blank">Google Fonts</a>
+![google-fonts](https://cdn.svglogos.dev/logos/google-fonts-icon.svg)
+![google-fonts](https://cdn.svglogos.dev/logos/google-fonts.svg)
+
+## <a href="https://grain-lang.org" target="_blank">Grain</a>
+![grain-lang](https://cdn.svglogos.dev/logos/grain-lang.svg)
+
+## <a href="https://groq.com" target="_blank">Groq</a>
+![groq](https://cdn.svglogos.dev/logos/groq.svg)
+
+## <a href="https://www.nuget.org" target="_blank">NuGet</a>
+![nuget](https://cdn.svglogos.dev/logos/nuget-icon.svg)
+![nuget](https://cdn.svglogos.dev/logos/nuget.svg)
+
+## <a href="https://openrouter.ai" target="_blank">OpenRouter</a>
+![openrouter](https://cdn.svglogos.dev/logos/openrouter-icon.svg)
+![openrouter](https://cdn.svglogos.dev/logos/openrouter-icon-dark.svg)
+![openrouter](https://cdn.svglogos.dev/logos/openrouter-icon-mono.svg)
+![openrouter](https://cdn.svglogos.dev/logos/openrouter.svg)
+![openrouter](https://cdn.svglogos.dev/logos/openrouter-dark.svg)
+
+## <a href="https://plantuml.com" target="_blank">PlantUML</a>
+![plantuml](https://cdn.svglogos.dev/logos/plantuml.svg)
+
+## <a href="https://www.red-lang.org" target="_blank">Red</a>
+![red-lang](https://cdn.svglogos.dev/logos/red-lang.svg)
+
+## <a href="https://traefik.io/traefik" target="_blank">Traefik Proxy</a>
+![traefik-proxy](https://cdn.svglogos.dev/logos/traefik-proxy-icon.svg)
+![traefik-proxy](https://cdn.svglogos.dev/logos/traefik-proxy.svg)
+
+## <a href="https://weaviate.io" target="_blank">Weaviate</a>
+![weaviate](https://cdn.svglogos.dev/logos/weaviate-icon.svg)
+![weaviate](https://cdn.svglogos.dev/logos/weaviate.svg)
+![weaviate](https://cdn.svglogos.dev/logos/weaviate-icon-alt.svg)
+
+## <a href="https://wandb.ai/site/" target="_blank">Weights & Biases</a>
+![wandb](https://cdn.svglogos.dev/logos/wandb-icon.svg)
+![wandb](https://cdn.svglogos.dev/logos/wandb.svg)
+
 ## <a href="https://bazel.build" target="_blank">Bazel</a>
 ![bazel](https://cdn.svglogos.dev/logos/bazel-icon.svg)
 ![bazel](https://cdn.svglogos.dev/logos/bazel.svg)
@@ -147,66 +205,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://openai.com/codex/" target="_blank">Codex</a>
 ![codex](https://cdn.svglogos.dev/logos/codex.svg)
 ![codex](https://cdn.svglogos.dev/logos/codex-dark.svg)
-
-## <a href="https://cursor.com/" target="_blank">Cursor</a>
-![cursor](https://cdn.svglogos.dev/logos/cursor-icon.svg)
-![cursor](https://cdn.svglogos.dev/logos/cursor.svg)
-
-## <a href="https://deepgram.com/" target="_blank">Deepgram</a>
-![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon.svg)
-![deepgram](https://cdn.svglogos.dev/logos/deepgram.svg)
-![deepgram](https://cdn.svglogos.dev/logos/deepgram-dark.svg)
-
-## <a href="https://elevenlabs.io/" target="_blank">ElevenLabs</a>
-![elevenlabs](https://cdn.svglogos.dev/logos/elevenlabs-icon.svg)
-![elevenlabs](https://cdn.svglogos.dev/logos/elevenlabs.svg)
-
-## <a href="https://kilo.ai/" target="_blank">Kilo</a>
-![kilo](https://cdn.svglogos.dev/logos/kilo.svg)
-![kilo](https://cdn.svglogos.dev/logos/kilo-dark.svg)
-
-## <a href="https://kiro.dev/" target="_blank">Kiro</a>
-![kiro](https://cdn.svglogos.dev/logos/kiro.svg)
-
-## <a href="https://opencode.ai/" target="_blank">OpenCode</a>
-![opencode](https://cdn.svglogos.dev/logos/opencode-icon.svg)
-![opencode](https://cdn.svglogos.dev/logos/opencode.svg)
-
-## <a href="https://www.descript.com/" target="_blank">Descript</a>
-![descript](https://cdn.svglogos.dev/logos/descript-icon.svg)
-![descript](https://cdn.svglogos.dev/logos/descript.svg)
-
-## <a href="https://www.elasticpath.com/" target="_blank">Elastic Path</a>
-![elasticpath](https://cdn.svglogos.dev/logos/elasticpath-icon.svg)
-![elasticpath](https://cdn.svglogos.dev/logos/elasticpath.svg)
-
-## <a href="https://www.forestadmin.com/" target="_blank">Forest</a>
-![forest](https://cdn.svglogos.dev/logos/forest-icon.svg)
-![forest](https://cdn.svglogos.dev/logos/forest.svg)
-
-## <a href="https://www.google.com/calendar/about/" target="_blank">Google Calendar</a>
-![google-calendar](https://cdn.svglogos.dev/logos/google-calendar.svg)
-![google-calendar](https://cdn.svglogos.dev/logos/google-calendar-2020.svg)
-
-## <a href="https://www.google.com/drive/" target="_blank">Google Drive</a>
-![google-drive](https://cdn.svglogos.dev/logos/google-drive.svg)
-![google-drive](https://cdn.svglogos.dev/logos/google-drive-2020.svg)
-
-## <a href="https://deepmind.google/technologies/gemini/" target="_blank">Google Gemini</a>
-![google-gemini](https://cdn.svglogos.dev/logos/google-gemini-icon.svg)
-![google-gemini](https://cdn.svglogos.dev/logos/google-gemini.svg)
-
-## <a href="https://gmail.com/" target="_blank">Google Gmail</a>
-![google-gmail](https://cdn.svglogos.dev/logos/google-gmail.svg)
-![google-gmail](https://cdn.svglogos.dev/logos/google-gmail-2020.svg)
-
-## <a href="https://madeby.google.com/home/" target="_blank">Google Home</a>
-![google-home](https://cdn.svglogos.dev/logos/google-home.svg)
-![google-home](https://cdn.svglogos.dev/logos/google-home-2020.svg)
-
-## <a href="https://www.google.com/keep/" target="_blank">Google Keep</a>
-![google-keep](https://cdn.svglogos.dev/logos/google-keep.svg)
-![google-keep](https://cdn.svglogos.dev/logos/google-keep-2020.svg)
 
 ---
 
