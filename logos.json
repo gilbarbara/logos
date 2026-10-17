@@ -465,6 +465,15 @@
     ]
   },
   {
+    "name": "Apify",
+    "shortname": "apify",
+    "url": "https://apify.com",
+    "files": [
+      "apify-icon.svg",
+      "apify.svg"
+    ]
+  },
+  {
     "name": "Apollo",
     "shortname": "apollostack",
     "url": "https://www.apollostack.com/",
@@ -2495,6 +2504,15 @@
     ]
   },
   {
+    "name": "Cohere",
+    "shortname": "cohere",
+    "url": "https://cohere.com",
+    "files": [
+      "cohere-icon.svg",
+      "cohere.svg"
+    ]
+  },
+  {
     "name": "Commitizen",
     "shortname": "commitizen",
     "url": "https://commitizen.github.io/cz-cli/",
@@ -2540,6 +2558,15 @@
     "url": "https://getcomposer.org/",
     "files": [
       "composer.svg"
+    ]
+  },
+  {
+    "name": "Composio",
+    "shortname": "composio",
+    "url": "https://composio.dev",
+    "files": [
+      "composio-icon.svg",
+      "composio.svg"
     ]
   },
   {
@@ -2986,6 +3013,15 @@
       "deepgram-icon.svg",
       "deepgram.svg",
       "deepgram-dark.svg"
+    ]
+  },
+  {
+    "name": "DeepInfra",
+    "shortname": "deepinfra",
+    "url": "https://deepinfra.com",
+    "files": [
+      "deepinfra-icon.svg",
+      "deepinfra.svg"
     ]
   },
   {
@@ -3792,6 +3828,15 @@
     "url": "https://netflix.github.io/falcor/",
     "files": [
       "falcor.svg"
+    ]
+  },
+  {
+    "name": "FalkorDB",
+    "shortname": "falkordb",
+    "url": "https://www.falkordb.com",
+    "files": [
+      "falkordb-icon.svg",
+      "falkordb.svg"
     ]
   },
   {
@@ -5362,6 +5407,15 @@
     ]
   },
   {
+    "name": "Hume",
+    "shortname": "hume",
+    "url": "https://www.hume.ai",
+    "files": [
+      "hume-icon.svg",
+      "hume.svg"
+    ]
+  },
+  {
     "name": "Humongous",
     "shortname": "humongous",
     "url": "https://humongous.io/",
@@ -6136,12 +6190,30 @@
     ]
   },
   {
+    "name": "LanceDB",
+    "shortname": "lancedb",
+    "url": "https://www.lancedb.com",
+    "files": [
+      "lancedb-icon.svg",
+      "lancedb.svg"
+    ]
+  },
+  {
     "name": "LangChain",
     "shortname": "langchain",
     "url": "https://www.langchain.com",
     "files": [
       "langchain-icon.svg",
       "langchain.svg"
+    ]
+  },
+  {
+    "name": "Langfuse",
+    "shortname": "langfuse",
+    "url": "https://langfuse.com",
+    "files": [
+      "langfuse-icon.svg",
+      "langfuse.svg"
     ]
   },
   {
@@ -6475,6 +6547,15 @@
     "url": "https://lucenenet.apache.org/",
     "files": [
       "lucene.net.svg"
+    ]
+  },
+  {
+    "name": "Luma",
+    "shortname": "luma",
+    "url": "https://lumalabs.ai",
+    "files": [
+      "luma-icon.svg",
+      "luma.svg"
     ]
   },
   {
@@ -7723,6 +7804,14 @@
     ]
   },
   {
+    "name": "Ollama",
+    "shortname": "ollama",
+    "url": "https://ollama.com",
+    "files": [
+      "ollama.svg"
+    ]
+  },
+  {
     "name": "OneSignal",
     "shortname": "onesignal",
     "url": "https://onesignal.com/",
@@ -8727,6 +8816,15 @@
     ]
   },
   {
+    "name": "Pydantic",
+    "shortname": "pydantic",
+    "url": "https://pydantic.dev",
+    "files": [
+      "pydantic-icon.svg",
+      "pydantic.svg"
+    ]
+  },
+  {
     "name": "PyPI",
     "shortname": "pypi",
     "url": "https://pypi.org/",
@@ -8883,6 +8981,14 @@
     "files": [
       "rackspace-icon.svg",
       "rackspace.svg"
+    ]
+  },
+  {
+    "name": "RAGFlow",
+    "shortname": "ragflow",
+    "url": "https://ragflow.io",
+    "files": [
+      "ragflow.svg"
     ]
   },
   {
@@ -9207,6 +9313,15 @@
     "url": "https://github.com/linkedin/rest.li",
     "files": [
       "rest-li.svg"
+    ]
+  },
+  {
+    "name": "Retell",
+    "shortname": "retell",
+    "url": "https://www.retellai.com",
+    "files": [
+      "retell-icon.svg",
+      "retell.svg"
     ]
   },
   {
@@ -10408,6 +10523,14 @@
     ]
   },
   {
+    "name": "Suno",
+    "shortname": "suno",
+    "url": "https://suno.com",
+    "files": [
+      "suno.svg"
+    ]
+  },
+  {
     "name": "Supabase",
     "shortname": "supabase",
     "url": "https://supabase.com/",
@@ -10643,6 +10766,14 @@
     ]
   },
   {
+    "name": "Tavily",
+    "shortname": "tavily",
+    "url": "https://www.tavily.com",
+    "files": [
+      "tavily.svg"
+    ]
+  },
+  {
     "name": "Tealium",
     "shortname": "tealium",
     "url": "https://tealium.com",
@@ -10784,6 +10915,15 @@
     "files": [
       "tidal-icon.svg",
       "tidal.svg"
+    ]
+  },
+  {
+    "name": "TigerGraph",
+    "shortname": "tigergraph",
+    "url": "https://www.tigergraph.com",
+    "files": [
+      "tigergraph-icon.svg",
+      "tigergraph.svg"
     ]
   },
   {

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="296px" viewBox="0 0 256 296" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <title>Luma</title>
+    <g fill-opacity="0.65">
+        <g fill="#000000">
+            <polygon points="0 221.965318 128 295.953757 128 0 0 73.9884393"></polygon>
+            <polygon points="128 295.953757 256 221.965318 128 147.976879 0 221.965318"></polygon>
+        </g>
+    </g>
+</svg>

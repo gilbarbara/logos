@@ -18,6 +18,66 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://apify.com" target="_blank">Apify</a>
+![apify](https://cdn.svglogos.dev/logos/apify-icon.svg)
+![apify](https://cdn.svglogos.dev/logos/apify.svg)
+
+## <a href="https://cohere.com" target="_blank">Cohere</a>
+![cohere](https://cdn.svglogos.dev/logos/cohere-icon.svg)
+![cohere](https://cdn.svglogos.dev/logos/cohere.svg)
+
+## <a href="https://composio.dev" target="_blank">Composio</a>
+![composio](https://cdn.svglogos.dev/logos/composio-icon.svg)
+![composio](https://cdn.svglogos.dev/logos/composio.svg)
+
+## <a href="https://deepinfra.com" target="_blank">DeepInfra</a>
+![deepinfra](https://cdn.svglogos.dev/logos/deepinfra-icon.svg)
+![deepinfra](https://cdn.svglogos.dev/logos/deepinfra.svg)
+
+## <a href="https://www.falkordb.com" target="_blank">FalkorDB</a>
+![falkordb](https://cdn.svglogos.dev/logos/falkordb-icon.svg)
+![falkordb](https://cdn.svglogos.dev/logos/falkordb.svg)
+
+## <a href="https://www.hume.ai" target="_blank">Hume</a>
+![hume](https://cdn.svglogos.dev/logos/hume-icon.svg)
+![hume](https://cdn.svglogos.dev/logos/hume.svg)
+
+## <a href="https://www.lancedb.com" target="_blank">LanceDB</a>
+![lancedb](https://cdn.svglogos.dev/logos/lancedb-icon.svg)
+![lancedb](https://cdn.svglogos.dev/logos/lancedb.svg)
+
+## <a href="https://langfuse.com" target="_blank">Langfuse</a>
+![langfuse](https://cdn.svglogos.dev/logos/langfuse-icon.svg)
+![langfuse](https://cdn.svglogos.dev/logos/langfuse.svg)
+
+## <a href="https://lumalabs.ai" target="_blank">Luma</a>
+![luma](https://cdn.svglogos.dev/logos/luma-icon.svg)
+![luma](https://cdn.svglogos.dev/logos/luma.svg)
+
+## <a href="https://ollama.com" target="_blank">Ollama</a>
+![ollama](https://cdn.svglogos.dev/logos/ollama.svg)
+
+## <a href="https://pydantic.dev" target="_blank">Pydantic</a>
+![pydantic](https://cdn.svglogos.dev/logos/pydantic-icon.svg)
+![pydantic](https://cdn.svglogos.dev/logos/pydantic.svg)
+
+## <a href="https://ragflow.io" target="_blank">RAGFlow</a>
+![ragflow](https://cdn.svglogos.dev/logos/ragflow.svg)
+
+## <a href="https://www.retellai.com" target="_blank">Retell</a>
+![retell](https://cdn.svglogos.dev/logos/retell-icon.svg)
+![retell](https://cdn.svglogos.dev/logos/retell.svg)
+
+## <a href="https://suno.com" target="_blank">Suno</a>
+![suno](https://cdn.svglogos.dev/logos/suno.svg)
+
+## <a href="https://www.tavily.com" target="_blank">Tavily</a>
+![tavily](https://cdn.svglogos.dev/logos/tavily.svg)
+
+## <a href="https://www.tigergraph.com" target="_blank">TigerGraph</a>
+![tigergraph](https://cdn.svglogos.dev/logos/tigergraph-icon.svg)
+![tigergraph](https://cdn.svglogos.dev/logos/tigergraph.svg)
+
 ## <a href="https://www.baseten.co" target="_blank">Baseten</a>
 ![baseten](https://cdn.svglogos.dev/logos/baseten-icon.svg)
 ![baseten](https://cdn.svglogos.dev/logos/baseten.svg)
@@ -149,62 +209,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://lovable.dev" target="_blank">Lovable</a>
 ![lovable](https://cdn.svglogos.dev/logos/lovable-icon.svg)
 ![lovable](https://cdn.svglogos.dev/logos/lovable.svg)
-
-## <a href="https://n8n.io" target="_blank">n8n</a>
-![n8n](https://cdn.svglogos.dev/logos/n8n-icon.svg)
-![n8n](https://cdn.svglogos.dev/logos/n8n.svg)
-
-## <a href="https://www.ory.com" target="_blank">Ory</a>
-![ory](https://cdn.svglogos.dev/logos/ory-icon.svg)
-![ory](https://cdn.svglogos.dev/logos/ory.svg)
-
-## <a href="https://penpot.app" target="_blank">Penpot</a>
-![penpot](https://cdn.svglogos.dev/logos/penpot-icon.svg)
-![penpot](https://cdn.svglogos.dev/logos/penpot.svg)
-
-## <a href="https://picocss.com" target="_blank">Pico CSS</a>
-![pico-css](https://cdn.svglogos.dev/logos/pico-css.svg)
-
-## <a href="https://pipecat.ai" target="_blank">Pipecat</a>
-![pipecat](https://cdn.svglogos.dev/logos/pipecat.svg)
-
-## <a href="https://railway.com" target="_blank">Railway</a>
-![railway](https://cdn.svglogos.dev/logos/railway.svg)
-
-## <a href="https://runable.com" target="_blank">Runable</a>
-![runable](https://cdn.svglogos.dev/logos/runable.svg)
-
-## <a href="https://stylexjs.com" target="_blank">StyleX</a>
-![stylex](https://cdn.svglogos.dev/logos/stylex-icon.svg)
-![stylex](https://cdn.svglogos.dev/logos/stylex.svg)
-
-## <a href="https://v0.app" target="_blank">v0</a>
-![v0](https://cdn.svglogos.dev/logos/v0.svg)
-
-## <a href="https://ai-sdk.dev" target="_blank">Vercel AI SDK</a>
-![vercel-ai-sdk](https://cdn.svglogos.dev/logos/vercel-ai-sdk.svg)
-
-## <a href="https://antigravity.google" target="_blank">Antigravity</a>
-![antigravity](https://cdn.svglogos.dev/logos/antigravity.svg)
-
-## <a href="https://cartesia.ai/" target="_blank">Cartesia</a>
-![cartesia](https://cdn.svglogos.dev/logos/cartesia-icon.svg)
-![cartesia](https://cdn.svglogos.dev/logos/cartesia.svg)
-
-## <a href="https://claude.com/product/claude-code" target="_blank">Claude Code</a>
-![claude-code](https://cdn.svglogos.dev/logos/claude-code.svg)
-
-## <a href="https://clickup.com/" target="_blank">ClickUp</a>
-![clickup](https://cdn.svglogos.dev/logos/clickup-icon.svg)
-![clickup](https://cdn.svglogos.dev/logos/clickup.svg)
-
-## <a href="https://cline.bot/" target="_blank">Cline</a>
-![cline](https://cdn.svglogos.dev/logos/cline-icon.svg)
-![cline](https://cdn.svglogos.dev/logos/cline.svg)
-
-## <a href="https://openai.com/codex/" target="_blank">Codex</a>
-![codex](https://cdn.svglogos.dev/logos/codex.svg)
-![codex](https://cdn.svglogos.dev/logos/codex-dark.svg)
 
 ---
 
