@@ -33,6 +33,15 @@
     ]
   },
   {
+    "name": "Activeloop",
+    "shortname": "activeloop",
+    "url": "https://www.activeloop.ai",
+    "files": [
+      "activeloop-icon.svg",
+      "activeloop.svg"
+    ]
+  },
+  {
     "name": "Adobe",
     "shortname": "adobe",
     "url": "https://www.adobe.com/",
@@ -186,6 +195,15 @@
     "url": "https://airbrake.io/",
     "files": [
       "airbrake.svg"
+    ]
+  },
+  {
+    "name": "Airbyte",
+    "shortname": "airbyte",
+    "url": "https://airbyte.com",
+    "files": [
+      "airbyte-icon.svg",
+      "airbyte.svg"
     ]
   },
   {
@@ -428,6 +446,14 @@
     "url": "https://httpd.apache.org/",
     "files": [
       "apache-http.svg"
+    ]
+  },
+  {
+    "name": "Apache Sedona",
+    "shortname": "apache-sedona",
+    "url": "https://sedona.apache.org",
+    "files": [
+      "apache-sedona.svg"
     ]
   },
   {
@@ -3950,6 +3976,14 @@
     ]
   },
   {
+    "name": "Fireworks",
+    "shortname": "fireworks-ai",
+    "url": "https://fireworks.ai",
+    "files": [
+      "fireworks-ai.svg"
+    ]
+  },
+  {
     "name": "flannel",
     "shortname": "flannel",
     "url": "https://github.com/coreos/flannel",
@@ -4814,6 +4848,14 @@
     ]
   },
   {
+    "name": "Gradium",
+    "shortname": "gradium",
+    "url": "https://gradium.ai",
+    "files": [
+      "gradium.svg"
+    ]
+  },
+  {
     "name": "Gradle",
     "shortname": "gradle",
     "url": "https://gradle.org/",
@@ -5523,6 +5565,15 @@
     ]
   },
   {
+    "name": "Inception",
+    "shortname": "inceptionlabs",
+    "url": "https://www.inceptionlabs.ai",
+    "files": [
+      "inceptionlabs-icon.svg",
+      "inceptionlabs.svg"
+    ]
+  },
+  {
     "name": "Incident",
     "shortname": "incident",
     "url": "https://incident.io/",
@@ -5706,6 +5757,14 @@
     "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
     "files": [
       "javascript.svg"
+    ]
+  },
+  {
+    "name": "JAX",
+    "shortname": "jax",
+    "url": "https://docs.jax.dev",
+    "files": [
+      "jax.svg"
     ]
   },
   {
@@ -7520,6 +7579,15 @@
     ]
   },
   {
+    "name": "Nextflow",
+    "shortname": "nextflow",
+    "url": "https://www.nextflow.io",
+    "files": [
+      "nextflow-icon.svg",
+      "nextflow.svg"
+    ]
+  },
+  {
     "name": "NGINX",
     "shortname": "nginx",
     "url": "https://www.nginx.com/",
@@ -8134,6 +8202,15 @@
     "files": [
       "pandas-icon.svg",
       "pandas.svg"
+    ]
+  },
+  {
+    "name": "Pangolin",
+    "shortname": "pangolin",
+    "url": "https://pangolin.net",
+    "files": [
+      "pangolin-icon.svg",
+      "pangolin.svg"
     ]
   },
   {
@@ -9366,6 +9443,15 @@
     ]
   },
   {
+    "name": "RISC-V",
+    "shortname": "risc-v",
+    "url": "https://riscv.org",
+    "files": [
+      "risc-v-icon.svg",
+      "risc-v.svg"
+    ]
+  },
+  {
     "name": "RisingWave",
     "shortname": "risingwave",
     "url": "https://www.risingwave.dev",
@@ -9482,6 +9568,15 @@
     "url": "https://www.jetbrains.com/ruby/",
     "files": [
       "rubymine.svg"
+    ]
+  },
+  {
+    "name": "RudderStack",
+    "shortname": "rudderstack",
+    "url": "https://www.rudderstack.com",
+    "files": [
+      "rudderstack-icon.svg",
+      "rudderstack.svg"
     ]
   },
   {
@@ -10144,6 +10239,15 @@
     ]
   },
   {
+    "name": "Speechmatics",
+    "shortname": "speechmatics",
+    "url": "https://www.speechmatics.com",
+    "files": [
+      "speechmatics-icon.svg",
+      "speechmatics.svg"
+    ]
+  },
+  {
     "name": "SpeedCurve",
     "shortname": "speedcurve",
     "url": "https://speedcurve.com/",
@@ -10723,6 +10827,14 @@
     ]
   },
   {
+    "name": "Tailscale",
+    "shortname": "tailscale",
+    "url": "https://tailscale.com",
+    "files": [
+      "tailscale.svg"
+    ]
+  },
+  {
     "name": "Tailwind CSS",
     "shortname": "tailwindcss",
     "url": "https://tailwindcss.com/",
@@ -10813,6 +10925,14 @@
     "url": "https://telegram.org/",
     "files": [
       "telegram.svg"
+    ]
+  },
+  {
+    "name": "Telnyx",
+    "shortname": "telnyx",
+    "url": "https://telnyx.com",
+    "files": [
+      "telnyx.svg"
     ]
   },
   {
@@ -11557,6 +11677,17 @@
     ]
   },
   {
+    "name": "Vite+",
+    "shortname": "viteplus",
+    "url": "https://viteplus.dev",
+    "files": [
+      "viteplus-icon.svg",
+      "viteplus-icon-dark.svg",
+      "viteplus.svg",
+      "viteplus-dark.svg"
+    ]
+  },
+  {
     "name": "Vitess",
     "shortname": "vitess",
     "url": "https://vitess.io/",
@@ -12269,6 +12400,14 @@
     "url": "https://www.z-wave.com/",
     "files": [
       "zwave.svg"
+    ]
+  },
+  {
+    "name": "Z.ai",
+    "shortname": "z-ai",
+    "url": "https://z.ai",
+    "files": [
+      "z-ai.svg"
     ]
   },
   {

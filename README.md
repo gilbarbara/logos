@@ -18,6 +18,65 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://www.activeloop.ai" target="_blank">Activeloop</a>
+![activeloop](https://cdn.svglogos.dev/logos/activeloop-icon.svg)
+![activeloop](https://cdn.svglogos.dev/logos/activeloop.svg)
+
+## <a href="https://airbyte.com" target="_blank">Airbyte</a>
+![airbyte](https://cdn.svglogos.dev/logos/airbyte-icon.svg)
+![airbyte](https://cdn.svglogos.dev/logos/airbyte.svg)
+
+## <a href="https://sedona.apache.org" target="_blank">Apache Sedona</a>
+![apache-sedona](https://cdn.svglogos.dev/logos/apache-sedona.svg)
+
+## <a href="https://fireworks.ai" target="_blank">Fireworks</a>
+![fireworks-ai](https://cdn.svglogos.dev/logos/fireworks-ai.svg)
+
+## <a href="https://gradium.ai" target="_blank">Gradium</a>
+![gradium](https://cdn.svglogos.dev/logos/gradium.svg)
+
+## <a href="https://www.inceptionlabs.ai" target="_blank">Inception</a>
+![inceptionlabs](https://cdn.svglogos.dev/logos/inceptionlabs-icon.svg)
+![inceptionlabs](https://cdn.svglogos.dev/logos/inceptionlabs.svg)
+
+## <a href="https://docs.jax.dev" target="_blank">JAX</a>
+![jax](https://cdn.svglogos.dev/logos/jax.svg)
+
+## <a href="https://www.nextflow.io" target="_blank">Nextflow</a>
+![nextflow](https://cdn.svglogos.dev/logos/nextflow-icon.svg)
+![nextflow](https://cdn.svglogos.dev/logos/nextflow.svg)
+
+## <a href="https://pangolin.net" target="_blank">Pangolin</a>
+![pangolin](https://cdn.svglogos.dev/logos/pangolin-icon.svg)
+![pangolin](https://cdn.svglogos.dev/logos/pangolin.svg)
+
+## <a href="https://riscv.org" target="_blank">RISC-V</a>
+![risc-v](https://cdn.svglogos.dev/logos/risc-v-icon.svg)
+![risc-v](https://cdn.svglogos.dev/logos/risc-v.svg)
+
+## <a href="https://www.rudderstack.com" target="_blank">RudderStack</a>
+![rudderstack](https://cdn.svglogos.dev/logos/rudderstack-icon.svg)
+![rudderstack](https://cdn.svglogos.dev/logos/rudderstack.svg)
+
+## <a href="https://www.speechmatics.com" target="_blank">Speechmatics</a>
+![speechmatics](https://cdn.svglogos.dev/logos/speechmatics-icon.svg)
+![speechmatics](https://cdn.svglogos.dev/logos/speechmatics.svg)
+
+## <a href="https://tailscale.com" target="_blank">Tailscale</a>
+![tailscale](https://cdn.svglogos.dev/logos/tailscale.svg)
+
+## <a href="https://telnyx.com" target="_blank">Telnyx</a>
+![telnyx](https://cdn.svglogos.dev/logos/telnyx.svg)
+
+## <a href="https://viteplus.dev" target="_blank">Vite+</a>
+![viteplus](https://cdn.svglogos.dev/logos/viteplus-icon.svg)
+![viteplus](https://cdn.svglogos.dev/logos/viteplus-icon-dark.svg)
+![viteplus](https://cdn.svglogos.dev/logos/viteplus.svg)
+![viteplus](https://cdn.svglogos.dev/logos/viteplus-dark.svg)
+
+## <a href="https://z.ai" target="_blank">Z.ai</a>
+![z-ai](https://cdn.svglogos.dev/logos/z-ai.svg)
+
 ## <a href="https://apify.com" target="_blank">Apify</a>
 ![apify](https://cdn.svglogos.dev/logos/apify-icon.svg)
 ![apify](https://cdn.svglogos.dev/logos/apify.svg)
@@ -147,68 +206,6 @@ Please add your requests in the issues preferably with links to the vector files
 ## <a href="https://clerk.com/" target="_blank">Clerk</a>
 ![clerk](https://cdn.svglogos.dev/logos/clerk-icon.svg)
 ![clerk](https://cdn.svglogos.dev/logos/clerk.svg)
-
-## <a href="https://dify.ai" target="_blank">Dify</a>
-![dify](https://cdn.svglogos.dev/logos/dify.svg)
-
-## <a href="https://orm.drizzle.team/" target="_blank">Drizzle ORM</a>
-![drizzle-orm](https://cdn.svglogos.dev/logos/drizzle-orm-icon.svg)
-![drizzle-orm](https://cdn.svglogos.dev/logos/drizzle-orm.svg)
-
-## <a href="https://www.firecrawl.dev/" target="_blank">Firecrawl</a>
-![firecrawl](https://cdn.svglogos.dev/logos/firecrawl-icon.svg)
-![firecrawl](https://cdn.svglogos.dev/logos/firecrawl.svg)
-
-## <a href="https://jina.ai/" target="_blank">Jina AI</a>
-![jina](https://cdn.svglogos.dev/logos/jina.svg)
-
-## <a href="https://www.langchain.com" target="_blank">LangChain</a>
-![langchain](https://cdn.svglogos.dev/logos/langchain-icon.svg)
-![langchain](https://cdn.svglogos.dev/logos/langchain.svg)
-
-## <a href="https://mem0.ai/" target="_blank">Mem0</a>
-![mem0](https://cdn.svglogos.dev/logos/mem0-icon.svg)
-![mem0](https://cdn.svglogos.dev/logos/mem0.svg)
-
-## <a href="https://octelium.com/" target="_blank">Octelium</a>
-![octelium](https://cdn.svglogos.dev/logos/octelium-icon-dark.svg)
-![octelium](https://cdn.svglogos.dev/logos/octelium-icon.svg)
-![octelium](https://cdn.svglogos.dev/logos/octelium.svg)
-
-## <a href="https://temporal.io" target="_blank">Temporal</a>
-![temporal](https://cdn.svglogos.dev/logos/temporal-icon.svg)
-![temporal](https://cdn.svglogos.dev/logos/temporal.svg)
-
-## <a href="https://www.together.ai" target="_blank">Together AI</a>
-![togetherai](https://cdn.svglogos.dev/logos/togetherai-icon.svg)
-![togetherai](https://cdn.svglogos.dev/logos/togetherai.svg)
-
-## <a href="https://vapi.ai" target="_blank">Vapi</a>
-![vapi](https://cdn.svglogos.dev/logos/vapi-icon.svg)
-![vapi](https://cdn.svglogos.dev/logos/vapi.svg)
-
-## <a href="https://bolt.new/" target="_blank">Bolt</a>
-![bolt](https://cdn.svglogos.dev/logos/bolt-icon.svg)
-![bolt](https://cdn.svglogos.dev/logos/bolt.svg)
-
-## <a href="https://www.daily.co/" target="_blank">Daily</a>
-![daily](https://cdn.svglogos.dev/logos/daily-icon.svg)
-![daily](https://cdn.svglogos.dev/logos/daily.svg)
-
-## <a href="https://devin.ai" target="_blank">Devin</a>
-![devin](https://cdn.svglogos.dev/logos/devin.svg)
-
-## <a href="https://exa.ai" target="_blank">Exa</a>
-![exa](https://cdn.svglogos.dev/logos/exa-icon.svg)
-![exa](https://cdn.svglogos.dev/logos/exa.svg)
-
-## <a href="https://livekit.io" target="_blank">LiveKit</a>
-![livekit](https://cdn.svglogos.dev/logos/livekit-icon.svg)
-![livekit](https://cdn.svglogos.dev/logos/livekit.svg)
-
-## <a href="https://lovable.dev" target="_blank">Lovable</a>
-![lovable](https://cdn.svglogos.dev/logos/lovable-icon.svg)
-![lovable](https://cdn.svglogos.dev/logos/lovable.svg)
 
 ---
 
