@@ -18,6 +18,57 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://dspy.ai" target="_blank">DSPy</a>
+![dspy](https://cdn.svglogos.dev/logos/dspy.svg)
+
+## <a href="https://hermes-agent.nousresearch.com" target="_blank">Hermes Agent</a>
+![hermes-agent](https://cdn.svglogos.dev/logos/hermes-agent.svg)
+
+## <a href="https://higgsfield.ai" target="_blank">Higgsfield</a>
+![higgsfield](https://cdn.svglogos.dev/logos/higgsfield-icon.svg)
+![higgsfield](https://cdn.svglogos.dev/logos/higgsfield.svg)
+
+## <a href="https://www.kimi.com" target="_blank">Kimi</a>
+![kimi](https://cdn.svglogos.dev/logos/kimi-icon.svg)
+![kimi](https://cdn.svglogos.dev/logos/kimi-icon-clean.svg)
+![kimi](https://cdn.svglogos.dev/logos/kimi.svg)
+
+## <a href="https://www.llamaindex.ai" target="_blank">LlamaIndex</a>
+![llama-index](https://cdn.svglogos.dev/logos/llama-index-icon.svg)
+![llama-index](https://cdn.svglogos.dev/logos/llama-index.svg)
+
+## <a href="https://www.meta.ai" target="_blank">Meta AI</a>
+![meta-ai](https://cdn.svglogos.dev/logos/meta-ai.svg)
+
+## <a href="https://copilot.microsoft.com" target="_blank">Microsoft Copilot</a>
+![microsoft-copilot](https://cdn.svglogos.dev/logos/microsoft-copilot-icon.svg)
+![microsoft-copilot](https://cdn.svglogos.dev/logos/microsoft-copilot.svg)
+
+## <a href="https://ai.meta.com/muse" target="_blank">Muse</a>
+![meta-muse](https://cdn.svglogos.dev/logos/meta-muse.svg)
+
+## <a href="https://notebooklm.google" target="_blank">NotebookLM</a>
+![notebook-lm](https://cdn.svglogos.dev/logos/notebook-lm.svg)
+![notebook-lm](https://cdn.svglogos.dev/logos/notebook-lm-mono.svg)
+
+## <a href="https://openclaw.ai" target="_blank">OpenClaw</a>
+![openclaw](https://cdn.svglogos.dev/logos/openclaw-icon.svg)
+![openclaw](https://cdn.svglogos.dev/logos/openclaw.svg)
+
+## <a href="https://otter.ai" target="_blank">Otter</a>
+![otter-ai](https://cdn.svglogos.dev/logos/otter-ai.svg)
+
+## <a href="https://pi.dev" target="_blank">PI</a>
+![pi-code](https://cdn.svglogos.dev/logos/pi-code.svg)
+
+## <a href="https://runway.com" target="_blank">Runway</a>
+![runway](https://cdn.svglogos.dev/logos/runway-icon.svg)
+![runway](https://cdn.svglogos.dev/logos/runway.svg)
+
+## <a href="https://scale.com" target="_blank">Scale AI</a>
+![scale-ai](https://cdn.svglogos.dev/logos/scale-ai-icon.svg)
+![scale-ai](https://cdn.svglogos.dev/logos/scale-ai.svg)
+
 ## <a href="https://www.activeloop.ai" target="_blank">Activeloop</a>
 ![activeloop](https://cdn.svglogos.dev/logos/activeloop-icon.svg)
 ![activeloop](https://cdn.svglogos.dev/logos/activeloop.svg)
@@ -151,61 +202,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://crewai.com" target="_blank">CrewAI</a>
 ![crewai](https://cdn.svglogos.dev/logos/crewai.svg)
-
-## <a href="https://driverjs.com" target="_blank">Driver.js</a>
-![driverjs](https://cdn.svglogos.dev/logos/driverjs.svg)
-
-## <a href="https://fonts.google.com" target="_blank">Google Fonts</a>
-![google-fonts](https://cdn.svglogos.dev/logos/google-fonts-icon.svg)
-![google-fonts](https://cdn.svglogos.dev/logos/google-fonts.svg)
-
-## <a href="https://grain-lang.org" target="_blank">Grain</a>
-![grain-lang](https://cdn.svglogos.dev/logos/grain-lang.svg)
-
-## <a href="https://groq.com" target="_blank">Groq</a>
-![groq](https://cdn.svglogos.dev/logos/groq.svg)
-
-## <a href="https://www.nuget.org" target="_blank">NuGet</a>
-![nuget](https://cdn.svglogos.dev/logos/nuget-icon.svg)
-![nuget](https://cdn.svglogos.dev/logos/nuget.svg)
-
-## <a href="https://openrouter.ai" target="_blank">OpenRouter</a>
-![openrouter](https://cdn.svglogos.dev/logos/openrouter-icon.svg)
-![openrouter](https://cdn.svglogos.dev/logos/openrouter-icon-dark.svg)
-![openrouter](https://cdn.svglogos.dev/logos/openrouter-icon-mono.svg)
-![openrouter](https://cdn.svglogos.dev/logos/openrouter.svg)
-![openrouter](https://cdn.svglogos.dev/logos/openrouter-dark.svg)
-
-## <a href="https://plantuml.com" target="_blank">PlantUML</a>
-![plantuml](https://cdn.svglogos.dev/logos/plantuml.svg)
-
-## <a href="https://www.red-lang.org" target="_blank">Red</a>
-![red-lang](https://cdn.svglogos.dev/logos/red-lang.svg)
-
-## <a href="https://traefik.io/traefik" target="_blank">Traefik Proxy</a>
-![traefik-proxy](https://cdn.svglogos.dev/logos/traefik-proxy-icon.svg)
-![traefik-proxy](https://cdn.svglogos.dev/logos/traefik-proxy.svg)
-
-## <a href="https://weaviate.io" target="_blank">Weaviate</a>
-![weaviate](https://cdn.svglogos.dev/logos/weaviate-icon.svg)
-![weaviate](https://cdn.svglogos.dev/logos/weaviate.svg)
-![weaviate](https://cdn.svglogos.dev/logos/weaviate-icon-alt.svg)
-
-## <a href="https://wandb.ai/site/" target="_blank">Weights & Biases</a>
-![wandb](https://cdn.svglogos.dev/logos/wandb-icon.svg)
-![wandb](https://cdn.svglogos.dev/logos/wandb.svg)
-
-## <a href="https://bazel.build" target="_blank">Bazel</a>
-![bazel](https://cdn.svglogos.dev/logos/bazel-icon.svg)
-![bazel](https://cdn.svglogos.dev/logos/bazel.svg)
-
-## <a href="https://www.cerebras.ai/" target="_blank">Cerebras</a>
-![cerebras](https://cdn.svglogos.dev/logos/cerebras-icon.svg)
-![cerebras](https://cdn.svglogos.dev/logos/cerebras.svg)
-
-## <a href="https://clerk.com/" target="_blank">Clerk</a>
-![clerk](https://cdn.svglogos.dev/logos/clerk-icon.svg)
-![clerk](https://cdn.svglogos.dev/logos/clerk.svg)
 
 ---
 

@@ -3415,6 +3415,14 @@
     ]
   },
   {
+    "name": "DSPy",
+    "shortname": "dspy",
+    "url": "https://dspy.ai",
+    "files": [
+      "dspy.svg"
+    ]
+  },
+  {
     "name": "DuckDuckGo",
     "shortname": "duckduckgo",
     "url": "https://duckduckgo.com/",
@@ -5258,6 +5266,14 @@
     ]
   },
   {
+    "name": "Hermes Agent",
+    "shortname": "hermes-agent",
+    "url": "https://hermes-agent.nousresearch.com",
+    "files": [
+      "hermes-agent.svg"
+    ]
+  },
+  {
     "name": "Heroku",
     "shortname": "heroku",
     "url": "https://www.heroku.com/",
@@ -5296,6 +5312,15 @@
     "url": "https://hibernate.org/",
     "files": [
       "hibernate.svg"
+    ]
+  },
+  {
+    "name": "Higgsfield",
+    "shortname": "higgsfield",
+    "url": "https://higgsfield.ai",
+    "files": [
+      "higgsfield-icon.svg",
+      "higgsfield.svg"
     ]
   },
   {
@@ -6124,6 +6149,16 @@
     ]
   },
   {
+    "name": "Kimi",
+    "shortname": "kimi",
+    "url": "https://www.kimi.com",
+    "files": [
+      "kimi-icon.svg",
+      "kimi-icon-clean.svg",
+      "kimi.svg"
+    ]
+  },
+  {
     "name": "Kinto",
     "shortname": "kinto",
     "url": "https://www.kinto-storage.org/",
@@ -6498,6 +6533,15 @@
     "files": [
       "livekit-icon.svg",
       "livekit.svg"
+    ]
+  },
+  {
+    "name": "LlamaIndex",
+    "shortname": "llama-index",
+    "url": "https://www.llamaindex.ai",
+    "files": [
+      "llama-index-icon.svg",
+      "llama-index.svg"
     ]
   },
   {
@@ -6997,6 +7041,14 @@
     ]
   },
   {
+    "name": "Meta AI",
+    "shortname": "meta-ai",
+    "url": "https://www.meta.ai",
+    "files": [
+      "meta-ai.svg"
+    ]
+  },
+  {
     "name": "Metabase",
     "shortname": "metabase",
     "url": "https://www.metabase.com/",
@@ -7071,6 +7123,15 @@
     "url": "https://azure.microsoft.com/",
     "files": [
       "microsoft-azure.svg"
+    ]
+  },
+  {
+    "name": "Microsoft Copilot",
+    "shortname": "microsoft-copilot",
+    "url": "https://copilot.microsoft.com",
+    "files": [
+      "microsoft-copilot-icon.svg",
+      "microsoft-copilot.svg"
     ]
   },
   {
@@ -7419,6 +7480,14 @@
     ]
   },
   {
+    "name": "Muse",
+    "shortname": "meta-muse",
+    "url": "https://ai.meta.com/muse",
+    "files": [
+      "meta-muse.svg"
+    ]
+  },
+  {
     "name": "MySQL",
     "shortname": "mysql",
     "url": "https://dev.mysql.com/",
@@ -7696,6 +7765,15 @@
     ]
   },
   {
+    "name": "NotebookLM",
+    "shortname": "notebook-lm",
+    "url": "https://notebooklm.google",
+    "files": [
+      "notebook-lm.svg",
+      "notebook-lm-mono.svg"
+    ]
+  },
+  {
     "name": "Notion",
     "shortname": "notion",
     "url": "https://www.notion.so/",
@@ -7954,6 +8032,15 @@
     ]
   },
   {
+    "name": "OpenClaw",
+    "shortname": "openclaw",
+    "url": "https://openclaw.ai",
+    "files": [
+      "openclaw-icon.svg",
+      "openclaw.svg"
+    ]
+  },
+  {
     "name": "OpenCode",
     "shortname": "opencode",
     "url": "https://opencode.ai/",
@@ -8115,6 +8202,14 @@
     "url": "https://osquery.io/",
     "files": [
       "osquery.svg"
+    ]
+  },
+  {
+    "name": "Otter",
+    "shortname": "otter-ai",
+    "url": "https://otter.ai",
+    "files": [
+      "otter-ai.svg"
     ]
   },
   {
@@ -8386,6 +8481,14 @@
     "url": "https://www.jetbrains.com/phpstorm/",
     "files": [
       "phpstorm.svg"
+    ]
+  },
+  {
+    "name": "PI",
+    "shortname": "pi-code",
+    "url": "https://pi.dev",
+    "files": [
+      "pi-code.svg"
     ]
   },
   {
@@ -9604,6 +9707,15 @@
     ]
   },
   {
+    "name": "Runway",
+    "shortname": "runway",
+    "url": "https://runway.com",
+    "files": [
+      "runway-icon.svg",
+      "runway.svg"
+    ]
+  },
+  {
     "name": "Rush",
     "shortname": "rush",
     "url": "https://rushjs.io/",
@@ -9722,6 +9834,15 @@
     "url": "https://www.scala-lang.org/",
     "files": [
       "scala.svg"
+    ]
+  },
+  {
+    "name": "Scale AI",
+    "shortname": "scale-ai",
+    "url": "https://scale.com",
+    "files": [
+      "scale-ai-icon.svg",
+      "scale-ai.svg"
     ]
   },
   {
