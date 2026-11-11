@@ -3037,8 +3037,8 @@
     "url": "https://deepgram.com/",
     "files": [
       "deepgram-icon.svg",
-      "deepgram.svg",
-      "deepgram-dark.svg"
+      "deepgram-icon-mono.svg",
+      "deepgram.svg"
     ]
   },
   {
@@ -6674,7 +6674,8 @@
     "shortname": "macos",
     "url": "https://www.apple.com/macos/",
     "files": [
-      "macOS.svg"
+      "macOS.svg",
+      "macOS-icon.svg"
     ]
   },
   {

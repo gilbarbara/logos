@@ -18,6 +18,27 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://deepgram.com/" target="_blank">Deepgram</a>
+![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon.svg)
+![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon-mono.svg)
+![deepgram](https://cdn.svglogos.dev/logos/deepgram.svg)
+
+## <a href="https://milvus.io/" target="_blank">Milvus</a>
+![milvus](https://cdn.svglogos.dev/logos/milvus-icon.svg)
+![milvus](https://cdn.svglogos.dev/logos/milvus.svg)
+
+## <a href="https://replit.com/" target="_blank">Replit</a>
+![replit](https://cdn.svglogos.dev/logos/replit-icon.svg)
+![replit](https://cdn.svglogos.dev/logos/replit.svg)
+
+## <a href="https://www.risingwave.dev" target="_blank">RisingWave</a>
+![risingwave](https://cdn.svglogos.dev/logos/risingwave-icon.svg)
+![risingwave](https://cdn.svglogos.dev/logos/risingwave.svg)
+
+## <a href="https://www.taskade.com/" target="_blank">Taskade</a>
+![taskade](https://cdn.svglogos.dev/logos/taskade-icon.svg)
+![taskade](https://cdn.svglogos.dev/logos/taskade.svg)
+
 ## <a href="https://dspy.ai" target="_blank">DSPy</a>
 ![dspy](https://cdn.svglogos.dev/logos/dspy.svg)
 
@@ -183,25 +204,6 @@ Please add your requests in the issues preferably with links to the vector files
 
 ## <a href="https://www.tavily.com" target="_blank">Tavily</a>
 ![tavily](https://cdn.svglogos.dev/logos/tavily.svg)
-
-## <a href="https://www.tigergraph.com" target="_blank">TigerGraph</a>
-![tigergraph](https://cdn.svglogos.dev/logos/tigergraph-icon.svg)
-![tigergraph](https://cdn.svglogos.dev/logos/tigergraph.svg)
-
-## <a href="https://www.baseten.co" target="_blank">Baseten</a>
-![baseten](https://cdn.svglogos.dev/logos/baseten-icon.svg)
-![baseten](https://cdn.svglogos.dev/logos/baseten.svg)
-
-## <a href="https://www.browserbase.com" target="_blank">Browserbase</a>
-![browserbase](https://cdn.svglogos.dev/logos/browserbase-icon.svg)
-![browserbase](https://cdn.svglogos.dev/logos/browserbase.svg)
-
-## <a href="https://www.coreweave.com" target="_blank">CoreWeave</a>
-![coreweave](https://cdn.svglogos.dev/logos/coreweave-icon.svg)
-![coreweave](https://cdn.svglogos.dev/logos/coreweave.svg)
-
-## <a href="https://crewai.com" target="_blank">CrewAI</a>
-![crewai](https://cdn.svglogos.dev/logos/crewai.svg)
 
 ---
 
