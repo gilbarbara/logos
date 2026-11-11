@@ -22,6 +22,7 @@ Please add your requests in the issues preferably with links to the vector files
 ![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon.svg)
 ![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon-mono.svg)
 ![deepgram](https://cdn.svglogos.dev/logos/deepgram.svg)
+![deepgram](https://cdn.svglogos.dev/logos/deepgram-dark.svg)
 
 ## <a href="https://milvus.io/" target="_blank">Milvus</a>
 ![milvus](https://cdn.svglogos.dev/logos/milvus-icon.svg)
