@@ -18,6 +18,65 @@ Please add your requests in the issues preferably with links to the vector files
 ---
 ### Latest logos
 
+## <a href="https://aider.chat" target="_blank">Aider</a>
+![aider](https://cdn.svglogos.dev/logos/aider.svg)
+
+## <a href="https://aws.amazon.com/bedrock" target="_blank">Amazon Bedrock</a>
+![aws-bedrock](https://cdn.svglogos.dev/logos/aws-bedrock.svg)
+![aws-bedrock](https://cdn.svglogos.dev/logos/aws-bedrock-mono.svg)
+
+## <a href="https://clickhouse.com" target="_blank">ClickHouse</a>
+![clickhouse](https://cdn.svglogos.dev/logos/clickhouse-icon.svg)
+![clickhouse](https://cdn.svglogos.dev/logos/clickhouse.svg)
+
+## <a href="https://duckdb.org" target="_blank">DuckDB</a>
+![duckdb](https://cdn.svglogos.dev/logos/duckdb-icon.svg)
+![duckdb](https://cdn.svglogos.dev/logos/duckdb.svg)
+
+## <a href="https://elixir-lang.org" target="_blank">Elixir</a>
+![elixir](https://cdn.svglogos.dev/logos/elixir-icon.svg)
+![elixir](https://cdn.svglogos.dev/logos/elixir.svg)
+
+## <a href="https://exe.dev" target="_blank">exe.dev</a>
+![exe.dev](https://cdn.svglogos.dev/logos/exe-icon.svg)
+![exe.dev](https://cdn.svglogos.dev/logos/exe.svg)
+
+## <a href="https://fal.ai" target="_blank">fal</a>
+![fal](https://cdn.svglogos.dev/logos/fal-icon.svg)
+![fal](https://cdn.svglogos.dev/logos/fal.svg)
+
+## <a href="https://herdr.dev" target="_blank">Herdr</a>
+![herdr](https://cdn.svglogos.dev/logos/herdr.svg)
+
+## <a href="https://qoder.com" target="_blank">Qoder</a>
+![qoder](https://cdn.svglogos.dev/logos/qoder-icon.svg)
+![qoder](https://cdn.svglogos.dev/logos/qoder.svg)
+
+## <a href="https://www.qodo.ai" target="_blank">Qodo</a>
+![qodo](https://cdn.svglogos.dev/logos/qodo-icon.svg)
+![qodo](https://cdn.svglogos.dev/logos/qodo.svg)
+
+## <a href="https://github.com/QwenLM/qwen-code" target="_blank">Qwen Code</a>
+![qwen-code](https://cdn.svglogos.dev/logos/qwen-code.svg)
+
+## <a href="https://www.radix-ui.com" target="_blank">Radix UI</a>
+![radix](https://cdn.svglogos.dev/logos/radix-icon.svg)
+![radix](https://cdn.svglogos.dev/logos/radix.svg)
+
+## <a href="https://turbopuffer.com" target="_blank">turbopuffer</a>
+![turbopuffer](https://cdn.svglogos.dev/logos/turbopuffer.svg)
+
+## <a href="https://typesafe.ai" target="_blank">TypeSafe AI</a>
+![typesafe-ai](https://cdn.svglogos.dev/logos/typesafe-ai.svg)
+![typesafe-ai](https://cdn.svglogos.dev/logos/typesafe-ai-dark.svg)
+
+## <a href="https://docs.astral.sh/uv" target="_blank">uv</a>
+![uv](https://cdn.svglogos.dev/logos/uv.svg)
+
+## <a href="https://zed.dev" target="_blank">Zed</a>
+![zed](https://cdn.svglogos.dev/logos/zed-icon.svg)
+![zed](https://cdn.svglogos.dev/logos/zed.svg)
+
 ## <a href="https://deepgram.com/" target="_blank">Deepgram</a>
 ![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon.svg)
 ![deepgram](https://cdn.svglogos.dev/logos/deepgram-icon-mono.svg)
@@ -146,65 +205,6 @@ Please add your requests in the issues preferably with links to the vector files
 ![viteplus](https://cdn.svglogos.dev/logos/viteplus-icon-dark.svg)
 ![viteplus](https://cdn.svglogos.dev/logos/viteplus.svg)
 ![viteplus](https://cdn.svglogos.dev/logos/viteplus-dark.svg)
-
-## <a href="https://z.ai" target="_blank">Z.ai</a>
-![z-ai](https://cdn.svglogos.dev/logos/z-ai.svg)
-
-## <a href="https://apify.com" target="_blank">Apify</a>
-![apify](https://cdn.svglogos.dev/logos/apify-icon.svg)
-![apify](https://cdn.svglogos.dev/logos/apify.svg)
-
-## <a href="https://cohere.com" target="_blank">Cohere</a>
-![cohere](https://cdn.svglogos.dev/logos/cohere-icon.svg)
-![cohere](https://cdn.svglogos.dev/logos/cohere.svg)
-
-## <a href="https://composio.dev" target="_blank">Composio</a>
-![composio](https://cdn.svglogos.dev/logos/composio-icon.svg)
-![composio](https://cdn.svglogos.dev/logos/composio.svg)
-
-## <a href="https://deepinfra.com" target="_blank">DeepInfra</a>
-![deepinfra](https://cdn.svglogos.dev/logos/deepinfra-icon.svg)
-![deepinfra](https://cdn.svglogos.dev/logos/deepinfra.svg)
-
-## <a href="https://www.falkordb.com" target="_blank">FalkorDB</a>
-![falkordb](https://cdn.svglogos.dev/logos/falkordb-icon.svg)
-![falkordb](https://cdn.svglogos.dev/logos/falkordb.svg)
-
-## <a href="https://www.hume.ai" target="_blank">Hume</a>
-![hume](https://cdn.svglogos.dev/logos/hume-icon.svg)
-![hume](https://cdn.svglogos.dev/logos/hume.svg)
-
-## <a href="https://www.lancedb.com" target="_blank">LanceDB</a>
-![lancedb](https://cdn.svglogos.dev/logos/lancedb-icon.svg)
-![lancedb](https://cdn.svglogos.dev/logos/lancedb.svg)
-
-## <a href="https://langfuse.com" target="_blank">Langfuse</a>
-![langfuse](https://cdn.svglogos.dev/logos/langfuse-icon.svg)
-![langfuse](https://cdn.svglogos.dev/logos/langfuse.svg)
-
-## <a href="https://lumalabs.ai" target="_blank">Luma</a>
-![luma](https://cdn.svglogos.dev/logos/luma-icon.svg)
-![luma](https://cdn.svglogos.dev/logos/luma.svg)
-
-## <a href="https://ollama.com" target="_blank">Ollama</a>
-![ollama](https://cdn.svglogos.dev/logos/ollama.svg)
-
-## <a href="https://pydantic.dev" target="_blank">Pydantic</a>
-![pydantic](https://cdn.svglogos.dev/logos/pydantic-icon.svg)
-![pydantic](https://cdn.svglogos.dev/logos/pydantic.svg)
-
-## <a href="https://ragflow.io" target="_blank">RAGFlow</a>
-![ragflow](https://cdn.svglogos.dev/logos/ragflow.svg)
-
-## <a href="https://www.retellai.com" target="_blank">Retell</a>
-![retell](https://cdn.svglogos.dev/logos/retell-icon.svg)
-![retell](https://cdn.svglogos.dev/logos/retell.svg)
-
-## <a href="https://suno.com" target="_blank">Suno</a>
-![suno](https://cdn.svglogos.dev/logos/suno.svg)
-
-## <a href="https://www.tavily.com" target="_blank">Tavily</a>
-![tavily](https://cdn.svglogos.dev/logos/tavily.svg)
 
 ---
 

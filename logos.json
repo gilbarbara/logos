@@ -181,6 +181,14 @@
     ]
   },
   {
+    "name": "Aider",
+    "shortname": "aider",
+    "url": "https://aider.chat",
+    "files": [
+      "aider.svg"
+    ]
+  },
+  {
     "name": "Airbnb",
     "shortname": "airbnb",
     "url": "https://www.airbnb.com/",
@@ -278,6 +286,15 @@
     "url": "https://altair.sirmuel.design/",
     "files": [
       "altair.svg"
+    ]
+  },
+  {
+    "name": "Amazon Bedrock",
+    "shortname": "aws-bedrock",
+    "url": "https://aws.amazon.com/bedrock",
+    "files": [
+      "aws-bedrock.svg",
+      "aws-bedrock-mono.svg"
     ]
   },
   {
@@ -2216,6 +2233,15 @@
     ]
   },
   {
+    "name": "ClickHouse",
+    "shortname": "clickhouse",
+    "url": "https://clickhouse.com",
+    "files": [
+      "clickhouse-icon.svg",
+      "clickhouse.svg"
+    ]
+  },
+  {
     "name": "ClickUp",
     "shortname": "clickup",
     "url": "https://clickup.com/",
@@ -3424,6 +3450,15 @@
     ]
   },
   {
+    "name": "DuckDB",
+    "shortname": "duckdb",
+    "url": "https://duckdb.org",
+    "files": [
+      "duckdb-icon.svg",
+      "duckdb.svg"
+    ]
+  },
+  {
     "name": "DuckDuckGo",
     "shortname": "duckduckgo",
     "url": "https://duckduckgo.com/",
@@ -3587,6 +3622,15 @@
     "url": "https://www.11ty.dev/",
     "files": [
       "eleventy.svg"
+    ]
+  },
+  {
+    "name": "Elixir",
+    "shortname": "elixir",
+    "url": "https://elixir-lang.org",
+    "files": [
+      "elixir-icon.svg",
+      "elixir.svg"
     ]
   },
   {
@@ -3809,6 +3853,15 @@
     ]
   },
   {
+    "name": "exe.dev",
+    "shortname": "exe.dev",
+    "url": "https://exe.dev",
+    "files": [
+      "exe-icon.svg",
+      "exe.svg"
+    ]
+  },
+  {
     "name": "Expo",
     "shortname": "expo",
     "url": "https://expo.io/",
@@ -3855,6 +3908,15 @@
     "url": "https://fakerjs.dev/",
     "files": [
       "faker.svg"
+    ]
+  },
+  {
+    "name": "fal",
+    "shortname": "fal",
+    "url": "https://fal.ai",
+    "files": [
+      "fal-icon.svg",
+      "fal.svg"
     ]
   },
   {
@@ -5256,6 +5318,14 @@
     "files": [
       "helpscout-icon.svg",
       "helpscout.svg"
+    ]
+  },
+  {
+    "name": "Herdr",
+    "shortname": "herdr",
+    "url": "https://herdr.dev",
+    "files": [
+      "herdr.svg"
     ]
   },
   {
@@ -9073,6 +9143,24 @@
     ]
   },
   {
+    "name": "Qoder",
+    "shortname": "qoder",
+    "url": "https://qoder.com",
+    "files": [
+      "qoder-icon.svg",
+      "qoder.svg"
+    ]
+  },
+  {
+    "name": "Qodo",
+    "shortname": "qodo",
+    "url": "https://www.qodo.ai",
+    "files": [
+      "qodo-icon.svg",
+      "qodo.svg"
+    ]
+  },
+  {
     "name": "Qt",
     "shortname": "qt",
     "url": "https://www.qt.io/",
@@ -9131,6 +9219,14 @@
     ]
   },
   {
+    "name": "Qwen Code",
+    "shortname": "qwen-code",
+    "url": "https://github.com/QwenLM/qwen-code",
+    "files": [
+      "qwen-code.svg"
+    ]
+  },
+  {
     "name": "Qwik",
     "shortname": "qwik",
     "url": "https://qwik.builder.io/",
@@ -9163,6 +9259,15 @@
     "files": [
       "rackspace-icon.svg",
       "rackspace.svg"
+    ]
+  },
+  {
+    "name": "Radix UI",
+    "shortname": "radix",
+    "url": "https://www.radix-ui.com",
+    "files": [
+      "radix-icon.svg",
+      "radix.svg"
     ]
   },
   {
@@ -11365,6 +11470,14 @@
     ]
   },
   {
+    "name": "turbopuffer",
+    "shortname": "turbopuffer",
+    "url": "https://turbopuffer.com",
+    "files": [
+      "turbopuffer.svg"
+    ]
+  },
+  {
     "name": "Turborepo",
     "shortname": "turborepo",
     "url": "https://turborepo.org/",
@@ -11421,6 +11534,15 @@
     "url": "https://typeorm.io/",
     "files": [
       "typeorm.svg"
+    ]
+  },
+  {
+    "name": "TypeSafe AI",
+    "shortname": "typesafe-ai",
+    "url": "https://typesafe.ai",
+    "files": [
+      "typesafe-ai.svg",
+      "typesafe-ai-dark.svg"
     ]
   },
   {
@@ -11609,6 +11731,14 @@
     "files": [
       "uservoice-icon.svg",
       "uservoice.svg"
+    ]
+  },
+  {
+    "name": "uv",
+    "shortname": "uv",
+    "url": "https://docs.astral.sh/uv",
+    "files": [
+      "uv.svg"
     ]
   },
   {
@@ -12547,6 +12677,15 @@
     "url": "https://zapier.com/",
     "files": [
       "zapier.svg"
+    ]
+  },
+  {
+    "name": "Zed",
+    "shortname": "zed",
+    "url": "https://zed.dev",
+    "files": [
+      "zed-icon.svg",
+      "zed.svg"
     ]
   },
   {
